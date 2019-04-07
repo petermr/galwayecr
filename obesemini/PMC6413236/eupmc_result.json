@@ -1,0 +1,735 @@
+{
+  "id": [
+    "30781525"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30781525"
+  ],
+  "pmcid": [
+    "PMC6413236"
+  ],
+  "doi": [
+    "10.3390/nu11020419"
+  ],
+  "title": [
+    "The Obemat2.0 Study: A Clinical Trial of a Motivational Intervention for Childhood Obesity Treatment."
+  ],
+  "authorString": [
+    "Luque V, Feliu A, Escribano J, Ferré N, Flores G, Monné R, Gutiérrez-Marín D, Guillen N, Muñoz-Hernando J, Zaragoza-Jordana M, Gispert-Llauradó M, Rubio-Torrents C, Núñez-Roig M, Alcázar M, Ferré R, Basora JM, Hsu P, Alegret-Basora C, Arasa F, Venables M, Singh P, Closa-Monasterolo R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Luque V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Luque"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2615-8175",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. veronica.luque@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Feliu A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Feliu"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. albert.feliu.rovira@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Escribano J"
+          ],
+          "firstName": [
+            "Joaquín"
+          ],
+          "lastName": [
+            "Escribano"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5041-459X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. joaquin.escribano@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferré N"
+          ],
+          "firstName": [
+            "Natalia"
+          ],
+          "lastName": [
+            "Ferré"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2838-1525",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. natalia.ferre@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Flores G"
+          ],
+          "firstName": [
+            "Gemma"
+          ],
+          "lastName": [
+            "Flores"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6901-7327",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Unitat de Suport a la Recerca Tarragona-Reus, IDIAPJGol, 43204 Reus, Spain. gemmaflores@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Monné R"
+          ],
+          "firstName": [
+            "Raquel"
+          ],
+          "lastName": [
+            "Monné"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. raquel.monne@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Gutiérrez-Marín D"
+          ],
+          "firstName": [
+            "Desirée"
+          ],
+          "lastName": [
+            "Gutiérrez-Marín"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7567-5000",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. desiree.gutierrez@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Guillen N"
+          ],
+          "firstName": [
+            "Núria"
+          ],
+          "lastName": [
+            "Guillen"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. nuria.guillen@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Muñoz-Hernando J"
+          ],
+          "firstName": [
+            "Judit"
+          ],
+          "lastName": [
+            "Muñoz-Hernando"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2622-7011",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. judit.munoz@iispv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Zaragoza-Jordana M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Zaragoza-Jordana"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. marta.zaragoza@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Gispert-Llauradó M"
+          ],
+          "firstName": [
+            "Mariona"
+          ],
+          "lastName": [
+            "Gispert-Llauradó"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. mariona.gispert@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Rubio-Torrents C"
+          ],
+          "firstName": [
+            "Carme"
+          ],
+          "lastName": [
+            "Rubio-Torrents"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. carme.rubio@urv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Núñez-Roig M"
+          ],
+          "firstName": [
+            "Mercè"
+          ],
+          "lastName": [
+            "Núñez-Roig"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. merce.nunez@iispv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Alcázar M"
+          ],
+          "firstName": [
+            "Mireia"
+          ],
+          "lastName": [
+            "Alcázar"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. mireia.alcazar@iispv.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Ferré R"
+          ],
+          "firstName": [
+            "Raimon"
+          ],
+          "lastName": [
+            "Ferré"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Hospital Universitari Sant Joan de Reus, 43204 Reus, Spain. rferre@grupsagessa.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Basora JM"
+          ],
+          "firstName": [
+            "Josep M"
+          ],
+          "lastName": [
+            "Basora"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Unitat de Suport a la Recerca Tarragona-Reus, IDIAPJGol, 43204 Reus, Spain. jbasora.tarte.ics@gencat.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Unitat de Suport a la Recerca Tarragona-Reus, IDIAPJGol, 43204 Reus, Spain. pcsss420@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Alegret-Basora C"
+          ],
+          "firstName": [
+            "Clara"
+          ],
+          "lastName": [
+            "Alegret-Basora"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Hospital Universitari Sant Joan de Reus, 43204 Reus, Spain. clara.alegret@grupsagessa.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Arasa F"
+          ],
+          "firstName": [
+            "Francesc"
+          ],
+          "lastName": [
+            "Arasa"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Hospital Verge de la Cinta, 43500 Tortosa, Tarragona, Spain. arasafrancesc@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Venables M"
+          ],
+          "firstName": [
+            "Michelle"
+          ],
+          "lastName": [
+            "Venables"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9380-0060",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Elsie Widdowson laboratory, Cambridge CB1 9NL, UK. Michelle.Venables@mrc-epid.cam.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh P"
+          ],
+          "firstName": [
+            "Priya"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2123-4872",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Elsie Widdowson laboratory, Cambridge CB1 9NL, UK. priya.ann.singh@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Closa-Monasterolo R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Closa-Monasterolo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. ricardo.closa@urv.cat."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2615-8175",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5041-459X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2838-1525",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2622-7011",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2123-4872",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6901-7327",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9380-0060",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7567-5000",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2778434"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "The primary aim of the Obemat2.0 trial was to evaluate the efficacy of a multicomponent motivational program for the treatment of childhood obesity, coordinated between primary care and hospital specialized services, compared to the usual intervention performed in primary care. This was a cluster randomized clinical trial conducted in Spain, with two intervention arms: motivational intervention group vs. usual care group (as control), including 167 participants in each. The motivational intervention consisted of motivational interviewing, educational materials, use of an eHealth physical activity monitor and three group-based sessions. The primary outcome was body mass index (BMI) z score increments before and after the 12 (+3) months of intervention. Secondary outcomes (pre-post intervention) were: adherence to treatment, waist circumference (cm), fat mass index (z score), fat free mass index (z score), total body water (kg), bone mineral density (z score), blood lipids profile, glucose metabolism, and psychosocial problems. Other assessments (pre and post-intervention) were: sociodemographic information, physical activity, sedentary activity, neuropsychological testing, perception of body image, quality of the diet, food frequency consumption and foods available at home. The results of this clinical trial could open a window of opportunity to support professionals at the primary care to treat childhood obesity. The clinicaltrials.gov identifier was NCT02889406."
+  ],
+  "affiliation": [
+    "Pediatric Nutrition and Human Development Research Unit, Universitat Rovira i Virgili, IISPV, 43201 Reus, Spain. veronica.luque@urv.cat."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PI15/00970 and PI15/01411"
+          ],
+          "agency": [
+            "Ministerio de Economía, Industria y Competitividad, Gobierno de España"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Primary Care",
+        "Childhood Obesity",
+        "Motivational Interview",
+        "Obesity Treatment"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6413236?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6413236"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu11020419"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-21"
+  ],
+  "dateOfRevision": [
+    "2019-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-16"
+  ],
+  "firstPublicationDate": [
+    "2019-02-16"
+  ]
+}

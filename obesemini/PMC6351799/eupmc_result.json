@@ -1,0 +1,233 @@
+{
+  "id": [
+    "30651424"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30651424"
+  ],
+  "pmcid": [
+    "PMC6351799"
+  ],
+  "doi": [
+    "10.3345/kjp.2018.07374"
+  ],
+  "title": [
+    "What should we do to prevent and manage obesity in children and adolescents?"
+  ],
+  "authorString": [
+    "Yang HR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yang HR"
+          ],
+          "firstName": [
+            "Hye Ran"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "62"
+      ],
+      "journalIssueId": [
+        "2774601"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Korean J Pediatr"
+          ],
+          "NLMid": [
+            "101215374"
+          ],
+          "ISSN": [
+            "1738-1061"
+          ],
+          "ESSN": [
+            "2092-7258"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1-2"
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Seoul National University Bundang Hospital, Seoul National University College of Medicine, Seongnam, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "editorial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6351799?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6351799"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3345/kjp.2018.07374"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-18"
+  ],
+  "dateOfRevision": [
+    "2019-02-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-11"
+  ],
+  "firstPublicationDate": [
+    "2019-01-11"
+  ]
+}

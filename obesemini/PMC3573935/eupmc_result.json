@@ -1,0 +1,585 @@
+{
+  "id": [
+    "23356862"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23356862"
+  ],
+  "pmcid": [
+    "PMC3573935"
+  ],
+  "doi": [
+    "10.1186/1471-2458-13-78"
+  ],
+  "title": [
+    "Design and methods for evaluating an early childhood obesity prevention program in the childcare center setting."
+  ],
+  "authorString": [
+    "Natale R, Scott SH, Messiah SE, Schrack MM, Uhlhorn SB, Delamater A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Natale R"
+          ],
+          "firstName": [
+            "Ruby"
+          ],
+          "lastName": [
+            "Natale"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Division of Education, University of Miami Miller School of Medicine, Miami, USA. rnatale@med.miami.edu"
+          ]
+        },
+        {
+          "fullName": [
+            "Scott SH"
+          ],
+          "firstName": [
+            "Stephanie Hapeman"
+          ],
+          "lastName": [
+            "Scott"
+          ],
+          "initials": [
+            "SH"
+          ]
+        },
+        {
+          "fullName": [
+            "Messiah SE"
+          ],
+          "firstName": [
+            "Sarah E"
+          ],
+          "lastName": [
+            "Messiah"
+          ],
+          "initials": [
+            "SE"
+          ]
+        },
+        {
+          "fullName": [
+            "Schrack MM"
+          ],
+          "firstName": [
+            "Maria Mesa"
+          ],
+          "lastName": [
+            "Schrack"
+          ],
+          "initials": [
+            "MM"
+          ]
+        },
+        {
+          "fullName": [
+            "Uhlhorn SB"
+          ],
+          "firstName": [
+            "Susan B"
+          ],
+          "lastName": [
+            "Uhlhorn"
+          ],
+          "initials": [
+            "SB"
+          ]
+        },
+        {
+          "fullName": [
+            "Delamater A"
+          ],
+          "firstName": [
+            "Alan"
+          ],
+          "lastName": [
+            "Delamater"
+          ],
+          "initials": [
+            "A"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2471860"
+      ],
+      "dateOfPublication": [
+        "2013 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "78"
+  ],
+  "abstractText": [
+    "Many unhealthy dietary and physical activity habits that foster the development of obesity are established by the age of five. Presently, approximately 70 percent of children in the United States are currently enrolled in early childcare facilities, making this an ideal setting to implement and evaluate childhood obesity prevention efforts. We describe here the methods for conducting an obesity prevention randomized trial in the child care setting.A randomized, controlled obesity prevention trial is currently being conducted over a three year period (2010-present). The sample consists of 28 low-income, ethnically diverse child care centers with 1105 children (sample is 60% Hispanic, 15% Haitian, 12% Black, 2% non-Hispanic White and 71% of caregivers were born outside of the US). The purpose is to test the efficacy of a parent and teacher role-modeling intervention on children's nutrition and physical activity behaviors. . The Healthy Caregivers-Healthy Children (HC2) intervention arm schools received a combination of (1) implementing a daily curricula for teachers/parents (the nutritional gatekeepers); (2) implementing a daily curricula for children; (3) technical assistance with meal and snack menu modifications such as including more fresh and less canned produce; and (4) creation of a center policy for dietary requirements for meals and snacks, physical activity and screen time. Control arm schools received an attention control safety curriculum. Major outcome measures include pre-post changes in child body mass index percentile and z score, fruit and vegetable and other nutritious food intake, amount of physical activity, and parental nutrition and physical activity knowledge, attitudes, and beliefs, defined by intentions and behaviors. All measures were administered at the beginning and end of the school year for year one and year two of the study for a total of 4 longitudinal time points for assessment.Although few attempts have been made to prevent obesity during the first years of life, this period may represent the best opportunity for obesity prevention. Findings from this investigation will inform both the fields of childhood obesity prevention and early childhood research about the effects of an obesity prevention program housed in the childcare setting.NCT01722032."
+  ],
+  "affiliation": [
+    "Division of Education, University of Miami Miller School of Medicine, Miami, USA. rnatale@med.miami.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Organizational Policy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Day Care Centers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "School Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Financing, Government"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3573935?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3573935"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23356862/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23356862/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2458-13-78"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "17"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2013-04-18"
+  ],
+  "dateOfCreation": [
+    "2013-02-15"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2013-01-28"
+  ],
+  "firstPublicationDate": [
+    "2013-01-28"
+  ]
+}

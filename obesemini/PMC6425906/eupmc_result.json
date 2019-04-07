@@ -1,0 +1,263 @@
+{
+  "id": [
+    "30918831"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30918831"
+  ],
+  "pmcid": [
+    "PMC6425906"
+  ],
+  "doi": [
+    "10.15280/jlm.2019.9.1.27"
+  ],
+  "title": [
+    "Childhood Obesity and Its Associated Factors among School Children in Udupi, Karnataka, India."
+  ],
+  "authorString": [
+    "Gautam S, Jeong HS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gautam S"
+          ],
+          "firstName": [
+            "Sujan"
+          ],
+          "lastName": [
+            "Gautam"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Health Administration, Graduate School, Yonsei University, Wonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jeong HS"
+          ],
+          "firstName": [
+            "Hyoung-Sun"
+          ],
+          "lastName": [
+            "Jeong"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Department of Health Administration, Graduate School, Yonsei University, Wonju, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2798203"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of lifestyle medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Lifestyle Med"
+          ],
+          "medlineAbbreviation": [
+            "J Lifestyle Med"
+          ],
+          "NLMid": [
+            "101621214"
+          ],
+          "ISSN": [
+            "2234-8549"
+          ],
+          "ESSN": [
+            "2288-1557"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "27-35"
+  ],
+  "abstractText": [
+    "Background:Childhood obesity has become a serious public health problem in many low-and-middle income countries. This study aims to determine the prevalence and assess the factors associated with obesity among school children. Methods:A cross-sectional school-based study was conducted among the 1185 secondary school students in Udupi, India. Data were collected using self-administered questionnaires. Weight and height were measured and Body Mass Index (BMI) was calculated. The z-score was calculated, and BMI was categorized based on its distribution by gender and age according to the World Health Organization (WHO). The BMI categories were reported as frequencies and percentages. Chi-square tests, followed by multiple logistic regressions, were used at 5% level of significance to identify factors associated with overweight and obese children. Results:The overall prevalence of overweight and obese children was found to be 10.8% and 6.2%, respectively. Both 'overweight' and 'obese' were found more frequently among males (11.0% and 7.1%, respectively) than females (10.6% and 5.4%, respectively). Attending private schools, (AOR: 2.87, CI: 1.55-5.31), identifying as Muslim (AOR: 2.26, CI: 1.39-3.67), and having a father with a business occupation (AOR: 2.43, CI: 1.05-5.62) were found to be significantly associated with overweight/obese status. Conclusion:We found a high prevalence of overweight and obese children in our study. Since obesity in adulthood has its onset in childhood, it is important to have effective implementation of school health activities to reduce and curb the burden of childhood obesity."
+  ],
+  "affiliation": [
+    "Department of Health Administration, Graduate School, Yonsei University, Wonju, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adolescent",
+        "Childhood Obesity",
+        "Schoolchildren",
+        "Karnataka"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425906?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425906"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.15280/jlm.2019.9.1.27"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-29"
+  ],
+  "dateOfRevision": [
+    "2019-04-01"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-31"
+  ],
+  "firstPublicationDate": [
+    "2019-01-31"
+  ]
+}

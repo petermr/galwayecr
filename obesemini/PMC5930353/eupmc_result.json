@@ -1,0 +1,208 @@
+{
+  "id": [
+    "29720463"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29720463"
+  ],
+  "pmcid": [
+    "PMC5930353"
+  ],
+  "doi": [
+    "10.1136/bmj.k1954"
+  ],
+  "title": [
+    "Effectiveness of a childhood obesity prevention programme delivered through schools, targeting 6 and 7 year olds: cluster randomised controlled trial (WAVES study)."
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "361"
+      ],
+      "journalIssueId": [
+        "2678403"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ (Clinical research ed.)"
+          ],
+          "ISOAbbreviation": [
+            "BMJ"
+          ],
+          "medlineAbbreviation": [
+            "BMJ"
+          ],
+          "NLMid": [
+            "8900488"
+          ],
+          "ISSN": [
+            "0959-8138"
+          ],
+          "ESSN": [
+            "1756-1833"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "k1954"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Published Erratum",
+        "correction",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5930353"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmj.k1954"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29437667"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "BMJ. 2018 Feb 7;360:k211"
+          ],
+          "type": [
+            "Erratum for"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-04"
+  ],
+  "dateOfRevision": [
+    "2018-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-02"
+  ],
+  "firstPublicationDate": [
+    "2018-05-02"
+  ]
+}

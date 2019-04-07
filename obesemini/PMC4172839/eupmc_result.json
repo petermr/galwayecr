@@ -1,0 +1,853 @@
+{
+  "id": [
+    "25212062"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25212062"
+  ],
+  "pmcid": [
+    "PMC4172839"
+  ],
+  "doi": [
+    "10.1186/s12966-014-0112-1"
+  ],
+  "title": [
+    "Process evaluation design in a cluster randomised controlled childhood obesity prevention trial: the WAVES study."
+  ],
+  "authorString": [
+    "Griffin TL, Pallan MJ, Clarke JL, Lancashire ER, Lyon A, Parry JM, Adab P, WAVES study trial investigators."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Griffin TL"
+          ],
+          "firstName": [
+            "Tania L"
+          ],
+          "lastName": [
+            "Griffin"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0146-4440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pallan MJ"
+          ],
+          "firstName": [
+            "Miranda J"
+          ],
+          "lastName": [
+            "Pallan"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Clarke JL"
+          ],
+          "firstName": [
+            "Joanne L"
+          ],
+          "lastName": [
+            "Clarke"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2563-5451",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lancashire ER"
+          ],
+          "firstName": [
+            "Emma R"
+          ],
+          "lastName": [
+            "Lancashire"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Public Health Building, University of Birmingham, Birmingham B15 2TT, UK. e.r.lancashire@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Lyon A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Lyon"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Parry JM"
+          ],
+          "firstName": [
+            "Jayne M"
+          ],
+          "lastName": [
+            "Parry"
+          ],
+          "initials": [
+            "JM"
+          ]
+        },
+        {
+          "fullName": [
+            "Adab P"
+          ],
+          "firstName": [
+            "Peymane"
+          ],
+          "lastName": [
+            "Adab"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "collectiveName": [
+            "WAVES study trial investigators"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Adab P"
+          ],
+          "firstName": [
+            "Peymane"
+          ],
+          "lastName": [
+            "Adab"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Barrett T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Barrett"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6873-0750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng KK"
+          ],
+          "firstName": [
+            "K K"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "KK"
+          ]
+        },
+        {
+          "fullName": [
+            "Daley A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Daley"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Deeks J"
+          ],
+          "firstName": [
+            "Jon"
+          ],
+          "lastName": [
+            "Deeks"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Duda J"
+          ],
+          "firstName": [
+            "Joan"
+          ],
+          "lastName": [
+            "Duda"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Frew E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Frew"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Gill P"
+          ],
+          "firstName": [
+            "Paramjit"
+          ],
+          "lastName": [
+            "Gill"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Hemming K"
+          ],
+          "firstName": [
+            "Karla"
+          ],
+          "lastName": [
+            "Hemming"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Pallan M"
+          ],
+          "firstName": [
+            "Miranda"
+          ],
+          "lastName": [
+            "Pallan"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Parry J"
+          ],
+          "firstName": [
+            "Jayne"
+          ],
+          "lastName": [
+            "Parry"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ekelund U"
+          ],
+          "firstName": [
+            "Ulf"
+          ],
+          "lastName": [
+            "Ekelund"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Cade J"
+          ],
+          "firstName": [
+            "Janet"
+          ],
+          "lastName": [
+            "Cade"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Bhopal R"
+          ],
+          "firstName": [
+            "Raj"
+          ],
+          "lastName": [
+            "Bhopal"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "McGee E"
+          ],
+          "firstName": [
+            "Eleanor"
+          ],
+          "lastName": [
+            "McGee"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Passmore S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Passmore"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2563-5451",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6873-0750",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9087-3945",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0146-4440",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2474324"
+      ],
+      "dateOfPublication": [
+        "2014 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The international journal of behavioral nutrition and physical activity"
+          ],
+          "ISOAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "medlineAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "NLMid": [
+            "101217089"
+          ],
+          "ISSN": [
+            "1479-5868"
+          ],
+          "ESSN": [
+            "1479-5868"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "112"
+  ],
+  "abstractText": [
+    "The implementation of a complex intervention is heavily influenced by individual context. Variation in implementation and tailoring of the intervention to the particular context will occur, even in a trial setting. It is recognised that in trials, evaluating the process of implementation of a complex intervention is important, yet process evaluation methods are rarely reported. The WAVES study is a cluster randomised controlled trial to evaluate the effectiveness of an obesity prevention intervention programme targeting children aged 6-7 years, delivered by teachers in primary schools across the West Midlands, UK. The intervention promoted activities encouraging physical activity and healthy eating. This paper presents the methods used to assess implementation of the intervention.Previous literature was used to identify the dimensions of intervention process and implementation to be assessed, including adherence, exposure, quality of delivery, participant responsiveness, context, and programme differentiation.Multiple methods and tools were developed to capture information on all these dimensions. These included observations, logbooks, qualitative evaluation, questionnaires and research team reflection.Data collection posed several challenges, predominantly when relying on teachers to complete paperwork, which they saw as burdensome on top of their teaching responsibilities. However, the use of multiple methods helped to ensure data on each dimension, where possible, was collected using more than one method. This also allowed for triangulation of the findings when several data sources on any one dimension were available.We have reported a comprehensive approach to the assessment of the implementation and processes of a complex childhood obesity prevention intervention within a cluster randomised controlled trial. These approaches can be transferred and adapted for use in other complex intervention trials.ISRCTN97000586."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "06/85/11"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12015/3"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_U106179473"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adipose Tissue"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Skinfold Thickness"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Waist Circumference"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Food, Organic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4172839?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4172839"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12966-014-0112-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-03-03"
+  ],
+  "dateOfCreation": [
+    "2014-11-04"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2014-09-10"
+  ],
+  "firstPublicationDate": [
+    "2014-09-10"
+  ]
+}

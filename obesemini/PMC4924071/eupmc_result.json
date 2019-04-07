@@ -1,0 +1,484 @@
+{
+  "id": [
+    "27338432"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27338432"
+  ],
+  "pmcid": [
+    "PMC4924071"
+  ],
+  "doi": [
+    "10.3390/ijerph13060614"
+  ],
+  "title": [
+    "Wayfinding the Live 5-2-1-0 Initiative-At the Intersection between Systems Thinking and Community-Based Childhood Obesity Prevention."
+  ],
+  "authorString": [
+    "Amed S, Shea S, Pinkney S, Wharf Higgins J, Naylor PJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Amed S"
+          ],
+          "firstName": [
+            "Shazhan"
+          ],
+          "lastName": [
+            "Amed"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5193-8582",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Child &amp; Family Research Institute, BC Children's Hospital, Vancouver, BCV5Z 4H4, Canada. samed@cw.bc.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Shea S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Shea"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Child &amp; Family Research Institute, BC Children's Hospital, Vancouver, BCV5Z 4H4, Canada. sshea@cfri.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Pinkney S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Pinkney"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Child &amp; Family Research Institute, BC Children's Hospital, Vancouver, BCV5Z 4H4, Canada. spinkney@cfri.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Wharf Higgins J"
+          ],
+          "firstName": [
+            "Joan"
+          ],
+          "lastName": [
+            "Wharf Higgins"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Exercise Science, Physical and Health Education, University of Victoria, Victoria, BC V8W 3P1, Canada. jwharfhi@uvic.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Naylor PJ"
+          ],
+          "firstName": [
+            "Patti-Jean"
+          ],
+          "lastName": [
+            "Naylor"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4799-2751",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Exercise Science, Physical and Health Education, University of Victoria, Victoria, BC V8W 3P1, Canada. pjnaylor@uvic.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4799-2751",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5193-8582",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2477746"
+      ],
+      "dateOfPublication": [
+        "2016 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Childhood obesity is complex and requires a 'systems approach' that collectively engages across multiple community settings. Sustainable Childhood Obesity Prevention through Community Engagement (SCOPE) has implemented Live 5-2-1-0-a multi-sector, multi-component childhood obesity prevention initiative informed by systems thinking and participatory research via an innovative knowledge translation (KT) model (RE-FRAME). This paper describes the protocol for implementing and evaluating RE-FRAME in two 'existing' (>2 years of implementation) and two 'new' Live 5-2-1-0 communities to understand how to facilitate and sustain systems/community-level change. In this mixed-methods study, RE-FRAME was implemented via online resources, webinars, a backbone organization (SCOPE) coordinating the initiative, and a linking system supporting KT. Qualitative and quantitative data were collected using surveys and stakeholder interviews, analyzed using thematic analysis and descriptive statistics, respectively. Existing communities described the consistency of Live 5-2-1-0 and extensive local partnerships/champions as catalysts for synergistic community-wide action; new communities felt that the simplicity of the message combined with the transfer of experiential learning would inform their own strategies and policies/programs to broadly disseminate Live 5-2-1-0. RE-FRAME effectively guided the refinement of the initiative and provided a framework upon which evaluation results described how to implement a community-based systems approach to childhood obesity prevention."
+  ],
+  "affiliation": [
+    "Child &amp; Family Research Institute, BC Children's Hospital, Vancouver, BCV5Z 4H4, Canada. samed@cw.bc.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "KAL-129891"
+          ],
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Residence Characteristics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Systems Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Translational Medical Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Community Participation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Health Promotion",
+        "Childhood Obesity",
+        "Participatory Research",
+        "Collective Impact"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4924071?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4924071"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph13060614"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-06-16"
+  ],
+  "dateOfCreation": [
+    "2016-06-25"
+  ],
+  "dateOfRevision": [
+    "2017-12-01"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-21"
+  ],
+  "firstPublicationDate": [
+    "2016-06-21"
+  ]
+}

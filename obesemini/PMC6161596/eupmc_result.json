@@ -1,0 +1,589 @@
+{
+  "id": [
+    "30257121"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30257121"
+  ],
+  "pmcid": [
+    "PMC6161596"
+  ],
+  "doi": [
+    "10.1080/13814788.2018.1503247"
+  ],
+  "title": [
+    "Family physicians' views on their role in the management of childhood obesity: a mixed methods study from Turkey."
+  ],
+  "authorString": [
+    "Sakarya S, Ünalan PC, Tursun N, Özen A, Kul S, Gültekin Ü."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sakarya S"
+          ],
+          "firstName": [
+            "Sibel"
+          ],
+          "lastName": [
+            "Sakarya"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "a Medical Faculty, Public Health Department , Marmara University , Istanbul , Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Ünalan PC"
+          ],
+          "firstName": [
+            "Pemra C"
+          ],
+          "lastName": [
+            "Ünalan"
+          ],
+          "initials": [
+            "PC"
+          ],
+          "affiliation": [
+            "b Medical Faculty, Family Medicine Department , Marmara University , Istanbul , Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Tursun N"
+          ],
+          "firstName": [
+            "Naz"
+          ],
+          "lastName": [
+            "Tursun"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "c Medical Faculty , Marmara University , Istanbul , Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Özen A"
+          ],
+          "firstName": [
+            "Anıl"
+          ],
+          "lastName": [
+            "Özen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "c Medical Faculty , Marmara University , Istanbul , Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Kul S"
+          ],
+          "firstName": [
+            "Seda"
+          ],
+          "lastName": [
+            "Kul"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "c Medical Faculty , Marmara University , Istanbul , Turkey."
+          ]
+        },
+        {
+          "fullName": [
+            "Gültekin Ü"
+          ],
+          "firstName": [
+            "Ümit"
+          ],
+          "lastName": [
+            "Gültekin"
+          ],
+          "initials": [
+            "Ü"
+          ],
+          "affiliation": [
+            "c Medical Faculty , Marmara University , Istanbul , Turkey."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2638583"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The European journal of general practice"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Gen Pract"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Gen Pract"
+          ],
+          "NLMid": [
+            "9513566"
+          ],
+          "ISSN": [
+            "1381-4788"
+          ],
+          "ESSN": [
+            "1751-1402"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "229-235"
+  ],
+  "abstractText": [
+    "BACKGROUND:Childhood obesity (CO) is a high priority issue due to its serious health consequences and its rapid increase. OBJECTIVES:To examine the views of primary care physicians (family physicians, FPs) in Turkey regarding their role in the management of CO and the barriers they perceive. METHODS:Mixed methods approach. Data was collected in two major counties of Istanbul between February and May 2014. All Family Health Centres (FHCs) in the region were visited, and 180/284 FPs (63.4%) agreed to complete a structured questionnaire (22 questions). Of those, 48 FPs agreed to participate in in-depth interviews that were taken until saturation was 25. Quantitative data were analysed using descriptive statistics. For qualitative data, content analysis was applied to identify the themes. RESULTS:Most of the FPs (93.3%) agreed that they have a role in managing CO. Almost all FPs (98.3%) agreed that for the 0-4-year-olds height and weight measures should be taken. However, only 67.6% recommended this for children aged 5-15 years. The most common barriers in the management of CO were reported as lack of time (68.9%) and FHCs not being utilized for the care of children aged 5-15 years old (53.3%) in Turkey. In-depth interviews showed that FPs tend to limit their role to identifying the problem and making the family aware of it. CONCLUSION:Although FPs recognize primary healthcare as an appropriate setting for managing CO, they have concerns about being involved in the treatment."
+  ],
+  "affiliation": [
+    "a Medical Faculty, Public Health Department , Marmara University , Istanbul , Turkey."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Weight"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anthropometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Height"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Attitude of Health Personnel"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Knowledge, Attitudes, Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Physician's Role"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Family Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Competence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Turkey"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interviews as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parents",
+        "Turkey",
+        "Primary Care Physicians",
+        "Mixed Methods",
+        "Child Obesity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6161596?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6161596"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/13814788.2018.1503247"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-25"
+  ],
+  "dateOfCreation": [
+    "2018-09-27"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "firstPublicationDate": [
+    "2018-12-01"
+  ]
+}

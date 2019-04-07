@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6308200/results/search/childobese/results.xml">
+  <result pre="S.A. pmcid: 6308200 doi: 10.3389/fped.2018.00393 : Pediatrics: Original Research Childhood" exact="Overweight" post="and Obesity and Associated Factors in Iranian Children and"/>
+  <result pre="6308200 doi: 10.3389/fped.2018.00393 : Pediatrics: Original Research Childhood Overweight and" exact="Obesity" post="and Associated Factors in Iranian Children and Adolescents: A"/>
+  <result pre="10 * [], 1 Chronic Disease Research Center, Endocrinology and" exact="Metabolism" post="Population Sciences Institute, Tehran University of Medical Sciences Tehran"/>
+  <result pre="University of Medical Sciences Karaj Iran [], 9 Endocrinology and" exact="Metabolism" post="Research Center, Endocrinology and Metabolism Clinical Sciences Institute, Tehran"/>
+  <result pre="Iran [], 9 Endocrinology and Metabolism Research Center, Endocrinology and" exact="Metabolism" post="Clinical Sciences Institute, Tehran University of Medical Sciences Tehran"/>
+  <result pre="weight, was measured and body mass index (BMI) was calculated." exact="Obesity" post="and overweight was defined based on the WHO growth"/>
+  <result pre="and 2 h/day or more was considered high ( 13)." exact="Physical activity" post="was assessed using two questions. ( 1) During the"/>
+  <result pre="do you spend in sport class in school per week?" exact="Physical activity" post="was categorized into tertiles. The first tertile was defined"/>
+  <result pre="International Reading Literacy Study (PIRLS) for Iran ( 14, 15)." exact="Socioeconomic status" post="(SES) was calculated using principal component analysis (PCA). Using"/>
+  <result pre="were measured under standard protocols and by using calibrated instruments." exact="Body mass index" post="(BMI) was calculated by dividing weight (kg) to height"/>
+  <result pre="(18.71, 18.93) 17.66 (17.41, 17.90) 18.85 (18.78, 18.93) 0.004 †" exact="Obesity" post="2 12.99 (11.94, 14.10) 13.91 (12.53, 15.37) 11.47 (10.67,"/>
+  <result pre="(10.67, 12.30) 6.29 (4.96, 7.86) 11.89 (11.34, 12.43) &amp;lt;0.0001 ψ" exact="Overweight" post="2 10.52 (9.54, 11.50) 10.72 (9.47, 11.97) 9.43 (8.69,"/>
+  <result pre="Associated factors of childhood obesity in hierarchical multilevel models. Variable" exact="Obesity" post="Univariate models (unadjusted) Multivariate model (unadjusted) OR (S.E.) P-value"/>
+  <result pre="0.282 Vegetable intake (daily/non-daily) 1.12 (0.06) 0.044 1.12 (0.06) 0.084" exact="Physical activity" post="(moderate/low) 0.95 (0.06) 0.425 Physical activity (high/low) 0.95 (0.07)"/>
+  <result pre="0.044 1.12 (0.06) 0.084 Physical activity (moderate/low) 0.95 (0.06) 0.425" exact="Physical activity" post="(high/low) 0.95 (0.07) 0.459 Screen time (high/low) 1.36 (0.06)"/>
+  <result pre="Associated factors of childhood overweight in hierarchical multilevel models. Variable" exact="Overweight" post="Univariate models (adjusted) Multivariate model (adjusted) OR (S.E.) P-value"/>
+  <result pre="0.195 1.00 (0.07) 0.980 Vegetable intake (daily/non-daily) 1.02 (0.06) 0.784" exact="Physical activity" post="(moderate/low) 1.05 (0.07) 0.574 Physical activity (high/low) 0.97 (0.08)"/>
+  <result pre="(daily/non-daily) 1.02 (0.06) 0.784 Physical activity (moderate/low) 1.05 (0.07) 0.574" exact="Physical activity" post="(high/low) 0.97 (0.08) 0.709 Screen time (high/low) 1.17 (0.07)"/>
+  <result pre="M Motlagh ME Aminaee T Ardalan G et al. ." exact="Metabolic syndrome" post="and cardiovascular risk factors in a national sample of"/>
+  <result pre="S Mousavinasab F Qorbani M Hashemi ME et al. ." exact="Obesity" post="and metabolic syndrome among a representative sample of Iranian"/>
+  <result pre="representative sample of children in North East of Iran ." exact="Cholesterol" post="( 2012) 2012: 875163. 10.1155/2012/875163 22844585 29. Azadbakht L"/>
+  <result pre="Sadry G hossein Ansari R Alikhassy H et al. ." exact="Obesity" post="and associated modifiable environmental factors in Iranian adolescents: Isfahan"/>
+ </snippets>
+</snippetsTree>

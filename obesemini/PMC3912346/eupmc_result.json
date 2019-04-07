@@ -1,0 +1,593 @@
+{
+  "id": [
+    "24472122"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24472122"
+  ],
+  "pmcid": [
+    "PMC3912346"
+  ],
+  "doi": [
+    "10.1186/1472-6963-14-44"
+  ],
+  "title": [
+    "The cost of a primary care-based childhood obesity prevention intervention."
+  ],
+  "authorString": [
+    "Wright DR, Taveras EM, Gillman MW, Horan CM, Hohman KH, Gortmaker SL, Prosser LA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wright DR"
+          ],
+          "firstName": [
+            "Davene R"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "DR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8574-4572",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Washington School of Medicine, PO Box 5371, M/S: CW-8-6, 98145-5005 Seattle, Washington, USA. davene.wright@seattlechildrens.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Taveras EM"
+          ],
+          "firstName": [
+            "Elsie M"
+          ],
+          "lastName": [
+            "Taveras"
+          ],
+          "initials": [
+            "EM"
+          ]
+        },
+        {
+          "fullName": [
+            "Gillman MW"
+          ],
+          "firstName": [
+            "Matthew W"
+          ],
+          "lastName": [
+            "Gillman"
+          ],
+          "initials": [
+            "MW"
+          ]
+        },
+        {
+          "fullName": [
+            "Horan CM"
+          ],
+          "firstName": [
+            "Christine M"
+          ],
+          "lastName": [
+            "Horan"
+          ],
+          "initials": [
+            "CM"
+          ]
+        },
+        {
+          "fullName": [
+            "Hohman KH"
+          ],
+          "firstName": [
+            "Katherine H"
+          ],
+          "lastName": [
+            "Hohman"
+          ],
+          "initials": [
+            "KH"
+          ]
+        },
+        {
+          "fullName": [
+            "Gortmaker SL"
+          ],
+          "firstName": [
+            "Steven L"
+          ],
+          "lastName": [
+            "Gortmaker"
+          ],
+          "initials": [
+            "SL"
+          ]
+        },
+        {
+          "fullName": [
+            "Prosser LA"
+          ],
+          "firstName": [
+            "Lisa A"
+          ],
+          "lastName": [
+            "Prosser"
+          ],
+          "initials": [
+            "LA"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8574-4572",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2473228"
+      ],
+      "dateOfPublication": [
+        "2014 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC health services research"
+          ],
+          "ISOAbbreviation": [
+            "BMC Health Serv Res"
+          ],
+          "medlineAbbreviation": [
+            "BMC Health Serv Res"
+          ],
+          "NLMid": [
+            "101088677"
+          ],
+          "ISSN": [
+            "1472-6963"
+          ],
+          "ESSN": [
+            "1472-6963"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "44"
+  ],
+  "abstractText": [
+    "United States pediatric guidelines recommend that childhood obesity counseling be conducted in the primary care setting. Primary care-based interventions can be effective in improving health behaviors, but also costly. The purpose of this study was to evaluate the cost of a primary care-based obesity prevention intervention targeting children between the ages of two and six years who are at elevated risk for obesity, measured against usual care.High Five for Kids was a cluster-randomized controlled clinical trial that aimed to modify children's nutrition and TV viewing habits through a motivational interviewing intervention. We assessed visit-related costs from a societal perspective, including provider-incurred direct medical costs, provider-incurred equipment costs, parent time costs and parent out-of-pocket costs, in 2011 dollars for the intervention (n = 253) and usual care (n =192) groups. We conducted a net cost analysis using both societal and health plan costing perspectives and conducted one-way sensitivity and uncertainty analyses on results.The total costs for the intervention group and usual care groups in the first year of the intervention were $65,643 (95% CI [$64,522, $66,842]) and $12,192 (95% CI [$11,393, $13,174]). The mean costs for the intervention and usual care groups were $259 (95% CI [$255, $264]) and $63 (95% CI [$59, $69]) per child, respectively, for a incremental difference of $196 (95% CI [$191, $202]) per child. Children in the intervention group attended a mean of 2.4 of a possible 4 in-person visits and received 0.45 of a possible 2 counseling phone calls. Provider-incurred costs were the primary driver of cost estimates in sensitivity analyses.High Five for Kids was a resource-intensive intervention. Further studies are needed to assess the cost-effectiveness of the intervention relative to other pediatric obesity interventions."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, University of Washington School of Medicine, PO Box 5371, M/S: CW-8-6, 98145-5005 Seattle, Washington, USA. davene.wright@seattlechildrens.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HD 050966"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P30 DK092926"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Care Costs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Health Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motivational Interviewing"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3912346?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3912346"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24472122/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24472122/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1472-6963-14-44"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-09-26"
+  ],
+  "dateOfCreation": [
+    "2014-02-04"
+  ],
+  "dateOfRevision": [
+    "2017-05-18"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-29"
+  ],
+  "firstPublicationDate": [
+    "2014-01-29"
+  ]
+}

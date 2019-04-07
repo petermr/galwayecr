@@ -1,0 +1,407 @@
+{
+  "id": [
+    "28442452"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28442452"
+  ],
+  "pmcid": [
+    "PMC5424124"
+  ],
+  "doi": [
+    "10.2196/resprot.7544"
+  ],
+  "title": [
+    "HomeStyles, A Web-Based Childhood Obesity Prevention Program for Families With Preschool Children: Protocol for a Randomized Controlled Trial."
+  ],
+  "authorString": [
+    "Byrd-Bredbenner C, Martin-Biggers J, Koenings M, Quick V, Hongu N, Worobey J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Byrd-Bredbenner C"
+          ],
+          "firstName": [
+            "Carol"
+          ],
+          "lastName": [
+            "Byrd-Bredbenner"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8010-3987",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Rutgers University, Department of Nutritional Sciences, New Brunswick, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin-Biggers J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Martin-Biggers"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8857-6386",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Rutgers University, Department of Nutritional Sciences, New Brunswick, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Koenings M"
+          ],
+          "firstName": [
+            "Mallory"
+          ],
+          "lastName": [
+            "Koenings"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3077-7457",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Rutgers University, Department of Nutritional Sciences, New Brunswick, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Quick V"
+          ],
+          "firstName": [
+            "Virginia"
+          ],
+          "lastName": [
+            "Quick"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4338-963X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Rutgers University, Department of Nutritional Sciences, New Brunswick, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hongu N"
+          ],
+          "firstName": [
+            "Nobuko"
+          ],
+          "lastName": [
+            "Hongu"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8365-5253",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Arizona, Department of Nutritional Sciences, Tucson, AZ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Worobey J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Worobey"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0802-6067",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Rutgers University, Department of Nutritional Sciences, New Brunswick, NJ, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8365-5253",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8857-6386",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0802-6067",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4338-963X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8010-3987",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3077-7457",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2544227"
+      ],
+      "dateOfPublication": [
+        "2017 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JMIR research protocols"
+          ],
+          "ISOAbbreviation": [
+            "JMIR Res Protoc"
+          ],
+          "medlineAbbreviation": [
+            "JMIR Res Protoc"
+          ],
+          "NLMid": [
+            "101599504"
+          ],
+          "ISSN": [
+            "1929-0748"
+          ],
+          "ESSN": [
+            "1929-0748"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e73"
+  ],
+  "abstractText": [
+    "The home environment is where young children spend most of their time, and is critically important to supporting behaviors that promote health and prevent obesity. However, the home environment and lifestyle patterns remain understudied, and few interventions have investigated parent-led makeovers designed to create home environments that are supportive of optimal child health and healthy child weights.The aim of the HomeStyles randomized controlled trial (RCT) is to determine whether the Web-based HomeStyles intervention enables and motivates parents to shape the weight-related aspects of their home environments and lifestyle behavioral practices (diet, exercise, and sleep) to be more supportive of their preschool children's optimal health and weight.A rigorous RCT utilizing an experimental group and an attention control group, receiving a bona fide contemporaneous treatment equal in nonspecific treatment effects and differing only in subject matter content, will test the effect of HomeStyles on a diverse sample of families with preschool children. This intervention is based on social cognitive theory and uses a social ecological framework, and will assess: intrapersonal characteristics (dietary intake, physical activity level, and sleep) of parents and children; family interpersonal or social characteristics related to diet, physical activity, media use, and parental values and self-efficacy for obesity-preventive practices; and home environment food availability, physical activity space and supports in and near the home, and media availability and controls in the home.Enrollment for this study has been completed and statistical data analyses are currently underway.This paper describes the HomeStyles intervention with regards to: rationale, the intervention's logic model, sample eligibility criteria and recruitment, experimental group and attention control intervention content, study design, instruments, data management, and planned analyses."
+  ],
+  "affiliation": [
+    "Rutgers University, Department of Nutritional Sciences, New Brunswick, NJ, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Sleep",
+        "Nutrition",
+        "Prevention",
+        "Parents",
+        "Physical Activity",
+        "Childhood Obesity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5424124"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/resprot.7544"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-04-27"
+  ],
+  "dateOfRevision": [
+    "2018-03-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-25"
+  ],
+  "firstPublicationDate": [
+    "2017-04-25"
+  ]
+}

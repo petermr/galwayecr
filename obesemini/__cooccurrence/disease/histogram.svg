@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="20.0" width="519.6179775280899" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10.0" y="-215.0" width="5.617977528089888" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">obesity</text>
+  <rect x="15.0" y="2.0" width="5.617977528089888" height="8.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="15.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,4.999999999999998,25.0)" style="font-size:1.0000000000000013px;">cardiovascular </text>
+  <rect x="21.0" y="3.0" width="5.617977528089888" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="21.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,10.999999999999998,31.0)" style="font-size:1.0000000000000013px;">metabolic syndr</text>
+  <rect x="26.0" y="3.0" width="5.617977528089888" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="26.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,15.999999999999998,36.0)" style="font-size:1.0000000000000013px;">cancer</text>
+  <rect x="32.0" y="4.0" width="5.617977528089888" height="6.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="32.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,22.0,42.0)" style="font-size:1.0000000000000013px;">heart disease</text>
+  <rect x="38.0" y="7.0" width="5.617977528089888" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="38.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,28.0,48.0)" style="font-size:1.0000000000000013px;">diabetes mellit</text>
+  <rect x="43.0" y="7.0" width="5.617977528089888" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="43.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,33.0,53.0)" style="font-size:1.0000000000000013px;">asthma</text>
+  <rect x="49.0" y="8.0" width="5.617977528089888" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="49.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,39.0,59.0)" style="font-size:1.0000000000000013px;">cardiovascular </text>
+  <rect x="54.0" y="8.0" width="5.617977528089888" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="54.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,44.0,64.0)" style="font-size:1.0000000000000013px;">heart disease,</text>
+  <rect x="60.0" y="8.0" width="5.617977528089888" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="60.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,50.0,70.0)" style="font-size:1.0000000000000013px;">atherosclerosis</text>
+  <rect x="66.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="66.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,56.0,76.0)" style="font-size:1.0000000000000013px;">sleep apnea</text>
+  <rect x="71.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="71.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,61.0,81.0)" style="font-size:1.0000000000000013px;">liver disease</text>
+  <rect x="77.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="77.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,67.0,87.0)" style="font-size:1.0000000000000013px;">fatty liver dis</text>
+  <rect x="83.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="83.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,73.0,93.0)" style="font-size:1.0000000000000013px;">sleep apnea,</text>
+  <rect x="88.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="88.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,78.0,98.0)" style="font-size:1.0000000000000013px;">lung cancer</text>
+  <rect x="94.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="94.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,84.0,104.0)" style="font-size:1.0000000000000013px;">anxiety disorde</text>
+  <rect x="99.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="99.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,89.0,109.0)" style="font-size:1.0000000000000013px;">metabolic syndr</text>
+  <rect x="105.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="105.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,95.0,115.0)" style="font-size:1.0000000000000013px;">heart disease.</text>
+  <rect x="111.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="111.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,101.0,121.0)" style="font-size:1.0000000000000013px;">dental caries</text>
+  <rect x="116.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="116.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,106.0,126.0)" style="font-size:1.0000000000000013px;">acanthosis nigr</text>
+  <rect x="122.0" y="9.0" width="5.617977528089888" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="122.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,112.0,132.0)" style="font-size:1.0000000000000013px;">infectious dise</text>
+  <rect x="127.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="127.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,117.0,137.0)" style="font-size:1.0000000000000013px;">epilepsy</text>
+  <rect x="133.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="133.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,122.99999999999999,143.0)" style="font-size:1.0000000000000013px;">leukemia</text>
+  <rect x="139.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="139.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,129.0,149.0)" style="font-size:1.0000000000000013px;">obstructive sle</text>
+  <rect x="144.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="144.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,134.0,154.0)" style="font-size:1.0000000000000013px;">respiratory dis</text>
+  <rect x="150.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="150.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,140.0,160.0)" style="font-size:1.0000000000000013px;">hepatocellular </text>
+  <rect x="156.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="156.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,146.0,166.0)" style="font-size:1.0000000000000013px;">substance abuse</text>
+  <rect x="161.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="161.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,151.0,171.0)" style="font-size:1.0000000000000013px;">gestational dia</text>
+  <rect x="167.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="167.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,157.0,177.0)" style="font-size:1.0000000000000013px;">gestational dia</text>
+  <rect x="172.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="172.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,162.0,182.0)" style="font-size:1.0000000000000013px;">anxiety disorde</text>
+  <rect x="178.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="178.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,168.0,188.0)" style="font-size:1.0000000000000013px;">influenza</text>
+  <rect x="184.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="184.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,174.0,194.0)" style="font-size:1.0000000000000013px;">polycystic ovar</text>
+  <rect x="189.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="189.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,179.0,199.0)" style="font-size:1.0000000000000013px;">metabolic syndr</text>
+  <rect x="195.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="195.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,185.0,205.0)" style="font-size:1.0000000000000013px;">gestational dia</text>
+  <rect x="201.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="201.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,191.0,211.0)" style="font-size:1.0000000000000013px;">lymphoblastic l</text>
+  <rect x="206.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="206.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,196.0,216.0)" style="font-size:1.0000000000000013px;">colon cancer</text>
+  <rect x="212.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="212.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,202.0,222.0)" style="font-size:1.0000000000000013px;">breast cancer</text>
+  <rect x="217.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="217.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,207.0,227.0)" style="font-size:1.0000000000000013px;">hepatitis</text>
+  <rect x="223.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="223.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,213.0,233.0)" style="font-size:1.0000000000000013px;">stroke</text>
+  <rect x="229.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="229.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,219.0,239.0)" style="font-size:1.0000000000000013px;">major depressiv</text>
+  <rect x="234.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="234.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,224.0,244.0)" style="font-size:1.0000000000000013px;">acute lymphobla</text>
+  <rect x="240.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="240.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,230.0,250.0)" style="font-size:1.0000000000000013px;">diabetes mellit</text>
+  <rect x="245.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="245.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,235.0,255.0)" style="font-size:1.0000000000000013px;">liver disease,</text>
+  <rect x="251.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="251.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,240.99999999999997,261.0)" style="font-size:1.0000000000000013px;">attention defic</text>
+  <rect x="257.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="257.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,246.99999999999997,267.0)" style="font-size:1.0000000000000013px;">obstructive sle</text>
+  <rect x="262.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="262.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,251.99999999999997,272.0)" style="font-size:1.0000000000000013px;">fatty liver dis</text>
+  <rect x="268.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="268.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,258.0,278.0)" style="font-size:1.0000000000000013px;">sleep apnea.</text>
+  <rect x="274.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="274.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,264.0,284.0)" style="font-size:1.0000000000000013px;">arteriosclerosi</text>
+  <rect x="279.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="279.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,269.0,289.0)" style="font-size:1.0000000000000013px;">bladder disease</text>
+  <rect x="285.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="285.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,275.0,295.0)" style="font-size:1.0000000000000013px;">congenital hear</text>
+  <rect x="290.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="290.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,280.0,300.0)" style="font-size:1.0000000000000013px;">respiratory dis</text>
+  <rect x="296.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="296.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,286.0,306.0)" style="font-size:1.0000000000000013px;">suppression</text>
+  <rect x="302.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="302.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,292.0,312.0)" style="font-size:1.0000000000000013px;">aids</text>
+  <rect x="307.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="307.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,297.0,317.0)" style="font-size:1.0000000000000013px;">autoimmune dise</text>
+  <rect x="313.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="313.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,303.0,323.0)" style="font-size:1.0000000000000013px;">endocrine disea</text>
+  <rect x="318.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="318.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,308.0,328.0)" style="font-size:1.0000000000000013px;">specific phobia</text>
+  <rect x="324.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="324.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,314.0,334.0)" style="font-size:1.0000000000000013px;">kidney failure,</text>
+  <rect x="330.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="330.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,320.0,340.0)" style="font-size:1.0000000000000013px;">glucose intoler</text>
+  <rect x="335.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="335.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,325.0,345.0)" style="font-size:1.0000000000000013px;">glomerulosclero</text>
+  <rect x="341.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="341.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,331.0,351.0)" style="font-size:1.0000000000000013px;">ovarian cancer</text>
+  <rect x="347.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="347.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,337.0,357.0)" style="font-size:1.0000000000000013px;">allergy</text>
+  <rect x="352.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="352.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,342.0,362.0)" style="font-size:1.0000000000000013px;">cardiovascular </text>
+  <rect x="358.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="358.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,348.0,368.0)" style="font-size:1.0000000000000013px;">osteoporosis</text>
+  <rect x="363.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="363.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,353.0,373.0)" style="font-size:1.0000000000000013px;">cervical cancer</text>
+  <rect x="369.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="369.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,359.0,379.0)" style="font-size:1.0000000000000013px;">diarrhea</text>
+  <rect x="375.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="375.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,365.0,385.0)" style="font-size:1.0000000000000013px;">endometrial can</text>
+  <rect x="380.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="380.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,370.0,390.0)" style="font-size:1.0000000000000013px;">nephrolithiasis</text>
+  <rect x="386.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="386.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,376.0,396.0)" style="font-size:1.0000000000000013px;">dementia</text>
+  <rect x="392.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="392.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,382.0,402.0)" style="font-size:1.0000000000000013px;">eating disorder</text>
+  <rect x="397.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="397.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,387.0,407.0)" style="font-size:1.0000000000000013px;">post-traumatic </text>
+  <rect x="403.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="403.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,393.0,413.0)" style="font-size:1.0000000000000013px;">chronic kidney </text>
+  <rect x="408.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="408.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,398.0,418.0)" style="font-size:1.0000000000000013px;">common cold.</text>
+  <rect x="414.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="414.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,404.0,424.0)" style="font-size:1.0000000000000013px;">heart attack</text>
+  <rect x="420.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="420.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,410.0,430.0)" style="font-size:1.0000000000000013px;">thyroid cancer</text>
+  <rect x="425.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="425.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,415.0,435.0)" style="font-size:1.0000000000000013px;">infectious dise</text>
+  <rect x="431.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="431.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,421.0,441.0)" style="font-size:1.0000000000000013px;">pathological ga</text>
+  <rect x="436.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="436.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,426.0,446.0)" style="font-size:1.0000000000000013px;">pneumonia</text>
+  <rect x="442.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="442.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,432.0,452.0)" style="font-size:1.0000000000000013px;">diabetes mellit</text>
+  <rect x="448.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="448.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,438.0,458.0)" style="font-size:1.0000000000000013px;">migraine</text>
+  <rect x="453.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="453.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,443.0,463.0)" style="font-size:1.0000000000000013px;">hyperinsulinemi</text>
+  <rect x="459.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="459.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,449.0,469.0)" style="font-size:1.0000000000000013px;">liver cancer.</text>
+  <rect x="465.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="465.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,455.0,475.0)" style="font-size:1.0000000000000013px;">glucose intoler</text>
+  <rect x="470.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="470.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,460.0,480.0)" style="font-size:1.0000000000000013px;">gallbladder dis</text>
+  <rect x="476.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="476.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,466.0,486.0)" style="font-size:1.0000000000000013px;">food allergy</text>
+  <rect x="481.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="481.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,470.99999999999994,491.0)" style="font-size:1.0000000000000013px;">eating disorder</text>
+  <rect x="487.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="487.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,476.99999999999994,497.0)" style="font-size:1.0000000000000013px;">dental caries,</text>
+  <rect x="493.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="493.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,482.99999999999994,503.0)" style="font-size:1.0000000000000013px;">gastroenteritis</text>
+  <rect x="498.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="498.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,487.99999999999994,508.0)" style="font-size:1.0000000000000013px;">nephropathy</text>
+  <rect x="504.0" y="10.0" width="5.617977528089888" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="504.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,493.99999999999994,514.0)" style="font-size:1.0000000000000013px;">metabolic acido</text>
+ </g>
+</svg>

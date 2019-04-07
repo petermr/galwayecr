@@ -1,0 +1,497 @@
+{
+  "id": [
+    "30041446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30041446"
+  ],
+  "pmcid": [
+    "PMC6073385"
+  ],
+  "doi": [
+    "10.3390/nu10070947"
+  ],
+  "title": [
+    "Promoting Healthy Diet, Physical Activity, and Life-Skills in High School Athletes: Results from the WAVE Ripples for Change Childhood Obesity Prevention Two-Year Intervention."
+  ],
+  "authorString": [
+    "Meng Y, Manore MM, Schuna JM, Patton-Lopez MM, Branscum A, Wong SS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meng Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Meng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Biological and Population Health Sciences, College of Public Health and Human Sciences, Oregon State University, Corvallis, OR 97330, USA. mengy@oregonstate.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Manore MM"
+          ],
+          "firstName": [
+            "Melinda M"
+          ],
+          "lastName": [
+            "Manore"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "School of Biological and Population Health Sciences, College of Public Health and Human Sciences, Oregon State University, Corvallis, OR 97330, USA. melinda.manore@oregonstate.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Schuna JM Jr"
+          ],
+          "firstName": [
+            "John M"
+          ],
+          "lastName": [
+            "Schuna"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "School of Biological and Population Health Sciences, College of Public Health and Human Sciences, Oregon State University, Corvallis, OR 97330, USA. John.Schuna@oregonstate.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Patton-Lopez MM"
+          ],
+          "firstName": [
+            "Megan M"
+          ],
+          "lastName": [
+            "Patton-Lopez"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0423-7131",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Health and Exercise Science, Western Oregon University, 240 Richard Woodcock Education Center, 345 Monmouth Ave N., Monmouth, OR 97361, USA. pattonlm@wou.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Branscum A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Branscum"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Biological and Population Health Sciences, College of Public Health and Human Sciences, Oregon State University, Corvallis, OR 97330, USA. Adam.Branscum@oregonstate.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong SS"
+          ],
+          "firstName": [
+            "Siew Sun"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Family and Community Health, School of Biological and Population Health Sciences, College of Public Health and Human Sciences, Oregon State University, Corvallis, OR 97330, USA. siewsun.wong@oregonstate.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0423-7131",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2701885"
+      ],
+      "dateOfPublication": [
+        "2018 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The purpose of this study was to compare changes in diet and daily physical activity (PA) in high school (HS) soccer players who participated in either a two-year obesity prevention intervention or comparison group, while controlling for sex, race/ethnicity, and socioeconomic status. Participants (n = 388; females = 58%; Latino = 38%; 15.3 ± 1.1 years, 38% National School Breakfast/Lunch Program) were assigned to either an intervention (n = 278; 9 schools) or comparison group (n = 110; 4 schools) based on geographical location. Pre/post intervention assessment of diet was done using Block Fat/Sugar/Fruit/Vegetable Screener, and daily steps was done using the Fitbit-Zip. Groups were compared over-time for mean changes (post-pre) in fruit/vegetables (FV), saturated fat (SF), added sugar, and PA (daily steps, moderate-to-vigorous PA) using analysis of covariance. The two-year intervention decreased mean added sugar intake (-12.1 g/day, CI (7.4, 16.8), p = 0.02); there were no differences in groups for FV or SF intake (p = 0.89). For both groups, PA was significantly higher in-soccer (9937 steps/day) vs. out-of-soccer season (8117 steps/day), emphasizing the contribution of organized sports to youth daily PA. At baseline, Latino youth had significantly higher added sugar intake (+14 g/day, p < 0.01) than non-Latinos. Targeting active youth in a diet/PA intervention improves diet, but out of soccer season youth need engagement to maintain PA (200)."
+  ],
+  "affiliation": [
+    "School of Biological and Population Health Sciences, College of Public Health and Human Sciences, Oregon State University, Corvallis, OR 97330, USA. mengy@oregonstate.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Knowledge, Attitudes, Practice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Schools"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "School Health Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Athletes"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Healthy Diet"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adolescent",
+        "Sport",
+        "Sport Nutrition",
+        "Latino",
+        "Low-income",
+        "Soccer",
+        "Added Sugar",
+        "National School Lunch Program",
+        "Fitbit",
+        "Free Or Reduced Lunch"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6073385?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6073385"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu10070947"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-11-12"
+  ],
+  "dateOfCreation": [
+    "2018-07-26"
+  ],
+  "dateOfRevision": [
+    "2018-11-12"
+  ],
+  "electronicPublicationDate": [
+    "2018-07-23"
+  ],
+  "firstPublicationDate": [
+    "2018-07-23"
+  ]
+}

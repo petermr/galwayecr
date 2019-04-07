@@ -1,0 +1,366 @@
+{
+  "id": [
+    "30586845"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30586845"
+  ],
+  "pmcid": [
+    "PMC6339209"
+  ],
+  "doi": [
+    "10.3390/ijerph16010030"
+  ],
+  "title": [
+    "Challenges and Lessons Learned from Multi-Level Multi-Component Interventions to Prevent and Reduce Childhood Obesity."
+  ],
+  "authorString": [
+    "Gittelsohn J, Novotny R, Trude ACB, Butel J, Mikkelsen BE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gittelsohn J"
+          ],
+          "firstName": [
+            "Joel"
+          ],
+          "lastName": [
+            "Gittelsohn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for Human Nutrition, International Health Department, Johns Hopkins Bloomberg School of Public Health, 615 N Wolfe St, Baltimore, MD 21205, USA. jgittel1@jhu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Novotny R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Novotny"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Children's Healthy Living Center of Excellence, College of Tropical Agriculture and Human Resources ⁻ University of Hawai'i at Mānoa, Honolulu, HI 96822, USA. novotny@hawaii.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Trude ACB"
+          ],
+          "firstName": [
+            "Angela Cristina Bizzotto"
+          ],
+          "lastName": [
+            "Trude"
+          ],
+          "initials": [
+            "ACB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2881-1089",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Human Nutrition, International Health Department, Johns Hopkins Bloomberg School of Public Health, 615 N Wolfe St, Baltimore, MD 21205, USA. atrude1@jhu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Butel J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Butel"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Children's Healthy Living Center of Excellence, College of Tropical Agriculture and Human Resources ⁻ University of Hawai'i at Mānoa, Honolulu, HI 96822, USA. jbutel@hawaii.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Mikkelsen BE"
+          ],
+          "firstName": [
+            "Bent Egberg"
+          ],
+          "lastName": [
+            "Mikkelsen"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8700-6899",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Learning & Philosophy, Aalborg University, A.C. Meyers Vænge 15, DK-2450 Copenhagen SV, Denmark. bemi@learning.aau.dk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8700-6899",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2881-1089",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2763444"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Multi-level multi-component (MLMC) strategies have been recommended to prevent and reduce childhood obesity, but results of such trials have been mixed. The present work discusses lessons learned from three recently completed MLMC interventions to inform future research and policy addressing childhood obesity. B'more Healthy Communities for Kids (BHCK), Children's Healthy Living (CHL), and Health and Local Community (SoL) trials had distinct cultural contexts, global regions, and study designs, but intervened at multiple levels of the socioecological model with strategies that address multiple components of complex food and physical activity environments to prevent childhood obesity. We discuss four common themes: (i) How to engage with community partners and involve them in development of intervention and study design; (ii) build and maintain intervention intensity by creating mutual promotion and reinforcement of the intervention activities across the multiple levels and components; (iii) conduct process evaluation for monitoring, midcourse corrections, and to engage stakeholder groups; and (iv) sustaining MLMC interventions and its effect by developing enduring and systems focused collaborations. The paper expands on each of these themes with specific lessons learned and presents future directions for MLMC trials."
+  ],
+  "affiliation": [
+    "Center for Human Nutrition, International Health Department, Johns Hopkins Bloomberg School of Public Health, 615 N Wolfe St, Baltimore, MD 21205, USA. jgittel1@jhu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U54HD070725"
+          ],
+          "agency": [
+            "National Institute of Child Health and Human Development"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Community",
+        "Evaluation",
+        "Prevention",
+        "Childhood Obesity",
+        "Multilevel"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6339209?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6339209"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16010030"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-28"
+  ],
+  "dateOfRevision": [
+    "2019-03-25"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-24"
+  ],
+  "firstPublicationDate": [
+    "2018-12-24"
+  ]
+}

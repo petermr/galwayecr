@@ -1,0 +1,406 @@
+{
+  "id": [
+    "17572960"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "17572960"
+  ],
+  "pmcid": [
+    "PMC1955401"
+  ],
+  "title": [
+    "Patterns of childhood obesity prevention legislation in the United States."
+  ],
+  "authorString": [
+    "Boehmer TK, Brownson RC, Haire-Joshu D, Dreisinger ML."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Boehmer TK"
+          ],
+          "firstName": [
+            "Tegan K"
+          ],
+          "lastName": [
+            "Boehmer"
+          ],
+          "initials": [
+            "TK"
+          ],
+          "affiliation": [
+            "Saint Louis University School of Public Health, St. Louis, MO 63104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brownson RC"
+          ],
+          "firstName": [
+            "Ross C"
+          ],
+          "lastName": [
+            "Brownson"
+          ],
+          "initials": [
+            "RC"
+          ]
+        },
+        {
+          "fullName": [
+            "Haire-Joshu D"
+          ],
+          "firstName": [
+            "Debra"
+          ],
+          "lastName": [
+            "Haire-Joshu"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Dreisinger ML"
+          ],
+          "firstName": [
+            "Mariah L"
+          ],
+          "lastName": [
+            "Dreisinger"
+          ],
+          "initials": [
+            "ML"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2197979"
+      ],
+      "dateOfPublication": [
+        "2007 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Preventing chronic disease"
+          ],
+          "ISOAbbreviation": [
+            "Prev Chronic Dis"
+          ],
+          "medlineAbbreviation": [
+            "Prev Chronic Dis"
+          ],
+          "NLMid": [
+            "101205018"
+          ],
+          "ISSN": [
+            "1545-1151"
+          ],
+          "ESSN": [
+            "1545-1151"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "pageInfo": [
+    "A56"
+  ],
+  "abstractText": [
+    "INTRODUCTION:Because of the public's growing awareness of the childhood obesity epidemic, health policies that address obesogenic environments by encouraging healthy eating and increased physical activity are gaining more attention. However, there has been little systematic examination of state policy efforts. This study identified and described state-level childhood obesity prevention legislation introduced and adopted from 2003 through 2005 and attempted to identify regional geographic patterns of introduced legislation. METHODS:A scan of legislation from all 50 states identified 717 bills and 134 resolutions that met study inclusion criteria. Analyses examined patterns in the introduction and adoption of legislation by time, topic area, and geography. RESULTS:Overall, 17% of bills and 53% of resolutions were adopted. The amount of legislation introduced and adopted increased from 2003 through 2005. The topic areas with the most introduced legislation were school nutrition standards and vending machines (n = 238); physical education and physical activity (n = 191); and studies, councils, or task forces (n = 110). Community-related topic areas of walking and biking paths (37%), farmers' markets (36%), and statewide initiatives (30%) had the highest proportion of bills adopted, followed by model school policies (29%) and safe routes to school (28%). Some regional geographic patterns in the introduction of legislation were observed. There was no statistical association between state-level adult obesity prevalence and introduction of legislation. CONCLUSION:Public health and health policy practitioners can use this information to improve advocacy efforts and strengthen the political climate for establishing childhood obesity prevention legislation within state governments. Expanded surveillance (including standardized identification and cataloging) of introduced and adopted legislation will enhance the ability to assess progress and identify effective approaches. Future policy research should examine determinants, implementation, and effectiveness of legislation to prevent childhood obesity."
+  ],
+  "affiliation": [
+    "Saint Louis University School of Public Health, St. Louis, MO 63104, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Public Health"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "LJ"
+                  ],
+                  "qualifierName": [
+                    "legislation & jurisprudence"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Public Policy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC1955401?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC1955401"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17572960/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17572960/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "34"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2007-07-09"
+  ],
+  "dateOfCreation": [
+    "2007-06-19"
+  ],
+  "dateOfRevision": [
+    "2018-12-27"
+  ],
+  "electronicPublicationDate": [
+    "2007-06-15"
+  ],
+  "firstPublicationDate": [
+    "2007-06-15"
+  ]
+}

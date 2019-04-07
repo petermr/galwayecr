@@ -1,0 +1,686 @@
+{
+  "id": [
+    "28084989"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28084989"
+  ],
+  "pmcid": [
+    "PMC5234440"
+  ],
+  "doi": [
+    "10.5888/pcd14.160381"
+  ],
+  "title": [
+    "Using School Staff Members to Implement a Childhood Obesity Prevention Intervention in Low-Income School Districts: the Massachusetts Childhood Obesity Research Demonstration (MA-CORD Project), 2012-2014."
+  ],
+  "authorString": [
+    "Blaine RE, Franckle RL, Ganter C, Falbe J, Giles C, Criss S, Kwass JA, Land T, Gortmaker SL, Chuang E, Davison KK, MA-CORD Project Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blaine RE"
+          ],
+          "firstName": [
+            "Rachel E"
+          ],
+          "lastName": [
+            "Blaine"
+          ],
+          "initials": [
+            "RE"
+          ],
+          "affiliation": [
+            "Department of Family and Consumer Sciences, California State University, Long Beach, 1250 Bellflower Blvd. FCS FA-15, Long Beach, California 90840. Email: rachel.blaine@csulb.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Franckle RL"
+          ],
+          "firstName": [
+            "Rebecca L"
+          ],
+          "lastName": [
+            "Franckle"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4327-9764",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Ganter C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Ganter"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Medical Faculty Mannheim, Heidelberg University, Mannheim Institute of Public Health, Social and Preventive Medicine, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Falbe J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Falbe"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "University of California, Berkeley, Berkeley, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Giles C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Giles"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Criss S"
+          ],
+          "firstName": [
+            "Shaniece"
+          ],
+          "lastName": [
+            "Criss"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Health Sciences Department, Furman University, Greenville, South Carolina."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwass JA"
+          ],
+          "firstName": [
+            "Jo-Ann"
+          ],
+          "lastName": [
+            "Kwass"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Bureau of Community Health and Prevention, Massachusetts Department of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Land T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Land"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Office of Data Management and Outcomes Assessment, Massachusetts Department of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Gortmaker SL"
+          ],
+          "firstName": [
+            "Steven L"
+          ],
+          "lastName": [
+            "Gortmaker"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "fullName": [
+            "Chuang E"
+          ],
+          "firstName": [
+            "Emmeline"
+          ],
+          "lastName": [
+            "Chuang"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "University of California, Los Angeles, Fielding School of Public Health, Los Angeles, California."
+          ]
+        },
+        {
+          "fullName": [
+            "Davison KK"
+          ],
+          "firstName": [
+            "Kirsten K"
+          ],
+          "lastName": [
+            "Davison"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, Massachusetts."
+          ]
+        },
+        {
+          "collectiveName": [
+            "MA-CORD Project Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4327-9764",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2511767"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Preventing chronic disease"
+          ],
+          "ISOAbbreviation": [
+            "Prev Chronic Dis"
+          ],
+          "medlineAbbreviation": [
+            "Prev Chronic Dis"
+          ],
+          "NLMid": [
+            "101205018"
+          ],
+          "ISSN": [
+            "1545-1151"
+          ],
+          "ESSN": [
+            "1545-1151"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "E03"
+  ],
+  "abstractText": [
+    "Although evidence-based interventions to prevent childhood obesity in school settings exist, few studies have identified factors that enhance school districts' capacity to undertake such efforts. We describe the implementation of a school-based intervention using classroom lessons based on existing \"Eat Well and Keep Moving\" and \"Planet Health\" behavior change interventions and schoolwide activities to target 5,144 children in 4th through 7th grade in 2 low-income school districts.The intervention was part of the Massachusetts Childhood Obesity Research Demonstration (MA-CORD) project, a multisector community-based intervention implemented from 2012 through 2014. Using mixed methods, we operationalized key implementation outcomes, including acceptability, adoption, appropriateness, feasibility, implementation fidelity, perceived implementation cost, reach, and sustainability.MA-CORD was adopted in 2 school districts that were facing resource limitations and competing priorities. Although strong leadership support existed in both communities at baseline, one district's staff reported less schoolwide readiness and commitment. Consequently, fewer teachers reported engaging in training, teaching lessons, or planning to sustain the lessons after MA-CORD. Interviews showed that principal and superintendent turnover, statewide testing, and teacher burnout limited implementation; passionate wellness champions in schools appeared to offset implementation barriers.Future interventions should assess adoption readiness at both leadership and staff levels, offer curriculum training sessions during school hours, use school nurses or health teachers as wellness champions to support teachers, and offer incentives such as staff stipends or play equipment to encourage school participation and sustained intervention activities."
+  ],
+  "affiliation": [
+    "Department of Family and Consumer Sciences, California State University, Long Beach, 1250 Bellflower Blvd. FCS FA-15, Long Beach, California 90840. Email: rachel.blaine@csulb.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 DK007703"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U18 DP003370"
+          ],
+          "agency": [
+            "NCCDPHP CDC HHS"
+          ],
+          "acronym": [
+            "DP"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 HL098048"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poverty"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Curriculum"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schools"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Child Health Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "School Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Massachusetts"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Nutritional Physiological Phenomena"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "School Teachers"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5234440?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5234440"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5888/pcd14.160381"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-11-30"
+  ],
+  "dateOfCreation": [
+    "2017-01-14"
+  ],
+  "dateOfRevision": [
+    "2018-04-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-12"
+  ],
+  "firstPublicationDate": [
+    "2017-01-12"
+  ]
+}

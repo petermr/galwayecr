@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6388924/results/search/childobese/results.xml">
+  <result pre="Physiology : Physiological Parameters : Body Weight : Obesity: Childhood" exact="Obesity" post=": Medicine and Health Sciences : Physiology : Physiological"/>
+  <result pre="Physiology : Physiological Parameters : Body Weight : Obesity: Childhood" exact="Obesity" post=": Biology and Life Sciences : Physiology : Physiological"/>
+  <result pre="Life Sciences : Physiology : Physiological Parameters : Body Weight:" exact="Obesity" post=": Medicine and Health Sciences : Physiology : Physiological"/>
+  <result pre="Health Sciences : Physiology : Physiological Parameters : Body Weight:" exact="Obesity" post=": People and Places : Population Groupings : Age"/>
+  <result pre="Population groupings : Ethnicities : Latin American people: Mexican People" exact="Obesity" post="measured as percent body fat, relationship with body mass"/>
+  <result pre="data have been uploaded to Figshare at DOI: 10.6084/m9.figshare.7721963. Introduction" exact="Childhood obesity" post="is the result of an increase in body weight"/>
+  <result pre="from 11.1% in 1999 to 36.4% in 2012 [ 6]." exact="Body mass index" post="(BMI) is the most widely used proxy to assess"/>
+  <result pre="which has been reported for over a decade [ 27]." exact="Obesity" post="prevalence estimation through %BF was near the overweight-obesity prevalence"/>
+  <result pre="Mexican population. The European Society of Endocrinology and the Pediatric" exact="Endocrine" post="Society recommends, for prevention purposes, the evaluation of obesity"/>
+  <result pre="Pletcher MJ , Lightwood J , Goldman L . Adolescent" exact="Overweight" post="and Future Adult Coronary Heart Disease. N Engl J"/>
+  <result pre="B , et al. Adolescent BMI Trajectory and Risk of" exact="Diabetes" post="Versus Coronary Disease. Surv Anesthesiol. 2011; 55: 296– 297."/>
+  <result pre=", Solinas G , Montani JP , Schutz Y ." exact="Body composition" post="phenotypes in pathways to obesity and the metabolic syndrome."/>
+  <result pre="M , Mollerup M , Lausten-thomsen U , et al." exact="Childhood obesity" post="treatment; Effects on BMI SDS, body composition, and fasting"/>
+  <result pre=", Fry T , Jebb SA , Prentice AM ." exact="Body fat" post="reference curves for children. Int J Obes. 2006; 30:"/>
+  <result pre=", Haschke F , Ziegler EE , Nelson SE ." exact="Body composition" post="of reference children from birth to age 10 years."/>
+  <result pre="Khadilkar A , Khadilkar V . Clinical Medicine: Pediatrics Body" exact="Fat" post="percentages by Dual-energy X-ray Absorptiometry corresponding to Body Mass"/>
+  <result pre="Dual-energy X-ray Absorptiometry corresponding to Body Mass Index cutoffs for" exact="Overweight" post="and Obesity in Indian children . Clin Med Pediatr."/>
+  <result pre="Absorptiometry corresponding to Body Mass Index cutoffs for Overweight and" exact="Obesity" post="in Indian children . Clin Med Pediatr. 2009; 3:"/>
+  <result pre=", Jones IE , Williams SM , Goulding A ." exact="Body fat" post="percentages measured by dual-energy X-ray absorptiometry corresponding to recently"/>
+  <result pre="de la obesidad en edad pediátrica . Bol Med Hosp" exact="Infant" post="Mex. 2015; 72: 1– 28. 36 Taylor RW ,"/>
+ </snippets>
+</snippetsTree>

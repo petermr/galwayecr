@@ -1,0 +1,437 @@
+{
+  "id": [
+    "29671815"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29671815"
+  ],
+  "pmcid": [
+    "PMC5946294"
+  ],
+  "doi": [
+    "10.3390/nu10040509"
+  ],
+  "title": [
+    "Factors Influencing Parental Engagement in an Early Childhood Obesity Prevention Program Implemented at Scale: The Infant Program."
+  ],
+  "authorString": [
+    "Love P, Laws R, Litterbach E, Campbell KJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Love P"
+          ],
+          "firstName": [
+            "Penelope"
+          ],
+          "lastName": [
+            "Love"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1244-3947",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Physical Activity and Nutrition, School of Exercise and Nutrition Sciences, Deakin University, Geelong 3222, Australia. penny.love@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Laws R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Laws"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute for Physical Activity and Nutrition, School of Exercise and Nutrition Sciences, Deakin University, Geelong 3222, Australia. r.laws@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Litterbach E"
+          ],
+          "firstName": [
+            "Eloise"
+          ],
+          "lastName": [
+            "Litterbach"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "School of Exercise and Nutrition Sciences, Deakin University, Geelong 3222, Australia. e.litterbach@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell KJ"
+          ],
+          "firstName": [
+            "Karen J"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Institute for Physical Activity and Nutrition, School of Exercise and Nutrition Sciences, Deakin University, Geelong 3222, Australia. karen.campbell@deakin.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1244-3947",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2668123"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrients"
+          ],
+          "ISOAbbreviation": [
+            "Nutrients"
+          ],
+          "medlineAbbreviation": [
+            "Nutrients"
+          ],
+          "NLMid": [
+            "101521595"
+          ],
+          "ISSN": [
+            "2072-6643"
+          ],
+          "ESSN": [
+            "2072-6643"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The &lsquo;early years&rsquo; is a crucial period for the prevention of childhood obesity. Health services are well placed to deliver preventive programs to families, however, they usually rely on voluntary attendance, which is challenging given low parental engagement. This study explored factors influencing engagement in the Infant Program: a group-based obesity prevention program facilitated by maternal and child health nurses within first-time parent groups. Six 1.5 h sessions were delivered at three-month intervals when the infants were 3⁻18 months. A multi-site qualitative exploratory approach was used, and program service providers and parents were interviewed. Numerous interrelated factors were identified, linked to two themes: the transition to parenthood, and program processes. Personal factors enabling engagement included parents&rsquo; heightened need for knowledge, affirmation and social connections. Adjusting to the baby&rsquo;s routine and increased parental self-efficacy were associated with diminished engagement. Organisational factors that challenged embedding program delivery into routine practice included aspects of program promotion, referral and scheduling and workforce resources. Program factors encompassed program content, format, resources and facilitators, with the program being described as meeting parental expectations, although some messages were perceived as difficult to implement. The study findings provide insight into potential strategies to address modifiable barriers to parental engagement in early-year interventions."
+  ],
+  "affiliation": [
+    "Institute for Physical Activity and Nutrition, School of Exercise and Nutrition Sciences, Deakin University, Geelong 3222, Australia. penny.love@deakin.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focus Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Parents"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Community Health Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant Nutritional Physiological Phenomena"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Implementation",
+        "Infant Feeding",
+        "Childhood Obesity",
+        "Maternal And Child Health",
+        "Active Play",
+        "Research Translation",
+        "Parental Engagement"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5946294?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5946294"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/nu10040509"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-19"
+  ],
+  "dateOfCreation": [
+    "2018-04-20"
+  ],
+  "dateOfRevision": [
+    "2018-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-19"
+  ],
+  "firstPublicationDate": [
+    "2018-04-19"
+  ]
+}

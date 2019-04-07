@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6370184/results/search/country/results.xml">
+  <result pre="Generation R Study Group, Erasmus University Medical Center, Rotterdam, the" exact="Netherlands" post="[2], Department of Pediatrics, Erasmus University Medical Center, Rotterdam,"/>
+  <result pre="[2], Department of Pediatrics, Erasmus University Medical Center, Rotterdam, the" exact="Netherlands" post="[3], Department of Pediatrics, Medical University of Warsaw, Warsaw,"/>
+  <result pre="Netherlands [3], Department of Pediatrics, Medical University of Warsaw, Warsaw," exact="Poland" post="[4], Public Health Division of Gipuzkoa, San Sebastián, Spain"/>
+  <result pre="Warsaw, Poland [4], Public Health Division of Gipuzkoa, San Sebastián," exact="Spain" post="[5], BioDonostia Research Institute, San Sebastián, Spain [6], CIBER"/>
+  <result pre="Gipuzkoa, San Sebastián, Spain [5], BioDonostia Research Institute, San Sebastián," exact="Spain" post="[6], CIBER Epidemiología y Salud Pública (CIBERESP), Madrid, Spain"/>
+  <result pre="Sebastián, Spain [6], CIBER Epidemiología y Salud Pública (CIBERESP), Madrid," exact="Spain" post="[7], Epidemiology and Environmental Health Joint Research Unit, FISABIO–Universitat"/>
+  <result pre="Health Joint Research Unit, FISABIO–Universitat Jaume I–Universitat de València, Valencia," exact="Spain" post="[8], EPIUnit, Instituto de Saúde Pública, Universidade do Porto,"/>
+  <result pre="[8], EPIUnit, Instituto de Saúde Pública, Universidade do Porto, Porto," exact="Portugal" post="[9], Department of Public Health and Forensic Sciences and"/>
+  <result pre="Medicine and Public Health, University of Porto Medical School, Porto," exact="Portugal" post="[10], Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden"/>
+  <result pre="Porto, Portugal [10], Institute of Environmental Medicine, Karolinska Institutet, Stockholm," exact="Sweden" post="[11], Centre for Occupational and Environmental Medicine, Stockholm County"/>
+  <result pre="Centre for Occupational and Environmental Medicine, Stockholm County Council, Stockholm," exact="Sweden" post="[12], INSERM, UMR1153 Epidemiology and Biostatistics Sorbonne Paris Cité"/>
+  <result pre="and Biostatistics Sorbonne Paris Cité Center (CRESS), ORCHAD Team, Villejuif," exact="France" post="[13], Paris Descartes University, Villejuif, France [14], Department of"/>
+  <result pre="(CRESS), ORCHAD Team, Villejuif, France [13], Paris Descartes University, Villejuif," exact="France" post="[14], Department of Preventive Medicine, Keck School of Medicine,"/>
+  <result pre="School of Medicine, University of Southern California, Los Angeles, California," exact="United States" post="of America [15], Department of Social Medicine, Faculty of"/>
+  <result pre="of Social Medicine, Faculty of Medicine, University of Crete, Heraklion," exact="Greece" post="[16], Department of Genetics and Cell Biology, Maastricht University,"/>
+  <result pre="Department of Genetics and Cell Biology, Maastricht University, Maastricht, the" exact="Netherlands" post="[17], INSERM, UMR1085, Irset–Research Institute for Environmental and Occupational"/>
+  <result pre="INSERM, UMR1085, Irset–Research Institute for Environmental and Occupational Health, Rennes," exact="France" post="[18], First Department of Pediatrics, National and Kapodistrian University"/>
+  <result pre="University of Athens Medical School, &quot;Aghia Sophia&quot; Children’s Hospital, Athens," exact="Greece" post="[19], Department of Epidemiology, University of Groningen, University Medical"/>
+  <result pre="Epidemiology, University of Groningen, University Medical Center Groningen, Groningen, the" exact="Netherlands" post="[20], MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton,"/>
+  <result pre="Netherlands [20], MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton," exact="United Kingdom" post="[21], Liverpool School of Tropical Medicine, Liverpool, United Kingdom"/>
+  <result pre="Southampton, United Kingdom [21], Liverpool School of Tropical Medicine, Liverpool," exact="United Kingdom" post="[22], Department of Exposure and Environmental Epidemiology, Norwegian Institute"/>
+  <result pre="Exposure and Environmental Epidemiology, Norwegian Institute of Public Health, Oslo," exact="Norway" post="[23], The Department of Biomedical and Neuromotor Sciences, University"/>
+  <result pre="Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna," exact="Italy" post="[24], Department of Epidemiology, Lazio Regional Health Service, Rome,"/>
+  <result pre="Italy [24], Department of Epidemiology, Lazio Regional Health Service, Rome," exact="Italy" post="[25], NIHR Southampton Biomedical Research Centre, University of Southampton"/>
+  <result pre="of Southampton and University Hospital Southampton NHS Foundation Trust, Southampton," exact="United Kingdom" post="[26], Division of Metabolic and Nutritional Medicine, Dr. von"/>
+  <result pre="Nutritional Medicine, Dr. von Hauner Children’s Hospital, Ludwig-Maximilians-Universität München, Munich," exact="Germany" post="[27], Department of Environmental Epidemiology, Nofer Institute of Occupational"/>
+  <result pre="Department of Environmental Epidemiology, Nofer Institute of Occupational Medicine, Lodz," exact="Poland" post="[28], Department of Public Health Sciences, School of Medicine,"/>
+  <result pre="Sciences, School of Medicine, University of California, Davis, Davis, California," exact="United States" post="of America [29], Center for Global Health, University of"/>
+  <result pre="Global Health, University of Illinois College of Medicine, Chicago, Illinois," exact="United States" post="of America [30], Telethon Kids Institute, The University of"/>
+  <result pre="Kids Institute, The University of Western Australia, Perth, Western Australia," exact="Australia" post="[31], Department of Health Security, National Institute for Health"/>
+  <result pre="of Health Security, National Institute for Health and Welfare, Kuopio," exact="Finland" post="[32], Irish Centre for Fetal and Neonatal Translational Research,"/>
+  <result pre="Translational Research, Cork University Maternity Hospital, University College Cork, Cork," exact="Ireland" post="[33], Department of Obstetrics and Gynaecology, Cork University Maternity"/>
+  <result pre="Department of Obstetrics and Gynaecology, Cork University Maternity Hospital, Cork," exact="Ireland" post="[34], Division of Human Nutrition and Health, Wageningen University"/>
+  <result pre="Human Nutrition and Health, Wageningen University &amp;amp; Research, Wageningen, the" exact="Netherlands" post="[35], MRC Integrative Epidemiology Unit at the University of"/>
+  <result pre="MRC Integrative Epidemiology Unit at the University of Bristol, Bristol," exact="United Kingdom" post="[36], Population Health Science, Bristol Medical School, University of"/>
+  <result pre="Population Health Science, Bristol Medical School, University of Bristol, Bristol," exact="United Kingdom" post="[37], Department of Public Health, University of Turku, Turku,"/>
+  <result pre="Kingdom [37], Department of Public Health, University of Turku, Turku," exact="Finland" post="[38], Department of Environmental Immunology/Core Facility Studies, Helmholtz Centre"/>
+  <result pre="Environmental Immunology/Core Facility Studies, Helmholtz Centre for Environmental Research–UFZ, Leipzig," exact="Germany" post="[39], Division of Health Data and Digitalization, Norwegian Institute"/>
+  <result pre="Health Data and Digitalization, Norwegian Institute of Public Health, Oslo," exact="Norway" post="[40], Department of Epidemiology, Chair of Epidemiology and Preventive"/>
+  <result pre="of Epidemiology and Preventive Medicine, Jagiellonian University Medical College, Krakow," exact="Poland" post="[41], Turku Centre for Biotechnology, University of Turku and"/>
+  <result pre="for Biotechnology, University of Turku and Abo Akademi University, Turku," exact="Finland" post="[42], Department of Nutrition and Dietetics, School of Health"/>
+  <result pre="Dietetics, School of Health Science and Education, Harokopio University, Athens," exact="Greece" post="[43], UCD Perinatal Research Centre, Obstetrics &amp;amp; Gynaecology, School"/>
+  <result pre="School of Medicine, University College Dublin, National Maternity Hospital, Dublin," exact="Ireland" post="[44], Department of Pediatrics, Cumming School of Medicine, University"/>
+  <result pre="Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, Alberta," exact="Canada" post="[45], UCD Perinatal Research Centre, School of Public Health"/>
+  <result pre="Health and Physiotherapy and Sports Science, University College Dublin, Dublin," exact="Ireland" post="[46], Department of Epidemiology, Care and Public Health Research"/>
+  <result pre="Care and Public Health Research Institute, Maastricht University, Maastricht, the" exact="Netherlands" post="[47], National Institute of Public Health, University of Southern"/>
+  <result pre="National Institute of Public Health, University of Southern Denmark, Copenhagen," exact="Denmark" post="[48], Department of Public Health, Section of Epidemiology, University"/>
+  <result pre="of Public Health, Section of Epidemiology, University of Copenhagen, Copenhagen," exact="Denmark" post="[49], Medical School, The University of Western Australia, Perth,"/>
+  <result pre="Medical School, The University of Western Australia, Perth, Western Australia," exact="Australia" post="[50], Department of Rehabilitation, Nutrition and Sport, La Trobe"/>
+  <result pre="of Rehabilitation, Nutrition and Sport, La Trobe University, Melbourne, Victoria," exact="Australia" post="[51], Paediatrics &amp;amp; Child Health, University College Cork, Cork,"/>
+  <result pre="Australia [51], Paediatrics &amp;amp; Child Health, University College Cork, Cork," exact="Ireland" post="[52], Cork Centre for Vitamin D and Nutrition Research,"/>
+  <result pre="School of Food and Nutritional Sciences, University College Cork, Cork," exact="Ireland" post="[53], Research Unit for Gynaecology and Obstetrics, Institute for"/>
+  <result pre="Obstetrics, Institute for Clinical Research, University of Southern Denmark, Odense," exact="Denmark" post="[54], Department of Population Medicine, Harvard Medical School, Harvard"/>
+  <result pre="Harvard Medical School, Harvard Pilgrim Health Care Institute, Boston, Massachusetts," exact="United States" post="of America [55], Department of Public Health, Amsterdam Public"/>
+  <result pre="Amsterdam Public Health Research Institute, Academic Medical Center, Amsterdam, the" exact="Netherlands" post="[56], Department of Environmental Exposures and Epidemiology, Domain of"/>
+  <result pre="Control and Environmental Health, Norwegian Institute of Public Health, Oslo," exact="Norway" post="[57], Department of Public Health, University of Helsinki, Helsinki,"/>
+  <result pre="Norway [57], Department of Public Health, University of Helsinki, Helsinki," exact="Finland" post="[58], Department of Medical Sciences, University of Turin, Turin,"/>
+  <result pre="Finland [58], Department of Medical Sciences, University of Turin, Turin," exact="Italy" post="[59], Institute for Maternal and Child Health–IRCCS &quot;Burlo Garofolo&quot;,"/>
+  <result pre="[59], Institute for Maternal and Child Health–IRCCS &quot;Burlo Garofolo&quot;, Trieste," exact="Italy" post="[60], Institute of Epidemiology, Helmholtz Zentrum München–German Research Center"/>
+  <result pre="Epidemiology, Helmholtz Zentrum München–German Research Center for Environmental Health, Neuherberg," exact="Germany" post="[61], Norwegian Institute of Public Health, Oslo, Norway [62],"/>
+  <result pre="Health, Neuherberg, Germany [61], Norwegian Institute of Public Health, Oslo," exact="Norway" post="[62], Department of Global Public Health and Primary Care,"/>
+  <result pre="Global Public Health and Primary Care, University of Bergen, Bergen," exact="Norway" post="[63], Dr. von Hauner Children’s Hospital, Ludwig-Maximilians-Universität München, Munich,"/>
+  <result pre="Norway [63], Dr. von Hauner Children’s Hospital, Ludwig-Maximilians-Universität München, Munich," exact="Germany" post="[64], IB-Salut, Area de Salut de Menorca, Palma, Spain"/>
+  <result pre="Munich, Germany [64], IB-Salut, Area de Salut de Menorca, Palma," exact="Spain" post="[65], Department of Community Health Sciences, Cumming School of"/>
+  <result pre="Sciences, Cumming School of Medicine, University of Calgary, Calgary, Alberta," exact="Canada" post="[66], Department of Environmental Medicine, Slovak Medical University, Bratislava,"/>
+  <result pre="Slovak Republic [67], Child Health, Royal Aberdeen Children’s Hospital, Aberdeen," exact="United Kingdom" post="[68], Julius Center for Health Sciences and Primary Care,"/>
+  <result pre="Primary Care, University Medical Center Utrecht, Utrecht University, Utrecht, the" exact="Netherlands" post="[69], Research Institute, Department of Pediatrics, Marien-Hospital Wesel, Wesel,"/>
+  <result pre="Netherlands [69], Research Institute, Department of Pediatrics, Marien-Hospital Wesel, Wesel," exact="Germany" post="[70], ISGlobal, Barcelona, Spain [71], Universitat Pompeu Fabra (UPF),"/>
+  <result pre="Department of Pediatrics, Marien-Hospital Wesel, Wesel, Germany [70], ISGlobal, Barcelona," exact="Spain" post="[71], Universitat Pompeu Fabra (UPF), Barcelona, Spain [72], Bradford"/>
+  <result pre="[70], ISGlobal, Barcelona, Spain [71], Universitat Pompeu Fabra (UPF), Barcelona," exact="Spain" post="[72], Bradford Institute for Health Research, Bradford Royal Infirmary,"/>
+  <result pre="[72], Bradford Institute for Health Research, Bradford Royal Infirmary, Bradford," exact="United Kingdom" post="[73], National Institute for Public Health and the Environment,"/>
+  <result pre="National Institute for Public Health and the Environment, Bilthoven, the" exact="Netherlands" post="[74], Department of Medical and Social Problems of Family"/>
+  <result pre="of Family Health, Institute of Pediatrics, Obstetrics and Gynecology, Kyiv," exact="Ukraine" post="[75], The Novo Nordisk Foundation Center for Basic Metabolic"/>
+  <result pre="Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen," exact="Denmark" post="[76], Department of Epidemiology, Erasmus University Medical Center, Rotterdam,"/>
+  <result pre="[76], Department of Epidemiology, Erasmus University Medical Center, Rotterdam, the" exact="Netherlands" post="Ma Ronald C. W. Academic Editor [], Chinese University"/>
+  <result pre="Ma Ronald C. W. Academic Editor [], Chinese University of" exact="Hong Kong," post="CHINA I have read the journal’s policy and the"/>
+  <result pre="37 pregnancy and birth cohorts from Europe, North America, and" exact="Australia" post="to assess the separate and combined associations of maternal"/>
+  <result pre="Diabetes Foundation (grant number 2017.81.002). VWVJ received grants from the" exact="Netherlands" post="Organization for Health Research and Development (VIDI 016.136.361) and"/>
+  <result pre="adiposity [ 20, 21]. A study among 100,612 participants from" exact="China" post="reported that, compared to normal maternal weight and adequate"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,384 @@
+{
+  "id": [
+    "30373597"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30373597"
+  ],
+  "pmcid": [
+    "PMC6206663"
+  ],
+  "doi": [
+    "10.1186/s12937-018-0406-2"
+  ],
+  "title": [
+    "A multilevel, multicomponent childhood obesity prevention group-randomized controlled trial improves healthier food purchasing and reduces sweet-snack consumption among low-income African-American youth."
+  ],
+  "authorString": [
+    "Trude ACB, Surkan PJ, Cheskin LJ, Gittelsohn J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Trude ACB"
+          ],
+          "firstName": [
+            "Angela C B"
+          ],
+          "lastName": [
+            "Trude"
+          ],
+          "initials": [
+            "ACB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2881-1089",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of International Health, Global Obesity Prevention Center, and Center for Human Nutrition, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA. atrude1@jhu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Surkan PJ"
+          ],
+          "firstName": [
+            "Pamela J"
+          ],
+          "lastName": [
+            "Surkan"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "affiliation": [
+            "Department of International Health, Social and Behavioral Interventions Program, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheskin LJ"
+          ],
+          "firstName": [
+            "Lawrence J"
+          ],
+          "lastName": [
+            "Cheskin"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "Department of Health Behavior and Society, and the Global Obesity Prevention Center, Johns Hopkins Bloomberg School of Public Health, 550 N. Broadway, Baltimore, MD, 21205, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gittelsohn J"
+          ],
+          "firstName": [
+            "Joel"
+          ],
+          "lastName": [
+            "Gittelsohn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of International Health, Global Obesity Prevention Center, and Center for Human Nutrition, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2881-1089",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2735658"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrition journal"
+          ],
+          "ISOAbbreviation": [
+            "Nutr J"
+          ],
+          "medlineAbbreviation": [
+            "Nutr J"
+          ],
+          "NLMid": [
+            "101152213"
+          ],
+          "ISSN": [
+            "1475-2891"
+          ],
+          "ESSN": [
+            "1475-2891"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "96"
+  ],
+  "abstractText": [
+    "BACKGROUND:Consumption of foods and beverages rich in sugar remains high across all races and ages in the United States. Interventions to address childhood obesity and decrease sugar intake are needed, particularly in low-income settings. METHODS:B'more Healthy Communities for Kids (BHCK) was a group-randomized, controlled trial implemented among 9-15-year olds in 30 low-income areas of Baltimore. We increased access to low-sugar foods and beverages at wholesalers and small food stores. Concurrently, we encouraged their purchase and consumption by children through youth-led nutrition education in recreation centers, in-store promotions, text messaging and a social media program directed at caregivers. Sugar consumption (sugar sweetened beverage (SSB), sweets) in youth was assessed pre- (n = 534) and post-intervention (n = 401) using the Block Kids Food Frequency Questionnaire. Purchasing of 38 healthier and 28 less healthier food/beverage varieties in the previous 7 days was assessed via self-report. Multilevel models at the community and individual levels were used. Analyses were stratified by age (younger: 9-12-year olds (n = 339) vs older: 13-15 (n = 170)). Models were controlled for child's sex, race, total daily caloric intake, and caregiver's age and sex. RESULTS:Overall baseline mean healthier food purchasing was 2.5 (+ 3.6; min. 0, max. 34 items per week), and unhealthier food purchasing 4.6 (+ 3.7; 0-19 items per week). Mean intake at baseline for kcal from SSB was 176 (+ 189.1) and 153 (+ 142.5), and % of calories from sweets (i.e. cookies, cakes, pies, donuts, candy, ice cream, sweetened cereals, and chocolate beverages) was 15.9 (+ 9.7) and 15.9 (+ 7.7) in comparison and intervention youth, respectively. Intervention youth increased healthier foods and beverages purchases by 1.4 more items per week than comparison youth (β = 1.4; 95% CI: 0.1; 2.8). After the intervention, there was a 3.5% decrease in kcal from sweets for older intervention youth, compared to the control group (β = - 3.5; 95% CI: -7.76; - 0.05). No impact was seen on SSB consumption. CONCLUSION:BHCK successfully increased healthier food purchasing variety in youth, and decreased % calories from sweet snacks in older youth. Multilevel, multicomponent environmental childhood obesity programs are a promising strategy to improve eating behaviors among low-income urban youth. TRIAL REGISTRATION:NCT02181010 (July 2, 2014, retrospectively registered)."
+  ],
+  "affiliation": [
+    "Department of International Health, Global Obesity Prevention Center, and Center for Human Nutrition, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA. atrude1@jhu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1U48DP000040, SIP 14-027"
+          ],
+          "agency": [
+            "CDC HHS"
+          ],
+          "acronym": [
+            "CC"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54HD070725"
+          ],
+          "agency": [
+            "NIH Office of the Director"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HD070725"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "249316/2013-7"
+          ],
+          "agency": [
+            "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Adolescent",
+        "Dietary Intake",
+        "Childhood Obesity",
+        "African-american",
+        "Environmental Intervention",
+        "Consumption Of Sweets"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6206663?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6206663"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12937-018-0406-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-10-31"
+  ],
+  "dateOfRevision": [
+    "2019-02-05"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-29"
+  ],
+  "firstPublicationDate": [
+    "2018-10-29"
+  ]
+}

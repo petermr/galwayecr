@@ -1,0 +1,408 @@
+{
+  "id": [
+    "30655501"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30655501"
+  ],
+  "pmcid": [
+    "PMC6336849"
+  ],
+  "doi": [
+    "10.1038/s41398-018-0341-1"
+  ],
+  "title": [
+    "Childhood psychosocial challenges and risk for obesity in U.S. men and women."
+  ],
+  "authorString": [
+    "Wall MM, Mason SM, Liu J, Olfson M, Neumark-Sztainer D, Blanco C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wall MM"
+          ],
+          "firstName": [
+            "Melanie M"
+          ],
+          "lastName": [
+            "Wall"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Columbia University, 1051 Riverside Drive, New York, NY, 10032, USA. mmw2177@cumc.columbia.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Mason SM"
+          ],
+          "firstName": [
+            "Susan M"
+          ],
+          "lastName": [
+            "Mason"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Division of Epidemiology, School of Public Health, University of Minnesota, Minneapolis, MN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "New York State Psychiatric Institute, New York, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Olfson M"
+          ],
+          "firstName": [
+            "Mark"
+          ],
+          "lastName": [
+            "Olfson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Columbia University, 1051 Riverside Drive, New York, NY, 10032, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Neumark-Sztainer D"
+          ],
+          "firstName": [
+            "Dianne"
+          ],
+          "lastName": [
+            "Neumark-Sztainer"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Division of Epidemiology, School of Public Health, University of Minnesota, Minneapolis, MN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Blanco C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Blanco"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6187-3057",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institute on Drug Abuse, 6001 Executive Blvd., Rockville, MD, 20852, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6187-3057",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2772440"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Translational psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Transl Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Transl Psychiatry"
+          ],
+          "NLMid": [
+            "101562664"
+          ],
+          "ISSN": [
+            "2158-3188"
+          ],
+          "ESSN": [
+            "2158-3188"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "16"
+  ],
+  "abstractText": [
+    "Childhood psychosocial challenges (i.e., adversities, mental and substance use disorders, social challenges) may relate to the onset of obesity and extreme obesity. Identifying the types of psychosocial challenges most strongly associated with obesity could advance etiologic understanding and help target prevention efforts. Using a nationally representative sample of U.S. adults (N = 24,350), the present study evaluates relationships between childhood psychosocial challenges and development of obesity and extreme obesity. After mutually controlling, childhood poverty was a risk in men OR = 1.2 (1.0-1.4) and a significantly stronger one in women OR = 1.6 (1.4-1.8); maltreatment increased odds of obesity in both men and women OR = 1.3, 95% CI (1.1-1.4), and specifically increased odds of extreme obesity in women OR = 1.5 (1.3-1.9). Early childrearing (before age 18) was an independent risk factor in both men OR = 1.4 (1.0-1.9) and women OR = 1.3 (1.1-1.5); not finishing high school was the strongest childhood psychosocial challenge risk factor for extreme obesity in both men (OR = 1.6, 1.1-2.2) and women (OR = 2.0, 1.5-2.5). Psychiatric disorders (MDD, anxiety disorder, PTSD) before age 18 were not independently associated with adult obesity in men nor women, but substance use disorders (alcohol or drug) were inversely associated with adult obesity. Individuals who have experienced childhood adversities and social challenges are at increased risk for obesity. Previous findings also indicate that these individuals respond poorly to traditional weight management strategies. It is critical to identify the reasons for these elevated weight problems, and to develop interventions that are appropriately tailored to mitigate the obesity burden faced by this vulnerable population."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Columbia University, 1051 Riverside Drive, New York, NY, 10032, USA. mmw2177@cumc.columbia.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DA019606"
+          ],
+          "agency": [
+            "U.S. Department of Health & Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "HL116892"
+          ],
+          "agency": [
+            "U.S. Department of Health & Human Services | NIH | National Heart, Lung, and Blood Institute (NHLBI)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "da019606"
+          ],
+          "agency": [
+            "U.S. Department of Health & Human Services | NIH | National Institute on Drug Abuse (NIDA)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL116892"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 DA019606"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6336849?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6336849"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41398-018-0341-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-19"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-17"
+  ],
+  "firstPublicationDate": [
+    "2019-01-17"
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "id": [
+    "30743995"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30743995"
+  ],
+  "pmcid": [
+    "PMC6388206"
+  ],
+  "doi": [
+    "10.3390/ijerph16030485"
+  ],
+  "title": [
+    "A Systematic Review of Methods, Study Quality, and Results of Economic Evaluation for Childhood and Adolescent Obesity Intervention."
+  ],
+  "authorString": [
+    "Zanganeh M, Adab P, Li B, Frew E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zanganeh M"
+          ],
+          "firstName": [
+            "Mandana"
+          ],
+          "lastName": [
+            "Zanganeh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham B15 2TT, UK. MXZ666@student.bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Adab P"
+          ],
+          "firstName": [
+            "Peymane"
+          ],
+          "lastName": [
+            "Adab"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9087-3945",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham B15 2TT, UK. P.ADAB@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bai"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham B15 2TT, UK. B.Li.3@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Frew E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Frew"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5462-1158",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham B15 2TT, UK. E.Frew@bham.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9087-3945",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5462-1158",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2778437"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "Many suggested policy interventions for childhood and adolescent obesity have costs and effects that fall outside the health care sector. These cross-sectorial costs and consequences have implications for how economic evaluation is applied and although previous systematic reviews have provided a summary of cost-effectiveness, very few have conducted a review of methods applied. We undertook this comprehensive review of economic evaluations, appraising the methods used, assessing the quality of the economic evaluations, and summarising cost-effectiveness. Nine electronic databases were searched for full-economic evaluation studies published between January 2001 and April 2017 with no language or country restrictions. 39 economic evaluation studies were reviewed and quality assessed. Almost all the studies were from Western countries and methods were found to vary by country, setting and type of intervention. The majority, particularly \"behavioural and policy\" preventive interventions, were cost-effective, even cost-saving. Only four interventions were not cost effective. This systematic review suggests that economic evaluation of obesity interventions is an expanding area of research. However, methodological heterogeneity makes evidence synthesis challenging. Whilst upstream interventions show promise, an expanded and consistent approach to evaluate cost-effectiveness is needed to capture health and non-health costs and consequences."
+  ],
+  "affiliation": [
+    "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham B15 2TT, UK. MXZ666@student.bham.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "Not Applicable"
+          ],
+          "agency": [
+            "University of Birmingham College of Medical & Dental Sciences PhD Studentship"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Children",
+        "Methods",
+        "Prevention",
+        "Treatment",
+        "Adolescents",
+        "Cost Effectiveness"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6388206?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6388206"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16030485"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-13"
+  ],
+  "dateOfRevision": [
+    "2019-02-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-08"
+  ],
+  "firstPublicationDate": [
+    "2019-02-08"
+  ]
+}

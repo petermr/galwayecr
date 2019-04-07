@@ -1,0 +1,288 @@
+{
+  "id": [
+    "25018874"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25018874"
+  ],
+  "pmcid": [
+    "PMC4089744"
+  ],
+  "doi": [
+    "10.1038/ijosup.2013.7"
+  ],
+  "title": [
+    "Education for childhood obesity prevention across the life-course: workshop conclusions."
+  ],
+  "authorString": [
+    "Pérez-Escamilla R, Hospedales J, Contreras A, Kac G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pérez-Escamilla R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Pérez-Escamilla"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Chronic Disease Epidemiology, Yale School of Public Health , New Haven, CT, USA ; Office of Public Health Practice, Yale School of Public Health , New Haven, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hospedales J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Hospedales"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Prevention & Control, Non-Communicable Disease, Pan-American Health Organization , Washington, DC, USA ; Pan American/World Health Organization , Washington, DC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Contreras A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Contreras"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Health Promotion Settings & Social Communication, Pan-American Health Organization , Washington, DC, USA ; Pan American/World Health Organization , Washington, DC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kac G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Kac"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Observatório de Epidemiologia Nutricional, Instituto de Nutrição Josué de Castro, Universidade Federal , do Rio de Janeiro, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2180359"
+      ],
+      "dateOfPublication": [
+        "2013 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of obesity supplements"
+          ],
+          "ISOAbbreviation": [
+            "Int J Obes Suppl"
+          ],
+          "medlineAbbreviation": [
+            "Int J Obes Suppl"
+          ],
+          "NLMid": [
+            "101590890"
+          ],
+          "ISSN": [
+            "2046-2166"
+          ],
+          "ESSN": [
+            "2046-2174"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "S18-S19"
+  ],
+  "abstractText": [
+    "The objectives of this paper are to present the conclusions from the workshop 'Education for childhood obesity prevention: a life-course approach', coordinated by the Pan-American Health Organization and the Pan-American Health and Education Foundation, and held on 14 June 2012 in Aruba, as part of the II Pan-American Conference on Childhood Obesity (http://www.paco.aw/). This workshop focused on the need to recognize the life-course framework and education as a social determinant of health to address the childhood obesity epidemic through diverse education-based initiatives. Workshop participants agreed that both education per se and the education sector are key for obesity prevention and must form part of multidisciplinary interventions and collaboration between schools, families and the entire society. Capacity building in obesity prevention is required and should include the entire learning community, teachers, leaders, health-care providers, related services personnel, university professors and other interested community members. Obesity prevention initiatives should also engage key community institutions outside the formal education system, including early childhood centers, churches, pediatric/family medicine clinics, among others, to support family nutrition education, healthy food access and daily physical activity-all of which are key to promote a child's 'healthy weight'."
+  ],
+  "affiliation": [
+    "Department of Chronic Disease Epidemiology, Yale School of Public Health , New Haven, CT, USA ; Office of Public Health Practice, Yale School of Public Health , New Haven, CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention",
+        "Education",
+        "Childhood Obesity",
+        "Life-course"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4089744?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4089744"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/ijosup.2013.7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-07-14"
+  ],
+  "firstPublicationDate": [
+    "2013-06-01"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "id": [
+    "25018875"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25018875"
+  ],
+  "pmcid": [
+    "PMC4089584"
+  ],
+  "doi": [
+    "10.1038/ijosup.2013.2"
+  ],
+  "title": [
+    "Childhood obesity prevention: a life-course framework."
+  ],
+  "authorString": [
+    "Pérez-Escamilla R, Kac G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pérez-Escamilla R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Pérez-Escamilla"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Chronic Disease Epidemiology, Yale School of Public Health , New Haven, CT, USA ; Panamerican Health and Education Foundation , Washington, DC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kac G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Kac"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Panamerican Health and Education Foundation , Washington, DC, USA ; Observatório de Epidemiologia Nutricional , Instituto de Nutrição Josué de Castro, Universidade Federal do Rio de Janeiro , Rio de Janeiro, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2180359"
+      ],
+      "dateOfPublication": [
+        "2013 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of obesity supplements"
+          ],
+          "ISOAbbreviation": [
+            "Int J Obes Suppl"
+          ],
+          "medlineAbbreviation": [
+            "Int J Obes Suppl"
+          ],
+          "NLMid": [
+            "101590890"
+          ],
+          "ISSN": [
+            "2046-2166"
+          ],
+          "ESSN": [
+            "2046-2174"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "S3-S5"
+  ],
+  "abstractText": [
+    "Overweight/obese women are more likely to deliver newborns that also have a predisposition to store excessive amounts of fat since the early infancy period. Two evidence-based cycles are considered on the explanation of the maternal-child life-course approach for obesity prevention. The 'maternal' cycle indicates that pre-pregnancy overweight primiparous women are more likely to gain excessive weight during gestation and to retain excessive weight postpartum. The 'offspring' cycle indicates that newborns of pre-pregnancy overweight/obese women are more likely themselves to store excessive body fat starting very early on in life. The social ecological model (SEM) has been adopted as the framework needed to guide obesity prevention initiatives. The SEM considers the complex interrelationship among highly interconnected systems embedded within each other and having the individual on its inner most. Recommendations to women should include prevention of overweight/obesity prenatally, to attain adequate gestational weight and to lose the weight normally gained as part of the physiological response to pregnancy in the postpartum period. For the 'offspring' the aims should be to promote optimal breastfeeding and complementary feeding practices, and to foster physical activity and adequate dietary habits. Well-coordinated inter-sectorial national obesity prevention programs built upon the life-course framework foundation requires in-depth early life systems analyses driven by the SEM."
+  ],
+  "affiliation": [
+    "Department of Chronic Disease Epidemiology, Yale School of Public Health , New Haven, CT, USA ; Panamerican Health and Education Foundation , Washington, DC, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention",
+        "Childhood",
+        "Life-course",
+        "Social Ecological Model"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4089584?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4089584"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/ijosup.2013.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-07-14"
+  ],
+  "firstPublicationDate": [
+    "2013-06-01"
+  ]
+}

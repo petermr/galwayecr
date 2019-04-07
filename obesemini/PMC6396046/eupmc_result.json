@@ -1,0 +1,313 @@
+{
+  "id": [
+    "30834116"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30834116"
+  ],
+  "pmcid": [
+    "PMC6396046"
+  ],
+  "doi": [
+    "10.1177/2050312119834117"
+  ],
+  "title": [
+    "A qualitative study examining medical provider advice, barriers, and perceived effectiveness in addressing childhood obesity to patients and families from a low-income community health clinic."
+  ],
+  "authorString": [
+    "Sastre LR, Matson S, Gruber KJ, Haldeman L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sastre LR"
+          ],
+          "firstName": [
+            "Lauren R"
+          ],
+          "lastName": [
+            "Sastre"
+          ],
+          "initials": [
+            "LR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3035-8447",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Nutrition Science, East Carolina University, Greenville, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Matson S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Matson"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Human Nutrition, Winthrop University, Rock Hill, SC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gruber KJ"
+          ],
+          "firstName": [
+            "Kenneth J"
+          ],
+          "lastName": [
+            "Gruber"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Center for Youth, Family and Community Partnerships, The University of North Carolina at Greensboro, Greensboro, NC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Haldeman L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Haldeman"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Nutrition, The University of North Carolina at Greensboro, Greensboro, NC, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3035-8447",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2770937"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SAGE open medicine"
+          ],
+          "ISOAbbreviation": [
+            "SAGE Open Med"
+          ],
+          "medlineAbbreviation": [
+            "SAGE Open Med"
+          ],
+          "NLMid": [
+            "101624744"
+          ],
+          "ISSN": [
+            "2050-3121"
+          ],
+          "ESSN": [
+            "2050-3121"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2050312119834117"
+  ],
+  "abstractText": [
+    "Objective:To examine medical provider (n = 16) perceptions in addressing and managing pediatric obesity with a diverse, low-income patient population. Methods:Semi-structured audio-recorded interviews were performed at three pediatric clinics. Transcripts were reviewed using content analysis and consensus was reached among authors for themes. Themes were grouped into categories including: (1) initiation of weight discussions, (2) advice and perceived effectiveness, and (3) barriers. Results:Most providers reported being comfortable addressing weight and use a variety of methods to initiate conversations; however, many challenges were reported, which include limited time and parent misperceptions of child's weight. A broad range of lifestyle advice was utilized, but preference to discuss physical activity over nutrition was reported. Conclusion:Results suggest that successful management of children's weight involves addressing issues at both the parent and the provider levels. Improved nutrition resources or training for providers is suggested; however, time must also be available for individualized counseling. Incorporation of registered dietitians may also reduce the burden."
+  ],
+  "affiliation": [
+    "Department of Nutrition Science, East Carolina University, Greenville, NC, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Diet",
+        "Nutrition",
+        "Food",
+        "Pediatric",
+        "Counseling"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6396046?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6396046"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2050312119834117"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-06"
+  ],
+  "dateOfRevision": [
+    "2019-03-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-28"
+  ],
+  "firstPublicationDate": [
+    "2019-02-28"
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "id": [
+    "30719050"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30719050"
+  ],
+  "pmcid": [
+    "PMC6335658"
+  ],
+  "doi": [
+    "10.1155/2019/3737194"
+  ],
+  "title": [
+    "Parental Perceptions of Child's Medical Care and Neighborhood and Child's Behavioral Risk Factors for Obesity in U.S. Children by Body Mass Index Classification."
+  ],
+  "authorString": [
+    "Vaccaro JA, Zarini GG, Huffman FG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vaccaro JA"
+          ],
+          "firstName": [
+            "Joan A"
+          ],
+          "lastName": [
+            "Vaccaro"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8322-3466",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Florida International University, Robert R. Stempel College of Public Health and Social Work, Department of Dietetics and Nutrition, 11200 SW, 8th ST, AHC-5 Room 324, Miami, FL 33199, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zarini GG"
+          ],
+          "firstName": [
+            "Gustavo G"
+          ],
+          "lastName": [
+            "Zarini"
+          ],
+          "initials": [
+            "GG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3130-3568",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Florida International University, Robert R. Stempel College of Public Health and Social Work, Department of Dietetics and Nutrition, 11200 SW, 8th ST, AHC-5 Room 324, Miami, FL 33199, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Huffman FG"
+          ],
+          "firstName": [
+            "Fatma G"
+          ],
+          "lastName": [
+            "Huffman"
+          ],
+          "initials": [
+            "FG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8513-1648",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Florida International University, Robert R. Stempel College of Public Health and Social Work, Department of Dietetics and Nutrition, 11200 SW, 8th ST, AHC-5 Room 324, Miami, FL 33199, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3130-3568",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8322-3466",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8513-1648",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2019"
+      ],
+      "journalIssueId": [
+        "2778678"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of environmental and public health"
+          ],
+          "ISOAbbreviation": [
+            "J Environ Public Health"
+          ],
+          "medlineAbbreviation": [
+            "J Environ Public Health"
+          ],
+          "NLMid": [
+            "101516361"
+          ],
+          "ISSN": [
+            "1687-9813"
+          ],
+          "ESSN": [
+            "1687-9813"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "3737194"
+  ],
+  "abstractText": [
+    "Environmental factors, preventive medical care, and behaviors play a role in childhood obesity. This study used the National Survey of Children's Health, 2011-2012, for 42,828 children, ages 10-17 years. Greater percent of children in the overweight/obese category performed no moderate-to-vigorous physical activity: 11.9 (10.6, 13.3) as compared to children in the underweight/normal weight category: 9.7 (8.9 10.6). No moderate-to-vigorous physical activity was associated with no preventive medical care, inadequate or no health care, parents reporting higher percent of no parks or playgrounds, and unsafe and unsupportive neighborhoods. Odds ratios of overweight/obesity were higher for males [OR = 2.06 (1.64, 2.60)], Hispanics [OR = 1.49 (1.17, 1.90)], non-Hispanic Black females [OR = 1.59 (1.20, 2.08)], younger females [OR10-12 yrs. = 1.35 (1.03, 1.79) and OR13-15 yrs. = 1.4. (1.06, 1.89) vs. OR = 1.0016-17 yrs.], children with high television viewing [OR0-1 hr./day = 0.72 (0.61, 0.86); OR>1 to <4 hrs./day 0.84 (0.72, 0.99) = vs. OR = 1.00≥ 4 hrs./day,] and lower categories of physical activity [OR 0 days/wk. = 1.38 (1.13, 1.62); OR1-3 days/wk. = 1.14 (1.22, 1.62) vs. OR7 days/wk. = 1.00], higher poverty, smoke exposure, and parental perception of their neighborhood as unsupportive. Promoting preventive medical care and neighborhood cooperation may have potential to lower childhood obesity."
+  ],
+  "affiliation": [
+    "Florida International University, Robert R. Stempel College of Public Health and Social Work, Department of Dietetics and Nutrition, 11200 SW, 8th ST, AHC-5 Room 324, Miami, FL 33199, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335658?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335658"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2019/3737194"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-06"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-03"
+  ],
+  "firstPublicationDate": [
+    "2019-01-03"
+  ]
+}

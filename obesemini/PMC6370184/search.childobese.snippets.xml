@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6370184/results/search/childobese/results.xml">
+  <result pre="Physiology : Physiological Parameters : Body Weight : Obesity: Childhood" exact="Obesity" post=": Medicine and Health Sciences : Physiology : Physiological"/>
+  <result pre="Physiology : Physiological Parameters : Body Weight : Obesity: Childhood" exact="Obesity" post=": Biology and Life Sciences : Physiology : Physiological"/>
+  <result pre="Life Sciences : Physiology : Physiological Parameters : Body Weight:" exact="Obesity" post=": Medicine and Health Sciences : Physiology : Physiological"/>
+  <result pre="Health Sciences : Physiology : Physiological Parameters : Body Weight:" exact="Obesity" post=": Medicine and Health Sciences : Endocrinology : Endocrine"/>
+  <result pre="Weight: Obesity : Medicine and Health Sciences : Endocrinology :" exact="Endocrine" post="Disorders : Diabetes Mellitus: Gestational Diabetes : Medicine and"/>
+  <result pre="Medicine and Health Sciences : Endocrinology : Endocrine Disorders :" exact="Diabetes" post="Mellitus: Gestational Diabetes : Medicine and Health Sciences :"/>
+  <result pre="Sciences : Endocrinology : Endocrine Disorders : Diabetes Mellitus: Gestational" exact="Diabetes" post=": Medicine and Health Sciences : Metabolic Disorders :"/>
+  <result pre="Diabetes : Medicine and Health Sciences : Metabolic Disorders :" exact="Diabetes" post="Mellitus: Gestational Diabetes : Research and Analysis Methods :"/>
+  <result pre="and Health Sciences : Metabolic Disorders : Diabetes Mellitus: Gestational" exact="Diabetes" post=": Research and Analysis Methods : Mathematical and Statistical"/>
+  <result pre="Health, University College Cork, Cork, Ireland [52], Cork Centre for" exact="Vitamin" post="D and Nutrition Research, School of Food and Nutritional"/>
+  <result pre="the Dutch Heart Foundation (grant number 2017T013) and the Dutch" exact="Diabetes" post="Foundation (grant number 2017.81.002). VWVJ received grants from the"/>
+  <result pre="participating cohorts This study was embedded in the international Maternal" exact="Obesity" post="and Childhood Outcomes (MOCO) collaboration [ 8, 9]. Pregnancy"/>
+  <result pre="Reference n cases/total = 13,870/82,438 Reference n cases/total = 2,505/13,497" exact="Overweight" post="(25.0–29.9 kg/m 2) 1.66 (1.56, 1.78) n cases/total ="/>
+  <result pre="6,556/23,359 15.1 2.28 (2.08, 2.50) n cases/total = 968/2,799 20.1" exact="Obesity" post="(≥30.0 kg/m 2) 2.43 (2.24, 2.64) n cases/total ="/>
+  <result pre="3,612/9,248 14.4 4.47 (3.99, 5.23) n cases/total = 528/1,000 21.6" exact="Obesity" post="class I (30.0–34.9 kg/m 2) 2.35 (2.14, 2.59) n"/>
+  <result pre="2,552/6,874 10.0 4.16 (3.56, 4.87) n cases/total = 363/726 15.6" exact="Obesity" post="class II (35.0–39.9 kg/m 2) 2.57 (2.20, 3.02) n"/>
+  <result pre="782/1,836 3.9 5.98 (4.50, 7.94) n cases/total = 129/215 7.4" exact="Obesity" post="class III (≥40.0 kg/m 2) 2.93 (2.22, 3.87) n"/>
+  <result pre="Reference n = 58,177 n = 84,119 n = 13,737" exact="Overweight" post="(25.0–29.9 kg/m 2) 0.19 (0.17, 0.21) 0.33 (0.32, 0.35)"/>
+  <result pre="0.49) n = 17,258 n = 23,671 n = 2,819" exact="Obesity" post="(≥30.0 kg/m 2) 0.34 (0.32, 0.37) 0.62 (0.60, 0.64)"/>
+  <result pre="0.99) n = 7,138 n = 9,340 n = 1,004" exact="Obesity" post="class I (30.0–34.9 kg/m 2) 0.32 (0.29, 0.35) 0.57"/>
+  <result pre="0.93) n = 5,197 n = 6,944 n = 730" exact="Obesity" post="class II (35.0–39.9 kg/m 2) 0.39 (0.33, 0.44) 0.72"/>
+  <result pre="1.23) n = 1,509 n = 1,854 n = 215" exact="Obesity" post="class III (≥40.0 kg/m 2) 0.45 (0.35, 0.55) 0.94"/>
+  <result pre="cases/total = 4,381/22,400 1.30 (1.14, 1.49) n cases/total = 446/2,162" exact="Overweight" post="(25.0–29.9 kg/m 2 ) Inadequate weight gain 1.49 (1.21,"/>
+  <result pre="cases/total = 3,660/12,786 2.65 (2.28, 3.08) n cases/total = 395/1,119" exact="Obesity" post="(≥30.0 kg/m 2 ) Inadequate weight gain 2.04 (1.66,"/>
+  <result pre="0.16) n = 22,825 0.12 (0.06, 0.17) n = 2,187" exact="Overweight" post="(25.0–29.9 kg/m 2 ) Inadequate weight gain 0.06 (0.00,"/>
+  <result pre="0.43) n = 12,962 0.55 (0.49, 0.62) n = 1,127" exact="Obesity" post="(≥30.0 kg/m 2 ) Inadequate weight gain 0.26 (0.20,"/>
+  <result pre="US Institute of Medicine IPD individual participant data MOCO Maternal" exact="Obesity" post="and Childhood Outcomes OR odds ratio PAR population attributable"/>
+  <result pre="al. Preconceptional and maternal obesity: epidemiology and health consequences. Lancet" exact="Diabetes" post="Endocrinol. 2016; 4: 1025– 36. 10.1016/S2213-8587(16)30217-0 27743975 2 Gaillard"/>
+  <result pre="of maternal obesity on the long-term health of offspring. Lancet" exact="Diabetes" post="Endocrinol. 2017; 5: 53– 64. 10.1016/S2213-8587(16)30107-3 27743978 4 Yu"/>
+  <result pre="39. 10.1016/j.beem.2012.03.010 22980045 25 Catalano PM , Shankar K ." exact="Obesity" post="and pregnancy: mechanisms of short term and long term"/>
+  <result pre="overweight and obesity in offspring: a systematic review . Exp" exact="Diabetes" post="Res. 2011; 2011: 541308 10.1155/2011/541308 21960991 30 Davis EF"/>
+  <result pre="SA , Kelly B , Kenworthy Y , et al." exact="Cardiovascular" post="risk factors in children and young adults born to"/>
+  <result pre="(the UPBEAT study): a multicentre, randomised controlled trial . Lancet" exact="Diabetes" post="Endocrinol. 2015; 3: 767– 77. 10.1016/S2213-8587(15)00227-2 26165396 37 Ronnberg"/>
+ </snippets>
+</snippetsTree>

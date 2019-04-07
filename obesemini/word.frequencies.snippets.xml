@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectSnippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC1955401/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="63"/>
+   <result title="frequency" word="legislation" count="44"/>
+   <result title="frequency" word="introduced" count="41"/>
+   <result title="frequency" word="bills" count="39"/>
+   <result title="frequency" word="policy" count="37"/>
+   <result title="frequency" word="resolutions" count="31"/>
+   <result title="frequency" word="topic" count="28"/>
+   <result title="frequency" word="childhood" count="27"/>
+   <result title="frequency" word="physical" count="27"/>
+   <result title="frequency" word="adopted" count="25"/>
+   <result title="frequency" word="health" count="24"/>
+   <result title="frequency" word="states" count="23"/>
+   <result title="frequency" word="areas" count="22"/>
+   <result title="frequency" word="legislative" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC2722393/results/word/frequencies/results.xml">
+   <result title="frequency" word="tobacco" count="49"/>
+   <result title="frequency" word="California" count="25"/>
+   <result title="frequency" word="control" count="25"/>
+   <result title="frequency" word="Accessed" count="23"/>
+   <result title="frequency" word="legal" count="23"/>
+   <result title="frequency" word="childhood" count="22"/>
+   <result title="frequency" word="March" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC2887823/results/word/frequencies/results.xml">
+   <result title="frequency" word="physical" count="43"/>
+   <result title="frequency" word="activity" count="30"/>
+   <result title="frequency" word="K-GFYL" count="29"/>
+   <result title="frequency" word="evaluation" count="27"/>
+   <result title="frequency" word="healthy" count="27"/>
+   <result title="frequency" word="health" count="26"/>
+   <result title="frequency" word="eating" count="23"/>
+   <result title="frequency" word="school" count="23"/>
+   <result title="frequency" word="schools" count="23"/>
+   <result title="frequency" word="children" count="22"/>
+   <result title="frequency" word="obesity" count="21"/>
+   <result title="frequency" word="program" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3160897/results/word/frequencies/results.xml">
+   <result title="frequency" word="PEDs" count="58"/>
+   <result title="frequency" word="GPs" count="52"/>
+   <result title="frequency" word="counseling" count="51"/>
+   <result title="frequency" word="obesity" count="51"/>
+   <result title="frequency" word="patients" count="50"/>
+   <result title="frequency" word="BMI-for-age" count="42"/>
+   <result title="frequency" word="pediatric" count="41"/>
+   <result title="frequency" word="overweight" count="36"/>
+   <result title="frequency" word="obese" count="26"/>
+   <result title="frequency" word="reported" count="26"/>
+   <result title="frequency" word="children" count="24"/>
+   <result title="frequency" word="use" count="23"/>
+   <result title="frequency" word="screen" count="22"/>
+   <result title="frequency" word="screening" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3366612/results/word/frequencies/results.xml">
+   <result title="frequency" word="breastfeeding" count="83"/>
+   <result title="frequency" word="health" count="35"/>
+   <result title="frequency" word="Health" count="32"/>
+   <result title="frequency" word="Nova" count="25"/>
+   <result title="frequency" word="childhood" count="23"/>
+   <result title="frequency" word="obesity" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3404898/results/word/frequencies/results.xml">
+   <result title="frequency" word="program" count="51"/>
+   <result title="frequency" word="activity" count="41"/>
+   <result title="frequency" word="rural" count="37"/>
+   <result title="frequency" word="children" count="33"/>
+   <result title="frequency" word="physical" count="33"/>
+   <result title="frequency" word="parents" count="30"/>
+   <result title="frequency" word="body" count="28"/>
+   <result title="frequency" word="obesity" count="28"/>
+   <result title="frequency" word="family" count="27"/>
+   <result title="frequency" word="child" count="26"/>
+   <result title="frequency" word="-Health" count="25"/>
+   <result title="frequency" word="Health" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3492853/results/word/frequencies/results.xml">
+   <result title="frequency" word="EPODE" count="134"/>
+   <result title="frequency" word="local" count="111"/>
+   <result title="frequency" word="obesity" count="44"/>
+   <result title="frequency" word="programme" count="36"/>
+   <result title="frequency" word="central" count="33"/>
+   <result title="frequency" word="Health" count="29"/>
+   <result title="frequency" word="health" count="29"/>
+   <result title="frequency" word="project" count="29"/>
+   <result title="frequency" word="public" count="29"/>
+   <result title="frequency" word="childhood" count="26"/>
+   <result title="frequency" word="level" count="25"/>
+   <result title="frequency" word="social" count="25"/>
+   <result title="frequency" word="communities" count="23"/>
+   <result title="frequency" word="stakeholders" count="23"/>
+   <result title="frequency" word="evaluation" count="22"/>
+   <result title="frequency" word="private" count="22"/>
+   <result title="frequency" word="prevention" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3547242/results/word/frequencies/results.xml">
+   <result title="frequency" word="parents" count="99"/>
+   <result title="frequency" word="CAB" count="73"/>
+   <result title="frequency" word="research" count="55"/>
+   <result title="frequency" word="community" count="43"/>
+   <result title="frequency" word="members" count="40"/>
+   <result title="frequency" word="obesity" count="37"/>
+   <result title="frequency" word="project" count="37"/>
+   <result title="frequency" word="childhood" count="36"/>
+   <result title="frequency" word="parent" count="28"/>
+   <result title="frequency" word="process" count="25"/>
+   <result title="frequency" word="meetings" count="24"/>
+   <result title="frequency" word="Head" count="21"/>
+   <result title="frequency" word="Health" count="21"/>
+   <result title="frequency" word="participation" count="21"/>
+   <result title="frequency" word="staff" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3573935/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="44"/>
+   <result title="frequency" word="children" count="36"/>
+   <result title="frequency" word="child" count="35"/>
+   <result title="frequency" word="physical" count="34"/>
+   <result title="frequency" word="food" count="30"/>
+   <result title="frequency" word="activity" count="29"/>
+   <result title="frequency" word="intervention" count="25"/>
+   <result title="frequency" word="nutrition" count="24"/>
+   <result title="frequency" word="prevention" count="23"/>
+   <result title="frequency" word="Health" count="22"/>
+   <result title="frequency" word="childhood" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3649320/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="35"/>
+   <result title="frequency" word="health" count="28"/>
+   <result title="frequency" word="organizations" count="26"/>
+   <result title="frequency" word="care" count="22"/>
+   <result title="frequency" word="children" count="22"/>
+   <result title="frequency" word="services" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3842497/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="64"/>
+   <result title="frequency" word="obesity" count="36"/>
+   <result title="frequency" word="development" count="27"/>
+   <result title="frequency" word="local" count="26"/>
+   <result title="frequency" word="interventions" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3893738/results/word/frequencies/results.xml">
+   <result title="frequency" word="health" count="123"/>
+   <result title="frequency" word="policy" count="108"/>
+   <result title="frequency" word="public" count="81"/>
+   <result title="frequency" word="intersectoral" count="50"/>
+   <result title="frequency" word="sectors" count="41"/>
+   <result title="frequency" word="collaboration" count="38"/>
+   <result title="frequency" word="Health" count="36"/>
+   <result title="frequency" word="obesity" count="23"/>
+   <result title="frequency" word="childhood" count="22"/>
+   <result title="frequency" word="policies" count="22"/>
+   <result title="frequency" word="resources" count="22"/>
+   <result title="frequency" word="Public" count="21"/>
+   <result title="frequency" word="different" count="21"/>
+   <result title="frequency" word="official" count="21"/>
+   <result title="frequency" word="planning" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC3912346/results/word/frequencies/results.xml">
+   <result title="frequency" word="costs" count="92"/>
+   <result title="frequency" word="intervention" count="58"/>
+   <result title="frequency" word="cost" count="49"/>
+   <result title="frequency" word="care" count="39"/>
+   <result title="frequency" word="health" count="34"/>
+   <result title="frequency" word="study" count="25"/>
+   <result title="frequency" word="visits" count="25"/>
+   <result title="frequency" word="obesity" count="24"/>
+   <result title="frequency" word="primary" count="24"/>
+   <result title="frequency" word="time" count="23"/>
+   <result title="frequency" word="training" count="21"/>
+   <result title="frequency" word="usual" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4089584/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="26"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4089744/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4172839/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="114"/>
+   <result title="frequency" word="evaluation" count="78"/>
+   <result title="frequency" word="process" count="69"/>
+   <result title="frequency" word="data" count="40"/>
+   <result title="frequency" word="children" count="38"/>
+   <result title="frequency" word="methods" count="32"/>
+   <result title="frequency" word="used" count="32"/>
+   <result title="frequency" word="activity" count="30"/>
+   <result title="frequency" word="implementation" count="26"/>
+   <result title="frequency" word="study" count="26"/>
+   <result title="frequency" word="Health" count="25"/>
+   <result title="frequency" word="WAVES" count="25"/>
+   <result title="frequency" word="trial" count="25"/>
+   <result title="frequency" word="school" count="24"/>
+   <result title="frequency" word="delivery" count="23"/>
+   <result title="frequency" word="physical" count="22"/>
+   <result title="frequency" word="complex" count="21"/>
+   <result title="frequency" word="dimensions" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4227329/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="78"/>
+   <result title="frequency" word="intervention" count="56"/>
+   <result title="frequency" word="parents" count="56"/>
+   <result title="frequency" word="obesity" count="53"/>
+   <result title="frequency" word="activity" count="46"/>
+   <result title="frequency" word="physical" count="46"/>
+   <result title="frequency" word="child" count="39"/>
+   <result title="frequency" word="behaviors" count="36"/>
+   <result title="frequency" word="childhood" count="35"/>
+   <result title="frequency" word="children's" count="33"/>
+   <result title="frequency" word="parent" count="33"/>
+   <result title="frequency" word="study" count="33"/>
+   <result title="frequency" word="time" count="31"/>
+   <result title="frequency" word="changes" count="30"/>
+   <result title="frequency" word="HHHF" count="29"/>
+   <result title="frequency" word="days" count="29"/>
+   <result title="frequency" word="food" count="26"/>
+   <result title="frequency" word="home" count="25"/>
+   <result title="frequency" word="prevention" count="25"/>
+   <result title="frequency" word="reported" count="25"/>
+   <result title="frequency" word="change" count="24"/>
+   <result title="frequency" word="significant" count="24"/>
+   <result title="frequency" word="interventions" count="23"/>
+   <result title="frequency" word="minutes" count="22"/>
+   <result title="frequency" word="health" count="21"/>
+   <result title="frequency" word="low-income" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4375987/results/word/frequencies/results.xml">
+   <result title="frequency" word="stakeholders" count="62"/>
+   <result title="frequency" word="obesity" count="59"/>
+   <result title="frequency" word="health" count="39"/>
+   <result title="frequency" word="families" count="36"/>
+   <result title="frequency" word="care" count="32"/>
+   <result title="frequency" word="parents" count="31"/>
+   <result title="frequency" word="childhood" count="28"/>
+   <result title="frequency" word="Family" count="27"/>
+   <result title="frequency" word="healthy" count="26"/>
+   <result title="frequency" word="low-income" count="24"/>
+   <result title="frequency" word="(.)" count="23"/>
+   <result title="frequency" word="Table" count="23"/>
+   <result title="frequency" word="barriers" count="23"/>
+   <result title="frequency" word="community" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4457211/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="53"/>
+   <result title="frequency" word="children" count="47"/>
+   <result title="frequency" word="school" count="45"/>
+   <result title="frequency" word="schools" count="34"/>
+   <result title="frequency" word="study" count="33"/>
+   <result title="frequency" word="activity" count="30"/>
+   <result title="frequency" word="physical" count="26"/>
+   <result title="frequency" word="obesity" count="25"/>
+   <result title="frequency" word="using" count="25"/>
+   <result title="frequency" word="childhood" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4477472/results/word/frequencies/results.xml">
+   <result title="frequency" word="NFN" count="65"/>
+   <result title="frequency" word="mothers" count="47"/>
+   <result title="frequency" word="home" count="46"/>
+   <result title="frequency" word="obesity" count="39"/>
+   <result title="frequency" word="intervention" count="35"/>
+   <result title="frequency" word="program" count="34"/>
+   <result title="frequency" word="infant" count="31"/>
+   <result title="frequency" word="children" count="25"/>
+   <result title="frequency" word="support" count="25"/>
+   <result title="frequency" word="Family" count="22"/>
+   <result title="frequency" word="Health" count="22"/>
+   <result title="frequency" word="breastfeeding" count="21"/>
+   <result title="frequency" word="weight" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4668691/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="100"/>
+   <result title="frequency" word="[.]" count="88"/>
+   <result title="frequency" word="group" count="72"/>
+   <result title="frequency" word="children" count="49"/>
+   <result title="frequency" word="comprehensive" count="49"/>
+   <result title="frequency" word="(−.," count="39"/>
+   <result title="frequency" word="diet" count="36"/>
+   <result title="frequency" word="blood" count="33"/>
+   <result title="frequency" word="groups" count="30"/>
+   <result title="frequency" word="control" count="28"/>
+   <result title="frequency" word="overweight" count="28"/>
+   <result title="frequency" word="study" count="26"/>
+   <result title="frequency" word="obesity" count="25"/>
+   <result title="frequency" word="group," count="24"/>
+   <result title="frequency" word="obese" count="24"/>
+   <result title="frequency" word="interventions" count="23"/>
+   <result title="frequency" word="pressure" count="23"/>
+   <result title="frequency" word="effects" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4721446/results/word/frequencies/results.xml">
+   <result title="frequency" word="implementation" count="70"/>
+   <result title="frequency" word="prevention" count="61"/>
+   <result title="frequency" word="school" count="59"/>
+   <result title="frequency" word="obesity" count="49"/>
+   <result title="frequency" word="commitment" count="30"/>
+   <result title="frequency" word="policies" count="26"/>
+   <result title="frequency" word="strategy" count="25"/>
+   <result title="frequency" word="Health" count="24"/>
+   <result title="frequency" word="health" count="21"/>
+   <result title="frequency" word="schools" count="21"/>
+   <result title="frequency" word="strategies" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4801195/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="44"/>
+   <result title="frequency" word="children" count="38"/>
+   <result title="frequency" word="childhood" count="30"/>
+   <result title="frequency" word="activity" count="27"/>
+   <result title="frequency" word="physical" count="23"/>
+   <result title="frequency" word="overweight" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4924071/results/word/frequencies/results.xml">
+   <result title="frequency" word="Live" count="97"/>
+   <result title="frequency" word="---" count="89"/>
+   <result title="frequency" word="community" count="82"/>
+   <result title="frequency" word="communities" count="58"/>
+   <result title="frequency" word="local" count="50"/>
+   <result title="frequency" word="knowledge" count="33"/>
+   <result title="frequency" word="stakeholders" count="33"/>
+   <result title="frequency" word="initiative" count="31"/>
+   <result title="frequency" word="existing" count="27"/>
+   <result title="frequency" word="SCOPE" count="26"/>
+   <result title="frequency" word="new" count="26"/>
+   <result title="frequency" word="action" count="24"/>
+   <result title="frequency" word="health" count="24"/>
+   <result title="frequency" word="resources" count="24"/>
+   <result title="frequency" word="Health" count="22"/>
+   <result title="frequency" word="i.e.," count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC4977772/results/word/frequencies/results.xml">
+   <result title="frequency" word="program" count="129"/>
+   <result title="frequency" word="Program" count="118"/>
+   <result title="frequency" word="research" count="68"/>
+   <result title="frequency" word="policy" count="62"/>
+   <result title="frequency" word="local" count="61"/>
+   <result title="frequency" word="translation" count="60"/>
+   <result title="frequency" word="prevention" count="46"/>
+   <result title="frequency" word="Health" count="44"/>
+   <result title="frequency" word="researchers" count="41"/>
+   <result title="frequency" word="InFANT" count="40"/>
+   <result title="frequency" word="implementation" count="40"/>
+   <result title="frequency" word="health" count="38"/>
+   <result title="frequency" word="study" count="37"/>
+   <result title="frequency" word="support" count="37"/>
+   <result title="frequency" word="existing" count="36"/>
+   <result title="frequency" word="programs" count="36"/>
+   <result title="frequency" word="staff" count="36"/>
+   <result title="frequency" word="areas" count="35"/>
+   <result title="frequency" word="key" count="35"/>
+   <result title="frequency" word="delivery" count="33"/>
+   <result title="frequency" word="makers" count="30"/>
+   <result title="frequency" word="Research" count="29"/>
+   <result title="frequency" word="important" count="26"/>
+   <result title="frequency" word="funding" count="23"/>
+   <result title="frequency" word="intervention" count="22"/>
+   <result title="frequency" word="interventions" count="22"/>
+   <result title="frequency" word="n/a" count="22"/>
+   <result title="frequency" word="implementers" count="21"/>
+   <result title="frequency" word="including" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5030399/results/word/frequencies/results.xml">
+   <result title="frequency" word="policy" count="72"/>
+   <result title="frequency" word="health" count="56"/>
+   <result title="frequency" word="officials" count="51"/>
+   <result title="frequency" word="integrated" count="46"/>
+   <result title="frequency" word="policies" count="41"/>
+   <result title="frequency" word="public" count="34"/>
+   <result title="frequency" word="Health" count="33"/>
+   <result title="frequency" word="(e.g.," count="29"/>
+   <result title="frequency" word="obesity" count="27"/>
+   <result title="frequency" word="development" count="26"/>
+   <result title="frequency" word="develop" count="23"/>
+   <result title="frequency" word="sectors" count="23"/>
+   <result title="frequency" word="obstacles" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5063376/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="163"/>
+   <result title="frequency" word="health" count="125"/>
+   <result title="frequency" word="CALD" count="109"/>
+   <result title="frequency" word="childhood" count="94"/>
+   <result title="frequency" word="(%)" count="93"/>
+   <result title="frequency" word="prevention" count="87"/>
+   <result title="frequency" word="service" count="64"/>
+   <result title="frequency" word="Health" count="59"/>
+   <result title="frequency" word="providers" count="57"/>
+   <result title="frequency" word="services" count="48"/>
+   <result title="frequency" word="study" count="43"/>
+   <result title="frequency" word="community" count="41"/>
+   <result title="frequency" word="communities" count="40"/>
+   <result title="frequency" word="groups" count="37"/>
+   <result title="frequency" word="healthy" count="37"/>
+   <result title="frequency" word="parents" count="37"/>
+   <result title="frequency" word="(FGD" count="34"/>
+   <result title="frequency" word="data" count="31"/>
+   <result title="frequency" word="MCH" count="30"/>
+   <result title="frequency" word="Service" count="27"/>
+   <result title="frequency" word="literacy" count="27"/>
+   <result title="frequency" word="Australia" count="25"/>
+   <result title="frequency" word="children" count="25"/>
+   <result title="frequency" word="school" count="25"/>
+   <result title="frequency" word="barriers" count="24"/>
+   <result title="frequency" word="information" count="24"/>
+   <result title="frequency" word="Obesity" count="22"/>
+   <result title="frequency" word="lifestyle" count="22"/>
+   <result title="frequency" word="need" count="22"/>
+   <result title="frequency" word="cultural" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5184799/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="55"/>
+   <result title="frequency" word="program" count="48"/>
+   <result title="frequency" word="prevention" count="36"/>
+   <result title="frequency" word="parents" count="35"/>
+   <result title="frequency" word="intervention" count="32"/>
+   <result title="frequency" word="interventions" count="31"/>
+   <result title="frequency" word="children" count="30"/>
+   <result title="frequency" word="families" count="26"/>
+   <result title="frequency" word="research" count="25"/>
+   <result title="frequency" word="study" count="25"/>
+   <result title="frequency" word="physical" count="23"/>
+   <result title="frequency" word="important" count="22"/>
+   <result title="frequency" word="(e.g.," count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5234440/results/word/frequencies/results.xml">
+   <result title="frequency" word="MA-CORD" count="69"/>
+   <result title="frequency" word="school" count="63"/>
+   <result title="frequency" word="(.)" count="59"/>
+   <result title="frequency" word="Community" count="56"/>
+   <result title="frequency" word="teachers" count="48"/>
+   <result title="frequency" word="implementation" count="41"/>
+   <result title="frequency" word="staff" count="40"/>
+   <result title="frequency" word="intervention" count="37"/>
+   <result title="frequency" word="year" count="30"/>
+   <result title="frequency" word="lessons" count="26"/>
+   <result title="frequency" word="wellness" count="26"/>
+   <result title="frequency" word="activities" count="22"/>
+   <result title="frequency" word="(eg," count="21"/>
+   <result title="frequency" word="curriculum" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5260000/results/word/frequencies/results.xml">
+   <result title="frequency" word="HENRY" count="108"/>
+   <result title="frequency" word="intervention" count="68"/>
+   <result title="frequency" word="data" count="56"/>
+   <result title="frequency" word="optimisation" count="46"/>
+   <result title="frequency" word="parent" count="46"/>
+   <result title="frequency" word="trial" count="45"/>
+   <result title="frequency" word="centres" count="42"/>
+   <result title="frequency" word="parents" count="41"/>
+   <result title="frequency" word="obesity" count="35"/>
+   <result title="frequency" word="local" count="33"/>
+   <result title="frequency" word="engagement" count="28"/>
+   <result title="frequency" word="programme" count="28"/>
+   <result title="frequency" word="authorities" count="26"/>
+   <result title="frequency" word="evaluation" count="25"/>
+   <result title="frequency" word="Health" count="24"/>
+   <result title="frequency" word="children’s" count="24"/>
+   <result title="frequency" word="interventions" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5345967/results/word/frequencies/results.xml">
+   <result title="frequency" word="ethnic" count="32"/>
+   <result title="frequency" word="places" count="31"/>
+   <result title="frequency" word="children" count="30"/>
+   <result title="frequency" word="schools" count="30"/>
+   <result title="frequency" word="worship" count="26"/>
+   <result title="frequency" word="intervention" count="24"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5424124/results/word/frequencies/results.xml">
+   <result title="frequency" word="parents" count="52"/>
+   <result title="frequency" word="HomeStyles" count="49"/>
+   <result title="frequency" word="home" count="48"/>
+   <result title="frequency" word="intervention" count="39"/>
+   <result title="frequency" word="children" count="35"/>
+   <result title="frequency" word="obesity" count="35"/>
+   <result title="frequency" word="physical" count="34"/>
+   <result title="frequency" word="activity" count="31"/>
+   <result title="frequency" word="materials" count="30"/>
+   <result title="frequency" word="study" count="30"/>
+   <result title="frequency" word="project" count="29"/>
+   <result title="frequency" word="data" count="28"/>
+   <result title="frequency" word="collab:" count="27"/>
+   <result title="frequency" word="health" count="27"/>
+   <result title="frequency" word="participants" count="27"/>
+   <result title="frequency" word="Health" count="25"/>
+   <result title="frequency" word="environment" count="25"/>
+   <result title="frequency" word="(eg," count="23"/>
+   <result title="frequency" word="Byrd-Bredbenner" count="23"/>
+   <result title="frequency" word="child" count="22"/>
+   <result title="frequency" word="guide" count="22"/>
+   <result title="frequency" word="used" count="22"/>
+   <result title="frequency" word="food" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5496055/results/word/frequencies/results.xml">
+   <result title="frequency" word="community" count="135"/>
+   <result title="frequency" word="COPAC" count="111"/>
+   <result title="frequency" word="obesity" count="104"/>
+   <result title="frequency" word="migrant" count="68"/>
+   <result title="frequency" word="engagement" count="59"/>
+   <result title="frequency" word="health" count="58"/>
+   <result title="frequency" word="prevention" count="55"/>
+   <result title="frequency" word="childhood" count="53"/>
+   <result title="frequency" word="members" count="52"/>
+   <result title="frequency" word="research" count="52"/>
+   <result title="frequency" word="communities" count="41"/>
+   <result title="frequency" word="ethnic" count="27"/>
+   <result title="frequency" word="study" count="22"/>
+   <result title="frequency" word="Health" count="21"/>
+   <result title="frequency" word="services" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5571569/results/word/frequencies/results.xml">
+   <result title="frequency" word="interventions" count="93"/>
+   <result title="frequency" word="obesity" count="72"/>
+   <result title="frequency" word="childhood" count="50"/>
+   <result title="frequency" word="intervention" count="48"/>
+   <result title="frequency" word="children" count="35"/>
+   <result title="frequency" word="studies" count="31"/>
+   <result title="frequency" word="published" count="29"/>
+   <result title="frequency" word="coded" count="27"/>
+   <result title="frequency" word="included" count="27"/>
+   <result title="frequency" word="study" count="26"/>
+   <result title="frequency" word="targeted" count="26"/>
+   <result title="frequency" word="families" count="25"/>
+   <result title="frequency" word="prevention" count="25"/>
+   <result title="frequency" word="years" count="25"/>
+   <result title="frequency" word="%)," count="22"/>
+   <result title="frequency" word="articles" count="22"/>
+   <result title="frequency" word="family-based" count="22"/>
+   <result title="frequency" word="review" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5576245/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="90"/>
+   <result title="frequency" word="data" count="66"/>
+   <result title="frequency" word="schools" count="53"/>
+   <result title="frequency" word="evaluation" count="52"/>
+   <result title="frequency" word="process" count="49"/>
+   <result title="frequency" word="implementation" count="43"/>
+   <result title="frequency" word="school" count="43"/>
+   <result title="frequency" word="WAVES" count="41"/>
+   <result title="frequency" word="study" count="40"/>
+   <result title="frequency" word="children" count="36"/>
+   <result title="frequency" word="delivered" count="29"/>
+   <result title="frequency" word="delivery" count="27"/>
+   <result title="frequency" word="teachers" count="27"/>
+   <result title="frequency" word="component" count="24"/>
+   <result title="frequency" word="Health" count="23"/>
+   <result title="frequency" word="activity" count="22"/>
+   <result title="frequency" word="obesity" count="22"/>
+   <result title="frequency" word="scores" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5600510/results/word/frequencies/results.xml">
+   <result title="frequency" word="WIC" count="79"/>
+   <result title="frequency" word="intervention" count="56"/>
+   <result title="frequency" word="children" count="49"/>
+   <result title="frequency" word="MA-CORD" count="48"/>
+   <result title="frequency" word="obesity" count="41"/>
+   <result title="frequency" word="BMI" count="36"/>
+   <result title="frequency" word="childhood" count="32"/>
+   <result title="frequency" word="Intervention" count="26"/>
+   <result title="frequency" word="site" count="24"/>
+   <result title="frequency" word="comparison" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5637220/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="56"/>
+   <result title="frequency" word="childhood" count="39"/>
+   <result title="frequency" word="school" count="37"/>
+   <result title="frequency" word="high" count="33"/>
+   <result title="frequency" word="research" count="30"/>
+   <result title="frequency" word="intervention" count="28"/>
+   <result title="frequency" word="adequacy" count="26"/>
+   <result title="frequency" word="prevention" count="25"/>
+   <result title="frequency" word="feasibility" count="24"/>
+   <result title="frequency" word="elementary" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5708010/results/word/frequencies/results.xml">
+   <result title="frequency" word="food" count="80"/>
+   <result title="frequency" word="intervention" count="75"/>
+   <result title="frequency" word="corner" count="45"/>
+   <result title="frequency" word="BHCK" count="38"/>
+   <result title="frequency" word="healthy" count="38"/>
+   <result title="frequency" word="exposure" count="34"/>
+   <result title="frequency" word="promoted" count="34"/>
+   <result title="frequency" word="sales" count="31"/>
+   <result title="frequency" word="store" count="30"/>
+   <result title="frequency" word="stores" count="25"/>
+   <result title="frequency" word="foods" count="24"/>
+   <result title="frequency" word="Health" count="23"/>
+   <result title="frequency" word="purchasing" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5792961/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="170"/>
+   <result title="frequency" word="(−." count="109"/>
+   <result title="frequency" word="(n=," count="103"/>
+   <result title="frequency" word="baseline" count="91"/>
+   <result title="frequency" word="school" count="79"/>
+   <result title="frequency" word="intervention" count="74"/>
+   <result title="frequency" word="trial" count="59"/>
+   <result title="frequency" word="schools" count="53"/>
+   <result title="frequency" word="FU:" count="49"/>
+   <result title="frequency" word="adjusted)," count="49"/>
+   <result title="frequency" word="study" count="49"/>
+   <result title="frequency" word="Yes" count="45"/>
+   <result title="frequency" word="children" count="45"/>
+   <result title="frequency" word="physical" count="44"/>
+   <result title="frequency" word="data" count="42"/>
+   <result title="frequency" word="activity" count="38"/>
+   <result title="frequency" word="(.-.)" count="36"/>
+   <result title="frequency" word="obesity" count="33"/>
+   <result title="frequency" word="score" count="33"/>
+   <result title="frequency" word="primary" count="32"/>
+   <result title="frequency" word="outcomes" count="30"/>
+   <result title="frequency" word="BMI" count="28"/>
+   <result title="frequency" word="difference" count="27"/>
+   <result title="frequency" word="arm" count="25"/>
+   <result title="frequency" word="childhood" count="25"/>
+   <result title="frequency" word="WAVES" count="24"/>
+   <result title="frequency" word="adjusted)" count="24"/>
+   <result title="frequency" word="based" count="23"/>
+   <result title="frequency" word="group" count="23"/>
+   <result title="frequency" word="months" count="23"/>
+   <result title="frequency" word="follow-up" count="22"/>
+   <result title="frequency" word="programme" count="22"/>
+   <result title="frequency" word="adjusted);" count="21"/>
+   <result title="frequency" word="prevention" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5833312/results/word/frequencies/results.xml">
+   <result title="frequency" word="implementation" count="97"/>
+   <result title="frequency" word="Healthy" count="61"/>
+   <result title="frequency" word="(.)" count="60"/>
+   <result title="frequency" word="Lifestyles" count="55"/>
+   <result title="frequency" word="materials" count="52"/>
+   <result title="frequency" word="activities" count="49"/>
+   <result title="frequency" word="strategies" count="49"/>
+   <result title="frequency" word="Initiative" count="44"/>
+   <result title="frequency" word="action" count="36"/>
+   <result title="frequency" word="partners" count="36"/>
+   <result title="frequency" word="support" count="35"/>
+   <result title="frequency" word="engaged" count="34"/>
+   <result title="frequency" word="community" count="31"/>
+   <result title="frequency" word="environmental" count="30"/>
+   <result title="frequency" word="organizations" count="29"/>
+   <result title="frequency" word="healthy" count="28"/>
+   <result title="frequency" word="systems," count="28"/>
+   <result title="frequency" word="used" count="26"/>
+   <result title="frequency" word="policy," count="25"/>
+   <result title="frequency" word="Kansas" count="24"/>
+   <result title="frequency" word="health" count="24"/>
+   <result title="frequency" word="plan" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5870387/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="105"/>
+   <result title="frequency" word="parents" count="55"/>
+   <result title="frequency" word="study" count="45"/>
+   <result title="frequency" word="intervention" count="38"/>
+   <result title="frequency" word="child" count="31"/>
+   <result title="frequency" word="obesity" count="29"/>
+   <result title="frequency" word="HCHF" count="26"/>
+   <result title="frequency" word="children" count="26"/>
+   <result title="frequency" word="practices" count="25"/>
+   <result title="frequency" word="behaviors" count="24"/>
+   <result title="frequency" word="childhood" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5941252/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="39"/>
+   <result title="frequency" word="obesity" count="39"/>
+   <result title="frequency" word="physical" count="39"/>
+   <result title="frequency" word="children" count="28"/>
+   <result title="frequency" word="study" count="27"/>
+   <result title="frequency" word="school" count="24"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5946294/results/word/frequencies/results.xml">
+   <result title="frequency" word="program" count="178"/>
+   <result title="frequency" word="parents" count="60"/>
+   <result title="frequency" word="health" count="44"/>
+   <result title="frequency" word="service" count="42"/>
+   <result title="frequency" word="Program" count="40"/>
+   <result title="frequency" word="engagement" count="40"/>
+   <result title="frequency" word="study" count="34"/>
+   <result title="frequency" word="information" count="33"/>
+   <result title="frequency" word="attendance" count="32"/>
+   <result title="frequency" word="social" count="32"/>
+   <result title="frequency" word="child" count="31"/>
+   <result title="frequency" word="Infant" count="26"/>
+   <result title="frequency" word="parental" count="26"/>
+   <result title="frequency" word="Health" count="25"/>
+   <result title="frequency" word="barriers" count="25"/>
+   <result title="frequency" word="participants" count="25"/>
+   <result title="frequency" word="described" count="24"/>
+   <result title="frequency" word="factors" count="23"/>
+   <result title="frequency" word="low" count="22"/>
+   <result title="frequency" word="providers" count="22"/>
+   <result title="frequency" word="maternal" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5964684/results/word/frequencies/results.xml">
+   <result title="frequency" word="exposure" count="124"/>
+   <result title="frequency" word="intervention" count="123"/>
+   <result title="frequency" word="BHCK" count="73"/>
+   <result title="frequency" word="(.)" count="39"/>
+   <result title="frequency" word="(.;" count="31"/>
+   <result title="frequency" word="score" count="31"/>
+   <result title="frequency" word="materials" count="30"/>
+   <result title="frequency" word="program" count="30"/>
+   <result title="frequency" word="evaluation" count="28"/>
+   <result title="frequency" word="level" count="28"/>
+   <result title="frequency" word="Health" count="27"/>
+   <result title="frequency" word="group" count="27"/>
+   <result title="frequency" word=". ± ." count="26"/>
+   <result title="frequency" word="used" count="25"/>
+   <result title="frequency" word="wave" count="25"/>
+   <result title="frequency" word="Healthy" count="24"/>
+   <result title="frequency" word="youths" count="24"/>
+   <result title="frequency" word="stores" count="23"/>
+   <result title="frequency" word="trial" count="23"/>
+   <result title="frequency" word="caregivers" count="22"/>
+   <result title="frequency" word="center" count="22"/>
+   <result title="frequency" word="different" count="22"/>
+   <result title="frequency" word="mean" count="22"/>
+   <result title="frequency" word="media" count="22"/>
+   <result title="frequency" word="scores" count="22"/>
+   <result title="frequency" word="social" count="22"/>
+   <result title="frequency" word="study" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5981973/results/word/frequencies/results.xml">
+   <result title="frequency" word="HSTA" count="83"/>
+   <result title="frequency" word="teen" count="56"/>
+   <result title="frequency" word="iCook" count="43"/>
+   <result title="frequency" word="program" count="35"/>
+   <result title="frequency" word="teens" count="33"/>
+   <result title="frequency" word="obesity" count="31"/>
+   <result title="frequency" word="leaders" count="29"/>
+   <result title="frequency" word="youth" count="29"/>
+   <result title="frequency" word="teachers" count="24"/>
+   <result title="frequency" word="training" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5984083/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="117"/>
+   <result title="frequency" word="obesity" count="47"/>
+   <result title="frequency" word="students" count="47"/>
+   <result title="frequency" word="study" count="42"/>
+   <result title="frequency" word="schools" count="33"/>
+   <result title="frequency" word="childhood" count="30"/>
+   <result title="frequency" word="control" count="30"/>
+   <result title="frequency" word="school" count="24"/>
+   <result title="frequency" word="weight" count="24"/>
+   <result title="frequency" word="Wang" count="22"/>
+   <result title="frequency" word="children" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC5984309/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="60"/>
+   <result title="frequency" word="engagement" count="52"/>
+   <result title="frequency" word="(.–.)" count="50"/>
+   <result title="frequency" word="survey" count="45"/>
+   <result title="frequency" word="knowledge" count="39"/>
+   <result title="frequency" word="obesity" count="36"/>
+   <result title="frequency" word="reliability" count="35"/>
+   <result title="frequency" word="childhood" count="33"/>
+   <result title="frequency" word="Phase" count="28"/>
+   <result title="frequency" word="items" count="28"/>
+   <result title="frequency" word="interventions" count="26"/>
+   <result title="frequency" word="SUS" count="25"/>
+   <result title="frequency" word="Community" count="24"/>
+   <result title="frequency" word="Health" count="21"/>
+   <result title="frequency" word="scores" count="21"/>
+   <result title="frequency" word="stakeholders" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6022210/results/word/frequencies/results.xml">
+   <result title="frequency" word="wave" count="85"/>
+   <result title="frequency" word="media" count="57"/>
+   <result title="frequency" word="BHCK" count="55"/>
+   <result title="frequency" word="social" count="53"/>
+   <result title="frequency" word="text" count="42"/>
+   <result title="frequency" word="Social" count="36"/>
+   <result title="frequency" word="high" count="34"/>
+   <result title="frequency" word="intervention" count="33"/>
+   <result title="frequency" word="Supplementary" count="26"/>
+   <result title="frequency" word="evaluation" count="26"/>
+   <result title="frequency" word="standards" count="26"/>
+   <result title="frequency" word="Facebook" count="24"/>
+   <result title="frequency" word="High" count="24"/>
+   <result title="frequency" word="Process" count="24"/>
+   <result title="frequency" word="reach" count="24"/>
+   <result title="frequency" word="Media" count="22"/>
+   <result title="frequency" word="dose" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6073385/results/word/frequencies/results.xml">
+   <result title="frequency" word="soccer" count="40"/>
+   <result title="frequency" word="youth" count="40"/>
+   <result title="frequency" word="added" count="35"/>
+   <result title="frequency" word="sugar" count="30"/>
+   <result title="frequency" word="intake" count="29"/>
+   <result title="frequency" word="participants" count="25"/>
+   <result title="frequency" word="intervention" count="22"/>
+   <result title="frequency" word="diet" count="21"/>
+   <result title="frequency" word="nutrition" count="21"/>
+   <result title="frequency" word="players" count="21"/>
+   <result title="frequency" word="sport" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6158889/results/word/frequencies/results.xml">
+   <result title="frequency" word="Camp" count="37"/>
+   <result title="frequency" word="social" count="35"/>
+   <result title="frequency" word="NERF" count="33"/>
+   <result title="frequency" word="like" count="33"/>
+   <result title="frequency" word="text" count="31"/>
+   <result title="frequency" word="participants" count="29"/>
+   <result title="frequency" word="media" count="28"/>
+   <result title="frequency" word="caregivers" count="25"/>
+   <result title="frequency" word="caregiver" count="22"/>
+   <result title="frequency" word="camp" count="21"/>
+   <result title="frequency" word="children" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6161596/results/word/frequencies/results.xml">
+   <result title="frequency" word="FPs" count="67"/>
+   <result title="frequency" word="primary" count="40"/>
+   <result title="frequency" word="management" count="37"/>
+   <result title="frequency" word="obesity" count="29"/>
+   <result title="frequency" word="children" count="25"/>
+   <result title="frequency" word="care" count="24"/>
+   <result title="frequency" word="childhood" count="24"/>
+   <result title="frequency" word="Turkey" count="23"/>
+   <result title="frequency" word="physicians" count="22"/>
+   <result title="frequency" word="role" count="22"/>
+   <result title="frequency" word="study" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6199494/results/word/frequencies/results.xml">
+   <result title="frequency" word="gut" count="137"/>
+   <result title="frequency" word="microbiota" count="122"/>
+   <result title="frequency" word="BMI" count="95"/>
+   <result title="frequency" word="(.%)" count="84"/>
+   <result title="frequency" word="age" count="69"/>
+   <result title="frequency" word="maternal" count="69"/>
+   <result title="frequency" word="infant" count="67"/>
+   <result title="frequency" word="childhood" count="49"/>
+   <result title="frequency" word="associated" count="48"/>
+   <result title="frequency" word="taxa" count="40"/>
+   <result title="frequency" word="Ow/Ob" count="38"/>
+   <result title="frequency" word="time" count="38"/>
+   <result title="frequency" word="obesity" count="35"/>
+   <result title="frequency" word="association" count="29"/>
+   <result title="frequency" word="later" count="29"/>
+   <result title="frequency" word="early" count="28"/>
+   <result title="frequency" word="excessive" count="28"/>
+   <result title="frequency" word="children" count="26"/>
+   <result title="frequency" word="samples" count="26"/>
+   <result title="frequency" word="weight" count="26"/>
+   <result title="frequency" word="years" count="25"/>
+   <result title="frequency" word="Fig." count="23"/>
+   <result title="frequency" word="z-scores" count="23"/>
+   <result title="frequency" word="delivery" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6206663/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="138"/>
+   <result title="frequency" word="food" count="122"/>
+   <result title="frequency" word="intervention" count="90"/>
+   <result title="frequency" word="youth" count="87"/>
+   <result title="frequency" word="healthier" count="58"/>
+   <result title="frequency" word="BHCK" count="55"/>
+   <result title="frequency" word="intake" count="43"/>
+   <result title="frequency" word="purchasing" count="42"/>
+   <result title="frequency" word="foods" count="35"/>
+   <result title="frequency" word="years" count="32"/>
+   <result title="frequency" word="obesity" count="31"/>
+   <result title="frequency" word="items" count="30"/>
+   <result title="frequency" word="beverages" count="29"/>
+   <result title="frequency" word="children" count="26"/>
+   <result title="frequency" word="low-income" count="26"/>
+   <result title="frequency" word="Health" count="25"/>
+   <result title="frequency" word="fruit" count="25"/>
+   <result title="frequency" word="old" count="23"/>
+   <result title="frequency" word="Gittelsohn" count="22"/>
+   <result title="frequency" word="Nutr" count="22"/>
+   <result title="frequency" word="recreation" count="22"/>
+   <result title="frequency" word="(%)" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6219155/results/word/frequencies/results.xml">
+   <result title="frequency" word="informal" count="95"/>
+   <result title="frequency" word="care" count="77"/>
+   <result title="frequency" word="children" count="70"/>
+   <result title="frequency" word="parents" count="70"/>
+   <result title="frequency" word="obesity" count="65"/>
+   <result title="frequency" word="study" count="37"/>
+   <result title="frequency" word="carers" count="34"/>
+   <result title="frequency" word="childhood" count="34"/>
+   <result title="frequency" word="grandparents" count="34"/>
+   <result title="frequency" word="childcare" count="32"/>
+   <result title="frequency" word="support" count="28"/>
+   <result title="frequency" word="(PGM)." count="27"/>
+   <result title="frequency" word="participants" count="26"/>
+   <result title="frequency" word="interventions" count="25"/>
+   <result title="frequency" word="intervention" count="24"/>
+   <result title="frequency" word="focus" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6224766/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="72"/>
+   <result title="frequency" word="children" count="49"/>
+   <result title="frequency" word="preschool" count="45"/>
+   <result title="frequency" word="obesity" count="38"/>
+   <result title="frequency" word="early" count="30"/>
+   <result title="frequency" word="study" count="24"/>
+   <result title="frequency" word="activity" count="23"/>
+   <result title="frequency" word="preschools" count="22"/>
+   <result title="frequency" word="Health" count="21"/>
+   <result title="frequency" word="Scottish" count="21"/>
+   <result title="frequency" word="data" count="21"/>
+   <result title="frequency" word="physical" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6280362/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="114"/>
+   <result title="frequency" word="implementation" count="75"/>
+   <result title="frequency" word="Steps" count="57"/>
+   <result title="frequency" word="primary" count="53"/>
+   <result title="frequency" word="CORD" count="51"/>
+   <result title="frequency" word="care" count="50"/>
+   <result title="frequency" word="study" count="50"/>
+   <result title="frequency" word="prevention" count="37"/>
+   <result title="frequency" word="Year" count="36"/>
+   <result title="frequency" word="clinics" count="33"/>
+   <result title="frequency" word="materials" count="33"/>
+   <result title="frequency" word="index" count="32"/>
+   <result title="frequency" word="children" count="30"/>
+   <result title="frequency" word="program" count="29"/>
+   <result title="frequency" word="secondary" count="29"/>
+   <result title="frequency" word="weight" count="29"/>
+   <result title="frequency" word="management" count="28"/>
+   <result title="frequency" word="obesity" count="27"/>
+   <result title="frequency" word="overweight" count="24"/>
+   <result title="frequency" word="clinic" count="23"/>
+   <result title="frequency" word="enrollment" count="21"/>
+   <result title="frequency" word="score" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6286599/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="46"/>
+   <result title="frequency" word="MVPA" count="45"/>
+   <result title="frequency" word="BMI" count="42"/>
+   <result title="frequency" word="time" count="42"/>
+   <result title="frequency" word="study" count="38"/>
+   <result title="frequency" word="activity" count="37"/>
+   <result title="frequency" word="age" count="32"/>
+   <result title="frequency" word="physical" count="27"/>
+   <result title="frequency" word="FMI" count="26"/>
+   <result title="frequency" word="obesity" count="26"/>
+   <result title="frequency" word="higher" count="25"/>
+   <result title="frequency" word="body" count="24"/>
+   <result title="frequency" word="mass" count="23"/>
+   <result title="frequency" word="(.)" count="21"/>
+   <result title="frequency" word="effects" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6299881/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.–.)" count="140"/>
+   <result title="frequency" word="referral" count="63"/>
+   <result title="frequency" word="obesity" count="61"/>
+   <result title="frequency" word="management" count="54"/>
+   <result title="frequency" word="clinicians" count="53"/>
+   <result title="frequency" word="weight" count="53"/>
+   <result title="frequency" word="health" count="41"/>
+   <result title="frequency" word="patients" count="40"/>
+   <result title="frequency" word="pediatric" count="40"/>
+   <result title="frequency" word="odds" count="31"/>
+   <result title="frequency" word="clinical" count="30"/>
+   <result title="frequency" word="children" count="26"/>
+   <result title="frequency" word="care" count="23"/>
+   <result title="frequency" word="childhood" count="23"/>
+   <result title="frequency" word="practices" count="22"/>
+   <result title="frequency" word="reported" count="22"/>
+   <result title="frequency" word="higher" count="21"/>
+   <result title="frequency" word="patient" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6308200/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="94"/>
+   <result title="frequency" word="obesity" count="65"/>
+   <result title="frequency" word="childhood" count="51"/>
+   <result title="frequency" word="children" count="28"/>
+   <result title="frequency" word="study" count="28"/>
+   <result title="frequency" word="&amp;lt;." count="26"/>
+   <result title="frequency" word="factors" count="26"/>
+   <result title="frequency" word="overweight" count="24"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6310279/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="88"/>
+   <result title="frequency" word="children" count="59"/>
+   <result title="frequency" word="BMI" count="58"/>
+   <result title="frequency" word="Health" count="54"/>
+   <result title="frequency" word="prevention" count="53"/>
+   <result title="frequency" word="cost" count="51"/>
+   <result title="frequency" word="interventions" count="49"/>
+   <result title="frequency" word="intervention" count="39"/>
+   <result title="frequency" word="health" count="38"/>
+   <result title="frequency" word="Individual," count="35"/>
+   <result title="frequency" word="group" count="34"/>
+   <result title="frequency" word="Biological," count="33"/>
+   <result title="frequency" word="care" count="33"/>
+   <result title="frequency" word="studies" count="31"/>
+   <result title="frequency" word="child" count="30"/>
+   <result title="frequency" word="weight" count="30"/>
+   <result title="frequency" word="childhood" count="28"/>
+   <result title="frequency" word="early" count="28"/>
+   <result title="frequency" word="review" count="26"/>
+   <result title="frequency" word="Behavioral," count="25"/>
+   <result title="frequency" word="Child" count="23"/>
+   <result title="frequency" word="childcare" count="22"/>
+   <result title="frequency" word="growth" count="22"/>
+   <result title="frequency" word="reduction" count="22"/>
+   <result title="frequency" word="years" count="22"/>
+   <result title="frequency" word="mean" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6311233/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="76"/>
+   <result title="frequency" word="references" count="59"/>
+   <result title="frequency" word="overweight" count="48"/>
+   <result title="frequency" word="BMI-based" count="46"/>
+   <result title="frequency" word="childhood" count="42"/>
+   <result title="frequency" word="overfat" count="40"/>
+   <result title="frequency" word="children" count="32"/>
+   <result title="frequency" word="Chinese" count="23"/>
+   <result title="frequency" word="boys" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6320393/results/word/frequencies/results.xml">
+   <result title="frequency" word="school" count="75"/>
+   <result title="frequency" word="BMI" count="55"/>
+   <result title="frequency" word="(/," count="54"/>
+   <result title="frequency" word="nurses" count="50"/>
+   <result title="frequency" word="health" count="33"/>
+   <result title="frequency" word="obesity" count="32"/>
+   <result title="frequency" word="screening" count="32"/>
+   <result title="frequency" word="parents" count="31"/>
+   <result title="frequency" word="follow" count="28"/>
+   <result title="frequency" word="School" count="24"/>
+   <result title="frequency" word="survey" count="24"/>
+   <result title="frequency" word=".%)," count="23"/>
+   <result title="frequency" word=".%)" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6324517/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="53"/>
+   <result title="frequency" word="activity" count="51"/>
+   <result title="frequency" word="physical" count="41"/>
+   <result title="frequency" word="program" count="40"/>
+   <result title="frequency" word="intervention" count="36"/>
+   <result title="frequency" word="preschool" count="34"/>
+   <result title="frequency" word="health" count="33"/>
+   <result title="frequency" word="Health" count="28"/>
+   <result title="frequency" word="Healthy" count="27"/>
+   <result title="frequency" word="obesity" count="26"/>
+   <result title="frequency" word="parents" count="26"/>
+   <result title="frequency" word="Iranian" count="24"/>
+   <result title="frequency" word="IHS" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6326548/results/word/frequencies/results.xml">
+   <result title="frequency" word="BMI" count="80"/>
+   <result title="frequency" word="studies" count="67"/>
+   <result title="frequency" word="intervention" count="46"/>
+   <result title="frequency" word="months" count="42"/>
+   <result title="frequency" word="obesity" count="42"/>
+   <result title="frequency" word="overweight" count="41"/>
+   <result title="frequency" word="interventions" count="38"/>
+   <result title="frequency" word="weight" count="38"/>
+   <result title="frequency" word="body" count="36"/>
+   <result title="frequency" word="group" count="30"/>
+   <result title="frequency" word="fat" count="29"/>
+   <result title="frequency" word="obese" count="28"/>
+   <result title="frequency" word="dietary" count="27"/>
+   <result title="frequency" word="review" count="27"/>
+   <result title="frequency" word="sessions" count="27"/>
+   <result title="frequency" word="intake" count="26"/>
+   <result title="frequency" word="outcomes" count="25"/>
+   <result title="frequency" word="physical" count="25"/>
+   <result title="frequency" word="activity" count="24"/>
+   <result title="frequency" word="behavioural" count="24"/>
+   <result title="frequency" word="study" count="23"/>
+   <result title="frequency" word="children" count="22"/>
+   <result title="frequency" word="years" count="22"/>
+   <result title="frequency" word="CG:" count="21"/>
+   <result title="frequency" word="lifestyle" count="21"/>
+   <result title="frequency" word="sedentary" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6332696/results/word/frequencies/results.xml">
+   <result title="frequency" word="policy" count="43"/>
+   <result title="frequency" word="Concept" count="33"/>
+   <result title="frequency" word="Map" count="30"/>
+   <result title="frequency" word="obesity" count="29"/>
+   <result title="frequency" word="research" count="22"/>
+   <result title="frequency" word="makers" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6333581/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="168"/>
+   <result title="frequency" word="obesity" count="151"/>
+   <result title="frequency" word="weight" count="99"/>
+   <result title="frequency" word="adolescents" count="75"/>
+   <result title="frequency" word="BMI" count="74"/>
+   <result title="frequency" word="treatment" count="59"/>
+   <result title="frequency" word="Korean" count="58"/>
+   <result title="frequency" word="overweight" count="55"/>
+   <result title="frequency" word="grade" count="54"/>
+   <result title="frequency" word="obese" count="54"/>
+   <result title="frequency" word="(Strength" count="49"/>
+   <result title="frequency" word="evidence," count="49"/>
+   <result title="frequency" word="recommendation," count="49"/>
+   <result title="frequency" word="years" count="46"/>
+   <result title="frequency" word="physical" count="45"/>
+   <result title="frequency" word="body" count="37"/>
+   <result title="frequency" word="study" count="37"/>
+   <result title="frequency" word="Health" count="36"/>
+   <result title="frequency" word="Korea" count="36"/>
+   <result title="frequency" word="recommend" count="36"/>
+   <result title="frequency" word="activity" count="34"/>
+   <result title="frequency" word="pediatric" count="34"/>
+   <result title="frequency" word="percentile" count="34"/>
+   <result title="frequency" word="interventions" count="32"/>
+   <result title="frequency" word="systematic" count="32"/>
+   <result title="frequency" word="age" count="30"/>
+   <result title="frequency" word="childhood" count="30"/>
+   <result title="frequency" word="Nutr" count="28"/>
+   <result title="frequency" word="lifestyle" count="28"/>
+   <result title="frequency" word="associated" count="27"/>
+   <result title="frequency" word="review" count="26"/>
+   <result title="frequency" word="health" count="25"/>
+   <result title="frequency" word="Lee" count="24"/>
+   <result title="frequency" word="risk" count="24"/>
+   <result title="frequency" word="Kim" count="22"/>
+   <result title="frequency" word="Obes" count="22"/>
+   <result title="frequency" word="Pediatr" count="22"/>
+   <result title="frequency" word="aged" count="22"/>
+   <result title="frequency" word="including" count="22"/>
+   <result title="frequency" word="loss" count="22"/>
+   <result title="frequency" word="adolescents:" count="21"/>
+   <result title="frequency" word="behavioral" count="21"/>
+   <result title="frequency" word="consumption" count="21"/>
+   <result title="frequency" word="family" count="21"/>
+   <result title="frequency" word="intake" count="21"/>
+   <result title="frequency" word="obesity:" count="21"/>
+   <result title="frequency" word="sleep" count="21"/>
+   <result title="frequency" word="use" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6335658/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="59"/>
+   <result title="frequency" word="physical" count="55"/>
+   <result title="frequency" word="neighborhood" count="47"/>
+   <result title="frequency" word="obesity" count="41"/>
+   <result title="frequency" word="activity" count="40"/>
+   <result title="frequency" word="health" count="32"/>
+   <result title="frequency" word="higher" count="29"/>
+   <result title="frequency" word="medical" count="29"/>
+   <result title="frequency" word="care" count="28"/>
+   <result title="frequency" word="percent" count="28"/>
+   <result title="frequency" word="(.," count="27"/>
+   <result title="frequency" word="preventive" count="26"/>
+   <result title="frequency" word="Health" count="25"/>
+   <result title="frequency" word="compared" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6335764/results/word/frequencies/results.xml">
+   <result title="frequency" word="FFF" count="62"/>
+   <result title="frequency" word="(.)" count="42"/>
+   <result title="frequency" word="parenting" count="42"/>
+   <result title="frequency" word="child" count="41"/>
+   <result title="frequency" word="children" count="41"/>
+   <result title="frequency" word="food" count="40"/>
+   <result title="frequency" word="children’s" count="39"/>
+   <result title="frequency" word="energy" count="38"/>
+   <result title="frequency" word="mothers" count="36"/>
+   <result title="frequency" word="SoFAS" count="35"/>
+   <result title="frequency" word="intake" count="34"/>
+   <result title="frequency" word="daily" count="31"/>
+   <result title="frequency" word="dietary" count="31"/>
+   <result title="frequency" word="using" count="26"/>
+   <result title="frequency" word="authoritative" count="25"/>
+   <result title="frequency" word="intervention" count="25"/>
+   <result title="frequency" word="added" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6335787/results/word/frequencies/results.xml">
+   <result title="frequency" word="weight" count="110"/>
+   <result title="frequency" word="mothers" count="60"/>
+   <result title="frequency" word="child" count="58"/>
+   <result title="frequency" word="children" count="53"/>
+   <result title="frequency" word="status" count="53"/>
+   <result title="frequency" word="WIC" count="49"/>
+   <result title="frequency" word="milk" count="47"/>
+   <result title="frequency" word="child's" count="39"/>
+   <result title="frequency" word="overweight" count="34"/>
+   <result title="frequency" word="maternal" count="30"/>
+   <result title="frequency" word="obesity" count="29"/>
+   <result title="frequency" word="perceptions" count="29"/>
+   <result title="frequency" word="Hispanic" count="26"/>
+   <result title="frequency" word="perception" count="26"/>
+   <result title="frequency" word="study" count="26"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6336849/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="143"/>
+   <result title="frequency" word="(.," count="133"/>
+   <result title="frequency" word="childhood" count="114"/>
+   <result title="frequency" word="challenges" count="66"/>
+   <result title="frequency" word="psychosocial" count="58"/>
+   <result title="frequency" word="women" count="43"/>
+   <result title="frequency" word="use" count="42"/>
+   <result title="frequency" word="extreme" count="37"/>
+   <result title="frequency" word="risk" count="35"/>
+   <result title="frequency" word="men" count="34"/>
+   <result title="frequency" word="weight" count="34"/>
+   <result title="frequency" word="disorder" count="33"/>
+   <result title="frequency" word="adult" count="31"/>
+   <result title="frequency" word="(.)" count="30"/>
+   <result title="frequency" word="age" count="28"/>
+   <result title="frequency" word="overweight" count="27"/>
+   <result title="frequency" word="Yes" count="23"/>
+   <result title="frequency" word="associated" count="22"/>
+   <result title="frequency" word="early" count="22"/>
+   <result title="frequency" word="obesity." count="21"/>
+   <result title="frequency" word="substance" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6339209/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="83"/>
+   <result title="frequency" word="MLMC" count="44"/>
+   <result title="frequency" word="obesity" count="42"/>
+   <result title="frequency" word="interventions" count="38"/>
+   <result title="frequency" word="Health" count="37"/>
+   <result title="frequency" word="community" count="37"/>
+   <result title="frequency" word="childhood" count="27"/>
+   <result title="frequency" word="program" count="27"/>
+   <result title="frequency" word="Healthy" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6348404/results/word/frequencies/results.xml">
+   <result title="frequency" word="social" count="28"/>
+   <result title="frequency" word="income" count="22"/>
+   <result title="frequency" word="health" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6349133/results/word/frequencies/results.xml">
+   <result title="frequency" word="health" count="49"/>
+   <result title="frequency" word="Health" count="37"/>
+   <result title="frequency" word="World" count="26"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6351799/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="27"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6352953/results/word/frequencies/results.xml">
+   <result title="frequency" word="care" count="71"/>
+   <result title="frequency" word="dental" count="63"/>
+   <result title="frequency" word="health" count="41"/>
+   <result title="frequency" word="oral" count="37"/>
+   <result title="frequency" word="preventive" count="33"/>
+   <result title="frequency" word="paediatric" count="29"/>
+   <result title="frequency" word="children" count="27"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6356437/results/word/frequencies/results.xml">
+   <result title="frequency" word="dietary" count="67"/>
+   <result title="frequency" word="obesity" count="52"/>
+   <result title="frequency" word="patterns" count="43"/>
+   <result title="frequency" word="&amp;lt;." count="38"/>
+   <result title="frequency" word="food" count="37"/>
+   <result title="frequency" word="pattern" count="33"/>
+   <result title="frequency" word="Chinese" count="31"/>
+   <result title="frequency" word="children" count="30"/>
+   <result title="frequency" word="intake" count="25"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6357843/results/word/frequencies/results.xml">
+   <result title="frequency" word="WIC" count="49"/>
+   <result title="frequency" word="obesity" count="49"/>
+   <result title="frequency" word="MA-CORD" count="39"/>
+   <result title="frequency" word="confidence" count="35"/>
+   <result title="frequency" word="provider" count="34"/>
+   <result title="frequency" word="providers" count="30"/>
+   <result title="frequency" word="childhood" count="25"/>
+   <result title="frequency" word="intervention" count="22"/>
+   <result title="frequency" word="(.)" count="21"/>
+   <result title="frequency" word="sites" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6360473/results/word/frequencies/results.xml">
+   <result title="frequency" word="feeding" count="105"/>
+   <result title="frequency" word="infant" count="54"/>
+   <result title="frequency" word="mothers" count="47"/>
+   <result title="frequency" word="practices" count="46"/>
+   <result title="frequency" word="family" count="45"/>
+   <result title="frequency" word="food" count="42"/>
+   <result title="frequency" word="nutrition" count="40"/>
+   <result title="frequency" word="children" count="34"/>
+   <result title="frequency" word="health" count="33"/>
+   <result title="frequency" word="Latino" count="32"/>
+   <result title="frequency" word="child" count="32"/>
+   <result title="frequency" word="obesity" count="29"/>
+   <result title="frequency" word="social" count="28"/>
+   <result title="frequency" word="focus" count="26"/>
+   <result title="frequency" word="education" count="24"/>
+   <result title="frequency" word="EHS" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6360638/results/word/frequencies/results.xml">
+   <result title="frequency" word="parents" count="65"/>
+   <result title="frequency" word="family" count="53"/>
+   <result title="frequency" word="health" count="51"/>
+   <result title="frequency" word="QOL" count="40"/>
+   <result title="frequency" word="children" count="40"/>
+   <result title="frequency" word="time" count="34"/>
+   <result title="frequency" word="life" count="31"/>
+   <result title="frequency" word="quality" count="29"/>
+   <result title="frequency" word="focus" count="26"/>
+   <result title="frequency" word="Parents" count="25"/>
+   <result title="frequency" word="Health" count="22"/>
+   <result title="frequency" word="interventions" count="22"/>
+   <result title="frequency" word="health-related" count="21"/>
+   <result title="frequency" word="healthy" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6367232/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="54"/>
+   <result title="frequency" word="risk" count="49"/>
+   <result title="frequency" word="study" count="38"/>
+   <result title="frequency" word="retinal" count="35"/>
+   <result title="frequency" word="arterial" count="32"/>
+   <result title="frequency" word="test" count="29"/>
+   <result title="frequency" word="obesity" count="28"/>
+   <result title="frequency" word="stiffness" count="26"/>
+   <result title="frequency" word="heart" count="25"/>
+   <result title="frequency" word="disease" count="23"/>
+   <result title="frequency" word="vessel" count="22"/>
+   <result title="frequency" word="associated" count="21"/>
+   <result title="frequency" word="fitness" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6370184/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.," count="242"/>
+   <result title="frequency" word="weight" count="194"/>
+   <result title="frequency" word="childhood" count="132"/>
+   <result title="frequency" word="gain" count="132"/>
+   <result title="frequency" word="maternal" count="132"/>
+   <result title="frequency" word="gestational" count="126"/>
+   <result title="frequency" word="BMI" count="115"/>
+   <result title="frequency" word="(−.," count="96"/>
+   <result title="frequency" word="Data" count="88"/>
+   <result title="frequency" word="review" count="87"/>
+   <result title="frequency" word="Writing" count="84"/>
+   <result title="frequency" word="curation" count="84"/>
+   <result title="frequency" word="editing" count="80"/>
+   <result title="frequency" word="(.)" count="78"/>
+   <result title="frequency" word="pre-pregnancy" count="77"/>
+   <result title="frequency" word="[]," count="76"/>
+   <result title="frequency" word="risk" count="73"/>
+   <result title="frequency" word="cases/total" count="66"/>
+   <result title="frequency" word="obesity" count="57"/>
+   <result title="frequency" word="overweight/obesity" count="54"/>
+   <result title="frequency" word="Health" count="43"/>
+   <result title="frequency" word="data" count="43"/>
+   <result title="frequency" word="University" count="42"/>
+   <result title="frequency" word="http://orcid.org/---" count="42"/>
+   <result title="frequency" word="overweight" count="40"/>
+   <result title="frequency" word="(.–." count="36"/>
+   <result title="frequency" word="Department" count="34"/>
+   <result title="frequency" word="kg/m" count="33"/>
+   <result title="frequency" word="Maternal" count="31"/>
+   <result title="frequency" word="late" count="29"/>
+   <result title="frequency" word="excessive" count="28"/>
+   <result title="frequency" word="children" count="27"/>
+   <result title="frequency" word="offspring" count="27"/>
+   <result title="frequency" word="effects" count="25"/>
+   <result title="frequency" word="Table" count="24"/>
+   <result title="frequency" word="associations" count="24"/>
+   <result title="frequency" word="higher" count="24"/>
+   <result title="frequency" word="CI:" count="23"/>
+   <result title="frequency" word="clinical" count="23"/>
+   <result title="frequency" word="additional" count="22"/>
+   <result title="frequency" word="associated" count="22"/>
+   <result title="frequency" word=",/," count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6372679/results/word/frequencies/results.xml">
+   <result title="frequency" word="CpG" count="46"/>
+   <result title="frequency" word="LRPB" count="40"/>
+   <result title="frequency" word="methylation" count="30"/>
+   <result title="frequency" word="BMI" count="29"/>
+   <result title="frequency" word="genetic" count="23"/>
+   <result title="frequency" word="gene" count="22"/>
+   <result title="frequency" word="methylations" count="22"/>
+   <result title="frequency" word="obesity" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6384541/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="142"/>
+   <result title="frequency" word="children" count="52"/>
+   <result title="frequency" word="physical" count="40"/>
+   <result title="frequency" word="time" count="40"/>
+   <result title="frequency" word="study" count="38"/>
+   <result title="frequency" word="(−." count="36"/>
+   <result title="frequency" word="intervention" count="36"/>
+   <result title="frequency" word="participants" count="33"/>
+   <result title="frequency" word="weight" count="33"/>
+   <result title="frequency" word="group" count="32"/>
+   <result title="frequency" word="program" count="31"/>
+   <result title="frequency" word="activity" count="30"/>
+   <result title="frequency" word="food" count="30"/>
+   <result title="frequency" word="child" count="28"/>
+   <result title="frequency" word="mean" count="28"/>
+   <result title="frequency" word="obesity" count="28"/>
+   <result title="frequency" word="parents" count="27"/>
+   <result title="frequency" word="significant" count="27"/>
+   <result title="frequency" word="sleep" count="26"/>
+   <result title="frequency" word="data" count="24"/>
+   <result title="frequency" word="questionnaire." count="24"/>
+   <result title="frequency" word="studies" count="24"/>
+   <result title="frequency" word="(%)" count="23"/>
+   <result title="frequency" word="Child" count="23"/>
+   <result title="frequency" word="healthy" count="23"/>
+   <result title="frequency" word="BMI" count="22"/>
+   <result title="frequency" word="intake" count="22"/>
+   <result title="frequency" word="overweight" count="22"/>
+   <result title="frequency" word="screen" count="22"/>
+   <result title="frequency" word="self-efficacy" count="22"/>
+   <result title="frequency" word="parent" count="21"/>
+   <result title="frequency" word="randomized" count="21"/>
+   <result title="frequency" word="times" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6388206/results/word/frequencies/results.xml">
+   <result title="frequency" word="studies" count="61"/>
+   <result title="frequency" word="economic" count="48"/>
+   <result title="frequency" word="interventions" count="38"/>
+   <result title="frequency" word="obesity" count="35"/>
+   <result title="frequency" word="Health" count="31"/>
+   <result title="frequency" word="prevention" count="31"/>
+   <result title="frequency" word="evaluations" count="30"/>
+   <result title="frequency" word="review" count="29"/>
+   <result title="frequency" word="study" count="27"/>
+   <result title="frequency" word="evaluation" count="26"/>
+   <result title="frequency" word="(/)" count="25"/>
+   <result title="frequency" word="treatment" count="23"/>
+   <result title="frequency" word="majority" count="22"/>
+   <result title="frequency" word="included" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6388281/results/word/frequencies/results.xml">
+   <result title="frequency" word="children" count="71"/>
+   <result title="frequency" word="activity" count="58"/>
+   <result title="frequency" word="physical" count="46"/>
+   <result title="frequency" word="time" count="26"/>
+   <result title="frequency" word="study" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6388924/results/word/frequencies/results.xml">
+   <result title="frequency" word="%BF" count="95"/>
+   <result title="frequency" word="BMI" count="86"/>
+   <result title="frequency" word="children" count="64"/>
+   <result title="frequency" word="obesity" count="62"/>
+   <result title="frequency" word="boys" count="54"/>
+   <result title="frequency" word="girls" count="51"/>
+   <result title="frequency" word="years" count="50"/>
+   <result title="frequency" word="body" count="47"/>
+   <result title="frequency" word="fat" count="31"/>
+   <result title="frequency" word="age" count="28"/>
+   <result title="frequency" word="percentile" count="26"/>
+   <result title="frequency" word="(.)" count="24"/>
+   <result title="frequency" word="adolescents" count="24"/>
+   <result title="frequency" word="overweight" count="24"/>
+   <result title="frequency" word="school" count="24"/>
+   <result title="frequency" word="curves" count="22"/>
+   <result title="frequency" word="mass" count="22"/>
+   <result title="frequency" word="Fig" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6393321/results/word/frequencies/results.xml">
+   <result title="frequency" word="HTN" count="58"/>
+   <result title="frequency" word="weight" count="55"/>
+   <result title="frequency" word="childhood" count="49"/>
+   <result title="frequency" word="pressure" count="44"/>
+   <result title="frequency" word="blood" count="43"/>
+   <result title="frequency" word="children" count="43"/>
+   <result title="frequency" word="growth" count="40"/>
+   <result title="frequency" word="risk" count="40"/>
+   <result title="frequency" word="study" count="40"/>
+   <result title="frequency" word="trajectories" count="39"/>
+   <result title="frequency" word="age" count="37"/>
+   <result title="frequency" word="years" count="36"/>
+   <result title="frequency" word="birth" count="35"/>
+   <result title="frequency" word="infants" count="34"/>
+   <result title="frequency" word="born" count="32"/>
+   <result title="frequency" word="adult" count="26"/>
+   <result title="frequency" word="systolic" count="26"/>
+   <result title="frequency" word="early" count="24"/>
+   <result title="frequency" word="postnatal" count="24"/>
+   <result title="frequency" word="related" count="24"/>
+   <result title="frequency" word="later" count="21"/>
+   <result title="frequency" word="preterm" count="21"/>
+   <result title="frequency" word="studies" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6396046/results/word/frequencies/results.xml">
+   <result title="frequency" word="weight" count="81"/>
+   <result title="frequency" word="obesity" count="41"/>
+   <result title="frequency" word="MP:" count="38"/>
+   <result title="frequency" word="pediatric" count="34"/>
+   <result title="frequency" word="providers" count="33"/>
+   <result title="frequency" word="medical" count="32"/>
+   <result title="frequency" word="nutrition" count="32"/>
+   <result title="frequency" word="n = " count="28"/>
+   <result title="frequency" word="care" count="26"/>
+   <result title="frequency" word="study" count="26"/>
+   <result title="frequency" word="management" count="24"/>
+   <result title="frequency" word="parents" count="24"/>
+   <result title="frequency" word="health" count="23"/>
+   <result title="frequency" word="patients" count="22"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6398255/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.)" count="63"/>
+   <result title="frequency" word=" HV" count="51"/>
+   <result title="frequency" word="intervention" count="50"/>
+   <result title="frequency" word="obesity" count="48"/>
+   <result title="frequency" word="body" count="43"/>
+   <result title="frequency" word="childhood" count="35"/>
+   <result title="frequency" word="control" count="32"/>
+   <result title="frequency" word="parents" count="29"/>
+   <result title="frequency" word="family" count="28"/>
+   <result title="frequency" word="weight" count="28"/>
+   <result title="frequency" word="composition" count="25"/>
+   <result title="frequency" word="prevention" count="25"/>
+   <result title="frequency" word="study" count="24"/>
+   <result title="frequency" word="interventions" count="23"/>
+   <result title="frequency" word="Health" count="22"/>
+   <result title="frequency" word="children" count="22"/>
+   <result title="frequency" word="baseline" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6405882/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="62"/>
+   <result title="frequency" word="BMI" count="61"/>
+   <result title="frequency" word="model" count="60"/>
+   <result title="frequency" word="childhood" count="48"/>
+   <result title="frequency" word="data" count="28"/>
+   <result title="frequency" word="costs" count="27"/>
+   <result title="frequency" word="interventions" count="27"/>
+   <result title="frequency" word="early" count="25"/>
+   <result title="frequency" word="health" count="25"/>
+   <result title="frequency" word="population" count="23"/>
+   <result title="frequency" word="economic" count="22"/>
+   <result title="frequency" word="children" count="21"/>
+   <result title="frequency" word="trajectories" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6407214/results/word/frequencies/results.xml">
+   <result title="frequency" word="physical" count="84"/>
+   <result title="frequency" word="activity" count="73"/>
+   <result title="frequency" word="time" count="65"/>
+   <result title="frequency" word="screen" count="54"/>
+   <result title="frequency" word="Texas" count="52"/>
+   <result title="frequency" word="outdoor" count="45"/>
+   <result title="frequency" word="centers" count="41"/>
+   <result title="frequency" word="children" count="36"/>
+   <result title="frequency" word="Health" count="35"/>
+   <result title="frequency" word="Physical" count="32"/>
+   <result title="frequency" word="care" count="32"/>
+   <result title="frequency" word="learning" count="32"/>
+   <result title="frequency" word="best" count="29"/>
+   <result title="frequency" word="child" count="28"/>
+   <result title="frequency" word="policies" count="28"/>
+   <result title="frequency" word="practices" count="25"/>
+   <result title="frequency" word="Childhood" count="24"/>
+   <result title="frequency" word="practice" count="24"/>
+   <result title="frequency" word="recommendations" count="24"/>
+   <result title="frequency" word="Child" count="22"/>
+   <result title="frequency" word="Early" count="22"/>
+   <result title="frequency" word="  – min" count="22"/>
+   <result title="frequency" word="meeting" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6413236/results/word/frequencies/results.xml">
+   <result title="frequency" word="intervention" count="42"/>
+   <result title="frequency" word="motivational" count="41"/>
+   <result title="frequency" word="children" count="40"/>
+   <result title="frequency" word="care" count="37"/>
+   <result title="frequency" word="primary" count="37"/>
+   <result title="frequency" word="study" count="34"/>
+   <result title="frequency" word="body" count="32"/>
+   <result title="frequency" word="obesity" count="31"/>
+   <result title="frequency" word="physical" count="27"/>
+   <result title="frequency" word="group" count="26"/>
+   <result title="frequency" word="activity" count="23"/>
+   <result title="frequency" word="childhood" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6417230/results/word/frequencies/results.xml">
+   <result title="frequency" word="risk" count="96"/>
+   <result title="frequency" word="parents" count="68"/>
+   <result title="frequency" word="study" count="57"/>
+   <result title="frequency" word="health" count="50"/>
+   <result title="frequency" word="overweight" count="48"/>
+   <result title="frequency" word="HVs" count="40"/>
+   <result title="frequency" word="ProAsk" count="30"/>
+   <result title="frequency" word="obesity" count="26"/>
+   <result title="frequency" word="infant" count="25"/>
+   <result title="frequency" word="childhood" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6417625/results/word/frequencies/results.xml">
+   <result title="frequency" word="training" count="23"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6417996/results/word/frequencies/results.xml">
+   <result title="frequency" word="(.–.)" count="57"/>
+   <result title="frequency" word="birth" count="36"/>
+   <result title="frequency" word="HBW" count="32"/>
+   <result title="frequency" word="(.)" count="27"/>
+   <result title="frequency" word="childhood" count="27"/>
+   <result title="frequency" word="breastfeeding" count="26"/>
+   <result title="frequency" word="infants" count="26"/>
+   <result title="frequency" word="check-up" count="23"/>
+   <result title="frequency" word="obesity" count="23"/>
+   <result title="frequency" word="NBW" count="22"/>
+   <result title="frequency" word="risk" count="22"/>
+   <result title="frequency" word="(ref.)" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6425015/results/word/frequencies/results.xml">
+   <result title="frequency" word="methylation" count="55"/>
+   <result title="frequency" word="PTPRN" count="31"/>
+   <result title="frequency" word="obesity" count="28"/>
+   <result title="frequency" word="BMI" count="27"/>
+   <result title="frequency" word=". ± ." count="26"/>
+   <result title="frequency" word="CpG" count="26"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6425524/results/word/frequencies/results.xml">
+   <result title="frequency" word="overweight" count="61"/>
+   <result title="frequency" word="parents" count="53"/>
+   <result title="frequency" word="health" count="40"/>
+   <result title="frequency" word="children" count="37"/>
+   <result title="frequency" word="role" count="36"/>
+   <result title="frequency" word="professionals" count="33"/>
+   <result title="frequency" word="healthy" count="27"/>
+   <result title="frequency" word="(P)" count="25"/>
+   <result title="frequency" word="childhood" count="23"/>
+   <result title="frequency" word="physical" count="23"/>
+   <result title="frequency" word="program" count="23"/>
+   <result title="frequency" word="families" count="22"/>
+   <result title="frequency" word="obesity" count="21"/>
+  </snippets>
+ </snippetsTree>
+ <snippetsTree>
+  <snippets file="obesemini/PMC6425906/results/word/frequencies/results.xml">
+   <result title="frequency" word="obesity" count="37"/>
+   <result title="frequency" word="BMI" count="33"/>
+   <result title="frequency" word="overweight" count="32"/>
+   <result title="frequency" word="children" count="29"/>
+   <result title="frequency" word="study" count="29"/>
+   <result title="frequency" word="prevalence" count="24"/>
+   <result title="frequency" word="school" count="24"/>
+  </snippets>
+ </snippetsTree>
+</projectSnippetsTree>

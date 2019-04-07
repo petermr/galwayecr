@@ -1,0 +1,329 @@
+{
+  "id": [
+    "30746145"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30746145"
+  ],
+  "pmcid": [
+    "PMC6360638"
+  ],
+  "doi": [
+    "10.1177/2050312119828535"
+  ],
+  "title": [
+    "\"If my family is happy, then I am happy\": Quality-of-life determinants of parents of school-age children."
+  ],
+  "authorString": [
+    "Eck KM, Delaney CL, Olfert MD, Shelnutt KP, Byrd-Bredbenner C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Eck KM"
+          ],
+          "firstName": [
+            "Kaitlyn M"
+          ],
+          "lastName": [
+            "Eck"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5724-2524",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Delaney CL"
+          ],
+          "firstName": [
+            "Colleen L"
+          ],
+          "lastName": [
+            "Delaney"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Olfert MD"
+          ],
+          "firstName": [
+            "Melissa D"
+          ],
+          "lastName": [
+            "Olfert"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Department of Animal and Nutritional Sciences, West Virginia University, Morgantown, WV, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shelnutt KP"
+          ],
+          "firstName": [
+            "Karla P"
+          ],
+          "lastName": [
+            "Shelnutt"
+          ],
+          "initials": [
+            "KP"
+          ],
+          "affiliation": [
+            "Department of Family, Youth and Community Sciences, University of Florida, Gainesville, FL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Byrd-Bredbenner C"
+          ],
+          "firstName": [
+            "Carol"
+          ],
+          "lastName": [
+            "Byrd-Bredbenner"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5724-2524",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2770937"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "SAGE open medicine"
+          ],
+          "ISOAbbreviation": [
+            "SAGE Open Med"
+          ],
+          "medlineAbbreviation": [
+            "SAGE Open Med"
+          ],
+          "NLMid": [
+            "101624744"
+          ],
+          "ISSN": [
+            "2050-3121"
+          ],
+          "ESSN": [
+            "2050-3121"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2050312119828535"
+  ],
+  "abstractText": [
+    "Objective:Obesity is a public health concern for children and adults and effective obesity prevention programming is needed urgently. The effectiveness of health-related messaging and interventions is influenced by the way content is framed. HomeStyles is an obesity prevention program, which aims to promote health through the frame of improved quality of life. Methods:Thus, focus groups were conducted with English- and Spanish-speaking parents of school-aged children (ages 6-11) to identify key quality-of-life determinants as described by parents. Results:Parents (n = 158) reported that their quality of life was influenced by family happiness and parent and child health (e.g. adequate sleep, exercise, healthy diet). Many parents expressed that their busy schedules and lack of family time were detrimental to their quality of life. Work-life balance and financial stability were other factors commonly noted to impact quality of life. Spanish-speaking parents also reported being undocumented and feeling a lack of a sense of community negatively influenced their quality of life. Conclusion:Considering parent-defined quality-of-life determinants when framing health-related messaging and developing interventions may increase participant interest and ultimately improve health-related behaviors. Next steps in the HomeStyles project include using parent-reported quality-of-life determinants to guide the development of intervention materials."
+  ],
+  "affiliation": [
+    "Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Parents",
+        "Quality of life",
+        "Focus Groups",
+        "Hispanic Americans"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6360638?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6360638"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2050312119828535"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-13"
+  ],
+  "dateOfRevision": [
+    "2019-02-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-02"
+  ],
+  "firstPublicationDate": [
+    "2019-02-02"
+  ]
+}

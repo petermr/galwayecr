@@ -1,0 +1,282 @@
+{
+  "id": [
+    "30808073"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30808073"
+  ],
+  "pmcid": [
+    "PMC6393321"
+  ],
+  "doi": [
+    "10.4070/kcj.2018.0448"
+  ],
+  "title": [
+    "Blood Pressure Trajectories from Childhood to Adolescence in Pediatric Hypertension."
+  ],
+  "authorString": [
+    "Oh JH, Hong YM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Oh JH"
+          ],
+          "firstName": [
+            "Jin Hee"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, St.Vincent's Hospital, The Catholic University of Korea, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Hong YM"
+          ],
+          "firstName": [
+            "Young Mi"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6600-7876",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Ewha Womans University Hospital College of Medicine, Seoul, Korea. ymhong@ewha.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6600-7876",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "49"
+      ],
+      "journalIssueId": [
+        "2786415"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean circulation journal"
+          ],
+          "ISOAbbreviation": [
+            "Korean Circ J"
+          ],
+          "medlineAbbreviation": [
+            "Korean Circ J"
+          ],
+          "NLMid": [
+            "101247141"
+          ],
+          "ISSN": [
+            "1738-5520"
+          ],
+          "ESSN": [
+            "1738-5555"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "223-237"
+  ],
+  "abstractText": [
+    "It has been known for a long time that elevated blood pressure (BP) in the young may persist and progress into adult hypertension (HTN). Multiple studies have revealed the predicted BP trajectory lines starting from childhood and related them to later cardiovascular (CV) risks in adulthood. As a small baby grows into a tall adult, BP will also naturally increase. Among early-life predictors of adult HTN, birth history, such as prematurity, and low birth weight have been popular subjects in research on pediatric HTN, because body size at birth has been reported to be inversely related to the risk of adulthood HTN. The hypothesis of HTN in prematurely born adolescents has been postulated as a physiological predisposition to postnatal excessive weight gain. Current body weight is a well-known independent predictor of HTN in children, and some studies showed that children demonstrating upward crossing of their weight percentiles while growing into adolescents have significantly increased risk for elevated BP later in life. Recently, reports focused on the adverse effect of excessive catch-up growth in this population are gradually drawing attention. Accordingly, children born prematurely or with intrauterine growth restriction who show rapid changes in their weight percentile should be under surveillance with BP monitoring. Prevention of childhood obesity, along with special care for premature infants or infants small for their gestational age, by providing healthy nutritional guidelines should be cardinal strategies for the prevention of adult HTN and CV risks later in life."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, St.Vincent's Hospital, The Catholic University of Korea, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hypertension",
+        "Blood pressure",
+        "Children",
+        "Infant, Premature",
+        "Low Birth Weight"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6393321?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6393321"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4070/kcj.2018.0448"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-27"
+  ],
+  "dateOfRevision": [
+    "2019-03-06"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

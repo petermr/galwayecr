@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6425906/results/word/frequencies/results.xml">
+  <result title="frequency" word="obesity" count="37"/>
+  <result title="frequency" word="BMI" count="33"/>
+  <result title="frequency" word="overweight" count="32"/>
+  <result title="frequency" word="children" count="29"/>
+  <result title="frequency" word="study" count="29"/>
+  <result title="frequency" word="prevalence" count="24"/>
+  <result title="frequency" word="school" count="24"/>
+ </snippets>
+</snippetsTree>

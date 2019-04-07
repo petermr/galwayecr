@@ -1,0 +1,422 @@
+{
+  "id": [
+    "30886551"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30886551"
+  ],
+  "pmcid": [
+    "PMC6417996"
+  ],
+  "doi": [
+    "10.3346/jkms.2019.34.e85"
+  ],
+  "title": [
+    "The Protective Effect of Exclusive Breastfeeding on Overweight/Obesity in Children with High Birth Weight."
+  ],
+  "authorString": [
+    "Lee JW, Lee M, Lee J, Kim YJ, Ha E, Kim HS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee JW"
+          ],
+          "firstName": [
+            "Jung Won"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1846-3153",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee M"
+          ],
+          "firstName": [
+            "Myeongjee"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2368-5180",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Occupational and Environment Medicine, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "Jueun"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9159-6342",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Occupational and Environment Medicine, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YJ"
+          ],
+          "firstName": [
+            "Young Ju"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3153-3008",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Obstetrics and Gynecology, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ha E"
+          ],
+          "firstName": [
+            "Eunhee"
+          ],
+          "lastName": [
+            "Ha"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4224-3858",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Occupational and Environment Medicine, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HS"
+          ],
+          "firstName": [
+            "Hae Soon"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6976-6878",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2368-5180",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1846-3153",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4224-3858",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9159-6342",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3153-3008",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6976-6878",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "34"
+      ],
+      "journalIssueId": [
+        "2795443"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of Korean medical science"
+          ],
+          "ISOAbbreviation": [
+            "J. Korean Med. Sci."
+          ],
+          "medlineAbbreviation": [
+            "J Korean Med Sci"
+          ],
+          "NLMid": [
+            "8703518"
+          ],
+          "ISSN": [
+            "1011-8934"
+          ],
+          "ESSN": [
+            "1598-6357"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e85"
+  ],
+  "abstractText": [
+    "Background:A positive association between birth weight (BW) and body mass index (BMI) has been shown among children in many populations. The aim of this study was to investigate BMI trajectory according to BW status and the protective effect of breastfeeding on the prevalence of overweight/obesity in children 6 years of age. Methods:A retrospective cohort study was conducted between January 1, 2008 and December 31, 2016 utilizing data from the National Health Information Database of Korea. The 38,049 subjects were followed until the end of 2016, providing that subjects were completely eligible for all health check-ups from birth to 6 years of age. At each check-up period, multiple logistic regressions were used to investigate the association between BW status (low birth weight [LBW], normal birth weight [NBW], high birth weight [HBW]) and growth development. Results:HBW infants were highly likely to be overweight/obese compared to NBW infants (odds ratio [OR], 1.70-2.35) and LBW infants were highly likely to be underweight (OR, 1.69-2.20) through 6 years of age. The risk of overweight/obesity decreased significantly if HBW infants were breast-fed for 6 months (OR, 0.54-0.76). Conclusion:HBW status is associated with overweight/obesity during early childhood. Exclusive breastfeeding is a significant protective factor against overweight/obesity in children with HBW."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Ewha Womans University Medical Center, Ewha Womans University College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Children",
+        "Overweight",
+        "Exclusive Breastfeeding",
+        "High Birth Weight"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417996?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417996"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3346/jkms.2019.34.e85"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-20"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-08"
+  ],
+  "firstPublicationDate": [
+    "2019-03-08"
+  ]
+}

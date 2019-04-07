@@ -1,0 +1,321 @@
+{
+  "id": [
+    "30578174"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30578174"
+  ],
+  "pmcid": [
+    "PMC6320393"
+  ],
+  "doi": [
+    "10.2196/11619"
+  ],
+  "title": [
+    "Body Mass Index Screening and Follow-Up: A Cross-Sectional Questionnaire Study of Pennsylvania School Nurses."
+  ],
+  "authorString": [
+    "Francis E, Hoke AM, Kraschnewski JL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Francis E"
+          ],
+          "firstName": [
+            "Erica"
+          ],
+          "lastName": [
+            "Francis"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9394-602X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Penn State University, Hershey, PA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoke AM"
+          ],
+          "firstName": [
+            "Alicia Marie"
+          ],
+          "lastName": [
+            "Hoke"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9061-6738",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Penn State University, Hershey, PA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kraschnewski JL"
+          ],
+          "firstName": [
+            "Jennifer Lynn"
+          ],
+          "lastName": [
+            "Kraschnewski"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0998-1346",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Penn State University, Hershey, PA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0998-1346",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9394-602X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9061-6738",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2762911"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Interactive journal of medical research"
+          ],
+          "ISOAbbreviation": [
+            "Interact J Med Res"
+          ],
+          "medlineAbbreviation": [
+            "Interact J Med Res"
+          ],
+          "NLMid": [
+            "101598421"
+          ],
+          "ISSN": [
+            "1929-073X"
+          ],
+          "ESSN": [
+            "1929-073X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e11619"
+  ],
+  "abstractText": [
+    "BACKGROUND:Childhood overweight and obesity health concerns can affect a student's academic performance, so it is important to identify resources for school nurses that would help to improve self-efficacy, knowledge, and confidence when approaching parents with sensitive weight-related information and influence overall obesity prevention efforts in the school setting. OBJECTIVE:The purpose of this study was to conduct a Pennsylvania (PA) state-wide 29-item survey addressing school nursing barriers and practices, supplementing information already known in this area. Although the survey covered a range of topics, the focus was body mass index (BMI) screening and its related practice within the schools. METHODS:We conducted a state-wide Web-based survey of school nurses in PA to understand current areas of care, find ways to address child health through school BMI screenings and follow up, and identify current educational gaps to assist school nurses with providing whole child care within the realm of weight management. Chi-square test of independence was conducted to determine the relationship between BMI screening follow up and interest in a BMI toolkit. RESULTS:Nurse participants (N=210), with a 42% (210/500) response rate, represented 208 school districts across PA. Participants were asked about their current process for notifying parents of BMI screening results. The majority (116/210, 55.2%) send a letter home in the mail, while others (62/210, 29.5%) send a letter home with students. A small number (8/210, 3.8%) said they did not notify parents altogether, and some (39/210, 18.6%) notify parents electronically. More than one-third (75/210, 35.7%) of nurses reported receiving BMI screening inquiries from parents; however, under half (35/75, 46.7%) of those respondents indicated they follow up with parents whose child screens overweight or obese. Overall, the vast majority (182/210, 86.7%) do not follow up with parents whose child screens overweight or obese. The majority (150/210, 71.4%) of the nurses responded they would benefit from a toolkit with resources to assist with communication with parents and children about BMI screenings. A significant association between respondent follow up and interest in a BMI toolkit was observed (P=.01). CONCLUSIONS:Schools must start recognizing the role school nurses play to monitor and promote children's health. This goal might include involving them in school-based preventive programs, empowering them to lead initiatives that support whole child health and ensuring opportunities for professional development of interest to them. Nonetheless, the first step in facilitating obesity prevention methods within schools is to provide school nurses with meaningful tools that help facilitate conversations with parents, guardians, and caregivers regarding their child's weight status and health through a BMI screening toolkit."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Penn State University, Hershey, PA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "body mass index",
+        "Pennsylvania",
+        "Childhood Obesity",
+        "Pediatric Obesity",
+        "Web-based Survey",
+        "Childhood Overweight",
+        "School Nursing"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6320393"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/11619"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-21"
+  ],
+  "firstPublicationDate": [
+    "2018-12-21"
+  ]
+}

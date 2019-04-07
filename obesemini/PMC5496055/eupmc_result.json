@@ -1,0 +1,451 @@
+{
+  "id": [
+    "28573912"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28573912"
+  ],
+  "pmcid": [
+    "PMC5496055"
+  ],
+  "doi": [
+    "10.1080/16549716.2017.1321822"
+  ],
+  "title": [
+    "Dissecting and customising the Childhood Obesity Prevention Advisory Council (COPAC): the development and application of a community engagement framework to improve childhood obesity prevention among migrant populations."
+  ],
+  "authorString": [
+    "Renzaho AMN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Renzaho AMN"
+          ],
+          "firstName": [
+            "A M N"
+          ],
+          "lastName": [
+            "Renzaho"
+          ],
+          "initials": [
+            "AMN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6844-0833",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a Humanitarian and Development Studies, School of Social Sciences and Psychology , Western Sydney University , Penrith , NSW , Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6844-0833",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2519333"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global health action"
+          ],
+          "ISOAbbreviation": [
+            "Glob Health Action"
+          ],
+          "medlineAbbreviation": [
+            "Glob Health Action"
+          ],
+          "NLMid": [
+            "101496665"
+          ],
+          "ISSN": [
+            "1654-9716"
+          ],
+          "ESSN": [
+            "1654-9880"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1321822"
+  ],
+  "abstractText": [
+    "BACKGROUND:Migrant communities in Australia bear a disproportionate childhood obesity burden. They also show poor engagement in obesity prevention initiatives which may contribute to widening obesity disparities. Community engagement has been shown to be effective in reducing health disparities by improving migrant communities' participation in prevention programmes. OBJECTIVE:This study aimed to develop a community engagement framework to improve childhood obesity prevention among migrants. DESIGN:Based on the African Review Panel model and the Community-Based Participatory Research conceptual logic model, the Childhood Obesity Prevention Advisory Council (COPAC) framework was developed and established in four disadvantaged areas in Victoria, Australia. The COPAC included service providers and migrant community members from the same project's site. RESULTS:COPAC demonstrated several benefits including cross-organisational and multidisciplinary collaborations; understanding of the cultural barriers in childhood obesity prevention; enthusiasm from the COPAC members in addressing childhood obesity in their multicultural communities; equitable involvement, motivation, and empowerment of COPAC members in research development; and establishing organisational affiliations to foster long-term community involvement. This study also documented several challenges in community engagement including lack of prioritisation of migration-related childhood obesity disparities by the policymakers; staffing constraints among service providers leading to frequent disruptions in COPAC members' contributions; and lack of adequate training and skill-building of bicultural workers. CONCLUSIONS:The COPAC model adopted a flexible and dynamic community engagement process to suit the ongoing needs of the migrant community which incorporated the existing talents and resources within the community. For effective community engagement of migrant communities, it is important for policymakers to develop the knowledge, capacity and skills of the bicultural migrant workforce. Integrating both service providers and migrant community members in the COPAC has demonstrated that a multifaceted community-led approach has the potential to reduce childhood obesity-related disparities in Australia."
+  ],
+  "affiliation": [
+    "a Humanitarian and Development Studies, School of Social Sciences and Psychology , Western Sydney University , Penrith , NSW , Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Preventive Medicine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transients and Migrants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Australia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Community-Based Participatory Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Community Participation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Community-based Participatory Research",
+        "Culturally Diverse",
+        "Obesity Inequalities",
+        "Community Advisory Council",
+        "Obesity Disparities"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5496055?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5496055"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/16549716.2017.1321822"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-09-17"
+  ],
+  "dateOfCreation": [
+    "2017-06-03"
+  ],
+  "dateOfRevision": [
+    "2018-10-05"
+  ],
+  "firstPublicationDate": [
+    "2017-01-01"
+  ]
+}

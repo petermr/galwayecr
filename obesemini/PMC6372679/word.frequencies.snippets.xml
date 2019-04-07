@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6372679/results/word/frequencies/results.xml">
+  <result title="frequency" word="CpG" count="46"/>
+  <result title="frequency" word="LRPB" count="40"/>
+  <result title="frequency" word="methylation" count="30"/>
+  <result title="frequency" word="BMI" count="29"/>
+  <result title="frequency" word="genetic" count="23"/>
+  <result title="frequency" word="gene" count="22"/>
+  <result title="frequency" word="methylations" count="22"/>
+  <result title="frequency" word="obesity" count="21"/>
+ </snippets>
+</snippetsTree>

@@ -1,0 +1,492 @@
+{
+  "id": [
+    "30654818"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30654818"
+  ],
+  "pmcid": [
+    "PMC6335764"
+  ],
+  "doi": [
+    "10.1186/s12966-018-0764-3"
+  ],
+  "title": [
+    "Title: efficacy of a food parenting intervention for mothers with low income to reduce preschooler's solid fat and added sugar intakes: a randomized controlled trial."
+  ],
+  "authorString": [
+    "Fisher JO, Serrano EL, Foster GD, Hart CN, Davey A, Bruton YP, Kilby L, Harnack L, Ruth KJ, Kachurak A, Lawman HG, Martin A, Polonsky HM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fisher JO"
+          ],
+          "firstName": [
+            "Jennifer O"
+          ],
+          "lastName": [
+            "Fisher"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8804-5857",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Obesity Research and Education, College of Public Health, Temple University, 3223 N. Broad Street, Suite 175, Philadelphia, PA, 19140, USA. jofisher@temple.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Serrano EL"
+          ],
+          "firstName": [
+            "Elena L"
+          ],
+          "lastName": [
+            "Serrano"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Department of Human Nutrition, Foods, and Exercise, Virginia Tech, 327 Wallace Hall, Blacksburg, VA, 24061, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Foster GD"
+          ],
+          "firstName": [
+            "Gary D"
+          ],
+          "lastName": [
+            "Foster"
+          ],
+          "initials": [
+            "GD"
+          ],
+          "affiliation": [
+            "Weight Watchers International, 675 6th Ave, New York, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hart CN"
+          ],
+          "firstName": [
+            "Chantelle N"
+          ],
+          "lastName": [
+            "Hart"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "affiliation": [
+            "Center for Obesity Research and Education, College of Public Health, Temple University, 3223 N. Broad Street, Suite 175, Philadelphia, PA, 19140, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Davey A"
+          ],
+          "firstName": [
+            "Adam"
+          ],
+          "lastName": [
+            "Davey"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Behavioral Health and Nutritio, University of Deleware, 385 McDowell Hall, Neward, Newark, DE, 19716, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bruton YP"
+          ],
+          "firstName": [
+            "Yasmeen P"
+          ],
+          "lastName": [
+            "Bruton"
+          ],
+          "initials": [
+            "YP"
+          ],
+          "affiliation": [
+            "Department of Obstetrics & Gynecology, Division of Urogynecology, Duke University at Patterson Place, 5324 McFarland Drive, Suite 310, Durham, NC, 27707, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kilby L"
+          ],
+          "firstName": [
+            "Linda"
+          ],
+          "lastName": [
+            "Kilby"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "LDN. NORTH Inc, Philadelphia WIC program, 1300 W Lehigh Avenue, Philadelphia, PA, 19132, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Harnack L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Harnack"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Division of Epidemiology and Community of Public Health, School of Public Health, University of Minnesota, 1300 S 2nd Street, Room 300 West Bank Office Building, Minneapolis, MN, 55454, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ruth KJ"
+          ],
+          "firstName": [
+            "Karen J"
+          ],
+          "lastName": [
+            "Ruth"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Biostatistics Facility, Fox Chase Cancer Center, 333 Cottman Avenue, Philadelphia, PA, 19111, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kachurak A"
+          ],
+          "firstName": [
+            "Alexandria"
+          ],
+          "lastName": [
+            "Kachurak"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Obesity Research and Education, College of Public Health, Temple University, 3223 N. Broad Street, Suite 175, Philadelphia, PA, 19140, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lawman HG"
+          ],
+          "firstName": [
+            "Hannah G"
+          ],
+          "lastName": [
+            "Lawman"
+          ],
+          "initials": [
+            "HG"
+          ],
+          "affiliation": [
+            "Division of Chronic Disease Prevention, Philadelphia Department of Public Health, 1101 Market Street, 9th Floor, Philadelphia, PA, 19107, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Obesity Research and Education, College of Public Health, Temple University, 3223 N. Broad Street, Suite 175, Philadelphia, PA, 19140, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Polonsky HM"
+          ],
+          "firstName": [
+            "Heather M"
+          ],
+          "lastName": [
+            "Polonsky"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "Providence Health and Services, Center for Outcomes Research & Education, 5251 NE Gilsan Street, Bldg A, Portland, OR, 97213, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8804-5857",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2766511"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The international journal of behavioral nutrition and physical activity"
+          ],
+          "ISOAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "medlineAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "NLMid": [
+            "101217089"
+          ],
+          "ISSN": [
+            "1479-5868"
+          ],
+          "ESSN": [
+            "1479-5868"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "6"
+  ],
+  "abstractText": [
+    "BACKGROUND:Few interventions have shown efficacy to influence key energy balance behaviors during the preschool years. OBJECTIVE:A randomized controlled trial (RCT) was used to evaluate the efficacy of Food, Fun, and Families (FFF), a 12 week authoritative food parenting intervention for mothers with low-income levels, to reduce preschool-aged children's intake of calories from solid fat and added sugar (SoFAS). METHODS:Mothers were randomly assigned to receive FFF (n = 59) or to a delayed treatment control (n = 60). The primary outcome was children's daily energy intake from SoFAS at the end of the 12 week intervention, controlling for baseline levels, assessed by 24-h dietary recalls. Secondary outcomes included children's daily energy intake, children's BMI z-scores, and meal observations of maternal food parenting practices targeted in FFF (e.g. providing guided choices). RESULTS:Participating mothers were predominantly African American (91%), with 39% educated beyond high school and 66% unemployed. Baseline demographics and child SoFAS intakes did not differ by group. Lost to follow-up was 13% and did not differ between groups. At post-intervention, FFF children consumed ~ 94 kcal or 23% less daily energy from SoFAS than children in the control group, adjusting for baseline levels (307.8 (95%CI = 274.1, 341.5) kcal vs. 401.9 (95%CI = 369.8, 433.9) kcal, FFF vs. control; p < 0.001). FFF mothers also displayed a greater number of authoritative parenting practices when observed post-intervention with their child at a buffet-style meal (Wilcoxon z = - 2.54, p = 0.012). Neither child total daily energy intake nor BMI z-scores differed between groups post-intervention. CONCLUSIONS:Findings demonstrate the initial efficacy of an authoritative food parenting intervention for families with low-income to reduce SoFAS intake in early childhood. Additional research is needed to evaluate longer-term effects on diet and growth. TRIAL REGISTRATION:Retrospectively registered at ClinicalTrials.gov : #NCT03646201."
+  ],
+  "affiliation": [
+    "Center for Obesity Research and Education, College of Public Health, Temple University, 3223 N. Broad Street, Suite 175, Philadelphia, PA, 19140, USA. jofisher@temple.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2011-68001-30148"
+          ],
+          "agency": [
+            "USDA National Institute of Food and Agriculture, Childhood Obesity Prevention"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention",
+        "Randomized controlled trial",
+        "Preschooler",
+        "Low-income",
+        "Dietary Intervention",
+        "Added Sugars",
+        "Solid Fats",
+        "Food Parenting",
+        "Authoritative"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335764?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6335764"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12966-018-0764-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-19"
+  ],
+  "dateOfRevision": [
+    "2019-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-17"
+  ],
+  "firstPublicationDate": [
+    "2019-01-17"
+  ]
+}

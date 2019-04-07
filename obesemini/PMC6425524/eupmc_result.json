@@ -1,0 +1,296 @@
+{
+  "id": [
+    "30911590"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30911590"
+  ],
+  "pmcid": [
+    "PMC6425524"
+  ],
+  "doi": [
+    "10.1177/2333794X19833733"
+  ],
+  "title": [
+    "Tackling Childhood Overweight: Parental Perceptions of Stakeholders' Roles in a Community-Based Intervention."
+  ],
+  "authorString": [
+    "Blanchette S, Lemoyne J, Trudeau F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blanchette S"
+          ],
+          "firstName": [
+            "Sébastien"
+          ],
+          "lastName": [
+            "Blanchette"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Universite du Quebec a Trois-Rivieres, Trois-Rivieres, Quebec, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Lemoyne J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Lemoyne"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Universite du Quebec a Trois-Rivieres, Trois-Rivieres, Quebec, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Trudeau F"
+          ],
+          "firstName": [
+            "Francois"
+          ],
+          "lastName": [
+            "Trudeau"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4341-2550",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Universite du Quebec a Trois-Rivieres, Trois-Rivieres, Quebec, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4341-2550",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2773586"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global pediatric health"
+          ],
+          "ISOAbbreviation": [
+            "Glob Pediatr Health"
+          ],
+          "medlineAbbreviation": [
+            "Glob Pediatr Health"
+          ],
+          "NLMid": [
+            "101670224"
+          ],
+          "ISSN": [
+            "2333-794X"
+          ],
+          "ESSN": [
+            "2333-794X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2333794X19833733"
+  ],
+  "abstractText": [
+    "Introduction. Collaborative efforts among communities, schools, parents, and health professionals are needed to prevent childhood obesity, which touches one third of Canadian youth. The purpose of this case study was to obtain parents' experience and perceptions about stakeholder roles in a multidisciplinary community-based intervention aiming to tackle childhood overweight. Methods. Data were collected from semistructured interviews with 10 parents following their participation in a community-based program designed to help families with overweight children adopt a healthier lifestyle. Results and Discussion. All parents preferred a multidisciplinary health team to monitor their children's health. They expect that a physician or a pediatrician could diagnose overweight, explain results to parents, and refer families to resources. The team could also include professionals from health and education such as nutritionists/dietitians, nurses, physical education teachers, psychologists, kinesiologists, and social workers. Parents' own perceived role would consist of instructing and reinforcing their children about healthy behaviors, role modeling for a healthy lifestyle, and seeking for professional help when needed. Conclusion. Parents involved in a support group with overweight child consider their own role as crucial to help changing their family lifestyle. They also prefer a multidisciplinary team that can address different aspects of overweight/obesity. However, the physician was perceived as having the central role in mobilizing a group of stakeholders around youth with overweight/obese, including the parents. A further step would be to understand barriers and facilitators to collaboration among health professionals in childhood overweight prevention and treatment."
+  ],
+  "affiliation": [
+    "Universite du Quebec a Trois-Rivieres, Trois-Rivieres, Quebec, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Community",
+        "Parents",
+        "Role",
+        "Multidisciplinary Intervention",
+        "Health Professional(s)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425524?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425524"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2333794X19833733"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-27"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-18"
+  ],
+  "firstPublicationDate": [
+    "2019-03-18"
+  ]
+}

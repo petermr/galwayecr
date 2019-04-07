@@ -1,0 +1,349 @@
+{
+  "id": [
+    "30881347"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30881347"
+  ],
+  "pmcid": [
+    "PMC6405882"
+  ],
+  "doi": [
+    "10.3389/fendo.2019.00132"
+  ],
+  "title": [
+    "A New Model for Evaluation of Interventions to Prevent Obesity in Early Childhood."
+  ],
+  "authorString": [
+    "Hayes A, Tan EJ, Lung T, Brown V, Moodie M, Baur L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hayes A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Hayes"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre for Research Excellence in Early Prevention of Obesity in Childhood, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan EJ"
+          ],
+          "firstName": [
+            "Eng J"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "EJ"
+          ],
+          "affiliation": [
+            "Centre for Research Excellence in Early Prevention of Obesity in Childhood, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lung T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Lung"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9978-6311",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health Economics and Process Evaluation, The George Institute for Global Health, University of New South Wales, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown V"
+          ],
+          "firstName": [
+            "Vicki"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Centre for Research Excellence in Early Prevention of Obesity in Childhood, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Moodie M"
+          ],
+          "firstName": [
+            "Marj"
+          ],
+          "lastName": [
+            "Moodie"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Centre for Research Excellence in Early Prevention of Obesity in Childhood, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Baur L"
+          ],
+          "firstName": [
+            "Louise"
+          ],
+          "lastName": [
+            "Baur"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Centre for Research Excellence in Early Prevention of Obesity in Childhood, Sydney, NSW, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9978-6311",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2778670"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Endocrinology"
+          ],
+          "ISOAbbreviation": [
+            "Front Endocrinol (Lausanne)"
+          ],
+          "medlineAbbreviation": [
+            "Front Endocrinol (Lausanne)"
+          ],
+          "NLMid": [
+            "101555782"
+          ],
+          "ISSN": [
+            "1664-2392"
+          ],
+          "ESSN": [
+            "1664-2392"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "132"
+  ],
+  "abstractText": [
+    "Background: Childhood obesity is a serious public health issue. In Australia, 1 in 4 children is already affected by overweight or obesity at the time of school entry. Governments around the world have recognized this problem through investment in the prevention of pediatric obesity, yet few interventions in early childhood have been subjected to economic evaluation. Information on cost-effectiveness is vital to decisions about program implementation. A challenge in evaluating preventive interventions in early childhood is to capture long-term costs and outcomes beyond the duration of an intervention, as the benefits of early obesity prevention will not be realized until some years into the future. However, decisions need to be made in the present, and modeling is one way to inform such decisions. Objective: To describe the conceptual structure of a new health economic model (the Early Prevention of Obesity in CHildhood (EPOCH) model) for evaluating childhood obesity interventions; and to validate the epidemiologic predictions. Methods and Results: We use an individual-level (micro-simulation) method to model BMI trajectories and the progression of obesity from early childhood to adolescence. The equations predicting individual BMI change underpinning our model were derived from data from the population-representative study, the Longitudinal Study of Australian Children (LSAC). Our approach is novel because it will account for costs and benefits accrued throughout childhood and adolescence. As a first step to validate the epidemiological predictions of the model, we used input data representing over 250,000 children aged 4/5 years, and simulated BMI and obesity trajectories until adolescence. Simulated mean BMI and obesity prevalence for boys and girls were verified by nationally-representative data on children at 14/15 years of age. Discussion: The EPOCH model is epidemiologically sound in its prediction of both BMI trajectories and prevalence of obesity for boys and girls. Future developments of the model will include socio-economic position and will incorporate the impacts of obesity on healthcare costs. The EPOCH model will help answer: when is it best to intervene in childhood; what are the most cost-effective approaches and which population groups will benefit most from interventions."
+  ],
+  "affiliation": [
+    "Centre for Research Excellence in Early Prevention of Obesity in Childhood, Sydney, NSW, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Modeling",
+        "Economic evaluation",
+        "epidemiology",
+        "Micro-simulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6405882?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6405882"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fendo.2019.00132"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-19"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-01"
+  ],
+  "firstPublicationDate": [
+    "2019-03-01"
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "id": [
+    "30740295"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30740295"
+  ],
+  "pmcid": [
+    "PMC6357843"
+  ],
+  "doi": [
+    "10.1016/j.pmedr.2019.01.010"
+  ],
+  "title": [
+    "Nutrition provider confidence in the Massachusetts Childhood Obesity Research Demonstration (MA-CORD) study."
+  ],
+  "authorString": [
+    "Cheng ER, Nelson CC, Leung-Strle P, Colchamiro R, Taveras EM, Woo Baidal JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng ER"
+          ],
+          "firstName": [
+            "Erika R"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Division of Children's Health Services Research, Department of Pediatrics, Indiana University School of Medicine, Indianapolis, IN, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Nelson CC"
+          ],
+          "firstName": [
+            "Candace C"
+          ],
+          "lastName": [
+            "Nelson"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung-Strle P"
+          ],
+          "firstName": [
+            "Peggy"
+          ],
+          "lastName": [
+            "Leung-Strle"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Colchamiro R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Colchamiro"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Taveras EM"
+          ],
+          "firstName": [
+            "Elsie M"
+          ],
+          "lastName": [
+            "Taveras"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Division of General Academic Pediatrics, Department of Pediatrics, Massachusetts General Hospital for Children, Boston, MA, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Woo Baidal JA"
+          ],
+          "firstName": [
+            "Jennifer A"
+          ],
+          "lastName": [
+            "Woo Baidal"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, Columbia University Medical Center and New York-Presbyterian Morgan Stanley Children's Hospital, New York, NY, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2751806"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Preventive medicine reports"
+          ],
+          "ISOAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "medlineAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "NLMid": [
+            "101643766"
+          ],
+          "ISSN": [
+            "2211-3355"
+          ],
+          "ESSN": [
+            "2211-3355"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "289-292"
+  ],
+  "abstractText": [
+    "Objective:The multi-sector, multi-level Massachusetts Childhood Obesity Research Demonstration (MA-CORD) study resulted in improvements in obesity risk factors among children age 2-4 years enrolled in the Special Supplemental Nutrition program for Women, Infants, and Children (WIC). The goal of this study was to examine whether the MA-CORD intervention increased WIC provider confidence in their ability to identify childhood obesity and obesity-related behaviors. Methods:As part of the MA-CORD intervention conducted from 2012 to 2015, we implemented WIC practice changes focused on childhood obesity prevention within two Massachusetts communities. We examined changes in provider confidence to assess childhood obesity risk factors and practice frequency among WIC practices located in MA-CORD intervention communities over a 3-year period, compared to non-intervention sites. We measured provider confidence on a continuous scale using questions previously developed to assess provider and parent confidence to make weight-related behavior change (range 0 to 24). Results:There were 205 providers at baseline and 165 at follow-up. WIC providers at intervention sites reported greater confidence in their ability to identify childhood obesity and obesity-related behaviors compared to the usual care sites (β = 1.01, standard error = 0.13). These findings persisted after adjusting for provider gender, years in practice, highest education level, and WIC position. Conclusions:The MA-CORD intervention was associated with increased WIC provider confidence to assess children's obesity risk. Interventions that increase confidence in assessing obesity-related behaviors may have salutary effects within WIC programs that serve low-income families."
+  ],
+  "affiliation": [
+    "Division of Children's Health Services Research, Department of Pediatrics, Indiana University School of Medicine, Indianapolis, IN, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 DK114383"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U18 DP003370"
+          ],
+          "agency": [
+            "NCCDPHP CDC HHS"
+          ],
+          "acronym": [
+            "DP"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K23 DK115682"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity Prevention",
+        "Wic",
+        "Child Health Disparities"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6357843?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6357843"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.pmedr.2019.01.010"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-12"
+  ],
+  "dateOfRevision": [
+    "2019-03-09"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-25"
+  ],
+  "firstPublicationDate": [
+    "2019-01-25"
+  ]
+}

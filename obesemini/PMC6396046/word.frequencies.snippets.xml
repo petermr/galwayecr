@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6396046/results/word/frequencies/results.xml">
+  <result title="frequency" word="weight" count="81"/>
+  <result title="frequency" word="obesity" count="41"/>
+  <result title="frequency" word="MP:" count="38"/>
+  <result title="frequency" word="pediatric" count="34"/>
+  <result title="frequency" word="providers" count="33"/>
+  <result title="frequency" word="medical" count="32"/>
+  <result title="frequency" word="nutrition" count="32"/>
+  <result title="frequency" word="n = " count="28"/>
+  <result title="frequency" word="care" count="26"/>
+  <result title="frequency" word="study" count="26"/>
+  <result title="frequency" word="management" count="24"/>
+  <result title="frequency" word="parents" count="24"/>
+  <result title="frequency" word="health" count="23"/>
+  <result title="frequency" word="patients" count="22"/>
+ </snippets>
+</snippetsTree>

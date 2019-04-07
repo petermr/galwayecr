@@ -1,0 +1,273 @@
+{
+  "id": [
+    "30625165"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30625165"
+  ],
+  "pmcid": [
+    "PMC6326548"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0209746"
+  ],
+  "title": [
+    "Interventions for obesity among schoolchildren: A systematic review and meta-analyses."
+  ],
+  "authorString": [
+    "A Hamid MS, Sazlina SG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "A Hamid MS"
+          ],
+          "firstName": [
+            "Mohamad Shariff"
+          ],
+          "lastName": [
+            "A Hamid"
+          ],
+          "initials": [
+            "MS"
+          ],
+          "affiliation": [
+            "Unit of Sports Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Wilayah Persekutuan, Malaysia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sazlina SG"
+          ],
+          "firstName": [
+            "Shariff Ghazali"
+          ],
+          "lastName": [
+            "Sazlina"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5737-7226",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Serdang, Selangor, Malaysia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5737-7226",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2765643"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0209746"
+  ],
+  "abstractText": [
+    "BACKGROUND:Childhood overweight and obesity has emerged as a major public health threat worldwide with challenges in its management. This review assessed the effectiveness of interventions for childhood overweight and obesity. METHODS:A systematic literature search was conducted using CINAHL, EMBASE, Ovid MEDLINE, PsycINFO and SPORTDiscus databases to retrieve articles published from 1st January 2000 to 31st December 2017. Randomised controlled trials (RCTs) and quasi-experimental studies comparing different strategies in managing overweight and obesity among schoolchildren (6 to 12 years of age) were included. The main outcomes of interest were reductions in weight related variables included anthropometry and body composition measurements. All variables were analysed using random effects meta-analyses. RESULTS:Fourteen studies were reviewed, 13 were RCTs and one was a quasi-experimental study. The risk of bias for randomisation was low risk for all of RCTs except for one, which was unclear. The risk of bias for randomisation was high for the quasi-experimental study. Most interventions incorporated lifestyle changes and behavioural strategies such as coping and problem solving skills with family involvement. The meta-analyses did not show significant effects of the intervention in reducing weight related outcomes when compared with controls. CONCLUSION:Meta-analyses of the selected studies did not show significant effects of the interventions on weight related outcomes among overweight and obese schoolchildren when compared with controls. The role of interdisciplinary team approaches with family involvement using behaviour and lifestyle strategies to curb obesity among schoolchildren is important."
+  ],
+  "affiliation": [
+    "Unit of Sports Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Wilayah Persekutuan, Malaysia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6326548?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6326548"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0209746"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-10"
+  ],
+  "dateOfRevision": [
+    "2019-01-20"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-09"
+  ],
+  "firstPublicationDate": [
+    "2019-01-09"
+  ]
+}

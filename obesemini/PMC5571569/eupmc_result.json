@@ -1,0 +1,539 @@
+{
+  "id": [
+    "28836983"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28836983"
+  ],
+  "pmcid": [
+    "PMC5571569"
+  ],
+  "doi": [
+    "10.1186/s12966-017-0571-2"
+  ],
+  "title": [
+    "Family-based childhood obesity prevention interventions: a systematic review and quantitative content analysis."
+  ],
+  "authorString": [
+    "Ash T, Agaronov A, Young T, Aftosmes-Tobio A, Davison KK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ash T"
+          ],
+          "firstName": [
+            "Tayla"
+          ],
+          "lastName": [
+            "Ash"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7621-3545",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Department of Social and Behavioral Sciences, SPH-2 655 Huntington Avenue, Boston, 02115, USA. Tra775@mail.harvard.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Agaronov A"
+          ],
+          "firstName": [
+            "Alen"
+          ],
+          "lastName": [
+            "Agaronov"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Department of Social and Behavioral Sciences, SPH-2 655 Huntington Avenue, Boston, 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Young T"
+          ],
+          "firstName": [
+            "Ta'Loria"
+          ],
+          "lastName": [
+            "Young"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, University of Texas at Austin, 110 Inner Campus Drive, Austin, 78705, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Aftosmes-Tobio A"
+          ],
+          "firstName": [
+            "Alyssa"
+          ],
+          "lastName": [
+            "Aftosmes-Tobio"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Department of Nutrition, Kresge Building 677 Huntington Avenue, Boston, 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Davison KK"
+          ],
+          "firstName": [
+            "Kirsten K"
+          ],
+          "lastName": [
+            "Davison"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Harvard T.H. Chan School of Public Health, Department of Social and Behavioral Sciences, SPH-2 655 Huntington Avenue, Boston, 02115, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7621-3545",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2585275"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The international journal of behavioral nutrition and physical activity"
+          ],
+          "ISOAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "medlineAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "NLMid": [
+            "101217089"
+          ],
+          "ISSN": [
+            "1479-5868"
+          ],
+          "ESSN": [
+            "1479-5868"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "113"
+  ],
+  "abstractText": [
+    "A wide range of interventions has been implemented and tested to prevent obesity in children. Given parents' influence and control over children's energy-balance behaviors, including diet, physical activity, media use, and sleep, family interventions are a key strategy in this effort. The objective of this study was to profile the field of recent family-based childhood obesity prevention interventions by employing systematic review and quantitative content analysis methods to identify gaps in the knowledge base.Using a comprehensive search strategy, we searched the PubMed, PsycIFO, and CINAHL databases to identify eligible interventions aimed at preventing childhood obesity with an active family component published between 2008 and 2015. Characteristics of study design, behavioral domains targeted, and sample demographics were extracted from eligible articles using a comprehensive codebook.More than 90% of the 119 eligible interventions were based in the United States, Europe, or Australia. Most interventions targeted children 2-5 years of age (43%) or 6-10 years of age (35%), with few studies targeting the prenatal period (8%) or children 14-17 years of age (7%). The home (28%), primary health care (27%), and community (33%) were the most common intervention settings. Diet (90%) and physical activity (82%) were more frequently targeted in interventions than media use (55%) and sleep (20%). Only 16% of interventions targeted all four behavioral domains. In addition to studies in developing countries, racial minorities and non-traditional families were also underrepresented. Hispanic/Latino and families of low socioeconomic status were highly represented.The limited number of interventions targeting diverse populations and obesity risk behaviors beyond diet and physical activity inhibit the development of comprehensive, tailored interventions. To ensure a broad evidence base, more interventions implemented in developing countries and targeting racial minorities, children at both ends of the age spectrum, and media and sleep behaviors would be beneficial. This study can help inform future decision-making around the design and funding of family-based interventions to prevent childhood obesity."
+  ],
+  "affiliation": [
+    "Harvard T.H. Chan School of Public Health, Department of Social and Behavioral Sciences, SPH-2 655 Huntington Avenue, Boston, 02115, USA. Tra775@mail.harvard.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk-Taking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Family"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Energy Intake"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Developing Countries"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Minority Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Australia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Europe"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Diet",
+        "Sleep",
+        "Physical Activity",
+        "Childhood Obesity",
+        "Sedentary Behavior",
+        "Family-based",
+        "Media Use"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5571569?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5571569"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12966-017-0571-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-01-23"
+  ],
+  "dateOfCreation": [
+    "2017-08-25"
+  ],
+  "dateOfRevision": [
+    "2018-02-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-24"
+  ],
+  "firstPublicationDate": [
+    "2017-08-24"
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": [
+    "27042133"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27042133"
+  ],
+  "pmcid": [
+    "PMC4801195"
+  ],
+  "doi": [
+    "10.2147/DMSO.S90783"
+  ],
+  "title": [
+    "Childhood obesity: prevention is better than cure."
+  ],
+  "authorString": [
+    "Pandita A, Sharma D, Pandita D, Pawar S, Tariq M, Kaul A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pandita A"
+          ],
+          "firstName": [
+            "Aakash"
+          ],
+          "lastName": [
+            "Pandita"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, SMGS Hospital Jammu, Jammu and Kashmir, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharma D"
+          ],
+          "firstName": [
+            "Deepak"
+          ],
+          "lastName": [
+            "Sharma"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Pt Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences, Rohtak, Haryana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pandita D"
+          ],
+          "firstName": [
+            "Dharti"
+          ],
+          "lastName": [
+            "Pandita"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Microbiology Jammu University, Jammu, Jammu and Kashmir, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Pawar S"
+          ],
+          "firstName": [
+            "Smita"
+          ],
+          "lastName": [
+            "Pawar"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of OBG Fernandez Hospital, Hyderabad,Telangana, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Tariq M"
+          ],
+          "firstName": [
+            "Mir"
+          ],
+          "lastName": [
+            "Tariq"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Orthopedics, Kokilaben Dhirubhai Ambani Hospital, Mumbai, India."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaul A"
+          ],
+          "firstName": [
+            "Avinash"
+          ],
+          "lastName": [
+            "Kaul"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Surgery, Acharya Shri Chander College of Medical Sciences and Hospital, Jammu, Jammu and Kashmir, India."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2391187"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Diabetes, metabolic syndrome and obesity : targets and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Diabetes Metab Syndr Obes"
+          ],
+          "medlineAbbreviation": [
+            "Diabetes Metab Syndr Obes"
+          ],
+          "NLMid": [
+            "101515585"
+          ],
+          "ISSN": [
+            "1178-7007"
+          ],
+          "ESSN": [
+            "1178-7007"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "83-89"
+  ],
+  "abstractText": [
+    "Obesity and its associated comorbidities have emerged as a major health problem garnering interests from both public health agencies and mainstream media consumers. With increasing awareness on its impact on health, finances, and community at large, it has come to the forefront for scientific research and development of health plans. The need for better strategies and novel interventions to manage obesity is now being recognized by the entire health care system. Obesity and overweight is now the fifth leading global risk factor for mortality. Strategic investment is thus urgently needed to implement population-based childhood obesity prevention programmes which are effective and also culturally appropriate. Population-based prevention is crucial to stem this rising tide of childhood obesity which is fast reaching epidemic proportions. Obesity has its onset very early in life; therefore, children constitute a major group of this disease. It is thus imperative to lay utmost importance on prevention of obesity in children and herald its progress, if present already. Furthermore, treatment is still in preliminary stage, so early prevention holds better than treatment at later stages. This article is an attempt to lay emphasis on childhood obesity as a problem that needs to be recognized early and measures for its prevention."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, SMGS Hospital Jammu, Jammu and Kashmir, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Assessment",
+        "Prevention",
+        "Treatment",
+        "Nutrition assessment",
+        "Overweight",
+        "body mass index"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4801195?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4801195"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/DMSO.S90783"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-04"
+  ],
+  "dateOfCreation": [
+    "2016-04-04"
+  ],
+  "dateOfRevision": [
+    "2016-04-06"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-15"
+  ],
+  "firstPublicationDate": [
+    "2016-03-15"
+  ]
+}

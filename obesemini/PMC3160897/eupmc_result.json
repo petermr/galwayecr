@@ -1,0 +1,432 @@
+{
+  "id": [
+    "21812987"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21812987"
+  ],
+  "pmcid": [
+    "PMC3160897"
+  ],
+  "doi": [
+    "10.1186/1471-2296-12-80"
+  ],
+  "title": [
+    "Physician practices related to use of BMI-for-age and counseling for childhood obesity prevention: a cross-sectional study."
+  ],
+  "authorString": [
+    "Wethington HR, Sherry B, Polhamus B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wethington HR"
+          ],
+          "firstName": [
+            "Holly R"
+          ],
+          "lastName": [
+            "Wethington"
+          ],
+          "initials": [
+            "HR"
+          ]
+        },
+        {
+          "fullName": [
+            "Sherry B"
+          ],
+          "firstName": [
+            "Bettylou"
+          ],
+          "lastName": [
+            "Sherry"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Polhamus B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Polhamus"
+          ],
+          "initials": [
+            "B"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "1802112"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC family practice"
+          ],
+          "ISOAbbreviation": [
+            "BMC Fam Pract"
+          ],
+          "medlineAbbreviation": [
+            "BMC Fam Pract"
+          ],
+          "NLMid": [
+            "100967792"
+          ],
+          "ISSN": [
+            "1471-2296"
+          ],
+          "ESSN": [
+            "1471-2296"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "80"
+  ],
+  "abstractText": [
+    "BACKGROUND: Screening for obesity and providing appropriate obesity-related counseling in the clinical setting are important strategies to prevent and control childhood obesity. The purpose of this study is to document pediatricians (PEDs) and general practitioners (GPs) with pediatric patients use of BMI-for-age to screen for obesity, confidence in explaining BMI, access to referral clinics, and characteristics associated with screening and counseling to children and their caregivers. METHODS: The authors used 2008 DocStyles survey data to examine these practices at every well child visit for children aged two years and older. Counseling topics included: physical activity, TV viewing time, energy dense foods, fruits and vegetables, and sugar-sweetened beverages. Chi-square tests were used to examine differences in proportions and logistic regression to identify characteristics associated with screening and counseling. RESULTS: The final analytic sample included 250 PEDs and 621 GPs. Prevalence of using BMI-for-age to screen for obesity at every well child visit was higher for PEDs than GPs (50% vs. 22%, χ2 = 67.0, p ≤ 0.01); more PEDs reported being very/somewhat confident in explaining BMI (94% vs. GPs, 87%, p < 0.01); more PEDs reported access to a pediatric obesity specialty clinic for referral (PEDs = 65% vs. GPs = 42%, χ2 = 37.5, p ≤ 0.0001).In general, PEDs reported higher counseling prevalence than GPs. There were significant differences in the following topics: TV viewing (PEDs, 79% vs. GPs, 61%, χ2 = 19.1, p ≤ 0.0001); fruit and vegetable consumption (PEDs, 87% vs. GPs, 78%, χ2 = 6.4, p ≤ 0.01). The only characteristics associated with use of BMI for GPs were being female (OR = 2.3, 95% CI = 1.5-3.5) and serving mostly non-white patients (OR = 1.8, 95% CI = 1.1-2.9); there were no significant associations for PEDs. CONCLUSIONS: The findings for use of BMI-for-age, counseling habits, and access to a pediatric obesity specialty clinic leave room for improvement. More research is needed to better understand why BMI-for-age is not being used to screen at every well child visit, which may increase the likelihood overweight and obese patients receive counseling and referrals for additional services. The authors also suggest more communication between PEDs and GPs through professional organizations to increase awareness of existing resources, and to enhance access and referral to pediatric obesity specialty clinics."
+  ],
+  "affiliation": [
+    "Division of Nutrition, Physical Activity, & Obesity, Centers for Disease Control & Prevention, 4770 Buford Hwy, NE Mail Stop K-25, Atlanta, GA 30341, USA. HWethington@cdc.gov"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pediatrics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Physician's Practice Patterns"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "General Practice"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3160897?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3160897"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21812987/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21812987/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2296-12-80"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-15"
+  ],
+  "dateOfCreation": [
+    "2011-08-25"
+  ],
+  "dateOfRevision": [
+    "2013-06-28"
+  ],
+  "electronicPublicationDate": [
+    "2011-08-03"
+  ],
+  "firstPublicationDate": [
+    "2011-08-03"
+  ]
+}

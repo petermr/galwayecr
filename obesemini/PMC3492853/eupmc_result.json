@@ -1,0 +1,742 @@
+{
+  "id": [
+    "22106871"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22106871"
+  ],
+  "pmcid": [
+    "PMC3492853"
+  ],
+  "doi": [
+    "10.1111/j.1467-789X.2011.00950.x"
+  ],
+  "title": [
+    "EPODE approach for childhood obesity prevention: methods, progress and international development."
+  ],
+  "authorString": [
+    "Borys JM, Le Bodo Y, Jebb SA, Seidell JC, Summerbell C, Richard D, De Henauw S, Moreno LA, Romon M, Visscher TL, Raffin S, Swinburn B, EEN Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Borys JM"
+          ],
+          "firstName": [
+            "J-M"
+          ],
+          "lastName": [
+            "Borys"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "EPODE European Network Coordinating Team, Proteines, Paris, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Le Bodo Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Le Bodo"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Jebb SA"
+          ],
+          "firstName": [
+            "S A"
+          ],
+          "lastName": [
+            "Jebb"
+          ],
+          "initials": [
+            "SA"
+          ]
+        },
+        {
+          "fullName": [
+            "Seidell JC"
+          ],
+          "firstName": [
+            "J C"
+          ],
+          "lastName": [
+            "Seidell"
+          ],
+          "initials": [
+            "JC"
+          ]
+        },
+        {
+          "fullName": [
+            "Summerbell C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Summerbell"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1910-9383",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Richard D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Richard"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "De Henauw S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "De Henauw"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Moreno LA"
+          ],
+          "firstName": [
+            "L A"
+          ],
+          "lastName": [
+            "Moreno"
+          ],
+          "initials": [
+            "LA"
+          ]
+        },
+        {
+          "fullName": [
+            "Romon M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Romon"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Visscher TL"
+          ],
+          "firstName": [
+            "T L S"
+          ],
+          "lastName": [
+            "Visscher"
+          ],
+          "initials": [
+            "TL"
+          ]
+        },
+        {
+          "fullName": [
+            "Raffin S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Raffin"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Swinburn B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Swinburn"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "collectiveName": [
+            "EEN Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "van Koperen M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "van Koperen"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "van Assche J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "van Assche"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Vicente-Rodríguez G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Vicente-Rodríguez"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Gracia-Marco L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Gracia-Marco"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4020-0256",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4020-0256",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1910-9383",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "1915450"
+      ],
+      "dateOfPublication": [
+        "2012 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Obesity reviews : an official journal of the International Association for the Study of Obesity"
+          ],
+          "ISOAbbreviation": [
+            "Obes Rev"
+          ],
+          "medlineAbbreviation": [
+            "Obes Rev"
+          ],
+          "NLMid": [
+            "100897395"
+          ],
+          "ISSN": [
+            "1467-7881"
+          ],
+          "ESSN": [
+            "1467-789X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "299-315"
+  ],
+  "abstractText": [
+    "Childhood obesity is a complex issue and needs multi-stakeholder involvement at all levels to foster healthier lifestyles in a sustainable way. 'Ensemble Prévenons l'Obésité Des Enfants' (EPODE, Together Let's Prevent Childhood Obesity) is a large-scale, coordinated, capacity-building approach for communities to implement effective and sustainable strategies to prevent childhood obesity. This paper describes EPODE methodology and its objective of preventing childhood obesity. At a central level, a coordination team, using social marketing and organizational techniques, trains and coaches a local project manager nominated in each EPODE community by the local authorities. The local project manager is also provided with tools to mobilize local stakeholders through a local steering committee and local networks. The added value of the methodology is to mobilize stakeholders at all levels across the public and the private sectors. Its critical components include political commitment, sustainable resources, support services and a strong scientific input--drawing on the evidence-base--together with evaluation of the programme. Since 2004, EPODE methodology has been implemented in more than 500 communities in six countries. Community-based interventions are integral to childhood obesity prevention. EPODE provides a valuable model to address this challenge."
+  ],
+  "affiliation": [
+    "EPODE European Network Coordinating Team, Proteines, Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MC_U105960389"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "ES/G007470/1"
+          ],
+          "agency": [
+            "Economic and Social Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "International Cooperation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Policy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Welfare"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3492853?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3492853"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22106871/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22106871/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/j.1467-789X.2011.00950.x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "73"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-04-26"
+  ],
+  "dateOfCreation": [
+    "2012-03-16"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2011-11-23"
+  ],
+  "firstPublicationDate": [
+    "2011-11-23"
+  ]
+}

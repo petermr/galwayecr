@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC5600510/results/search/country/results.xml">
+  <result pre="1, 2 The only age group of children in the" exact="United States" post="(U.S.)with recent improvement in national obesity prevalence estimates are"/>
+  <result pre="Trends in Obesity Prevalence Among Children and Adolescents in the" exact="United States," post="1988–1994 Through 2013–2014 Jama 2016 315 2292 9 27272581"/>
+  <result pre="et al. Prevalence of childhood and adult obesity in the" exact="United States," post="2011–2012 Jama 2014 311 806 14 24570244 3 Foltz"/>
+  <result pre="Special Supplemental Nutrition Program for Women, Infants, and Children -" exact="United States," post="2000–2014 MMWR Morb Mortal Wkly Rep 2016 65 1256"/>
+  <result pre="Kramer MR Narayan KM Incidence of childhood obesity in the" exact="United States" post="N Engl J Med 2014 370 403 11 24476431"/>
+  <result pre="Engl J Med 2014 370 403 11 24476431 26 collab:" exact="United States" post="Department of Agriculture WIC Program http://www.fns.usda.gov/pd/wic-program"/>
+ </snippets>
+</snippetsTree>

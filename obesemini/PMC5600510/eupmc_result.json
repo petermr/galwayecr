@@ -1,0 +1,678 @@
+{
+  "id": [
+    "28653498"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28653498"
+  ],
+  "pmcid": [
+    "PMC5600510"
+  ],
+  "doi": [
+    "10.1002/oby.21865"
+  ],
+  "title": [
+    "Childhood obesity prevention in the women, infants, and children program: Outcomes of the MA-CORD study."
+  ],
+  "authorString": [
+    "Woo Baidal JA, Nelson CC, Perkins M, Colchamiro R, Leung-Strle P, Kwass JA, Gortmaker SL, Davison KK, Taveras EM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Woo Baidal JA"
+          ],
+          "firstName": [
+            "Jennifer A"
+          ],
+          "lastName": [
+            "Woo Baidal"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, Department of Pediatrics, Columbia University Medical Center, New York, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nelson CC"
+          ],
+          "firstName": [
+            "Candace C"
+          ],
+          "lastName": [
+            "Nelson"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Perkins M"
+          ],
+          "firstName": [
+            "Meghan"
+          ],
+          "lastName": [
+            "Perkins"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of General Academic Pediatrics, Department of Pediatrics, MassGeneral Hospital for Children, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Colchamiro R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Colchamiro"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung-Strle P"
+          ],
+          "firstName": [
+            "Peggy"
+          ],
+          "lastName": [
+            "Leung-Strle"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwass JA"
+          ],
+          "firstName": [
+            "Jo-Ann"
+          ],
+          "lastName": [
+            "Kwass"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Massachusetts Department of Public Health, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gortmaker SL"
+          ],
+          "firstName": [
+            "Steve L"
+          ],
+          "lastName": [
+            "Gortmaker"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Davison KK"
+          ],
+          "firstName": [
+            "Kirsten K"
+          ],
+          "lastName": [
+            "Davison"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Taveras EM"
+          ],
+          "firstName": [
+            "Elsie M"
+          ],
+          "lastName": [
+            "Taveras"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Division of General Academic Pediatrics, Department of Pediatrics, MassGeneral Hospital for Children, Boston, Massachusetts, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "25"
+      ],
+      "journalIssueId": [
+        "2571177"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Obesity (Silver Spring, Md.)"
+          ],
+          "ISOAbbreviation": [
+            "Obesity (Silver Spring)"
+          ],
+          "medlineAbbreviation": [
+            "Obesity (Silver Spring)"
+          ],
+          "NLMid": [
+            "101264860"
+          ],
+          "ISSN": [
+            "1930-7381"
+          ],
+          "ESSN": [
+            "1930-739X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1167-1174"
+  ],
+  "abstractText": [
+    "To examine the extent to which a Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) intervention improved BMI z scores and obesity-related behaviors among children age 2 to 4 years.In two Massachusetts communities, practice changes in WIC were implemented as part of the Massachusetts Childhood Obesity Research Demonstration (MA-CORD) initiative to prevent obesity among low-income children. One WIC program was the comparison. Changes in BMI z scores pre and post intervention and prevalence of obesity-related behaviors of WIC participants were assessed. Linear mixed models were used to examine BMI z score change, and logistic regression models were used to examine changes in obesity-related behaviors in each intervention site versus comparison over 2 years.WIC-enrolled children in both intervention sites (vs. comparison) had improved sugar-sweetened beverage consumption and sleep duration. Compared to the comparison WIC program (n = 626), no differences were observed in BMI z score among children in Intervention Site #1 (n = 198) or #2 (n = 637). In sensitivity analyses excluding Asian children, a small decline was observed in BMI z score (-0.08 units/y [95% confidence interval: -0.14 to -0.02], P = 0.01) in Intervention Site #2 versus comparison.Among children enrolled in WIC, the MA-CORD intervention was associated with reduced prevalence of obesity risk factors in both intervention communities and a small improvement in BMI z scores in one of two intervention communities in non-Asian children."
+  ],
+  "affiliation": [
+    "Division of Pediatric Gastroenterology, Hepatology, and Nutrition, Department of Pediatrics, Columbia University Medical Center, New York, New York, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K24 DK105989"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 TR001873"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U18 DP003370"
+          ],
+          "agency": [
+            "NCCDPHP CDC HHS"
+          ],
+          "acronym": [
+            "DP"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KL2 TR001874"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Longitudinal Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poverty"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Massachusetts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Food Assistance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5600510?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5600510"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/oby.21865"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28653503"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Obesity (Silver Spring). 2017 Jul;25(7):1157-1158"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "26"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS865336"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-01-01"
+  ],
+  "dateOfCreation": [
+    "2017-06-28"
+  ],
+  "dateOfRevision": [
+    "2018-07-01"
+  ],
+  "firstPublicationDate": [
+    "2017-07-01"
+  ],
+  "embargoDate": [
+    "2018-07-01"
+  ]
+}

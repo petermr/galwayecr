@@ -1,0 +1,801 @@
+{
+  "id": [
+    "28851329"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28851329"
+  ],
+  "pmcid": [
+    "PMC5576245"
+  ],
+  "doi": [
+    "10.1186/s12889-017-4690-0"
+  ],
+  "title": [
+    "Process evaluation results of a cluster randomised controlled childhood obesity prevention trial: the WAVES study."
+  ],
+  "authorString": [
+    "Griffin TL, Clarke JL, Lancashire ER, Pallan MJ, Adab P, WAVES study trial investigators."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Griffin TL"
+          ],
+          "firstName": [
+            "T L"
+          ],
+          "lastName": [
+            "Griffin"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0146-4440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, Public Health Building, University of Birmingham, Birmingham, B15 2TT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Clarke JL"
+          ],
+          "firstName": [
+            "J L"
+          ],
+          "lastName": [
+            "Clarke"
+          ],
+          "initials": [
+            "JL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2563-5451",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, Public Health Building, University of Birmingham, Birmingham, B15 2TT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lancashire ER"
+          ],
+          "firstName": [
+            "E R"
+          ],
+          "lastName": [
+            "Lancashire"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, Public Health Building, University of Birmingham, Birmingham, B15 2TT, UK. e.r.lancashire@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Pallan MJ"
+          ],
+          "firstName": [
+            "M J"
+          ],
+          "lastName": [
+            "Pallan"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, Public Health Building, University of Birmingham, Birmingham, B15 2TT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Adab P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Adab"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, Public Health Building, University of Birmingham, Birmingham, B15 2TT, UK. p.adab@bham.ac.uk."
+          ]
+        },
+        {
+          "collectiveName": [
+            "WAVES study trial investigators"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Adab P"
+          ],
+          "firstName": [
+            "Peymane"
+          ],
+          "lastName": [
+            "Adab"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Barrett T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Barrett"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6873-0750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng KK"
+          ],
+          "firstName": [
+            "K K"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "KK"
+          ]
+        },
+        {
+          "fullName": [
+            "Daley A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Daley"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Deeks JJ"
+          ],
+          "firstName": [
+            "Jonathan J"
+          ],
+          "lastName": [
+            "Deeks"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Duda JL"
+          ],
+          "firstName": [
+            "Joan L"
+          ],
+          "lastName": [
+            "Duda"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Frew E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Frew"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Gill P"
+          ],
+          "firstName": [
+            "Paramjit"
+          ],
+          "lastName": [
+            "Gill"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Hemming K"
+          ],
+          "firstName": [
+            "Karla"
+          ],
+          "lastName": [
+            "Hemming"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Pallan MJ"
+          ],
+          "firstName": [
+            "Miranda J"
+          ],
+          "lastName": [
+            "Pallan"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Parry J"
+          ],
+          "firstName": [
+            "Jayne"
+          ],
+          "lastName": [
+            "Parry"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ekelund U"
+          ],
+          "firstName": [
+            "Ulf"
+          ],
+          "lastName": [
+            "Ekelund"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Cade JE"
+          ],
+          "firstName": [
+            "Janet E"
+          ],
+          "lastName": [
+            "Cade"
+          ],
+          "initials": [
+            "JE"
+          ]
+        },
+        {
+          "fullName": [
+            "Bhopal R"
+          ],
+          "firstName": [
+            "Raj"
+          ],
+          "lastName": [
+            "Bhopal"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "McGee E"
+          ],
+          "firstName": [
+            "Eleanor"
+          ],
+          "lastName": [
+            "McGee"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Passmore S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Passmore"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2563-5451",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0146-4440",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6873-0750",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9087-3945",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2584125"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "681"
+  ],
+  "abstractText": [
+    "Increasing prevalence of childhood obesity and its related consequences emphasises the importance of developing and evaluating interventions aimed at prevention. The importance of process evaluation in health intervention research is increasingly recognised, assessing implementation and participant response, and how these may relate to intervention success or failure. A comprehensive process evaluation was designed and undertaken for the West Midlands ActiVe lifestyle and healthy Eating in School children (WAVES) study that tested the effectiveness of an obesity prevention programme for children aged 6-7 years, delivered in 24 UK schools. The four intervention components were: additional daily school-time physical activity (PA); cooking workshops for children and parents; Villa Vitality (VV), a 6-week healthy lifestyle promotion programme run by a local football club; and signposting to local PA opportunities.Data relating to six dimensions (Fidelity, Reach, Recruitment, Quality, Participant Responsiveness, Context) were collected via questionnaires, logbooks, direct observations, focus groups and interviews. Multiple data collection methods allowed for data triangulation and validation of methods, comparing research observations with teacher records. The 6-stage WAVES study model ((i) Data collection, (ii) Collation, (iii) Tabulation, (iv) Score allocation and discussion, (v) Consultation, (vi) Final score allocation) was developed to guide the collection, assimilation and analysis of process evaluation data. Two researchers independently allocated school scores on a 5-point Likert scale for each process evaluation dimension. Researchers then discussed school score allocations and reached a consensus. Schools were ranked by total score, and grouped to reflect low, medium or high intervention implementation.The intervention was predominantly well-implemented and well-received by teachers, parents and children. The PA component was identified as the most challenging, VV the least. Median implementation score across schools was 56/75 (IQR, 51.0 - 60.8). Agreement between teacher logbooks and researcher observations was generally high, the main discrepancies occurred in session duration reporting where in some cases teachers' estimations tended to be higher than researchers'.The WAVES study model provides a rigorous and replicable approach to undertaking and analysing a multi-component process evaluation. Challenges to implementing school-based obesity prevention interventions have been identified which can be used to inform future trials.ISRCTN97000586 . 19 May 2010."
+  ],
+  "affiliation": [
+    "Institute of Applied Health Research, Public Health Building, University of Birmingham, Birmingham, B15 2TT, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "06/85/11"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "School Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cooking"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "intervention",
+        "Primary School",
+        "Cluster Randomised Controlled Trial",
+        "Implementation Fidelity",
+        "Process Evaluation Results"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5576245?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5576245"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-017-4690-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-05"
+  ],
+  "dateOfCreation": [
+    "2017-08-31"
+  ],
+  "dateOfRevision": [
+    "2018-02-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-29"
+  ],
+  "firstPublicationDate": [
+    "2017-08-29"
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "id": [
+    "30746425"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30746425"
+  ],
+  "pmcid": [
+    "PMC6360473"
+  ],
+  "doi": [
+    "10.1177/2333393618825253"
+  ],
+  "title": [
+    "The Sociocultural Factors Underlying Latina Mothers' Infant Feeding Practices."
+  ],
+  "authorString": [
+    "Cheney AM, Nieri T, Davis E, Prologo J, Valencia E, Anderson AT, Widaman K, Reaves C, Sullivan G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheney AM"
+          ],
+          "firstName": [
+            "Ann M"
+          ],
+          "lastName": [
+            "Cheney"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4032-6692",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of California, Riverside, Riverside, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nieri T"
+          ],
+          "firstName": [
+            "Tanya"
+          ],
+          "lastName": [
+            "Nieri"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "University of California, Riverside, Riverside, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Davis E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "University of California, Riverside, Riverside, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Prologo J"
+          ],
+          "firstName": [
+            "Joe"
+          ],
+          "lastName": [
+            "Prologo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Early Head Start, San Bernardino, San Bernardino, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Valencia E"
+          ],
+          "firstName": [
+            "Esmirna"
+          ],
+          "lastName": [
+            "Valencia"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Riverside County Office of Education, Riverside, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson AT"
+          ],
+          "firstName": [
+            "Ashaunta T"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "affiliation": [
+            "University of Southern California, Los Angeles, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Widaman K"
+          ],
+          "firstName": [
+            "Keith"
+          ],
+          "lastName": [
+            "Widaman"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "University of California, Riverside, Riverside, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Reaves C"
+          ],
+          "firstName": [
+            "Christina"
+          ],
+          "lastName": [
+            "Reaves"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Borrego Health, Riverside, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sullivan G"
+          ],
+          "firstName": [
+            "Greer"
+          ],
+          "lastName": [
+            "Sullivan"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Borrego Health, Riverside, California, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4032-6692",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2781779"
+      ],
+      "dateOfPublication": [
+        "2019 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global qualitative nursing research"
+          ],
+          "ISOAbbreviation": [
+            "Glob Qual Nurs Res"
+          ],
+          "medlineAbbreviation": [
+            "Glob Qual Nurs Res"
+          ],
+          "NLMid": [
+            "101666563"
+          ],
+          "ISSN": [
+            "2333-3936"
+          ],
+          "ESSN": [
+            "2333-3936"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "2333393618825253"
+  ],
+  "abstractText": [
+    "In this study, we examined the sociocultural factors underlying infant feeding practices. We conducted four focus groups with 19 Latina mothers of children 0 to 2 years of age enrolled in Early Head Start programs in the United States over a 1-year period. We found these mothers considered both science- and family-based feeding recommendations. However, advice from family was often inconsistent with science- and nutrition-based recommended feeding practices. In the interest of showing respect and preserving harmonious relationships, some mothers accepted family advice instead of recommended practices while others employed strategies to follow recommended practices without offending. Nutrition educators need to consider the intersection of macro, organizational, and community factors with micro-level processes in shaping the implementation of recommended feeding practices within family systems. Nutrition interventions for Latino families should capitalize on Latina mothers' strategies for navigating multiple information sources while preserving cultural values and family relationships."
+  ],
+  "affiliation": [
+    "University of California, Riverside, Riverside, California, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Growth and development",
+        "Migrants",
+        "Infants",
+        "Immigrants",
+        "High-risk",
+        "Latino / Hispanic People",
+        "Obesity / Overweight"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6360473?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6360473"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/2333393618825253"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-13"
+  ],
+  "dateOfRevision": [
+    "2019-02-14"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-01"
+  ],
+  "firstPublicationDate": [
+    "2019-01-01"
+  ]
+}

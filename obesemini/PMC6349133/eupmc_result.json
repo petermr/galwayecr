@@ -1,0 +1,400 @@
+{
+  "id": [
+    "30692103"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30692103"
+  ],
+  "pmcid": [
+    "PMC6349133"
+  ],
+  "doi": [
+    "10.1136/bmj.l257"
+  ],
+  "title": [
+    "Life course approach to prevention and control of non-communicable diseases."
+  ],
+  "authorString": [
+    "Mikkelsen B, Williams J, Rakovac I, Wickramasinghe K, Hennis A, Shin HR, Farmer M, Weber M, Berdzuli N, Borges C, Huber M, Breda J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mikkelsen B"
+          ],
+          "firstName": [
+            "Bente"
+          ],
+          "lastName": [
+            "Mikkelsen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Division of Non-communicable Diseases and Promoting Health through the Life-course, WHO Regional Office for Europe, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams J"
+          ],
+          "firstName": [
+            "Julianne"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "WHO European Office for Prevention and Control of NCDs, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rakovac I"
+          ],
+          "firstName": [
+            "Ivo"
+          ],
+          "lastName": [
+            "Rakovac"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "WHO European Office for Prevention and Control of NCDs, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wickramasinghe K"
+          ],
+          "firstName": [
+            "Kremlin"
+          ],
+          "lastName": [
+            "Wickramasinghe"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "WHO European Office for Prevention and Control of NCDs, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hennis A"
+          ],
+          "firstName": [
+            "Anselm"
+          ],
+          "lastName": [
+            "Hennis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Noncommunicable Diseases and Mental Health, WHO Pan American Health Organization (PAHO), Washington, DC, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shin HR"
+          ],
+          "firstName": [
+            "Hai-Rim"
+          ],
+          "lastName": [
+            "Shin"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Division of Noncommunicable Diseases and Health through the Life-course, WHO Western Pacific Region (WPRO), Manila, Philippines."
+          ]
+        },
+        {
+          "fullName": [
+            "Farmer M"
+          ],
+          "firstName": [
+            "Mychelle"
+          ],
+          "lastName": [
+            "Farmer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "NCD Child Governing Council, American Academy of Pediatrics/Society for Adolescent Health and Medicine, Itasca, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Non-communicable Diseases and Promoting Health through the Life-course, WHO Regional Office for Europe, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Berdzuli N"
+          ],
+          "firstName": [
+            "Nino"
+          ],
+          "lastName": [
+            "Berdzuli"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Division of Non-communicable Diseases and Promoting Health through the Life-course, WHO Regional Office for Europe, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Borges C"
+          ],
+          "firstName": [
+            "Carina"
+          ],
+          "lastName": [
+            "Borges"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "WHO European Office for Prevention and Control of NCDs, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Huber M"
+          ],
+          "firstName": [
+            "Manfred"
+          ],
+          "lastName": [
+            "Huber"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "WHO European Office for Prevention and Control of NCDs, Moscow, Russia."
+          ]
+        },
+        {
+          "fullName": [
+            "Breda J"
+          ],
+          "firstName": [
+            "João"
+          ],
+          "lastName": [
+            "Breda"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "WHO European Office for Prevention and Control of NCDs, Moscow, Russia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "364"
+      ],
+      "journalIssueId": [
+        "2765786"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ (Clinical research ed.)"
+          ],
+          "ISOAbbreviation": [
+            "BMJ"
+          ],
+          "medlineAbbreviation": [
+            "BMJ"
+          ],
+          "NLMid": [
+            "8900488"
+          ],
+          "ISSN": [
+            "0959-8138"
+          ],
+          "ESSN": [
+            "1756-1833"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "l257"
+  ],
+  "affiliation": [
+    "Division of Non-communicable Diseases and Promoting Health through the Life-course, WHO Regional Office for Europe, Copenhagen, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6349133"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmj.l257"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-30"
+  ],
+  "dateOfRevision": [
+    "2019-03-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-28"
+  ],
+  "firstPublicationDate": [
+    "2019-01-28"
+  ]
+}

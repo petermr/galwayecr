@@ -1,0 +1,481 @@
+{
+  "id": [
+    "30866879"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30866879"
+  ],
+  "pmcid": [
+    "PMC6417230"
+  ],
+  "doi": [
+    "10.1186/s12889-019-6616-5"
+  ],
+  "title": [
+    "Proactive Assessment of Obesity Risk during Infancy (ProAsk): a qualitative study of parents' and professionals' perspectives on an mHealth intervention."
+  ],
+  "authorString": [
+    "Rose J, Glazebrook C, Wharrad H, Siriwardena AN, Swift JA, Nathan D, Weng SF, Atkinson P, Ablewhite J, McMaster F, Watson V, Redsell SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rose J"
+          ],
+          "firstName": [
+            "Jennie"
+          ],
+          "lastName": [
+            "Rose"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0242-6999",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Health, Education, Medicine and Social Care, Anglia Ruskin University, East Road Campus, Cambridge, England. Jennie.Rose@anglia.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Glazebrook C"
+          ],
+          "firstName": [
+            "Cris"
+          ],
+          "lastName": [
+            "Glazebrook"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Mental Health, University of Nottingham Innovation Park, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Wharrad H"
+          ],
+          "firstName": [
+            "Heather"
+          ],
+          "lastName": [
+            "Wharrad"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Health Sciences, University of Nottingham, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Siriwardena AN"
+          ],
+          "firstName": [
+            "A Niroshan"
+          ],
+          "lastName": [
+            "Siriwardena"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "affiliation": [
+            "Community and Health Research Unit, School of Health and Social Care, University of Lincoln, Lincoln, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Swift JA"
+          ],
+          "firstName": [
+            "Judy Anne"
+          ],
+          "lastName": [
+            "Swift"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Division of Nutritional Sciences, School of Biosciences, University of Nottingham, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Nathan D"
+          ],
+          "firstName": [
+            "Dilip"
+          ],
+          "lastName": [
+            "Nathan"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Nottingham University Hospitals Trust, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Weng SF"
+          ],
+          "firstName": [
+            "Stephen Franklin"
+          ],
+          "lastName": [
+            "Weng"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "affiliation": [
+            "Division of Primary Care, University of Nottingham, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Atkinson P"
+          ],
+          "firstName": [
+            "Pippa"
+          ],
+          "lastName": [
+            "Atkinson"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Nottingham City Care Partnership, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Ablewhite J"
+          ],
+          "firstName": [
+            "Joanne"
+          ],
+          "lastName": [
+            "Ablewhite"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Mental Health, University of Nottingham Innovation Park, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "McMaster F"
+          ],
+          "firstName": [
+            "Fiona"
+          ],
+          "lastName": [
+            "McMaster"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Faculty of Medical Sciences, Anglia Ruskin University, Cambridge, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Watson V"
+          ],
+          "firstName": [
+            "Vicki"
+          ],
+          "lastName": [
+            "Watson"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Nottingham City Care Partnership, Nottingham, England."
+          ]
+        },
+        {
+          "fullName": [
+            "Redsell SA"
+          ],
+          "firstName": [
+            "Sarah Anne"
+          ],
+          "lastName": [
+            "Redsell"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Faculty of Health, Education, Medicine and Social Care, Anglia Ruskin University, East Road Campus, Cambridge, England."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0242-6999",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2787853"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "294"
+  ],
+  "abstractText": [
+    "BACKGROUND:Prevention of childhood obesity is a public health priority. Interventions that establish healthy growth trajectories early in life promise lifelong benefits to health and wellbeing. Proactive Assessment of Obesity Risk during Infancy (ProAsk) is a novel mHealth intervention designed to enable health professionals to assess an infant's risk of future overweight and motivate parental behaviour change to prevent childhood overweight and obesity. The aim of this study was to explore parents' and health professionals' experiences of the overweight risk communication and behaviour change aspects of this mHealth intervention. METHODS:The study was conducted in four economically deprived localities in the UK. Parents (N = 66) were recruited to the ProAsk feasibility study when their infant was 6-8 weeks old. Twenty two health visitors (HVs) used a hand-held tablet device to deliver ProAsk to parents when their infants were 3 months old. Parents (N = 12) and HVs (N = 15) were interviewed when infants in the study were 6 months old. Interview data were transcribed and analysed thematically using an inductive, interpretative approach. RESULTS:Four key themes were identified across both parent and health visitor data: Engaging and empowering with digital technology; Unfamiliar technology presents challenges and opportunity; Trust in the risk score; Resistance to targeting. Most participants found the interactivity and visual presentation of information on ProAsk engaging. Health visitors who were unfamiliar with mobile technology drew support from parents who were more confident using tablet devices. There was evidence of resistance to targeting infants at greatest risk of future overweight and obesity, and both parents and health visitors drew on a number of reasons why a higher than average overweight risk score might not apply to a particular infant. CONCLUSIONS:An mHealth intervention actively engaged parents, enabling them to take ownership of the process of seeking strategies to reduce infant risk of overweight. However, cognitive and motivational biases that prevent effective overweight risk communication are barriers to targeting an intervention at those infants most at risk. TRIAL REGISTRATION:NCT02314494 . Date registered 11th December 2014."
+  ],
+  "affiliation": [
+    "Faculty of Health, Education, Medicine and Social Care, Anglia Ruskin University, East Road Campus, Cambridge, England. Jennie.Rose@anglia.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "PHIND 01/14-15"
+          ],
+          "agency": [
+            "Medical Research Council (UK)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prediction",
+        "Infant",
+        "Prevention",
+        "Parents",
+        "Risk Communication",
+        "Childhood Obesity",
+        "Health Visitor",
+        "Mhealth"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417230?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6417230"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-019-6616-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-15"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-12"
+  ],
+  "firstPublicationDate": [
+    "2019-03-12"
+  ]
+}

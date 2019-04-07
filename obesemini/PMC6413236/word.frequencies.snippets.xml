@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6413236/results/word/frequencies/results.xml">
+  <result title="frequency" word="intervention" count="42"/>
+  <result title="frequency" word="motivational" count="41"/>
+  <result title="frequency" word="children" count="40"/>
+  <result title="frequency" word="care" count="37"/>
+  <result title="frequency" word="primary" count="37"/>
+  <result title="frequency" word="study" count="34"/>
+  <result title="frequency" word="body" count="32"/>
+  <result title="frequency" word="obesity" count="31"/>
+  <result title="frequency" word="physical" count="27"/>
+  <result title="frequency" word="group" count="26"/>
+  <result title="frequency" word="activity" count="23"/>
+  <result title="frequency" word="childhood" count="21"/>
+ </snippets>
+</snippetsTree>

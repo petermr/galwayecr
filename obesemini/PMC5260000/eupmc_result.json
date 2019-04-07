@@ -1,0 +1,840 @@
+{
+  "id": [
+    "28115006"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28115006"
+  ],
+  "pmcid": [
+    "PMC5260000"
+  ],
+  "doi": [
+    "10.1186/s13063-016-1732-3"
+  ],
+  "title": [
+    "Effectiveness of an implementation optimisation intervention aimed at increasing parent engagement in HENRY, a childhood obesity prevention programme - the Optimising Family Engagement in HENRY (OFTEN) trial: study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Bryant M, Burton W, Cundill B, Farrin AJ, Nixon J, Stevens J, Roberts K, Foy R, Rutter H, Hartley S, Tubeuf S, Collinson M, Brown J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bryant M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Bryant"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7690-4098",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK. m.j.bryant@leeds.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Burton W"
+          ],
+          "firstName": [
+            "Wendy"
+          ],
+          "lastName": [
+            "Burton"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Cundill B"
+          ],
+          "firstName": [
+            "Bonnie"
+          ],
+          "lastName": [
+            "Cundill"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3648-820X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Farrin AJ"
+          ],
+          "firstName": [
+            "Amanda J"
+          ],
+          "lastName": [
+            "Farrin"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2876-0584",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Nixon J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Nixon"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Stevens J"
+          ],
+          "firstName": [
+            "June"
+          ],
+          "lastName": [
+            "Stevens"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Nutrition, Gillings School of Public Health, University of North Carolina, Chapel Hill, NC, 27599, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Roberts K"
+          ],
+          "firstName": [
+            "Kim"
+          ],
+          "lastName": [
+            "Roberts"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "HENRY Head Office, 8 Elm Place, Old Witney Road, Eynsham, OX29 4BD, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Foy R"
+          ],
+          "firstName": [
+            "Robbie"
+          ],
+          "lastName": [
+            "Foy"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Academic Unit of Primary Care, Institute of Health Sciences, University of Leeds, Leeds, LS2 9JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rutter H"
+          ],
+          "firstName": [
+            "Harry"
+          ],
+          "lastName": [
+            "Rutter"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "London School of Hygiene and Tropical Medicine, 15-17 Tavistock Place, London, WC1H 9SH, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hartley S"
+          ],
+          "firstName": [
+            "Suzanne"
+          ],
+          "lastName": [
+            "Hartley"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Tubeuf S"
+          ],
+          "firstName": [
+            "Sandy"
+          ],
+          "lastName": [
+            "Tubeuf"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9001-1157",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Academic Unit of Health Economics, Leeds Institute of Health Sciences, University of Leeds, Leeds, LS2 9JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Collinson M"
+          ],
+          "firstName": [
+            "Michelle"
+          ],
+          "lastName": [
+            "Collinson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9001-1157",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2876-0584",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7690-4098",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3648-820X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2510859"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "40"
+  ],
+  "abstractText": [
+    "Family-based interventions to prevent childhood obesity depend upon parents' taking action to improve diet and other lifestyle behaviours in their families. Programmes that attract and retain high numbers of parents provide an enhanced opportunity to improve public health and are also likely to be more cost-effective than those that do not. We have developed a theory-informed optimisation intervention to promote parent engagement within an existing childhood obesity prevention group programme, HENRY (Health Exercise Nutrition for the Really Young). Here, we describe a proposal to evaluate the effectiveness of this optimisation intervention in regard to the engagement of parents and cost-effectiveness.The Optimising Family Engagement in HENRY (OFTEN) trial is a cluster randomised controlled trial being conducted across 24 local authorities (approximately 144 children's centres) which currently deliver HENRY programmes. The primary outcome will be parental enrolment and attendance at the HENRY programme, assessed using routinely collected process data. Cost-effectiveness will be presented in terms of primary outcomes using acceptability curves and through eliciting the willingness to pay for the optimisation from HENRY commissioners. Secondary outcomes include the longitudinal impact of the optimisation, parent-reported infant intake of fruits and vegetables (as a proxy to compliance) and other parent-reported family habits and lifestyle.This innovative trial will provide evidence on the implementation of a theory-informed optimisation intervention to promote parent engagement in HENRY, a community-based childhood obesity prevention programme. The findings will be generalisable to other interventions delivered to parents in other community-based environments. This research meets the expressed needs of commissioners, children's centres and parents to optimise the potential impact that HENRY has on obesity prevention. A subsequent cluster randomised controlled pilot trial is planned to determine the practicality of undertaking a definitive trial to robustly evaluate the effectiveness and cost-effectiveness of the optimised intervention on childhood obesity prevention.ClinicalTrials.gov identifier: NCT02675699 . Registered on 4 February 2016."
+  ],
+  "affiliation": [
+    "Leeds Institute of Clinical Trials Research, University of Leeds, Leeds, LS29JT, UK. m.j.bryant@leeds.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CDF-2014-07-052"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Habits"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Reduction Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Family Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Community Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Preventive Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Care Costs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Healthy Diet"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parent",
+        "Recruitment",
+        "Implementation",
+        "Trial",
+        "Engagement",
+        "Childhood Obesity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5260000?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5260000"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-016-1732-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-02-26"
+  ],
+  "dateOfCreation": [
+    "2017-01-25"
+  ],
+  "dateOfRevision": [
+    "2018-03-30"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-24"
+  ],
+  "firstPublicationDate": [
+    "2017-01-24"
+  ]
+}

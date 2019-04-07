@@ -1,0 +1,293 @@
+{
+  "id": [
+    "30890718"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30890718"
+  ],
+  "pmcid": [
+    "PMC6425015"
+  ],
+  "doi": [
+    "10.1038/s41598-019-40486-w"
+  ],
+  "title": [
+    "The association of genetically controlled CpG methylation (cg158269415) of protein tyrosine phosphatase, receptor type N2 (PTPRN2) with childhood obesity."
+  ],
+  "authorString": [
+    "Lee S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee S"
+          ],
+          "firstName": [
+            "Suman"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Center for Genome Science, National Institute of Health, Chungcheongbuk-do, 363-951, Republic of Korea. smnl93@gmail.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2787935"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "4855"
+  ],
+  "abstractText": [
+    "Protein tyrosine phosphatase, receptor type N2 (PTPRN2) encodes a major islet autoantigen in type-1 diabetes. Previous genetic studies have shown its significant association with obesity. PTPRN2 plays an important role in epigenetic regulation of metabolic diseases and cancers. We investigated CpG methylations (cg17429772 and cg158269415) in PTPRN2 by pyrosequencing from blood samples of childhood obesity (n = 638). cg158269415 had significant positive correlations with body mass index (BMI) and waist-hip ratio (WHR). Case-control analysis showed that cg158269415 methylation in blood sample was significantly more hypermethylated in obese cases (n = 252), an average of 2.93% more than that that in controls (n = 386). The cg158269415 methylation has a trimodal distribution pattern with strong dependency on nearby located rs1670344 G > A genotype. Correlations of cg158269415 with BMI and WHR were significant and strong in major G allele carriers (GG + GA). Our study showed that an epigenetic association of PTPRN2 gene with childhood obesity was under certain genetic background. The genetic and epigenetic interplay of PTPRN2 gene may implicate a mechanism of childhood obesity. Whether these small changes in DNA methylation from whole blood are causally or consequently related to childhood obesity outcome and their clinical relevance remains to be determined. However, this study presents a promising obesity risk marker that warrants further investigation."
+  ],
+  "affiliation": [
+    "Center for Genome Science, National Institute of Health, Chungcheongbuk-do, 363-951, Republic of Korea. smnl93@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2014-ND73001-00"
+          ],
+          "agency": [
+            "Ministry of Health, Welfare and Family Affairs | Korea National Institute of Health (KNIH)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017-NI73003-00"
+          ],
+          "agency": [
+            "Ministry of Health, Welfare and Family Affairs | Korea National Institute of Health (KNIH)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016-NI73004-00"
+          ],
+          "agency": [
+            "Ministry of Health, Welfare and Family Affairs | Korea National Institute of Health (KNIH)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2014-ND73002-00"
+          ],
+          "agency": [
+            "Ministry of Health, Welfare and Family Affairs | Korea National Institute of Health (KNIH)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425015?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6425015"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-019-40486-w"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-21"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-19"
+  ],
+  "firstPublicationDate": [
+    "2019-03-19"
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": [
+    "30678117"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30678117"
+  ],
+  "pmcid": [
+    "PMC6388281"
+  ],
+  "doi": [
+    "10.3390/ijerph16030306"
+  ],
+  "title": [
+    "Like father, like son. Physical Activity, Dietary Intake, and Media Consumption in Pre-School-Aged Children."
+  ],
+  "authorString": [
+    "Frate N, Jenull B, Birnbacher R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Frate N"
+          ],
+          "firstName": [
+            "Nadja"
+          ],
+          "lastName": [
+            "Frate"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Psychology, Alpen-Adria-Universität Klagenfurt, Klagenfurt 9020, Austria. nadja.frate@aau.at."
+          ]
+        },
+        {
+          "fullName": [
+            "Jenull B"
+          ],
+          "firstName": [
+            "Brigitte"
+          ],
+          "lastName": [
+            "Jenull"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Psychology, Alpen-Adria-Universität Klagenfurt, Klagenfurt 9020, Austria. Brigitte.jenull@aau.at."
+          ]
+        },
+        {
+          "fullName": [
+            "Birnbacher R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Birnbacher"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Children and Adolescent Medicine, Hospital Villach, Villach 9500, Austria. Robert.Birnbacher@kabeg.at."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2774074"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "abstractText": [
+    "An imbalance between energy input and energy needs contributes to the growing incidence of overweight children. Pre-schoolers normally like to move, but even at this young age, they are already affected by a lack of physical activity and a high amount of screen time. Media consumption contributes to unhealthy diets and extends the length of time spent sitting. Longer periods of sitting are, independent of the level of activity, seen as a risk factor for the development of obesity. In the present study, 160 pre-schoolers and their parents (128 mothers, 121 fathers) were examined. The results show deviations from actual recommendations regarding physical activity, time spent sitting, dietary intake, and media consumption. Increased screen time was associated with a higher weight status among pre-school-aged children. To provide a healthy upbringing, prevention and intervention measures should be implemented on a behavioral and relational level."
+  ],
+  "affiliation": [
+    "Department of Psychology, Alpen-Adria-Universität Klagenfurt, Klagenfurt 9020, Austria. nadja.frate@aau.at."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "03-LVL-1/60-2016"
+          ],
+          "agency": [
+            "LEADER"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Preschool children",
+        "Physical Activity",
+        "Dietary Intake",
+        "Media Consumption",
+        "Recommendations By The Who"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6388281?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6388281"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph16030306"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-26"
+  ],
+  "dateOfRevision": [
+    "2019-02-28"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-23"
+  ],
+  "firstPublicationDate": [
+    "2019-01-23"
+  ]
+}

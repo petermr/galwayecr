@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC5792961/results/search/childobese/results.xml">
+  <result pre="SC-331S; Tanita, Tokyo, Japan) Once Barefoot and in light clothing" exact="Body mass index" post="(BMI) z score Overweight or obese (BMI ≥85th centile"/>
+  <result pre="and in light clothing Body mass index (BMI) z score" exact="Overweight" post="or obese (BMI ≥85th centile or ≥95th centile (both"/>
+  <result pre="No No Parent questionnaires NA Parent report and school records" exact="Body fat" post="% Yes Yes Yes Yes Tanita bioimpedance monitor (Tanita"/>
+  <result pre="in light clothing using two limb (legs) bioelectrical impedance technology" exact="Body fat" post="% Waist circumference (to nearest 0.1 cm) Yes Yes"/>
+  <result pre="fibre (g/day), and fruit and vegetable intake (g/day and portions)" exact="Physical activity" post="Yes Yes Yes No Actiheart (Cambridge Neurotechnology, Papworth, UK)"/>
+  <result pre="known 28.6 (23.3-35.4); 149 28.1 (23.0-36.6); 181 28.4 (23.1-36.1); 330" exact="Body fat" post="%: n=660 n=716 n=1376  Mean (SD); not known 21.3"/>
+  <result pre="(40.2) 220 (35.2) 446 (37.6)  Not known* 127 153 280" exact="Physical activity" post="n=492 n=560 n=1052 Mean (SD) physical activity energy expenditure"/>
+  <result pre="0.019 (−0.166 to 0.205) 0.789 0.068 (−0.133 to 0.269) 0.383" exact="Body fat" post="%‡ FU1: n=1169 (n=553, baseline adjusted), n=822 (n=391, further"/>
+  <result pre="30.988 (−348.629 to 410.604) 0.833 −273.658 (−724.284 to 176.967) 0.118" exact="Fat" post="intake (g/24 hrs) †† FU1: n=978 (n=449, baseline adjusted),"/>
+  <result pre="0.004 (−0.075 to 0.098) 0.900 0.002 (−0.096 to 0.122) 0.954" exact="Physical activity" post="energy expenditure (kJ/kg/day) FU1: n=724 (n=335, baseline adjusted), n=658"/>
+  <result pre="22161367 6 Wang Y Wu Y Wilson RF et al." exact="Childhood obesity" post="prevention programs: comparative effectiveness review and meta-analysis. Comparative effectiveness"/>
+  <result pre="33. 10.1016/j.obmed.2017.06.001 . 33 Cole TJ Freeman JV Preece MA" exact="Body mass index" post="reference curves for the UK, 1990. Arch Dis Child"/>
+ </snippets>
+</snippetsTree>

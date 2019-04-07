@@ -1,0 +1,549 @@
+{
+  "id": [
+    "26635229"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26635229"
+  ],
+  "pmcid": [
+    "PMC4668691"
+  ],
+  "doi": [
+    "10.1186/s12889-015-2535-2"
+  ],
+  "title": [
+    "Evaluation of a comprehensive intervention with a behavioural modification strategy for childhood obesity prevention: a nonrandomized cluster controlled trial."
+  ],
+  "authorString": [
+    "Wang JJ, Lau WC, Wang HJ, Ma J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang JJ"
+          ],
+          "firstName": [
+            "Jing-jing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Department of Physical Education, Faculty of Social Sciences, Hong Kong Baptist University, Hong Kong, China. wangjj@life.hkbu.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Lau WC"
+          ],
+          "firstName": [
+            "Wing-chung Patrick"
+          ],
+          "lastName": [
+            "Lau"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "affiliation": [
+            "Department of Physical Education, Faculty of Social Sciences, Hong Kong Baptist University, Hong Kong, China. wclau@hkbu.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang HJ"
+          ],
+          "firstName": [
+            "Hai-jun"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Institute of Child and Adolescent Health, School of Public Health, Peking University, Beijing, 100191, China. whjun1@bjmu.edn.cn."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute of Child and Adolescent Health, School of Public Health, Peking University, Beijing, 100191, China. majunt@bjmu.edn.cn."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2267382"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1206"
+  ],
+  "abstractText": [
+    "With regard to the global childhood obesity epidemic, it is imperative that effective lifestyle interventions are devised to combat childhood obesity. This paper describes the development and implementation of a comprehensive (a combination of diet and physical activity (PA)), social cognitive behaviour modification intervention using accelerometry and a dietary diary to tackle child overweight and obesity. The comprehensive intervention effect was evaluated in a comparison with diet only, PA only and a no-treatment control group.A pilot study was conducted with a non-randomized cluster design. Four hundred thirty-eight overweight and obese children aged 7-12 years from ten primary schools in Beijing were recruited to receive a one-year intervention. Participants were allocated into one of four groups: the comprehensive intervention group; the PA only group (Happy 10 program); the diet only group (nutrition education program); and a control group. The effects of intervention on adiposity, blood pressure, and biochemical indicators were assessed by examining 2-way interactions (time × intervention) in linear mixed models. Means and 95 % confidence intervals (CI) for the adjusted changes between post-intervention and baseline relative to changes in the control group were calculated and reported as effect sizes.The percentage of body fat in the comprehensive intervention group showed a significant relative decrease (adjusted change: -1.01 %, 95 % CI: (-1.81, -0.20) %) compared with the PA only, diet only or control groups (P < 0.001). Systolic blood pressure significantly decreased in the comprehensive intervention group (adjusted change: -4.37 mmHg, 95 % CI: (-8.42, -0.33) mmHg), as did diastolic blood pressure (adjusted change: -5.50 mmHg, 95 % CI (-8.81, -2.19) mmHg) (P < 0.05). Compared with the other two intervention groups and the control group, positive adjusted changes in fasting glucose in the comprehensive group were found, although not for the biochemical lipid metabolism indicators. Positive but non-significant adjusted changes in body mass index and waist circumference were observed.Compared with the diet or PA only intervention groups, the current comprehensive program had superior positive effects on body fat percentage and blood pressure but not on the biochemical lipid metabolism indicators in Chinese overweight and obese children. Future randomized controlled trials and long-term follow-up studies are required to elaborate the findings of the current intervention.ClinicalTrials.gov identifier: NCT02228434."
+  ],
+  "affiliation": [
+    "Department of Physical Education, Faculty of Social Sciences, Hong Kong Baptist University, Hong Kong, China. wangjj@life.hkbu.edu.hk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Controlled Clinical Trial",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feeding Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Food Preferences"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Welfare"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4668691?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4668691"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-015-2535-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-06-01"
+  ],
+  "dateOfCreation": [
+    "2015-12-04"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-03"
+  ],
+  "firstPublicationDate": [
+    "2015-12-03"
+  ]
+}

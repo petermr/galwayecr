@@ -1,0 +1,646 @@
+{
+  "id": [
+    "30526600"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30526600"
+  ],
+  "pmcid": [
+    "PMC6286599"
+  ],
+  "doi": [
+    "10.1186/s12966-018-0756-3"
+  ],
+  "title": [
+    "Longitudinal analysis of physical activity, sedentary behaviour and anthropometric measures from ages 6 to 11 years."
+  ],
+  "authorString": [
+    "Schwarzfischer P, Gruszfeld D, Socha P, Luque V, Closa-Monasterolo R, Rousseaux D, Moretti M, Mariani B, Verduci E, Koletzko B, Grote V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schwarzfischer P"
+          ],
+          "firstName": [
+            "Phillipp"
+          ],
+          "lastName": [
+            "Schwarzfischer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Division of Metabolic and Nutritional Medicine, LMU - Ludwig-Maximilians-Universität München, Dr. von Hauner Children's Hospital, Lindwurmstr 4, 80337, Muenchen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gruszfeld D"
+          ],
+          "firstName": [
+            "Dariusz"
+          ],
+          "lastName": [
+            "Gruszfeld"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Neonatal Intensive Care Unit, Children's Memorial Health Institute, Warsaw, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Socha P"
+          ],
+          "firstName": [
+            "Piotr"
+          ],
+          "lastName": [
+            "Socha"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Gastroenterology, Children's Memorial Health Institute, Warsaw, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Luque V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Luque"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Paediatrics Research Unit, Universitat Rovira i Virgili, IISPV, Reus, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Closa-Monasterolo R"
+          ],
+          "firstName": [
+            "Ricardo"
+          ],
+          "lastName": [
+            "Closa-Monasterolo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Paediatrics Research Unit, Universitat Rovira i Virgili, IISPV, Reus, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Rousseaux D"
+          ],
+          "firstName": [
+            "Déborah"
+          ],
+          "lastName": [
+            "Rousseaux"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "CHC St. Vincent, Liège-Rocourt, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Moretti M"
+          ],
+          "firstName": [
+            "Melissa"
+          ],
+          "lastName": [
+            "Moretti"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CHC St. Vincent, Liège-Rocourt, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Mariani B"
+          ],
+          "firstName": [
+            "Benedetta"
+          ],
+          "lastName": [
+            "Mariani"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, San Paolo Hospital, University of Milan, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Verduci E"
+          ],
+          "firstName": [
+            "Elvira"
+          ],
+          "lastName": [
+            "Verduci"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Paediatrics, San Paolo Hospital, University of Milan, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Koletzko B"
+          ],
+          "firstName": [
+            "Berthold"
+          ],
+          "lastName": [
+            "Koletzko"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Division of Metabolic and Nutritional Medicine, LMU - Ludwig-Maximilians-Universität München, Dr. von Hauner Children's Hospital, Lindwurmstr 4, 80337, Muenchen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Grote V"
+          ],
+          "firstName": [
+            "Veit"
+          ],
+          "lastName": [
+            "Grote"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7168-2385",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Metabolic and Nutritional Medicine, LMU - Ludwig-Maximilians-Universität München, Dr. von Hauner Children's Hospital, Lindwurmstr 4, 80337, Muenchen, Germany. veit.grote@med.uni-muenchen.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7168-2385",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2756948"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The international journal of behavioral nutrition and physical activity"
+          ],
+          "ISOAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "medlineAbbreviation": [
+            "Int J Behav Nutr Phys Act"
+          ],
+          "NLMid": [
+            "101217089"
+          ],
+          "ISSN": [
+            "1479-5868"
+          ],
+          "ESSN": [
+            "1479-5868"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "126"
+  ],
+  "abstractText": [
+    "BACKGROUND/OBJECTIVES:The aim of this study was to examine the effect of physical activity (PA) and sedentary behaviour (SB) on body mass index (BMI) and fat mass index (FMI) in children over the course of five years and identify potential bi-directional associations. SUBJECTS/METHODS:Data were drawn from the EU Childhood Obesity Project (CHOP). PA and SB were measured with the SenseWear Armband 2 at the ages of 6 (T1), 8 (T2) and 11 (T3) years. Height and weight were measured and BMI was calculated at each time point, resulting in 1254 complete observations from 600 children. Bio impedance analysis was used to measure body fat mass and eventually calculate FMI. To examine the longitudinal association between PA/SB and BMI/FMI as well as to account for repeated measure on these children, mixed model analysis was employed. RESULTS:Higher levels of total PA and moderate-to-vigorous PA (MVPA) were associated with lower BMI and FMI and higher SB with higher BMI and FMI over the five year period. When looking at the age dependent effects, negative associations of MVPA (βMVPA x age: - 0.05, 95% confidence interval (CI): - 0.09 - -0.01, p = 0.007) and positive associations of SB (βSB x age: 0.04, 95% CI: 0.02-0.06, p < 0.001) increased with each year of age. In a model combining these two effects, only SB x age interaction remained significant (βSB x age: 0.04, 95% CI: 0.03-0.06, p = 0.01). No significant interaction between MVPA and SB could be discerned. Light Physical activity showed no significant associations with BMI or FMI. When reversing outcome and predictor; higher BMI or FMI showed a negative association with MVPA and a positive association with SB, but no age dependency. CONCLUSIONS:More time per day in SB was associated with a higher BMI over the course of five years, whereas higher MVPA had an inverse effect. In a combined model, only effects of higher SB remained significant, emphasizing the importance of SB in obesity prevention. Present bidirectional associations, where lower body size was associated with higher PA and lower SB, indicated the need for an integrated approach of activity and weight control for obesity prevention. TRIAL REGISTRATION:ClinicalTrials.gov Identifier: NCT00338689 . Registered: June 19, 2006 (retrospectively registered)."
+  ],
+  "affiliation": [
+    "Division of Metabolic and Nutritional Medicine, LMU - Ludwig-Maximilians-Universität München, Dr. von Hauner Children's Hospital, Lindwurmstr 4, 80337, Muenchen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "322605"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Weight"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Anthropometry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Longitudinal Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sedentary Behavior"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Mvpa",
+        "Accelerometer",
+        "Chop",
+        "Light Physical Activity",
+        "Sensewear Armband"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6286599?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6286599"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12966-018-0756-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30832677"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Int J Behav Nutr Phys Act. 2019 Mar 4;16(1):24"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-01-22"
+  ],
+  "dateOfCreation": [
+    "2018-12-12"
+  ],
+  "dateOfRevision": [
+    "2019-01-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-07"
+  ],
+  "firstPublicationDate": [
+    "2018-12-07"
+  ]
+}

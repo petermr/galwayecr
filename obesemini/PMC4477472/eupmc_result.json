@@ -1,0 +1,583 @@
+{
+  "id": [
+    "26104068"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26104068"
+  ],
+  "pmcid": [
+    "PMC4477472"
+  ],
+  "doi": [
+    "10.1186/s12889-015-1897-9"
+  ],
+  "title": [
+    "The Early Childhood Obesity Prevention Program (ECHO): an ecologically-based intervention delivered by home visitors for newborns and their mothers."
+  ],
+  "authorString": [
+    "Cloutier MM, Wiley J, Wang Z, Grant A, Gorin AA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cloutier MM"
+          ],
+          "firstName": [
+            "Michelle M"
+          ],
+          "lastName": [
+            "Cloutier"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of Connecticut Health Center, Farmington, CT, USA. mclouti@connecticutchildrens.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Wiley J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Wiley"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Children's Center for Community Research, Connecticut Children's Medical Center, 282 Washington St, Hartford, CT, 06106, USA. Jwiley01@connecticutchildrens.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0773-0052",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Research, Connecticut Children's Medical Center, 282 Washington St, Hartford, CT, 06106, USA. zwang@connecticutchildrens.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Grant A"
+          ],
+          "firstName": [
+            "Autherene"
+          ],
+          "lastName": [
+            "Grant"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Children's Center for Community Research, Connecticut Children's Medical Center, 282 Washington St, Hartford, CT, 06106, USA. Agrant@connecticutchildrens.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Gorin AA"
+          ],
+          "firstName": [
+            "Amy A"
+          ],
+          "lastName": [
+            "Gorin"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Psychology, Center for Health, Intervention and Prevention, University of Connecticut, 2006 Hillside Road, Unit 1248, Storrs, CT, 06269-1248, USA. amy.gorin@uconn.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0773-0052",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2476023"
+      ],
+      "dateOfPublication": [
+        "2015 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "584"
+  ],
+  "abstractText": [
+    "BACKGROUND:Obesity is a major problem in the United States, particularly among socio-economically disadvantaged Latino and Black children. Effective interventions that can be disseminated to large numbers of at-risk children and their families are needed. The goals of the Early Childhood Obesity Prevention Program (ECHO) are to examine the 12-month efficacy of a primary obesity prevention program targeting the first year of life that is delivered by home visitors and that engages mothers as agents of change to modify their own behavior and their infant's behavior through education and skill-building around nutrition, physical activity, and wellness, and then \"echoes\" her training with linkages to neighborhood programs and resources. METHODS/DESIGN:Six family centers located in low-income neighborhoods in Hartford, CT were randomized into control and intervention neighborhoods. Fifty-seven mothers were recruited either prenatally or shortly after delivery into the Nurturing Families Network home visitation program; 27 lived in a control neighborhood and received the standard home visitation program and 30 lived in an intervention neighborhood and received both the standard home visitation program and the ECHO intervention. The intervention increases maternal skills in goal-setting, stimulus control and problem-solving, engages family members to support changes, links mothers to neighborhood resources and is embedded in the standard home visitation program. ECHO targets include breastfeeding, solids, juice and sugar-sweetened beverages, routines for sleep and responding to infant cues, television/screen time, and maternal diet and physical activity. We hypothesize that infants in ECHO will have been breastfed longer and exclusively, will have delayed introduction of solids and juice, have longer sleep duration, decreased television/screen time and a lower weight for length z-score at 12 months, and their mothers will have greater fruit and vegetable consumption and higher levels of physical activity. DISCUSSION:ECHO will provide important information about whether an enhanced behavior change curriculum integrated into an existing home visitation program, focused on the mother as the agent of change and linked to neighborhood resources is effective in changing energy balance behaviors in the infant and in the mother. If effective, the intervention could be widely disseminated to prevent obesity in young children. TRIAL REGISTRATION:ClinicalTrials.gov NCT02052518 January 30, 2014."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, University of Connecticut Health Center, Farmington, CT, USA. mclouti@connecticutchildrens.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mother-Child Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mothers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Breast Feeding"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Support"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poverty"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "House Calls"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4477472?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4477472"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-015-1897-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-02-15"
+  ],
+  "dateOfCreation": [
+    "2015-06-25"
+  ],
+  "dateOfRevision": [
+    "2019-03-18"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-24"
+  ],
+  "firstPublicationDate": [
+    "2015-06-24"
+  ]
+}

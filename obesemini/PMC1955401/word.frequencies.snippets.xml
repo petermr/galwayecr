@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC1955401/results/word/frequencies/results.xml">
+  <result title="frequency" word="obesity" count="63"/>
+  <result title="frequency" word="legislation" count="44"/>
+  <result title="frequency" word="introduced" count="41"/>
+  <result title="frequency" word="bills" count="39"/>
+  <result title="frequency" word="policy" count="37"/>
+  <result title="frequency" word="resolutions" count="31"/>
+  <result title="frequency" word="topic" count="28"/>
+  <result title="frequency" word="childhood" count="27"/>
+  <result title="frequency" word="physical" count="27"/>
+  <result title="frequency" word="adopted" count="25"/>
+  <result title="frequency" word="health" count="24"/>
+  <result title="frequency" word="states" count="23"/>
+  <result title="frequency" word="areas" count="22"/>
+  <result title="frequency" word="legislative" count="22"/>
+ </snippets>
+</snippetsTree>

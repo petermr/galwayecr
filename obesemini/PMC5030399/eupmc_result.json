@@ -1,0 +1,373 @@
+{
+  "id": [
+    "27668255"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27668255"
+  ],
+  "pmcid": [
+    "PMC5030399"
+  ],
+  "doi": [
+    "10.1155/2016/5739025"
+  ],
+  "title": [
+    "Obstacles and Enablers on the Way towards Integrated Physical Activity Policies for Childhood Obesity Prevention: An Exploration of Local Policy Officials' Views."
+  ],
+  "authorString": [
+    "Hendriks AM, Habraken JM, Kremers SP, Jansen MW, van Oers H, Schuit AJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hendriks AM"
+          ],
+          "firstName": [
+            "Anna-Marie"
+          ],
+          "lastName": [
+            "Hendriks"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2157-6792",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Academic Collaborative Centre for Public Health Limburg, Regional Public Health Service, Geleen, Netherlands; Department of Health Promotion, School of Public Health and Primary Care (CAPHRI), Maastricht University, Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Habraken JM"
+          ],
+          "firstName": [
+            "Jolanda M"
+          ],
+          "lastName": [
+            "Habraken"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Scientific Center for Care and Welfare (TRANZO), Tilburg University, Tilburg, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kremers SP"
+          ],
+          "firstName": [
+            "Stef P J"
+          ],
+          "lastName": [
+            "Kremers"
+          ],
+          "initials": [
+            "SP"
+          ],
+          "affiliation": [
+            "Department of Health Promotion, School of Nutrition and Translational Research in Metabolism (NUTRIM), Maastricht University, Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Jansen MW"
+          ],
+          "firstName": [
+            "Maria W J"
+          ],
+          "lastName": [
+            "Jansen"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1843-139X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Academic Collaborative Centre for Public Health Limburg, Regional Public Health Service, Geleen, Netherlands; Department of Health Services Research, School of Public Health and Primary Care (CAPHRI), Maastricht University, Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Oers H"
+          ],
+          "firstName": [
+            "Hans"
+          ],
+          "lastName": [
+            "van Oers"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Scientific Center for Care and Welfare (TRANZO), Tilburg University, Tilburg, Netherlands; National Institute for Public Health and the Environment, Bilthoven, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schuit AJ"
+          ],
+          "firstName": [
+            "Albertine J"
+          ],
+          "lastName": [
+            "Schuit"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7499-1391",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institute for Public Health and the Environment, Bilthoven, Netherlands; Department of Health Sciences and EMGO Institute for Health and Care Research, Vrije Universiteit, Amsterdam, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1843-139X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7499-1391",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2157-6792",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2016"
+      ],
+      "journalIssueId": [
+        "2376282"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6141"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "5739025"
+  ],
+  "abstractText": [
+    "Background. Limited physical activity (PA) is a risk factor for childhood obesity. In Netherlands, as in many other countries worldwide, local policy officials bear responsibility for integrated PA policies, involving both health and nonhealth domains. In practice, its development seems hampered. We explore which obstacles local policy officials perceive in their effort. Methods. Fifteen semistructured interviews were held with policy officials from health and nonhealth policy domains, working at strategic, tactic, and operational level, in three relatively large municipalities. Questions focused on exploring perceived barriers for integrated PA policies. The interviews were deductively coded by applying the Behavior Change Ball framework. Findings. Childhood obesity prevention appeared on the governmental agenda and all officials understood the multicausal nature. However, operational officials had not yet developed a tradition to develop integrated PA policies due to insufficient boundary-spanning skills and structural and cultural differences between the domains. Tactical level officials did not sufficiently support intersectoral collaboration and strategic level officials mainly focused on public-private partnerships. Conclusion. Developing integrated PA policies is a bottom-up innovation process that needs to be supported by governmental leaders through better guiding organizational processes leading to such policies. Operational level officials can assist in this by making progress in intersectoral collaboration visible."
+  ],
+  "affiliation": [
+    "Academic Collaborative Centre for Public Health Limburg, Regional Public Health Service, Geleen, Netherlands; Department of Health Promotion, School of Public Health and Primary Care (CAPHRI), Maastricht University, Maastricht, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5030399?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5030399"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/5739025"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2016-09-26"
+  ],
+  "dateOfRevision": [
+    "2016-09-29"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-07"
+  ],
+  "firstPublicationDate": [
+    "2016-09-07"
+  ]
+}

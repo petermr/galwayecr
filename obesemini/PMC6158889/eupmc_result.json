@@ -1,0 +1,425 @@
+{
+  "id": [
+    "30275966"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30275966"
+  ],
+  "pmcid": [
+    "PMC6158889"
+  ],
+  "doi": [
+    "10.1186/s40814-018-0340-2"
+  ],
+  "title": [
+    "Feasibility and acceptability of technology-based caregiver engagement strategies delivered in a summertime childhood obesity prevention intervention: results from an internal pilot of the Camp NERF (Nutrition, Education, Recreation, and Fitness) study."
+  ],
+  "authorString": [
+    "Hopkins LC, Fristad M, Goodway JD, Melnyk B, Eneli I, Holloman C, Kennel JA, Webster A, Sharn AR, Gunther C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hopkins LC"
+          ],
+          "firstName": [
+            "Laura C"
+          ],
+          "lastName": [
+            "Hopkins"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "1Interdisciplinary PhD Program in Nutrition, Department of Human Sciences, Human Nutrition Program, The Ohio State University, 262B Campbell Hall, 1787 Neil Avenue, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fristad M"
+          ],
+          "firstName": [
+            "Mary"
+          ],
+          "lastName": [
+            "Fristad"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "2Department of Psychiatry and Behavioral Health, The Ohio State University, 1670 Upham Drive, Suite 460G, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Goodway JD"
+          ],
+          "firstName": [
+            "Jacqueline D"
+          ],
+          "lastName": [
+            "Goodway"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "3Department of Human Sciences, Kinesiology Program, College of Education & Human Ecology, The Ohio State University, A244 305 Annie & John Glenn Ave, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Melnyk B"
+          ],
+          "firstName": [
+            "Bernadette"
+          ],
+          "lastName": [
+            "Melnyk"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "4The Ohio State University, 1585 Neil Avenue, Rm. 145, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Eneli I"
+          ],
+          "firstName": [
+            "Ihuoma"
+          ],
+          "lastName": [
+            "Eneli"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "5Nationwide Children's Hospital, The Ohio State University, 700 Children's Drive, Columbus, OH 43205 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Holloman C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Holloman"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "6Department of Statistics, The Ohio State University, 404 Cockins Hall, 1958 Neil Ave, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kennel JA"
+          ],
+          "firstName": [
+            "Julie A"
+          ],
+          "lastName": [
+            "Kennel"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "7Department of Human Sciences, Human Nutrition Program, The Ohio State University, 315 Campbell Hall, 1787 Neil Avenue, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Webster A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Webster"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "8Department of Human Sciences, Human Nutrition Program, The Ohio State University, 319 Campbell Hall, 1787 Neil Avenue, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharn AR"
+          ],
+          "firstName": [
+            "Amy R"
+          ],
+          "lastName": [
+            "Sharn"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "9Department of Human Sciences, Human Nutrition Program, The Ohio State University, 262B Campbell Hall, 1787 Neil Avenue, Columbus, OH 43210 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gunther C"
+          ],
+          "firstName": [
+            "Carolyn"
+          ],
+          "lastName": [
+            "Gunther"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1199-0137",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "10Department of Human Sciences, Human Nutrition Program, The Ohio State University, 313 Campbell Hall, 1787 Neil Avenue, Columbus, OH 43210 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1199-0137",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2568155"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pilot and feasibility studies"
+          ],
+          "ISOAbbreviation": [
+            "Pilot Feasibility Stud"
+          ],
+          "medlineAbbreviation": [
+            "Pilot Feasibility Stud"
+          ],
+          "NLMid": [
+            "101676536"
+          ],
+          "ISSN": [
+            "2055-5784"
+          ],
+          "ESSN": [
+            "2055-5784"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "153"
+  ],
+  "abstractText": [
+    "Background:The most efficacious childhood obesity prevention interventions have involved caregivers directly or indirectly. Due to the high reliance on technology, research examining technological intervention approaches is warranted, particularly during the summer when parents may be more difficult to engage and the risk for excess weight gain among children is high. Methods:The feasibility and acceptability of a multi-component childhood obesity prevention intervention incorporating a caregiver component utilizing technology-based approaches-texting and social media-was explored. This was an internal pilot of the Camp Nutrition Education Recreation and Fitness (NERF) study, a group RCT for school-age children coupled to the USDA Summer Food Service Program. Feasibility and acceptability of the technology caregiver engagement component were assessed via process outcomes (participation rates) and in-depth interviews. Results:Participants (n = 37) were 91.9% female, 91.8% Black, 58.7% low-income, and 75.0% overweight/obese. Participation rates in texting and social media were 62.2% and < 3%, respectively. Themes emerged from the in-depth interviews were texting provides connection; desire more involvement with program; fear social media privacy intrusion. Conclusions:Results will be used to inform changes to technology-based caregiver engagement strategies to be tested in future interventions. Trial registration:Clinical Trials, NCT02908230/09-19-2016. Registered 20 September 2016."
+  ],
+  "affiliation": [
+    "1Interdisciplinary PhD Program in Nutrition, Department of Human Sciences, Human Nutrition Program, The Ohio State University, 262B Campbell Hall, 1787 Neil Avenue, Columbus, OH 43210 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "summer",
+        "Caregivers",
+        "Privacy",
+        "Childhood Obesity",
+        "Social Media",
+        "Text Messaging"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6158889?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6158889"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40814-018-0340-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-10-03"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-27"
+  ],
+  "firstPublicationDate": [
+    "2018-09-27"
+  ]
+}

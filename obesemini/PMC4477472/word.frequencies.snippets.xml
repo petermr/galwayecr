@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC4477472/results/word/frequencies/results.xml">
+  <result title="frequency" word="NFN" count="65"/>
+  <result title="frequency" word="mothers" count="47"/>
+  <result title="frequency" word="home" count="46"/>
+  <result title="frequency" word="obesity" count="39"/>
+  <result title="frequency" word="intervention" count="35"/>
+  <result title="frequency" word="program" count="34"/>
+  <result title="frequency" word="infant" count="31"/>
+  <result title="frequency" word="children" count="25"/>
+  <result title="frequency" word="support" count="25"/>
+  <result title="frequency" word="Family" count="22"/>
+  <result title="frequency" word="Health" count="22"/>
+  <result title="frequency" word="breastfeeding" count="21"/>
+  <result title="frequency" word="weight" count="21"/>
+ </snippets>
+</snippetsTree>

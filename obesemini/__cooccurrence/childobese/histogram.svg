@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="20.0" width="519.6382978723404" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10.0" y="-215.0" width="10.638297872340425" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">Obesity</text>
+  <rect x="20.0" y="-63.0" width="10.638297872340425" height="73.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="20.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,9.999999999999998,30.0)" style="font-size:1.0000000000000013px;">Childhood obesi</text>
+  <rect x="31.0" y="-45.0" width="10.638297872340425" height="55.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="31.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,21.0,41.0)" style="font-size:1.0000000000000013px;">Overweight</text>
+  <rect x="41.0" y="-44.0" width="10.638297872340425" height="54.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="41.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,31.0,51.0)" style="font-size:1.0000000000000013px;">Physical activi</text>
+  <rect x="52.0" y="-27.0" width="10.638297872340425" height="37.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="52.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,42.0,62.0)" style="font-size:1.0000000000000013px;">Diabetes</text>
+  <rect x="63.0" y="-19.0" width="10.638297872340425" height="29.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="63.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,53.0,73.0)" style="font-size:1.0000000000000013px;">Body mass index</text>
+  <rect x="73.0" y="-13.0" width="10.638297872340425" height="23.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="73.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,62.99999999999999,83.0)" style="font-size:1.0000000000000013px;">Infant</text>
+  <rect x="84.0" y="-6.0" width="10.638297872340425" height="16.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="84.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,74.0,94.0)" style="font-size:1.0000000000000013px;">Appetite</text>
+  <rect x="95.0" y="-4.0" width="10.638297872340425" height="14.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="95.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,85.0,105.0)" style="font-size:1.0000000000000013px;">Cardiovascular</text>
+  <rect x="105.0" y="1.0" width="10.638297872340425" height="9.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="105.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,95.0,115.0)" style="font-size:1.0000000000000013px;">Fat</text>
+  <rect x="116.0" y="1.0" width="10.638297872340425" height="9.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="116.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,106.0,126.0)" style="font-size:1.0000000000000013px;">Breastfeeding</text>
+  <rect x="127.0" y="2.0" width="10.638297872340425" height="8.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="127.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,117.0,137.0)" style="font-size:1.0000000000000013px;">Physical activi</text>
+  <rect x="137.0" y="3.0" width="10.638297872340425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="137.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,126.99999999999999,147.0)" style="font-size:1.0000000000000013px;">Body fat</text>
+  <rect x="148.0" y="3.0" width="10.638297872340425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="148.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,138.0,158.0)" style="font-size:1.0000000000000013px;">Body compositio</text>
+  <rect x="158.0" y="3.0" width="10.638297872340425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="158.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,148.0,168.0)" style="font-size:1.0000000000000013px;">Public health</text>
+  <rect x="169.0" y="3.0" width="10.638297872340425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="169.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,159.0,179.0)" style="font-size:1.0000000000000013px;">Hypertension</text>
+  <rect x="180.0" y="3.0" width="10.638297872340425" height="7.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="180.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,170.0,190.0)" style="font-size:1.0000000000000013px;">Metabolism</text>
+  <rect x="190.0" y="4.0" width="10.638297872340425" height="6.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="190.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,180.0,200.0)" style="font-size:1.0000000000000013px;">Poverty</text>
+  <rect x="201.0" y="4.0" width="10.638297872340425" height="6.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="201.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,191.0,211.0)" style="font-size:1.0000000000000013px;">Stress</text>
+  <rect x="212.0" y="5.0" width="10.638297872340425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="212.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,202.0,222.0)" style="font-size:1.0000000000000013px;">Socioeconomic s</text>
+  <rect x="222.0" y="5.0" width="10.638297872340425" height="5.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="222.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,212.0,232.0)" style="font-size:1.0000000000000013px;">Psychosocial</text>
+  <rect x="233.0" y="6.0" width="10.638297872340425" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="233.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,223.0,243.0)" style="font-size:1.0000000000000013px;">Endocrine</text>
+  <rect x="244.0" y="6.0" width="10.638297872340425" height="4.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="244.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,234.0,254.0)" style="font-size:1.0000000000000013px;">Fast food</text>
+  <rect x="254.0" y="7.0" width="10.638297872340425" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="254.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,243.99999999999997,264.0)" style="font-size:1.0000000000000013px;">Vegetables</text>
+  <rect x="265.0" y="7.0" width="10.638297872340425" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="265.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,254.99999999999997,275.0)" style="font-size:1.0000000000000013px;">Task Force on C</text>
+  <rect x="275.0" y="7.0" width="10.638297872340425" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="275.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,265.0,285.0)" style="font-size:1.0000000000000013px;">Self-esteem</text>
+  <rect x="286.0" y="7.0" width="10.638297872340425" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="286.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,276.0,296.0)" style="font-size:1.0000000000000013px;">Body mass index</text>
+  <rect x="297.0" y="7.0" width="10.638297872340425" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="297.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,287.0,307.0)" style="font-size:1.0000000000000013px;">Insulin</text>
+  <rect x="307.0" y="7.0" width="10.638297872340425" height="3.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="307.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,297.0,317.0)" style="font-size:1.0000000000000013px;">Metformin</text>
+  <rect x="318.0" y="8.0" width="10.638297872340425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="318.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,308.0,328.0)" style="font-size:1.0000000000000013px;">Childhood obesi</text>
+  <rect x="329.0" y="8.0" width="10.638297872340425" height="2.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="329.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,319.0,339.0)" style="font-size:1.0000000000000013px;">Orlistat</text>
+  <rect x="339.0" y="9.0" width="10.638297872340425" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="339.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,329.0,349.0)" style="font-size:1.0000000000000013px;">Childhood obesi</text>
+  <rect x="350.0" y="9.0" width="10.638297872340425" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="350.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,340.0,360.0)" style="font-size:1.0000000000000013px;">Randomized tria</text>
+  <rect x="361.0" y="9.0" width="10.638297872340425" height="1.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="361.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,351.0,371.0)" style="font-size:1.0000000000000013px;">Body mass index</text>
+  <rect x="371.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="371.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,361.0,381.0)" style="font-size:1.0000000000000013px;">ADHD</text>
+  <rect x="382.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="382.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,372.0,392.0)" style="font-size:1.0000000000000013px;">Fast food,</text>
+  <rect x="392.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="392.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,382.0,402.0)" style="font-size:1.0000000000000013px;">Vitamin</text>
+  <rect x="403.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="403.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,393.0,413.0)" style="font-size:1.0000000000000013px;">Physical activi</text>
+  <rect x="414.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="414.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,404.0,424.0)" style="font-size:1.0000000000000013px;">Metabolic syndr</text>
+  <rect x="424.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="424.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,414.0,434.0)" style="font-size:1.0000000000000013px;">School lunch</text>
+  <rect x="435.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="435.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,425.0,445.0)" style="font-size:1.0000000000000013px;">Nonalcoholic fa</text>
+  <rect x="446.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="446.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,436.0,456.0)" style="font-size:1.0000000000000013px;">Soft drink</text>
+  <rect x="456.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="456.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,446.0,466.0)" style="font-size:1.0000000000000013px;">Anxiety</text>
+  <rect x="467.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="467.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,457.0,477.0)" style="font-size:1.0000000000000013px;">Malnutrition</text>
+  <rect x="478.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="478.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,468.0,488.0)" style="font-size:1.0000000000000013px;">Body mass index</text>
+  <rect x="488.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="488.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,477.99999999999994,498.0)" style="font-size:1.0000000000000013px;">Cholesterol</text>
+  <rect x="499.0" y="10.0" width="10.638297872340425" height="0.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="499.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,488.99999999999994,509.0)" style="font-size:1.0000000000000013px;">Body compositio</text>
+ </g>
+</svg>

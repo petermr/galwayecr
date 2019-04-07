@@ -1,0 +1,440 @@
+{
+  "id": [
+    "30802270"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30802270"
+  ],
+  "pmcid": [
+    "PMC6388924"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0212792"
+  ],
+  "title": [
+    "Obesity measured as percent body fat, relationship with body mass index, and percentile curves for Mexican pediatric population."
+  ],
+  "authorString": [
+    "Costa-Urrutia P, Vizuet-Gámez A, Ramirez-Alcántara M, Guillen-González MÁ, Medina-Contreras O, Valdes-Moreno M, Musalem-Younes C, Solares-Tlapechco J, Granados J, Franco-Trecu V, Rodriguez-Arellano ME."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Costa-Urrutia P"
+          ],
+          "firstName": [
+            "Paula"
+          ],
+          "lastName": [
+            "Costa-Urrutia"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6747-5380",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Vizuet-Gámez A"
+          ],
+          "firstName": [
+            "Alejandra"
+          ],
+          "lastName": [
+            "Vizuet-Gámez"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Coordinación de Pediatría Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Ramirez-Alcántara M"
+          ],
+          "firstName": [
+            "Miryam"
+          ],
+          "lastName": [
+            "Ramirez-Alcántara"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratorio de Investigación Clínica Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Guillen-González MÁ"
+          ],
+          "firstName": [
+            "Miguel Ángel"
+          ],
+          "lastName": [
+            "Guillen-González"
+          ],
+          "initials": [
+            "MÁ"
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Medina-Contreras O"
+          ],
+          "firstName": [
+            "Oscar"
+          ],
+          "lastName": [
+            "Medina-Contreras"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4432-7780",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Valdes-Moreno M"
+          ],
+          "firstName": [
+            "Mariana"
+          ],
+          "lastName": [
+            "Valdes-Moreno"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Musalem-Younes C"
+          ],
+          "firstName": [
+            "Claudette"
+          ],
+          "lastName": [
+            "Musalem-Younes"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Solares-Tlapechco J"
+          ],
+          "firstName": [
+            "Jaqueline"
+          ],
+          "lastName": [
+            "Solares-Tlapechco"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Granados J"
+          ],
+          "firstName": [
+            "Julio"
+          ],
+          "lastName": [
+            "Granados"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "División de Inmunogenética, Departamento de Trasplantes, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "Franco-Trecu V"
+          ],
+          "firstName": [
+            "Valentina"
+          ],
+          "lastName": [
+            "Franco-Trecu"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Departamento de Ecología y Evolución, Facultad de Ciencias, Universidad de la República, Montevideo, Uruguay."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodriguez-Arellano ME"
+          ],
+          "firstName": [
+            "M Eunice"
+          ],
+          "lastName": [
+            "Rodriguez-Arellano"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4432-7780",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6747-5380",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2776759"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e0212792"
+  ],
+  "abstractText": [
+    "In Mexico, the increase in childhood obesity is alarming. Thus, improving the precision of its diagnosis is expected to impact on disease prevention. We estimated obesity prevalence by bioimpedance-based percent body fat (%BF) and body mass index (BMI) in 1061 girls and 1121 boys, from 3 to 17 years old. Multiple regressions and area under receiver operating curves (AUC) were used to determine the predictive value of BMI on %BF and percentile curves were constructed. Overall obesity prevalence estimated by %BF was 43.7%, and by BMI it was 20.1%; it means that the diagnosis by BMI underestimated around 50% of children diagnosed with obesity by %BF (≥30% for girls, ≥25% for boys). The fat mass excess is further underestimated in boys than in girls when using the standard BMI classification. The relationship between %BF and BMI was strong in school children and adolescents (all cases R2>0.70), but not in preschool children (girls R2 = 0.57, boys R2 = 0.23). AUCs showed greater discriminative power of BMI to detect %BF obesity in school children and adolescents (all cases AUC≥0.90) than in preschool children (girls AUC = 0.86; boys AUC = 0.70). Growth percentile charts showed that girls aged 9-17 years and boys aged 8-17 years presented fat excess from the 50th percentile and above. We suggested to change the BMI cut-off for them, considering values at the 75th percentile as overweight, and values at the 85th percentile as obesity, as previously recommended for Mexican children. Improving obesity diagnosis will allow greater efficiency when searching for comorbidities in clinical practice."
+  ],
+  "affiliation": [
+    "Laboratorio de Medicina Genómica del Hospital Regional Lic, Adolfo López Mateos, ISSSTE, Mexico City, Mexico."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6388924?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6388924"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0212792"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-26"
+  ],
+  "dateOfRevision": [
+    "2019-03-10"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-25"
+  ],
+  "firstPublicationDate": [
+    "2019-02-25"
+  ]
+}

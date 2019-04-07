@@ -1,0 +1,554 @@
+{
+  "id": [
+    "30671370"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30671370"
+  ],
+  "pmcid": [
+    "PMC6333581"
+  ],
+  "doi": [
+    "10.5223/pghn.2019.22.1.1"
+  ],
+  "title": [
+    "Clinical Practice Guideline for the Diagnosis and Treatment of Pediatric Obesity: Recommendations from the Committee on Pediatric Obesity of the Korean Society of Pediatric Gastroenterology Hepatology and Nutrition."
+  ],
+  "authorString": [
+    "Yi DY, Kim SC, Lee JH, Lee EH, Kim JY, Kim YJ, Kang KS, Hong J, Shim JO, Lee Y, Kang B, Lee YJ, Kim MJ, Moon JS, Koh H, You J, Kwak YS, Lim H, Yang HR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yi DY"
+          ],
+          "firstName": [
+            "Dae Yong"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "DY"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chung-Ang University Hospital, Chung-Ang University, College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim SC"
+          ],
+          "firstName": [
+            "Soon Chul"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chonbuk National University Hospital, Chonbuk National University Medical School, Jeonju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JH"
+          ],
+          "firstName": [
+            "Ji Hyuk"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Chungbuk National University College of Medicine, Chungju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee EH"
+          ],
+          "firstName": [
+            "Eun Hye"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Nowon Eulji Medical Center, Eulji University School of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim JY"
+          ],
+          "firstName": [
+            "Jae Young"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Gyeongsang National University Changwon Hospital, Changwon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim YJ"
+          ],
+          "firstName": [
+            "Yong Joo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Hanyang University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang KS"
+          ],
+          "firstName": [
+            "Ki Soo"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Jeju National University Hospital, Jeju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Hong J"
+          ],
+          "firstName": [
+            "Jeana"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Kangwon National University School of Medicine, Chuncheon, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Shim JO"
+          ],
+          "firstName": [
+            "Jung Ok"
+          ],
+          "lastName": [
+            "Shim"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Korea University Guro Hospital, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee Y"
+          ],
+          "firstName": [
+            "Yoon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Korea University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kang B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Kang"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, School of Medicine, Kyungpook National University, Daegu, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee YJ"
+          ],
+          "firstName": [
+            "Yeoun Joo"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Pusan National University Children's Hospital, Pusan National University School of Medicine, Yangsan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim MJ"
+          ],
+          "firstName": [
+            "Mi Jin"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Moon JS"
+          ],
+          "firstName": [
+            "Jin Soo"
+          ],
+          "lastName": [
+            "Moon"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Seoul National University Children's Hospital, Seoul National University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Koh H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Koh"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Severance Children's Hospital, Yonsei University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "You J"
+          ],
+          "firstName": [
+            "JeongAe"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Physical Education, College of Education, Chung-Ang University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kwak YS"
+          ],
+          "firstName": [
+            "Young-Sook"
+          ],
+          "lastName": [
+            "Kwak"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Jeju National University Hospital, Jeju, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lim H"
+          ],
+          "firstName": [
+            "Hyunjung"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Medical Nutrition, Kyung Hee University, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang HR"
+          ],
+          "firstName": [
+            "Hye Ran"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Seoul National University Bundang Hospital, Seongnam, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2773579"
+      ],
+      "dateOfPublication": [
+        "2019 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Pediatric gastroenterology, hepatology & nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Pediatr Gastroenterol Hepatol Nutr"
+          ],
+          "NLMid": [
+            "101590471"
+          ],
+          "ISSN": [
+            "2234-8646"
+          ],
+          "ESSN": [
+            "2234-8840"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1-27"
+  ],
+  "abstractText": [
+    "The Committee on Pediatric Obesity of the Korean Society of Pediatric Gastroenterology, Hepatology and Nutrition newly developed the first Korean Guideline on the Diagnosis and Treatment of Obesity in Children and Adolescents to deliver an evidence-based systematic approach to childhood obesity in South Korea. The following areas were systematically reviewed, especially on the basis of all available references published in South Korea and worldwide, and new guidelines were established in each area with the strength of recommendations based on the levels of evidence: 1) definition and diagnosis of overweight and obesity in children and adolescents; 2) principles of treatment of pediatric obesity; 3) behavioral interventions for children and adolescents with obesity, including diet, exercise, lifestyle, and mental health; 4) pharmacotherapy; and 5) bariatric surgery."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Chung-Ang University Hospital, Chung-Ang University, College of Medicine, Seoul, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Obesity",
+        "Diagnosis",
+        "Treatment",
+        "Guideline"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6333581?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6333581"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5223/pghn.2019.22.1.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-24"
+  ],
+  "dateOfRevision": [
+    "2019-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2019-01-10"
+  ],
+  "firstPublicationDate": [
+    "2019-01-10"
+  ]
+}

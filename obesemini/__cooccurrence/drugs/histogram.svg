@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="20.0" width="520.0" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect x="10.0" y="-215.0" width="50.0" height="225.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="10.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,0.0,20.0)" style="font-size:1.0000000000000013px;">metformin</text>
+  <rect x="60.0" y="-158.0" width="50.0" height="168.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="60.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,50.0,70.0)" style="font-size:1.0000000000000013px;">orlistat</text>
+  <rect x="110.0" y="-158.0" width="50.0" height="168.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="110.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,100.0,120.0)" style="font-size:1.0000000000000013px;">topiramate</text>
+  <rect x="160.0" y="-102.0" width="50.0" height="112.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="160.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,150.0,170.0)" style="font-size:1.0000000000000013px;">liraglutide</text>
+  <rect x="210.0" y="-102.0" width="50.0" height="112.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="210.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,200.0,220.0)" style="font-size:1.0000000000000013px;">zonisamide</text>
+  <rect x="260.0" y="-102.0" width="50.0" height="112.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="260.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,249.99999999999997,270.0)" style="font-size:1.0000000000000013px;">fenfluramine</text>
+  <rect x="310.0" y="-46.0" width="50.0" height="56.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="310.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,300.0,320.0)" style="font-size:1.0000000000000013px;">phentermine</text>
+  <rect x="360.0" y="-46.0" width="50.0" height="56.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="360.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,350.0,370.0)" style="font-size:1.0000000000000013px;">glucagon</text>
+  <rect x="410.0" y="-46.0" width="50.0" height="56.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="410.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,400.0,420.0)" style="font-size:1.0000000000000013px;">dexfenfluramine</text>
+  <rect x="460.0" y="-46.0" width="50.0" height="56.0" style="fill:cyan;opacity:0.3;"/>
+  <text x="460.0" y="10.0" transform="matrix(6.123233995736766E-17,-1.0,1.0,6.123233995736766E-17,450.0,470.0)" style="font-size:1.0000000000000013px;">dopamine</text>
+ </g>
+</svg>

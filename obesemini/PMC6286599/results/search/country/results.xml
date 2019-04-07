@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results title="country">
+ <result pre="was coordinated by 5 study teams in 8 municipalities in" exact="Germany" post="(Nuremberg, Munich), Italy (Milano), Belgium (Brussels, Liege), Poland (Warsaw)"/>
+ <result pre="5 study teams in 8 municipalities in Germany (Nuremberg, Munich)," exact="Italy" post="(Milano), Belgium (Brussels, Liege), Poland (Warsaw) and Spain (Reus,"/>
+ <result pre="teams in 8 municipalities in Germany (Nuremberg, Munich), Italy (Milano)," exact="Belgium" post="(Brussels, Liege), Poland (Warsaw) and Spain (Reus, Tarragona). The"/>
+ <result pre="municipalities in Germany (Nuremberg, Munich), Italy (Milano), Belgium (Brussels, Liege)," exact="Poland" post="(Warsaw) and Spain (Reus, Tarragona). The trial was approved"/>
+ <result pre="(Nuremberg, Munich), Italy (Milano), Belgium (Brussels, Liege), Poland (Warsaw) and" exact="Spain" post="(Reus, Tarragona). The trial was approved by ethics committees"/>
+</results>

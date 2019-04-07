@@ -1,0 +1,330 @@
+{
+  "id": [
+    "30873285"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30873285"
+  ],
+  "pmcid": [
+    "PMC6398255"
+  ],
+  "doi": [
+    "10.1186/s40608-019-0231-y"
+  ],
+  "title": [
+    "A randomized home-based childhood obesity prevention pilot intervention has favourable effects on parental body composition: preliminary evidence from the Guelph Family Health Study."
+  ],
+  "authorString": [
+    "Krystia O, Ambrose T, Darlington G, Ma DWL, Buchholz AC, Haines J, Guelph Family Health Study."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Krystia O"
+          ],
+          "firstName": [
+            "Owen"
+          ],
+          "lastName": [
+            "Krystia"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "1Department of Family Relations and Applied Nutrition, University of Guelph, Guelph, ON N1G 2W1 Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ambrose T"
+          ],
+          "firstName": [
+            "Tory"
+          ],
+          "lastName": [
+            "Ambrose"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1Department of Family Relations and Applied Nutrition, University of Guelph, Guelph, ON N1G 2W1 Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Darlington G"
+          ],
+          "firstName": [
+            "Gerarda"
+          ],
+          "lastName": [
+            "Darlington"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "2Department of Mathematics and Statistics, University of Guelph, Guelph, ON N1G 2W1 Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma DWL"
+          ],
+          "firstName": [
+            "David W L"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "DWL"
+          ],
+          "affiliation": [
+            "3Department of Human Health and Nutritional Sciences, University of Guelph, Guelph, ON N1G 2W1 Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Buchholz AC"
+          ],
+          "firstName": [
+            "Andrea C"
+          ],
+          "lastName": [
+            "Buchholz"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "1Department of Family Relations and Applied Nutrition, University of Guelph, Guelph, ON N1G 2W1 Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Haines J"
+          ],
+          "firstName": [
+            "Jess"
+          ],
+          "lastName": [
+            "Haines"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1Department of Family Relations and Applied Nutrition, University of Guelph, Guelph, ON N1G 2W1 Canada."
+          ]
+        },
+        {
+          "collectiveName": [
+            "Guelph Family Health Study"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2768963"
+      ],
+      "dateOfPublication": [
+        "2019 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC obesity"
+          ],
+          "ISOAbbreviation": [
+            "BMC Obes"
+          ],
+          "medlineAbbreviation": [
+            "BMC Obes"
+          ],
+          "NLMid": [
+            "101639183"
+          ],
+          "ISSN": [
+            "2052-9538"
+          ],
+          "ESSN": [
+            "2052-9538"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "10"
+  ],
+  "abstractText": [
+    "Background:Home-based lifestyle behaviour interventions show promise for treating and preventing childhood obesity. According to family theories, engaging the entire family unit, including parents, to change their family behaviour and dynamics may be necessary to prevent the development of childhood obesity. However, little is known about how these interventions, which may change the family dynamics and weight-related behaviours of parents, affect weight outcomes in parents. Our objective was to examine the effect of a pilot home-based childhood obesity prevention intervention on measures of anthropometrics and body composition in Canadian parents. Methods:Forty-four families with children aged 1.5-5 years were randomized to one of three groups: 4 home visits with a health educator, emails, and mailed incentives (4 HV); 2 home visits, emails, and mailed incentives (2 HV); or general health emails (control). Both the 2 HV and 4 HV intervention were conducted over a period of 6 months. Body composition and anthropometric outcomes were measured at baseline and at 6 months and 18 months from baseline. Results:In parents with baseline body mass index (BMI) ≥ 25 kg/m2, the 2 HV group had significantly lower body mass and waist circumference at 6-month (CI = -5.85,-0.14 kg;-5.82,-0.30 respectively) and 18-month follow-up (CI = -7.57,-1.21 kg;-9.30,-2.50 cm respectively) when compared to control, and significantly lower BMI at 18-month follow-up when compared to control (CI = -2.59,-0.29 kg/m2). In parents with baseline BMI < 25 kg/m2, the 4 HV group had significantly lower percentage fat mass (CI = -3.94,-0.12%), while the 2 HV group had significantly lower body mass (CI = -2.56,-0.42 kg) and BMI (CI = -0.77,-0.08 kg/m2) at 6-month follow-up, both compared to control; these effects were not maintained at 18-month follow-up. Conclusions:This study provides support that a home-based childhood obesity prevention intervention may improve weight outcomes among parents. Future research should explore how home-based interventions influence family behaviour and dynamics to impact weight outcomes in children and their parents. Trial registration:Prospectively registered August 2014, clinical trial identifier NCT02223234."
+  ],
+  "affiliation": [
+    "1Department of Family Relations and Applied Nutrition, University of Guelph, Guelph, ON N1G 2W1 Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6398255?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6398255"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40608-019-0231-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-03-16"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-04"
+  ],
+  "firstPublicationDate": [
+    "2019-03-04"
+  ]
+}

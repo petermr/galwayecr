@@ -1,0 +1,543 @@
+{
+  "id": [
+    "28978975"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28978975"
+  ],
+  "pmcid": [
+    "PMC5984083"
+  ],
+  "doi": [
+    "10.1038/ijo.2017.243"
+  ],
+  "title": [
+    "Childhood obesity prevention through a community-based cluster randomized controlled physical activity intervention among schools in china: the health legacy project of the 2nd world summer youth olympic Games (YOG-Obesity study)."
+  ],
+  "authorString": [
+    "Wang Z, Xu F, Ye Q, Tse LA, Xue H, Tan Z, Leslie E, Owen N, Wang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Z"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Nanjing Municipal Center for Disease Control and Prevention, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu F"
+          ],
+          "firstName": [
+            "F"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1785-3635",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nanjing Municipal Center for Disease Control and Prevention, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ye Q"
+          ],
+          "firstName": [
+            "Q"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Nanjing Municipal Center for Disease Control and Prevention, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tse LA"
+          ],
+          "firstName": [
+            "L A"
+          ],
+          "lastName": [
+            "Tse"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Department of Epidemiology and Biostatistics, School of Public Health, Nanjing Medical University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xue H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "JC School of Public Health and Primary Care, The Chinese University of Hong Kong, Hong Kong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tan Z"
+          ],
+          "firstName": [
+            "Z"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "JC School of Public Health and Primary Care, The Chinese University of Hong Kong, Hong Kong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Leslie E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Leslie"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Systems-Oriented Global Childhood Obesity Intervention Program, Fisher Institute of Health and Well-Being, College of Health, Ball State University, Muncie, IN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Owen N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Owen"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "School of Health Sciences, Faculty of Medicine, Nursing and Health Sciences, Flinders University, Adelaide, South Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "JC School of Public Health and Primary Care, The Chinese University of Hong Kong, Hong Kong, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1785-3635",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "42"
+      ],
+      "journalIssueId": [
+        "2685677"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of obesity (2005)"
+          ],
+          "ISOAbbreviation": [
+            "Int J Obes (Lond)"
+          ],
+          "medlineAbbreviation": [
+            "Int J Obes (Lond)"
+          ],
+          "NLMid": [
+            "101256108"
+          ],
+          "ISSN": [
+            "0307-0565"
+          ],
+          "ESSN": [
+            "1476-5497"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "625-633"
+  ],
+  "abstractText": [
+    "BACKGROUND:Childhood obesity has been becoming a worldwide public health problem. We conducted a community-based physical activity (PA) intervention program aiming at childhood obesity prevention in general student population in Nanjing of China, the host city of the 2nd World Summer Youth Olympic Games (YOG-Obesity study). METHODS:This was a cluster randomized controlled intervention study. Participants were the 4th (mean age±s.e.: 9.0±0.01) and 7th (mean age±s.e.: 12.0±0.01) grade students (mean age±s.e.: 10.5±0.02) from 48 schools and randomly allocated (1:1) to intervention or control groups at school level. Routine health education was provided to all schools, whereas the intervention schools additionally received an 1-year tailored multi-component PA intervention program, including classroom curricula, school environment support, family involvement and fun programs/events. The primary outcome measures were changes in body mass index, obesity occurrence and PA. RESULTS:Overall, 9858 (97.7%) of the 10091 enrolled students completed the follow-up survey. Compared with the baseline, PA level increased by 33.13 min per week (s.e. 10.86) in the intervention group but decreased by 1.76 min per week (s.e. 11.53) in the control group (P=0.028). After adjustment for potential confounders, compared with the control group, the intervention group were more likely to have increased time of PA (adj. Odds ratio=1.15, 95% confidence interval=1.06-1.25), but had a smaller increase in mean body mass index (BMI) (0.22 (s.e. 0.02) vs 0.46 (0.02), P=0.01) and BMI z-score (0.07 (0.01) vs 0.16 (0.01), P=0.01), and were less likely to be obese (adj. Odds ratio=0.7, 95% confidence interval=0.6, 0.9) at study end. The intervention group had fewer new events of obesity/overweight but a larger proportion of formerly overweight/obese students having normal weight by study end. CONCLUSIONS:This large community-based PA intervention was feasible and effective in promoting PA and preventing obesity among the general student population in a large city in China. Experiences from this study are the lessons for China to control the childhood obesity epidemic."
+  ],
+  "affiliation": [
+    "Nanjing Municipal Center for Disease Control and Prevention, Nanjing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U54 HD070725"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Public Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Schools"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sports"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "School Health Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5984083?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5984083"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/ijo.2017.243"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-03-25"
+  ],
+  "dateOfCreation": [
+    "2017-10-06"
+  ],
+  "dateOfRevision": [
+    "2019-03-25"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-05"
+  ],
+  "firstPublicationDate": [
+    "2017-10-05"
+  ]
+}

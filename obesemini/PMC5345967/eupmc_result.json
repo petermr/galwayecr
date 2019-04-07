@@ -1,0 +1,329 @@
+{
+  "id": [
+    "28316908"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28316908"
+  ],
+  "pmcid": [
+    "PMC5345967"
+  ],
+  "doi": [
+    "10.1016/j.pmedr.2017.02.019"
+  ],
+  "title": [
+    "Exploring childhood obesity prevention among diverse ethnic groups in schools and places of worship: Recruitment, acceptability and feasibility of data collection and intervention components."
+  ],
+  "authorString": [
+    "Maynard M, Baker G, Harding S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maynard M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Maynard"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Medical Research Council, Social & Public Health Sciences Unit, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Baker G"
+          ],
+          "firstName": [
+            "Graham"
+          ],
+          "lastName": [
+            "Baker"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Medical Research Council, Social & Public Health Sciences Unit, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Harding S"
+          ],
+          "firstName": [
+            "Seeromanie"
+          ],
+          "lastName": [
+            "Harding"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Medical Research Council, Social & Public Health Sciences Unit, Glasgow, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2551263"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Preventive medicine reports"
+          ],
+          "ISOAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "medlineAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "NLMid": [
+            "101643766"
+          ],
+          "ISSN": [
+            "2211-3355"
+          ],
+          "ESSN": [
+            "2211-3355"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "130-136"
+  ],
+  "abstractText": [
+    "Small-scale, detailed exploration of the recruitment, assessment, and evaluation processes of obesity intervention among minority ethnic children. The study took place in schools and places of worship during 2008-2010 in London, UK. Measures included 3-day food diaries, 24 h dietary recalls, the Youth Physical Activity Questionnaire, accelerometry, and diet and physical activity self-efficacy questionnaires. Potential intervention components were evaluated via observation, questionnaires, and focus group discussions. Schools and places of worship that reflected the ethnic and religious diversity of inner city London populations (Hindus, Muslims and Christians) were targeted. Telephone invitations to 12 schools achieved recruitment of five schools (42% response); 181 invitations to 94 places of worship, recruited eight organisations (9%). Multi-strategy approaches were required to build relationships with faith organisations. Sixty-five children aged 8-13 years participated in the testing of measures. High completion rates were achieved for 24 h recalls, diet and PA self-efficacy questionnaires (ranging from 89% to 100%), with more consistent quality in schools. Dietary assessment highlighted inadequacies in composition data for minority ethnic foods. Intervention sessions were tested among 155 children in all five schools, and 33 children in a church, temple and mosque. Evaluation coverage was more consistent in these places of worship than in schools. Schools may logistically be more straightforward settings for delivery of interventions but, despite complex issues (engagement strategies; cultural foodways), places of worship provide opportunities for effective reach of children, families and communities. We suggest community based participatory research between researchers, schools and community organisations to harness culturally-specific support."
+  ],
+  "affiliation": [
+    "Medical Research Council, Social & Public Health Sciences Unit, Glasgow, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MC_EX_G0701943"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/N015959/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12017/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_U130015185"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Obesity",
+        "Diet",
+        "intervention",
+        "Physical Activity",
+        "Ethnicity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5345967?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5345967"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.pmedr.2017.02.019"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-21"
+  ],
+  "dateOfRevision": [
+    "2018-05-02"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-24"
+  ],
+  "firstPublicationDate": [
+    "2017-02-24"
+  ]
+}

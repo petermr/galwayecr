@@ -1,0 +1,626 @@
+{
+  "id": [
+    "20507634"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20507634"
+  ],
+  "pmcid": [
+    "PMC2887823"
+  ],
+  "doi": [
+    "10.1186/1471-2458-10-288"
+  ],
+  "title": [
+    "Evaluation of the childhood obesity prevention program Kids--'Go for your life'."
+  ],
+  "authorString": [
+    "de Silva-Sanigorski A, Prosser L, Carpenter L, Honisett S, Gibbs L, Moodie M, Sheppard L, Swinburn B, Waters E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Silva-Sanigorski A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "de Silva-Sanigorski"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "The McCaughey Centre, Melbourne School of Population Health, The University of Melbourne, Victoria, Australia. andreams@unimelb.edu.au"
+          ]
+        },
+        {
+          "fullName": [
+            "Prosser L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Prosser"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Carpenter L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Carpenter"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Honisett S"
+          ],
+          "firstName": [
+            "Suzy"
+          ],
+          "lastName": [
+            "Honisett"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Gibbs L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Gibbs"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9702-6896",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Moodie M"
+          ],
+          "firstName": [
+            "Marj"
+          ],
+          "lastName": [
+            "Moodie"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6890-5250",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sheppard L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Sheppard"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Swinburn B"
+          ],
+          "firstName": [
+            "Boyd"
+          ],
+          "lastName": [
+            "Swinburn"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Waters E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Waters"
+          ],
+          "initials": [
+            "E"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6890-5250",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9702-6896",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "1698126"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "288"
+  ],
+  "abstractText": [
+    "Kids--'Go for your life' (K-GFYL) is an award-based health promotion program being implemented across Victoria, Australia. The program aims to reduce the risk of childhood obesity by improving the socio-cultural, policy and physical environments in children's care and educational settings. Membership of the K-GFYL program is open to all primary and pre-schools and early childhood services across the State. Once in the program, member schools and services are centrally supported to undertake the health promotion (intervention) activities. Once the K-GFYL program 'criteria' are reached the school/service is assessed and 'awarded'. This paper describes the design of the evaluation of the statewide K-GFYL intervention program.The evaluation is mixed method and cross sectional and aims to: 1) Determine if K-GFYL award status is associated with more health promoting environments in schools/services compared to those who are members only; 2) Determine if children attending K-GFYL award schools/services have higher levels of healthy eating and physical activity-related behaviors compared to those who are members only; 3) Examine the barriers to implementing and achieving the K-GFYL award; and 4) Determine the economic cost of implementing K-GFYL in primary schools. Parent surveys will capture information about the home environment and child dietary and physical activity-related behaviors. Environmental questionnaires in early childhood settings and schools will capture information on the physical activity and nutrition environment and current health promotion activities. Lunchbox surveys and a set of open-ended questions for kindergarten parents will provide additional data. Resource use associated with the intervention activities will be collected from primary schools for cost analysis.The K-GFYL award program is a community-wide intervention that requires a comprehensive, multi-level evaluation. The evaluation design is constrained by the lack of a non-K-GFYL control group, short time frames and delayed funding of this large scale evaluation across all intervention settings. However, despite this, the evaluation will generate valuable evidence about the utility of a community-wide environmental approach to preventing childhood obesity which will inform future public health policies and health promotion programs internationally.ACTRN12609001075279."
+  ],
+  "affiliation": [
+    "The McCaughey Centre, Melbourne School of Population Health, The University of Melbourne, Victoria, Australia. andreams@unimelb.edu.au"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Schools"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Victoria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2887823?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2887823"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2458/10/288"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2458/10/288/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2458-10-288.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20507634/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20507634/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2458-10-288"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-06"
+  ],
+  "dateOfCreation": [
+    "2010-06-22"
+  ],
+  "dateOfRevision": [
+    "2015-12-03"
+  ],
+  "electronicPublicationDate": [
+    "2010-05-28"
+  ],
+  "firstPublicationDate": [
+    "2010-05-28"
+  ]
+}

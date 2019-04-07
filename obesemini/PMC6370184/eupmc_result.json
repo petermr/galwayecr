@@ -1,0 +1,2399 @@
+{
+  "id": [
+    "30742624"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30742624"
+  ],
+  "pmcid": [
+    "PMC6370184"
+  ],
+  "doi": [
+    "10.1371/journal.pmed.1002744"
+  ],
+  "title": [
+    "Maternal body mass index, gestational weight gain, and the risk of overweight and obesity across childhood: An individual participant data meta-analysis."
+  ],
+  "authorString": [
+    "Voerman E, Santos S, Patro Golab B, Amiano P, Ballester F, Barros H, Bergström A, Charles MA, Chatzi L, Chevrier C, Chrousos GP, Corpeleijn E, Costet N, Crozier S, Devereux G, Eggesbø M, Ekström S, Fantini MP, Farchi S, Forastiere F, Georgiu V, Godfrey KM, Gori D, Grote V, Hanke W, Hertz-Picciotto I, Heude B, Hryhorczuk D, Huang RC, Inskip H, Iszatt N, Karvonen AM, Kenny LC, Koletzko B, Küpers LK, Lagström H, Lehmann I, Magnus P, Majewska R, Mäkelä J, Manios Y, McAuliffe FM, McDonald SW, Mehegan J, Mommers M, Morgen CS, Mori TA, Moschonis G, Murray D, Chaoimh CN, Nohr EA, Nybo Andersen AM, Oken E, Oostvogels AJJM, Pac A, Papadopoulou E, Pekkanen J, Pizzi C, Polanska K, Porta D, Richiardi L, Rifas-Shiman SL, Ronfani L, Santos AC, Standl M, Stoltenberg C, Thiering E, Thijs C, Torrent M, Tough SC, Trnovec T, Turner S, van Rossem L, von Berg A, Vrijheid M, Vrijkotte TGM, West J, Wijga A, Wright J, Zvinchuk O, Sørensen TIA, Lawlor DA, Gaillard R, Jaddoe VWV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Voerman E"
+          ],
+          "firstName": [
+            "Ellis"
+          ],
+          "lastName": [
+            "Voerman"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "The Generation R Study Group, Erasmus University Medical Center, Rotterdam, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Santos S"
+          ],
+          "firstName": [
+            "Susana"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "The Generation R Study Group, Erasmus University Medical Center, Rotterdam, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Patro Golab B"
+          ],
+          "firstName": [
+            "Bernadeta"
+          ],
+          "lastName": [
+            "Patro Golab"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "The Generation R Study Group, Erasmus University Medical Center, Rotterdam, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Amiano P"
+          ],
+          "firstName": [
+            "Pilar"
+          ],
+          "lastName": [
+            "Amiano"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Public Health Division of Gipuzkoa, San Sebastián, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Ballester F"
+          ],
+          "firstName": [
+            "Ferran"
+          ],
+          "lastName": [
+            "Ballester"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "CIBER Epidemiología y Salud Pública (CIBERESP), Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Barros H"
+          ],
+          "firstName": [
+            "Henrique"
+          ],
+          "lastName": [
+            "Barros"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "EPIUnit, Instituto de Saúde Pública, Universidade do Porto, Porto, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Bergström A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Bergström"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Charles MA"
+          ],
+          "firstName": [
+            "Marie-Aline"
+          ],
+          "lastName": [
+            "Charles"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4025-4390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "INSERM, UMR1153 Epidemiology and Biostatistics Sorbonne Paris Cité Center (CRESS), ORCHAD Team, Villejuif, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chatzi L"
+          ],
+          "firstName": [
+            "Leda"
+          ],
+          "lastName": [
+            "Chatzi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Chevrier C"
+          ],
+          "firstName": [
+            "Cécile"
+          ],
+          "lastName": [
+            "Chevrier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "INSERM, UMR1085, Irset-Research Institute for Environmental and Occupational Health, Rennes, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Chrousos GP"
+          ],
+          "firstName": [
+            "George P"
+          ],
+          "lastName": [
+            "Chrousos"
+          ],
+          "initials": [
+            "GP"
+          ],
+          "affiliation": [
+            "First Department of Pediatrics, National and Kapodistrian University of Athens Medical School, \"Aghia Sophia\" Children's Hospital, Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Corpeleijn E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Corpeleijn"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Costet N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Costet"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "INSERM, UMR1085, Irset-Research Institute for Environmental and Occupational Health, Rennes, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Crozier S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Crozier"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9524-1127",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Devereux G"
+          ],
+          "firstName": [
+            "Graham"
+          ],
+          "lastName": [
+            "Devereux"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Liverpool School of Tropical Medicine, Liverpool, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Eggesbø M"
+          ],
+          "firstName": [
+            "Merete"
+          ],
+          "lastName": [
+            "Eggesbø"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0006-5336",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Exposure and Environmental Epidemiology, Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Ekström S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Ekström"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2060-8190",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Fantini MP"
+          ],
+          "firstName": [
+            "Maria Pia"
+          ],
+          "lastName": [
+            "Fantini"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3257-6552",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Farchi S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Farchi"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Lazio Regional Health Service, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Forastiere F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Forastiere"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Lazio Regional Health Service, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Georgiu V"
+          ],
+          "firstName": [
+            "Vagelis"
+          ],
+          "lastName": [
+            "Georgiu"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Social Medicine, Faculty of Medicine, University of Crete, Heraklion, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Godfrey KM"
+          ],
+          "firstName": [
+            "Keith M"
+          ],
+          "lastName": [
+            "Godfrey"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4643-0618",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gori D"
+          ],
+          "firstName": [
+            "Davide"
+          ],
+          "lastName": [
+            "Gori"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "The Department of Biomedical and Neuromotor Sciences, University of Bologna, Bologna, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Grote V"
+          ],
+          "firstName": [
+            "Veit"
+          ],
+          "lastName": [
+            "Grote"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7168-2385",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Metabolic and Nutritional Medicine, Dr. von Hauner Children's Hospital, Ludwig-Maximilians-Universität München, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hanke W"
+          ],
+          "firstName": [
+            "Wojciech"
+          ],
+          "lastName": [
+            "Hanke"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Environmental Epidemiology, Nofer Institute of Occupational Medicine, Lodz, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Hertz-Picciotto I"
+          ],
+          "firstName": [
+            "Irva"
+          ],
+          "lastName": [
+            "Hertz-Picciotto"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6952-2390",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Public Health Sciences, School of Medicine, University of California, Davis, Davis, California, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Heude B"
+          ],
+          "firstName": [
+            "Barbara"
+          ],
+          "lastName": [
+            "Heude"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1565-1629",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "INSERM, UMR1153 Epidemiology and Biostatistics Sorbonne Paris Cité Center (CRESS), ORCHAD Team, Villejuif, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Hryhorczuk D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Hryhorczuk"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7625-6756",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Center for Global Health, University of Illinois College of Medicine, Chicago, Illinois, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang RC"
+          ],
+          "firstName": [
+            "Rae-Chi"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Telethon Kids Institute, The University of Western Australia, Perth, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Inskip H"
+          ],
+          "firstName": [
+            "Hazel"
+          ],
+          "lastName": [
+            "Inskip"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8897-1749",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Lifecourse Epidemiology Unit, University of Southampton, Southampton, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Iszatt N"
+          ],
+          "firstName": [
+            "Nina"
+          ],
+          "lastName": [
+            "Iszatt"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Exposure and Environmental Epidemiology, Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Karvonen AM"
+          ],
+          "firstName": [
+            "Anne M"
+          ],
+          "lastName": [
+            "Karvonen"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2257-2934",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Security, National Institute for Health and Welfare, Kuopio, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Kenny LC"
+          ],
+          "firstName": [
+            "Louise C"
+          ],
+          "lastName": [
+            "Kenny"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "Irish Centre for Fetal and Neonatal Translational Research, Cork University Maternity Hospital, University College Cork, Cork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Koletzko B"
+          ],
+          "firstName": [
+            "Berthold"
+          ],
+          "lastName": [
+            "Koletzko"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5345-7165",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Metabolic and Nutritional Medicine, Dr. von Hauner Children's Hospital, Ludwig-Maximilians-Universität München, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Küpers LK"
+          ],
+          "firstName": [
+            "Leanne K"
+          ],
+          "lastName": [
+            "Küpers"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9850-5215",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Lagström H"
+          ],
+          "firstName": [
+            "Hanna"
+          ],
+          "lastName": [
+            "Lagström"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Public Health, University of Turku, Turku, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Lehmann I"
+          ],
+          "firstName": [
+            "Irina"
+          ],
+          "lastName": [
+            "Lehmann"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Environmental Immunology/Core Facility Studies, Helmholtz Centre for Environmental Research-UFZ, Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Magnus P"
+          ],
+          "firstName": [
+            "Per"
+          ],
+          "lastName": [
+            "Magnus"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Division of Health Data and Digitalization, Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Majewska R"
+          ],
+          "firstName": [
+            "Renata"
+          ],
+          "lastName": [
+            "Majewska"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3376-7908",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Chair of Epidemiology and Preventive Medicine, Jagiellonian University Medical College, Krakow, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mäkelä J"
+          ],
+          "firstName": [
+            "Johanna"
+          ],
+          "lastName": [
+            "Mäkelä"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Turku Centre for Biotechnology, University of Turku and Abo Akademi University, Turku, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Manios Y"
+          ],
+          "firstName": [
+            "Yannis"
+          ],
+          "lastName": [
+            "Manios"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Nutrition and Dietetics, School of Health Science and Education, Harokopio University, Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "McAuliffe FM"
+          ],
+          "firstName": [
+            "Fionnuala M"
+          ],
+          "lastName": [
+            "McAuliffe"
+          ],
+          "initials": [
+            "FM"
+          ],
+          "affiliation": [
+            "UCD Perinatal Research Centre, Obstetrics & Gynaecology, School of Medicine, University College Dublin, National Maternity Hospital, Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "McDonald SW"
+          ],
+          "firstName": [
+            "Sheila W"
+          ],
+          "lastName": [
+            "McDonald"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Mehegan J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Mehegan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4229-3599",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "UCD Perinatal Research Centre, School of Public Health and Physiotherapy and Sports Science, University College Dublin, Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mommers M"
+          ],
+          "firstName": [
+            "Monique"
+          ],
+          "lastName": [
+            "Mommers"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6341-3596",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Care and Public Health Research Institute, Maastricht University, Maastricht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Morgen CS"
+          ],
+          "firstName": [
+            "Camilla S"
+          ],
+          "lastName": [
+            "Morgen"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4121-2259",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institute of Public Health, University of Southern Denmark, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Mori TA"
+          ],
+          "firstName": [
+            "Trevor A"
+          ],
+          "lastName": [
+            "Mori"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5264-9229",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical School, The University of Western Australia, Perth, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Moschonis G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Moschonis"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3009-6675",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Rehabilitation, Nutrition and Sport, La Trobe University, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Murray D"
+          ],
+          "firstName": [
+            "Deirdre"
+          ],
+          "lastName": [
+            "Murray"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Irish Centre for Fetal and Neonatal Translational Research, Cork University Maternity Hospital, University College Cork, Cork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Chaoimh CN"
+          ],
+          "firstName": [
+            "Carol Ní"
+          ],
+          "lastName": [
+            "Chaoimh"
+          ],
+          "initials": [
+            "CN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8372-106X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Irish Centre for Fetal and Neonatal Translational Research, Cork University Maternity Hospital, University College Cork, Cork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Nohr EA"
+          ],
+          "firstName": [
+            "Ellen A"
+          ],
+          "lastName": [
+            "Nohr"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7039-1105",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Unit for Gynaecology and Obstetrics, Institute for Clinical Research, University of Southern Denmark, Odense, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Nybo Andersen AM"
+          ],
+          "firstName": [
+            "Anne-Marie"
+          ],
+          "lastName": [
+            "Nybo Andersen"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4296-8488",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Public Health, Section of Epidemiology, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Oken E"
+          ],
+          "firstName": [
+            "Emily"
+          ],
+          "lastName": [
+            "Oken"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2513-3339",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Population Medicine, Harvard Medical School, Harvard Pilgrim Health Care Institute, Boston, Massachusetts, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Oostvogels AJJM"
+          ],
+          "firstName": [
+            "Adriëtte J J M"
+          ],
+          "lastName": [
+            "Oostvogels"
+          ],
+          "initials": [
+            "AJJM"
+          ],
+          "affiliation": [
+            "Department of Public Health, Amsterdam Public Health Research Institute, Academic Medical Center, Amsterdam, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Pac A"
+          ],
+          "firstName": [
+            "Agnieszka"
+          ],
+          "lastName": [
+            "Pac"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6057-479X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Chair of Epidemiology and Preventive Medicine, Jagiellonian University Medical College, Krakow, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Papadopoulou E"
+          ],
+          "firstName": [
+            "Eleni"
+          ],
+          "lastName": [
+            "Papadopoulou"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7034-5897",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental Exposures and Epidemiology, Domain of Infection Control and Environmental Health, Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Pekkanen J"
+          ],
+          "firstName": [
+            "Juha"
+          ],
+          "lastName": [
+            "Pekkanen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1083-8777",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Health Security, National Institute for Health and Welfare, Kuopio, Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Pizzi C"
+          ],
+          "firstName": [
+            "Costanza"
+          ],
+          "lastName": [
+            "Pizzi"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Medical Sciences, University of Turin, Turin, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Polanska K"
+          ],
+          "firstName": [
+            "Kinga"
+          ],
+          "lastName": [
+            "Polanska"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3212-2307",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental Epidemiology, Nofer Institute of Occupational Medicine, Lodz, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Porta D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Porta"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3431-2729",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Lazio Regional Health Service, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Richiardi L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Richiardi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0316-9402",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Sciences, University of Turin, Turin, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Rifas-Shiman SL"
+          ],
+          "firstName": [
+            "Sheryl L"
+          ],
+          "lastName": [
+            "Rifas-Shiman"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Department of Population Medicine, Harvard Medical School, Harvard Pilgrim Health Care Institute, Boston, Massachusetts, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Ronfani L"
+          ],
+          "firstName": [
+            "Luca"
+          ],
+          "lastName": [
+            "Ronfani"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5710-3914",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Maternal and Child Health-IRCCS \"Burlo Garofolo\", Trieste, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Santos AC"
+          ],
+          "firstName": [
+            "Ana C"
+          ],
+          "lastName": [
+            "Santos"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2992-5299",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "EPIUnit, Instituto de Saúde Pública, Universidade do Porto, Porto, Portugal."
+          ]
+        },
+        {
+          "fullName": [
+            "Standl M"
+          ],
+          "firstName": [
+            "Marie"
+          ],
+          "lastName": [
+            "Standl"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5345-2049",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Epidemiology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stoltenberg C"
+          ],
+          "firstName": [
+            "Camilla"
+          ],
+          "lastName": [
+            "Stoltenberg"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8747-1985",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Thiering E"
+          ],
+          "firstName": [
+            "Elisabeth"
+          ],
+          "lastName": [
+            "Thiering"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Epidemiology, Helmholtz Zentrum München-German Research Center for Environmental Health, Neuherberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Thijs C"
+          ],
+          "firstName": [
+            "Carel"
+          ],
+          "lastName": [
+            "Thijs"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6646-5458",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Care and Public Health Research Institute, Maastricht University, Maastricht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Torrent M"
+          ],
+          "firstName": [
+            "Maties"
+          ],
+          "lastName": [
+            "Torrent"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "IB-Salut, Area de Salut de Menorca, Palma, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Tough SC"
+          ],
+          "firstName": [
+            "Suzanne C"
+          ],
+          "lastName": [
+            "Tough"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5583-7404",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Trnovec T"
+          ],
+          "firstName": [
+            "Tomas"
+          ],
+          "lastName": [
+            "Trnovec"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Environmental Medicine, Slovak Medical University, Bratislava, Slovak Republic."
+          ]
+        },
+        {
+          "fullName": [
+            "Turner S"
+          ],
+          "firstName": [
+            "Steve"
+          ],
+          "lastName": [
+            "Turner"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8393-5060",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Child Health, Royal Aberdeen Children's Hospital, Aberdeen, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "van Rossem L"
+          ],
+          "firstName": [
+            "Lenie"
+          ],
+          "lastName": [
+            "van Rossem"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht University, Utrecht, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "von Berg A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "von Berg"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0168-1541",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Institute, Department of Pediatrics, Marien-Hospital Wesel, Wesel, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Vrijheid M"
+          ],
+          "firstName": [
+            "Martine"
+          ],
+          "lastName": [
+            "Vrijheid"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "CIBER Epidemiología y Salud Pública (CIBERESP), Madrid, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Vrijkotte TGM"
+          ],
+          "firstName": [
+            "Tanja G M"
+          ],
+          "lastName": [
+            "Vrijkotte"
+          ],
+          "initials": [
+            "TGM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3641-4048",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Public Health, Amsterdam Public Health Research Institute, Academic Medical Center, Amsterdam, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "West J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "West"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5770-8363",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bradford Institute for Health Research, Bradford Royal Infirmary, Bradford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Wijga A"
+          ],
+          "firstName": [
+            "Alet"
+          ],
+          "lastName": [
+            "Wijga"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "National Institute for Public Health and the Environment, Bilthoven, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Wright J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9572-7293",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Bradford Institute for Health Research, Bradford Royal Infirmary, Bradford, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Zvinchuk O"
+          ],
+          "firstName": [
+            "Oleksandr"
+          ],
+          "lastName": [
+            "Zvinchuk"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7163-1932",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical and Social Problems of Family Health, Institute of Pediatrics, Obstetrics and Gynecology, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Sørensen TIA"
+          ],
+          "firstName": [
+            "Thorkild I A"
+          ],
+          "lastName": [
+            "Sørensen"
+          ],
+          "initials": [
+            "TIA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4821-430X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Public Health, Section of Epidemiology, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Lawlor DA"
+          ],
+          "firstName": [
+            "Debbie A"
+          ],
+          "lastName": [
+            "Lawlor"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6793-2262",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Integrative Epidemiology Unit at the University of Bristol, Bristol, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaillard R"
+          ],
+          "firstName": [
+            "Romy"
+          ],
+          "lastName": [
+            "Gaillard"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "The Generation R Study Group, Erasmus University Medical Center, Rotterdam, the Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Jaddoe VWV"
+          ],
+          "firstName": [
+            "Vincent W V"
+          ],
+          "lastName": [
+            "Jaddoe"
+          ],
+          "initials": [
+            "VWV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2939-0041",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The Generation R Study Group, Erasmus University Medical Center, Rotterdam, the Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2060-8190",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8897-1749",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4296-8488",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1083-8777",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5345-2049",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6793-2262",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0006-5336",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3257-6552",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5345-7165",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6341-3596",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3431-2729",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8747-1985",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9524-1127",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4643-0618",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7168-2385",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6952-2390",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3376-7908",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5770-8363",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7625-6756",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4229-3599",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4121-2259",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6057-479X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3212-2307",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0316-9402",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8393-5060",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4821-430X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2939-0041",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4025-4390",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2257-2934",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3009-6675",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2513-3339",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7034-5897",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5710-3914",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2992-5299",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7163-1932",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8372-106X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7039-1105",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0168-1541",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1565-1629",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5264-9229",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6646-5458",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5583-7404",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9850-5215",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3641-4048",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9572-7293",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2778255"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PLoS medicine"
+          ],
+          "ISOAbbreviation": [
+            "PLoS Med."
+          ],
+          "medlineAbbreviation": [
+            "PLoS Med"
+          ],
+          "NLMid": [
+            "101231360"
+          ],
+          "ISSN": [
+            "1549-1277"
+          ],
+          "ESSN": [
+            "1549-1676"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e1002744"
+  ],
+  "abstractText": [
+    "BACKGROUND:Maternal obesity and excessive gestational weight gain may have persistent effects on offspring fat development. However, it remains unclear whether these effects differ by severity of obesity, and whether these effects are restricted to the extremes of maternal body mass index (BMI) and gestational weight gain. We aimed to assess the separate and combined associations of maternal BMI and gestational weight gain with the risk of overweight/obesity throughout childhood, and their population impact. METHODS AND FINDINGS:We conducted an individual participant data meta-analysis of data from 162,129 mothers and their children from 37 pregnancy and birth cohort studies from Europe, North America, and Australia. We assessed the individual and combined associations of maternal pre-pregnancy BMI and gestational weight gain, both in clinical categories and across their full ranges, with the risks of overweight/obesity in early (2.0-5.0 years), mid (5.0-10.0 years) and late childhood (10.0-18.0 years), using multilevel binary logistic regression models with a random intercept at cohort level adjusted for maternal sociodemographic and lifestyle-related characteristics. We observed that higher maternal pre-pregnancy BMI and gestational weight gain both in clinical categories and across their full ranges were associated with higher risks of childhood overweight/obesity, with the strongest effects in late childhood (odds ratios [ORs] for overweight/obesity in early, mid, and late childhood, respectively: OR 1.66 [95% CI: 1.56, 1.78], OR 1.91 [95% CI: 1.85, 1.98], and OR 2.28 [95% CI: 2.08, 2.50] for maternal overweight; OR 2.43 [95% CI: 2.24, 2.64], OR 3.12 [95% CI: 2.98, 3.27], and OR 4.47 [95% CI: 3.99, 5.23] for maternal obesity; and OR 1.39 [95% CI: 1.30, 1.49], OR 1.55 [95% CI: 1.49, 1.60], and OR 1.72 [95% CI: 1.56, 1.91] for excessive gestational weight gain). The proportions of childhood overweight/obesity prevalence attributable to maternal overweight, maternal obesity, and excessive gestational weight gain ranged from 10.2% to 21.6%. Relative to the effect of maternal BMI, excessive gestational weight gain only slightly increased the risk of childhood overweight/obesity within each clinical BMI category (p-values for interactions of maternal BMI with gestational weight gain: p = 0.038, p < 0.001, and p = 0.637 in early, mid, and late childhood, respectively). Limitations of this study include the self-report of maternal BMI and gestational weight gain for some of the cohorts, and the potential of residual confounding. Also, as this study only included participants from Europe, North America, and Australia, results need to be interpreted with caution with respect to other populations. CONCLUSIONS:In this study, higher maternal pre-pregnancy BMI and gestational weight gain were associated with an increased risk of childhood overweight/obesity, with the strongest effects at later ages. The additional effect of gestational weight gain in women who are overweight or obese before pregnancy is small. Given the large population impact, future intervention trials aiming to reduce the prevalence of childhood overweight and obesity should focus on maternal weight status before pregnancy, in addition to weight gain during pregnancy."
+  ],
+  "affiliation": [
+    "The Generation R Study Group, Erasmus University Medical Center, Rotterdam, the Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "322605"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "648916"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_U147574222"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_U147574226"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "RG/15/17/31749"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12011/4"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12013/5"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NF-SI-0515-10042"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "PG/14/33/30827"
+          ],
+          "agency": [
+            "British Heart Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UP_A620_1017"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6370184?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6370184"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pmed.1002744"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-12"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-11"
+  ],
+  "firstPublicationDate": [
+    "2019-02-11"
+  ]
+}

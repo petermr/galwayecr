@@ -1,0 +1,902 @@
+{
+  "id": [
+    "25968599"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25968599"
+  ],
+  "pmcid": [
+    "PMC4457211"
+  ],
+  "doi": [
+    "10.1186/s12889-015-1800-8"
+  ],
+  "title": [
+    "A cluster-randomised controlled trial to assess the effectiveness and cost-effectiveness of a childhood obesity prevention programme delivered through schools, targeting 6-7 year old children: the WAVES study protocol."
+  ],
+  "authorString": [
+    "Adab P, Pallan MJ, Lancashire ER, Hemming K, Frew E, Griffin T, Barrett T, Bhopal R, Cade JE, Daley A, Deeks J, Duda J, Ekelund U, Gill P, McGee E, Parry J, Passmore S, Cheng KK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Adab P"
+          ],
+          "firstName": [
+            "Peymane"
+          ],
+          "lastName": [
+            "Adab"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9087-3945",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. p.adab@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Pallan MJ"
+          ],
+          "firstName": [
+            "Miranda J"
+          ],
+          "lastName": [
+            "Pallan"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. M.J.Pallan@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Lancashire ER"
+          ],
+          "firstName": [
+            "Emma R"
+          ],
+          "lastName": [
+            "Lancashire"
+          ],
+          "initials": [
+            "ER"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. E.R.Lancashire@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Hemming K"
+          ],
+          "firstName": [
+            "Karla"
+          ],
+          "lastName": [
+            "Hemming"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. K.HEMMING@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Frew E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Frew"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. E.Frew@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Griffin T"
+          ],
+          "firstName": [
+            "Tania"
+          ],
+          "lastName": [
+            "Griffin"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0146-4440",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. T.L.Griffin.1@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Barrett T"
+          ],
+          "firstName": [
+            "Timothy"
+          ],
+          "lastName": [
+            "Barrett"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6873-0750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Clinical and Experimental Medicine, University of Birmingham, Birmingham, UK. T.G.Barrett@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Bhopal R"
+          ],
+          "firstName": [
+            "Raj"
+          ],
+          "lastName": [
+            "Bhopal"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Edinburgh Migration, Ethnicity and Health Research Group, Usher Institute of Population Health Sciences and Informatics, The University of Edinburgh, Edinburgh, Scotland. raj.bhopal@ed.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Cade JE"
+          ],
+          "firstName": [
+            "Janet E"
+          ],
+          "lastName": [
+            "Cade"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Food Science and Nutrition, University of Leeds, Leeds, UK. j.e.cade@leeds.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Daley A"
+          ],
+          "firstName": [
+            "Amanda"
+          ],
+          "lastName": [
+            "Daley"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. A.Daley@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Deeks J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Deeks"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8850-1971",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. J.Deeks@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Duda J"
+          ],
+          "firstName": [
+            "Joan"
+          ],
+          "lastName": [
+            "Duda"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham, Birmingham, UK. J.L.DUDA@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Ekelund U"
+          ],
+          "firstName": [
+            "Ulf"
+          ],
+          "lastName": [
+            "Ekelund"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Norwegian School of Sport Sciences, Oslo, Norway. ulf.ekelund@mrc-epid.cam.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Gill P"
+          ],
+          "firstName": [
+            "Paramjit"
+          ],
+          "lastName": [
+            "Gill"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. P.S.GILL@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "McGee E"
+          ],
+          "firstName": [
+            "Eleanor"
+          ],
+          "lastName": [
+            "McGee"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Birmingham Community Healthcare NHS Trust, Birmingham, UK. Eleanor.Mcgee@bhamcommunity.nhs.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Parry J"
+          ],
+          "firstName": [
+            "Jayne"
+          ],
+          "lastName": [
+            "Parry"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. J.M.PARRY.1@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Passmore S"
+          ],
+          "firstName": [
+            "Sandra"
+          ],
+          "lastName": [
+            "Passmore"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Services for Education, Birmingham, UK. sandra.passmore@servicesforeducation.co.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng KK"
+          ],
+          "firstName": [
+            "Kar Keung"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1516-1857",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. K.K.Cheng@bham.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9087-3945",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0146-4440",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6873-0750",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8850-1971",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1516-1857",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2475882"
+      ],
+      "dateOfPublication": [
+        "2015 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "488"
+  ],
+  "abstractText": [
+    "There is some evidence that school-based interventions are effective in preventing childhood obesity. However, longer term outcomes, equity of effects and cost-effectiveness of interventions have not been assessed. The aim of this trial is to assess the clinical and cost-effectiveness of a multi-component intervention programme targeting the school and family environment through primary schools, in preventing obesity in 6-7 year old children, compared to usual practice.This cluster randomised controlled trial is set in 54 primary schools within the West Midlands, UK, including a multi-ethnic, socioeconomically diverse population of children aged 6-7 years. The 12-month intervention consists of healthy diet and physical activity promotion. These include: activities to increase time spent doing physical activity within the school day, participation in the 'Villa Vitality' programme (a programme that is delivered by an iconic sporting institution (Aston Villa Football Club), which provides interactive learning opportunities for physical activity and healthy eating), healthy cooking skills workshops in school time for parents and children, and provision of information to families signposting local leisure opportunities. The primary (clinical) outcome is the difference in body mass index (BMI) z-scores between arms at 3 and 18 months post-intervention completion. Cost per Quality Adjusted Life Year (QALY) will also be assessed. The sample size estimate (1000 children split across 50 schools at follow-up) is based on 90% power to detect differences in BMI z-score of 0.25 (estimated ICC ≤ 0.04), assuming a correlation between baseline and follow-up BMI z-score of 0.9. Treatment effects will be examined using mixed model ANCOVA. Primary analysis will adjust for baseline BMI z-score, and secondary analysis will adjust for pre-specified baseline school and child level covariates.The West Midlands ActiVe lifestyle and healthy Eating in School children (WAVES) study is the first trial that will examine the cost-effectiveness and long term outcomes of a childhood obesity prevention programme in a multi-ethnic population, with a sufficient sample size to detect clinically important differences in adiposity. The intervention was developed using the Medical Research Council framework for complex interventions, and outcomes are measured objectively, together with a comprehensive process evaluation.Current Controlled Trials ISRCTN97000586 (registered May 2010)."
+  ],
+  "affiliation": [
+    "Health & Population Sciences, University of Birmingham, B15 2TT, Birmingham, UK. p.adab@bham.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "06/85/11"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0501294"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/L01629X/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12015/3"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_UU_12015/4"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_U106179473"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Body Mass Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality-Adjusted Life Years"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schools"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ST"
+                  ],
+                  "qualifierName": [
+                    "standards"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "School Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Outcome Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adiposity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4457211?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4457211"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-015-1800-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-21"
+  ],
+  "dateOfCreation": [
+    "2015-06-05"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-13"
+  ],
+  "firstPublicationDate": [
+    "2015-05-13"
+  ]
+}

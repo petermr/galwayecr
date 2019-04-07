@@ -1,0 +1,348 @@
+{
+  "id": [
+    "30696378"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30696378"
+  ],
+  "pmcid": [
+    "PMC6352953"
+  ],
+  "doi": [
+    "10.1080/22423982.2019.1573162"
+  ],
+  "title": [
+    "Integrating preventive dental care into general Paediatric practice for Indigenous communities: paediatric residents' perceptions."
+  ],
+  "authorString": [
+    "ElSalhy M, Gill M, Isaac DM, Littlechild R, Baydala L, Amin M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "ElSalhy M"
+          ],
+          "firstName": [
+            "Mohamed"
+          ],
+          "lastName": [
+            "ElSalhy"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7410-457X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "a College of Dental Medicine , University of New England , Portland , ME , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gill M"
+          ],
+          "firstName": [
+            "Mandeep"
+          ],
+          "lastName": [
+            "Gill"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "b School of Dentistry, Faculty of Medicine and Dentistry , University of Alberta , Edmonton, AB , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Isaac DM"
+          ],
+          "firstName": [
+            "Daniela Migliarese"
+          ],
+          "lastName": [
+            "Isaac"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "c Department of Pediatrics, Faculty of Medicine and Dentistry , University of Alberta , Edmonton, AB , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Littlechild R"
+          ],
+          "firstName": [
+            "Randy"
+          ],
+          "lastName": [
+            "Littlechild"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "d Maskwacis 4 Nations , Alberta , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Baydala L"
+          ],
+          "firstName": [
+            "Lola"
+          ],
+          "lastName": [
+            "Baydala"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "c Department of Pediatrics, Faculty of Medicine and Dentistry , University of Alberta , Edmonton, AB , Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Amin M"
+          ],
+          "firstName": [
+            "Maryam"
+          ],
+          "lastName": [
+            "Amin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "b School of Dentistry, Faculty of Medicine and Dentistry , University of Alberta , Edmonton, AB , Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7410-457X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "78"
+      ],
+      "journalIssueId": [
+        "2773052"
+      ],
+      "dateOfPublication": [
+        "2019 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of circumpolar health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Circumpolar Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Circumpolar Health"
+          ],
+          "NLMid": [
+            "9713056"
+          ],
+          "ISSN": [
+            "1239-9736"
+          ],
+          "ESSN": [
+            "2242-3982"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "1573162"
+  ],
+  "abstractText": [
+    "This qualitative study aimed to explore paediatric residents' perceptions of the feasibility of incorporating preventive dental care into a general paediatric outreach clinic for a First Nations community. Four focus groups were conducted with paediatric residents and attending paediatricians. Interviews were recorded, transcribed verbatim and analysed using a basic interpretive qualitative approach. Three major themes emerged from the data: advantages of integration, barriers to integration and strategies for integration. Comprehensive care and service delivery were the two identified advantages of integration. Three categories of barriers emerged including patient and caregiver-related, resident-related and setting-related barriers. Training and practice, patient education, support and policy were the suggested strategies for successful integration. Providers were found to be open to integrating preventive dental care into their practice. However, barriers impeded the success of this integration. Multiple strategies including oral health care training for medical providers, office support and policy changes would facilitate successful integration."
+  ],
+  "affiliation": [
+    "a College of Dental Medicine , University of New England , Portland , ME , USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Health Services",
+        "Oral Health",
+        "Paediatrics",
+        "First Nations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6352953?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6352953"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/22423982.2019.1573162"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-01-31"
+  ],
+  "dateOfRevision": [
+    "2019-02-07"
+  ],
+  "firstPublicationDate": [
+    "2019-12-01"
+  ]
+}

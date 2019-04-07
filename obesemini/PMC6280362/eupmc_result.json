@@ -1,0 +1,337 @@
+{
+  "id": [
+    "30518321"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30518321"
+  ],
+  "pmcid": [
+    "PMC6280362"
+  ],
+  "doi": [
+    "10.1186/s12875-018-0882-7"
+  ],
+  "title": [
+    "Development and use of an index for measuring implementation of a weight management program in children in primary care clinics in Texas."
+  ],
+  "authorString": [
+    "Salahuddin M, Barlow SE, Pont SJ, Butte NF, Hoelscher DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Salahuddin M"
+          ],
+          "firstName": [
+            "Meliha"
+          ],
+          "lastName": [
+            "Salahuddin"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5948-7218",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Michael & Susan Dell Center for Healthy Living, University of Texas Health Science Center at Houston (UTHealth) School of Public Health in Austin, Austin, TX, USA. msalahuddin@utsystem.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Barlow SE"
+          ],
+          "firstName": [
+            "Sarah E"
+          ],
+          "lastName": [
+            "Barlow"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "affiliation": [
+            "Texas Children's Hospital, Baylor College of Medicine, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pont SJ"
+          ],
+          "firstName": [
+            "Stephen J"
+          ],
+          "lastName": [
+            "Pont"
+          ],
+          "initials": [
+            "SJ"
+          ],
+          "affiliation": [
+            "Texas Center for the Prevention and Treatment of Childhood Obesity, Dell Children's Medical Center, University of Texas at Austin Dell Medical School, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Butte NF"
+          ],
+          "firstName": [
+            "Nancy F"
+          ],
+          "lastName": [
+            "Butte"
+          ],
+          "initials": [
+            "NF"
+          ],
+          "affiliation": [
+            "USDA/ARS Children's Nutrition Research Center; Department of Pediatrics, Baylor College of Medicine, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoelscher DM"
+          ],
+          "firstName": [
+            "Deanna M"
+          ],
+          "lastName": [
+            "Hoelscher"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Michael & Susan Dell Center for Healthy Living, University of Texas Health Science Center at Houston (UTHealth) School of Public Health in Austin, Austin, TX, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5948-7218",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2756154"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC family practice"
+          ],
+          "ISOAbbreviation": [
+            "BMC Fam Pract"
+          ],
+          "medlineAbbreviation": [
+            "BMC Fam Pract"
+          ],
+          "NLMid": [
+            "100967792"
+          ],
+          "ISSN": [
+            "1471-2296"
+          ],
+          "ESSN": [
+            "1471-2296"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "191"
+  ],
+  "abstractText": [
+    "BACKGROUND:The Texas Childhood Obesity Research Demonstration study was an integrated, systems-oriented intervention that incorporated primary and secondary obesity prevention approaches targeting multiple sectors, including primary care clinics, to address childhood obesity. The primary care clinic component included the American Academy of Pediatrics' Next Steps weight management counseling materials that support brief healthy lifestyle-focused visits. The current study describes the methodology and assesses the implementation of the Next Steps program in the participating primary care clinics, as well as the association of implementation with enrollment of children with overweight and obesity in the secondary prevention intervention. METHODS:The study used a serial cross-sectional study design to collect data from 11 primary care clinics in Houston (n = 5) and Austin (n = 6), Texas, in 2013-2014. Responses of primary care providers on 42 self-reported survey questions assessing acceptability, adoption, appropriateness, and feasibility of the program were utilized to create a mean standardized clinic implementation index score. Provider scores were aggregated to represent Next Steps implementation scores at the clinic level. A mixed effects logistic regression test was conducted to determine the association between program implementation and the enrollment of children in the secondary prevention. RESULTS:Mean implementation index score was lower at Year 2 of implementation (2014) than Year 1 (2013) although the decrease was not significant [63.2% (12.2%) in 2013 vs. 55.3% (16.5%) in 2014]. There were no significant associations between levels of implementation of Next Steps and enrollment into TX CORD secondary prevention study. CONCLUSIONS:The development of an index using process evaluation measures can be used to assess the implementation and evaluation of provider-based obesity prevention tools in primary care clinics."
+  ],
+  "affiliation": [
+    "Michael & Susan Dell Center for Healthy Living, University of Texas Health Science Center at Houston (UTHealth) School of Public Health in Austin, Austin, TX, USA. msalahuddin@utsystem.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Weight Management",
+        "Process Evaluation",
+        "Primary Care Clinics",
+        "Children With Overweight/obesity",
+        "Implementation Index",
+        "Next Steps",
+        "Tx Cord"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6280362?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6280362"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12875-018-0882-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-07"
+  ],
+  "dateOfRevision": [
+    "2018-12-17"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-05"
+  ],
+  "firstPublicationDate": [
+    "2018-12-05"
+  ]
+}

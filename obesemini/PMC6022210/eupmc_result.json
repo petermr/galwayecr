@@ -1,0 +1,587 @@
+{
+  "id": [
+    "29865969"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29865969"
+  ],
+  "pmcid": [
+    "PMC6022210"
+  ],
+  "doi": [
+    "10.1177/0046958018779189"
+  ],
+  "title": [
+    "Implementation of Text-Messaging and Social Media Strategies in a Multilevel Childhood Obesity Prevention Intervention: Process Evaluation Results."
+  ],
+  "authorString": [
+    "Loh IH, Schwendler T, Trude ACB, Anderson Steeves ET, Cheskin LJ, Lange S, Gittelsohn J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Loh IH"
+          ],
+          "firstName": [
+            "Ivory H"
+          ],
+          "lastName": [
+            "Loh"
+          ],
+          "initials": [
+            "IH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8238-3049",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "1 Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwendler T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Schwendler"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "2 Peace Corps, The Gambia."
+          ]
+        },
+        {
+          "fullName": [
+            "Trude ACB"
+          ],
+          "firstName": [
+            "Angela C B"
+          ],
+          "lastName": [
+            "Trude"
+          ],
+          "initials": [
+            "ACB"
+          ],
+          "affiliation": [
+            "1 Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson Steeves ET"
+          ],
+          "firstName": [
+            "Elizabeth T"
+          ],
+          "lastName": [
+            "Anderson Steeves"
+          ],
+          "initials": [
+            "ET"
+          ],
+          "affiliation": [
+            "3 The University of Tennessee, Knoxville, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheskin LJ"
+          ],
+          "firstName": [
+            "Lawrence J"
+          ],
+          "lastName": [
+            "Cheskin"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "4 Johns Hopkins Weight Management Center, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lange S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Lange"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1 Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gittelsohn J"
+          ],
+          "firstName": [
+            "Joel"
+          ],
+          "lastName": [
+            "Gittelsohn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1 Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8238-3049",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2636844"
+      ],
+      "dateOfPublication": [
+        "2018 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Inquiry : a journal of medical care organization, provision and financing"
+          ],
+          "ISOAbbreviation": [
+            "Inquiry"
+          ],
+          "medlineAbbreviation": [
+            "Inquiry"
+          ],
+          "NLMid": [
+            "0171671"
+          ],
+          "ISSN": [
+            "0046-9580"
+          ],
+          "ESSN": [
+            "1945-7243"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "46958018779189"
+  ],
+  "abstractText": [
+    "Social media and text messaging show promise as public health interventions, but little evaluation of implementation exists. The B'more Healthy Communities for Kids (BHCK) was a multilevel, multicomponent (wholesalers, food stores, recreation centers) childhood obesity prevention trial that included social media and text-messaging components. The BHCK was implemented in 28 low-income areas of Baltimore City, Maryland, in 2 waves. The texting intervention targeted 241 low-income African American caregivers (of 283), who received 3 texts/week reinforcing key messages, providing nutrition information, and weekly goals. Regular posting on social media platforms (Facebook, Instagram, Twitter) targeted community members and local stakeholders. High implementation standards were set a priori (57 for social media, 11 for texting), with low implementation defined as <50%, medium as 50% to 99%, high as ≥100% of the high standard for each measure. Reach, dose delivered, and fidelity were assessed via web-based analytic tools. Between waves, social media implementation improved from low-moderate to high reach, dose delivered, and fidelity. Text messaging increased from moderate to high in reach and dose delivered, fidelity decreased from high to moderate. Data were used to monitor and revise the BHCK intervention throughout implementation. Our model for evaluating text messaging-based and social media-based interventions may be applicable to other settings."
+  ],
+  "affiliation": [
+    "1 Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Evaluation Studies",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "U54 HD070725"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Poverty"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caregivers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "African Americans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Baltimore"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Text Messaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Media"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Evaluation studies",
+        "Social Marketing",
+        "Health Promotion",
+        "Caregivers",
+        "African Americans",
+        "Social Media",
+        "Process Evaluation",
+        "Baltimore",
+        "Text Messaging"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6022210?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6022210"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/0046958018779189"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-12-11"
+  ],
+  "dateOfCreation": [
+    "2018-06-06"
+  ],
+  "dateOfRevision": [
+    "2018-12-11"
+  ],
+  "firstPublicationDate": [
+    "2018-01-01"
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "id": [
+    "29735953"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29735953"
+  ],
+  "pmcid": [
+    "PMC5981973"
+  ],
+  "doi": [
+    "10.3390/ijerph15050934"
+  ],
+  "title": [
+    "Teens Implementing a Childhood Obesity Prevention Program in the Community: Feasibility and Perceptions of a Partnership with HSTA and iCook 4-H."
+  ],
+  "authorString": [
+    "Hagedorn RL, White JA, Franzen-Castle L, Colby SE, Kattelmann KK, White AA, Olfert MD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hagedorn RL"
+          ],
+          "firstName": [
+            "Rebecca L"
+          ],
+          "lastName": [
+            "Hagedorn"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5046-4757",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Natural Resources & Design, Division of Animal and Nutritional Sciences, Davis College of Agriculture, West Virginia University, G016 Agricultural Science Building, Morgantown, WV 26506, USA. rlhagedorn@mix.wvu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "White JA"
+          ],
+          "firstName": [
+            "Jade A"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Natural Resources & Design, Division of Animal and Nutritional Sciences, Davis College of Agriculture, West Virginia University, G016 Agricultural Science Building, Morgantown, WV 26506, USA. jade_white@my.uri.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Franzen-Castle L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Franzen-Castle"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Nutrition and Health Sciences Department, University of Nebraska-Lincoln, 110 Ruth Leverton Hall, Lincoln, NE 68583, USA. lfranzen2@unl.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Colby SE"
+          ],
+          "firstName": [
+            "Sarah E"
+          ],
+          "lastName": [
+            "Colby"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8298-3690",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Nutrition, University of Tennessee, 1215 W. Cumberland Avenue, 229 Jessie Harris Building, Knoxville, TN 37996, USA. scolby1@utk.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Kattelmann KK"
+          ],
+          "firstName": [
+            "Kendra K"
+          ],
+          "lastName": [
+            "Kattelmann"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "affiliation": [
+            "Department of Health and Nutritional Sciences, South Dakota State University, Box 2275A, SWG 425, Brookings, SD 57007, USA. kendra.Kattelmann@sdstate.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "White AA"
+          ],
+          "firstName": [
+            "Adrienne A"
+          ],
+          "lastName": [
+            "White"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "School of Food and Agriculture, University of Maine, 5735 Hitchner Hall, Orono, ME 04469, USA. awhite@maine.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Olfert MD"
+          ],
+          "firstName": [
+            "Melissa D"
+          ],
+          "lastName": [
+            "Olfert"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6686-3891",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Natural Resources & Design, Division of Animal and Nutritional Sciences, Davis College of Agriculture, West Virginia University, G016 Agricultural Science Building, Morgantown, WV 26506, USA. melissa.olfert@mail.wvu.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6686-3891",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5046-4757",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8298-3690",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2679563"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "High school student researchers and teen leaders from the Health Science Technology Academy (HSTA), under the supervision of HSTA teachers, led a childhood obesity prevention (COP) program (iCook 4-H). The objective was to evaluate the feasibility and perceptions of having teen leaders implement a COP program for dyads of youth (9⁻10 years old) and their primary adult food preparer. Behavior change and perceptions were assessed through surveys and open-ended interviews. Across eight HSTA organizations, 43 teen leaders participated in teaching the iCook 4-H program to 24 dyads. Increased frequency of culinary skills, physical activity and mealtime behavior were reported by youth. Almost all adults (93%) reported that their youth had learned kitchen skills and that the program provided youth-adult quality time and developed culinary skills. Youth echoed adult perceptions with additional themes of food safety and physical activity. HSTA teen leaders perceived the program to be successful and reported the training they received to implement the program was adequate 98% of the time. HSTA teachers found the program to be beneficial for HSTA students in improving leadership, confidence and responsibility. iCook 4-H was feasible to be disseminated through teen leaders in the HSTA program. This teen-led approach could serve as a model for youth health-related programming."
+  ],
+  "affiliation": [
+    "Natural Resources & Design, Division of Animal and Nutritional Sciences, Davis College of Agriculture, West Virginia University, G016 Agricultural Science Building, Morgantown, WV 26506, USA. rlhagedorn@mix.wvu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 GM081741"
+          ],
+          "agency": [
+            "NIGMS NIH HHS"
+          ],
+          "acronym": [
+            "GM"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Social Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leadership"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Students"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "OG"
+                  ],
+                  "qualifierName": [
+                    "organization & administration"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cooking"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "High School",
+        "Childhood Obesity",
+        "Teens As Teachers"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5981973?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5981973"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph15050934"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-01-07"
+  ],
+  "dateOfCreation": [
+    "2018-05-09"
+  ],
+  "dateOfRevision": [
+    "2019-01-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-07"
+  ],
+  "firstPublicationDate": [
+    "2018-05-07"
+  ]
+}

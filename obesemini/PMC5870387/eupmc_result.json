@@ -1,0 +1,338 @@
+{
+  "id": [
+    "29610670"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29610670"
+  ],
+  "pmcid": [
+    "PMC5870387"
+  ],
+  "doi": [
+    "10.1186/s40608-018-0188-2"
+  ],
+  "title": [
+    "Community-based childhood obesity prevention intervention for parents improves health behaviors and food parenting practices among Hispanic, low-income parents."
+  ],
+  "authorString": [
+    "Otterbach L, Mena NZ, Greene G, Redding CA, De Groot A, Tovar A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Otterbach L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Otterbach"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "1Department of Nutrition and Food Sciences, University of Rhode Island, Fogarty Hall, 41 Lower College Rd, Kingston, RI 02881 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mena NZ"
+          ],
+          "firstName": [
+            "Noereem Z"
+          ],
+          "lastName": [
+            "Mena"
+          ],
+          "initials": [
+            "NZ"
+          ],
+          "affiliation": [
+            "1Department of Nutrition and Food Sciences, University of Rhode Island, Fogarty Hall, 41 Lower College Rd, Kingston, RI 02881 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Greene G"
+          ],
+          "firstName": [
+            "Geoffrey"
+          ],
+          "lastName": [
+            "Greene"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "1Department of Nutrition and Food Sciences, University of Rhode Island, Fogarty Hall, 41 Lower College Rd, Kingston, RI 02881 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Redding CA"
+          ],
+          "firstName": [
+            "Colleen A"
+          ],
+          "lastName": [
+            "Redding"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "2Cancer Prevention Research Center and Department of Psychology, University of Rhode Island, Chafee Hall, 142 Flagg Road, Kingston, RI 02881 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "De Groot A"
+          ],
+          "firstName": [
+            "Annie"
+          ],
+          "lastName": [
+            "De Groot"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5911-1459",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "3Institute for Immunology and Informatics, University of Rhode Island, Shepard Building, 80 Washington Street, Providence, RI 02903 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tovar A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Tovar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "1Department of Nutrition and Food Sciences, University of Rhode Island, Fogarty Hall, 41 Lower College Rd, Kingston, RI 02881 USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5911-1459",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2649703"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC Obesity"
+          ],
+          "ISOAbbreviation": [
+            "BMC Obes"
+          ],
+          "medlineAbbreviation": [
+            "BMC Obes"
+          ],
+          "NLMid": [
+            "101639183"
+          ],
+          "ISSN": [
+            "2052-9538"
+          ],
+          "ESSN": [
+            "2052-9538"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "11"
+  ],
+  "abstractText": [
+    "Given the current prevalence of childhood obesity among Hispanic populations, and the importance of parental feeding behaviors, we aimed to assess the impact of the evidence-based Healthy Children, Healthy Families (HCHF) intervention on responsive food parenting practices (FPPs) in a low-income Hispanic population.This community-based pilot study used a non-experimental pre/post within-subjects design. Parents (n = 94) of children aged 3-11 years old were recruited to participate in an 8-week, weekly group-based intervention. The intervention was delivered to nine groups of parents by trained paraprofessional educators over a two-year period. Children participated in a separate curriculum that covered topics similar to those covered in the parent intervention. Parents completed self-administered pre/post surveys, which included demographic questions, seven subscales from the Comprehensive Feeding Practices Questionnaire, and the 16-item HCHF Behavior Checklist. Descriptive statistics and paired samples t-tests were used to analyze data from parents that completed the intervention.Fifty-two, primarily Hispanic (93%) parents completed the intervention (39% attrition rate). For parents who completed the intervention, there was a significant increase in one of the feeding practice subscales: encouragement of balance and variety (p = 0.01). There were significant improvements in several parent and child diet and activity outcomes (p ≤ 0.01).Although attrition rates were high, parents completing the study reported enjoying and being satisfied with the intervention. For parents who completed the intervention, reported 'encouragement of balance and variety', in addition to several health behaviors significantly improved. Larger studies utilizing an experimental design, should further explore the impact of the HCHF curriculum on improving certain FPPs and health behaviors that contribute to obesity."
+  ],
+  "affiliation": [
+    "1Department of Nutrition and Food Sciences, University of Rhode Island, Fogarty Hall, 41 Lower College Rd, Kingston, RI 02881 USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5870387?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5870387"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40608-018-0188-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-04"
+  ],
+  "dateOfRevision": [
+    "2018-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-27"
+  ],
+  "firstPublicationDate": [
+    "2018-03-27"
+  ]
+}

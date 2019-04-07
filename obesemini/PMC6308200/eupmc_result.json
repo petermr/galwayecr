@@ -1,0 +1,370 @@
+{
+  "id": [
+    "30622935"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30622935"
+  ],
+  "pmcid": [
+    "PMC6308200"
+  ],
+  "doi": [
+    "10.3389/fped.2018.00393"
+  ],
+  "title": [
+    "Childhood Overweight and Obesity and Associated Factors in Iranian Children and Adolescents: A Multilevel Analysis; the CASPIAN-IV Study."
+  ],
+  "authorString": [
+    "Khashayar P, Kasaeian A, Heshmat R, Motlagh ME, Mahdavi Gorabi A, Noroozi M, Qorbani M, Kelishadi R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Khashayar P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Khashayar"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Chronic Disease Research Center, Endocrinology and Metabolism Population Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasaeian A"
+          ],
+          "firstName": [
+            "Amir"
+          ],
+          "lastName": [
+            "Kasaeian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Hematology-Oncology and Stem Cell Transplantation Research Center, Research Institute for Oncology, Hematology and Cell Therapy, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Heshmat R"
+          ],
+          "firstName": [
+            "Ramin"
+          ],
+          "lastName": [
+            "Heshmat"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Chronic Disease Research Center, Endocrinology and Metabolism Population Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Motlagh ME"
+          ],
+          "firstName": [
+            "Mohammad Esmaeil"
+          ],
+          "lastName": [
+            "Motlagh"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Ahvaz Jundishapur University of Medical Sciences, Ahvaz, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Mahdavi Gorabi A"
+          ],
+          "firstName": [
+            "Armita"
+          ],
+          "lastName": [
+            "Mahdavi Gorabi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Basic and Clinical Research, Tehran Heart Center, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Noroozi M"
+          ],
+          "firstName": [
+            "Mehdi"
+          ],
+          "lastName": [
+            "Noroozi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Social Determinants of Health Research Center, University of Social Welfare and Rehabilitation Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Qorbani M"
+          ],
+          "firstName": [
+            "Mostafa"
+          ],
+          "lastName": [
+            "Qorbani"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Non-communicable Diseases Research Center, Alborz University of Medical Sciences, Karaj, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Kelishadi R"
+          ],
+          "firstName": [
+            "Roya"
+          ],
+          "lastName": [
+            "Kelishadi"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Child Growth and Development Research Center, Research Institute for Primordial Prevention of Non-communicable Diseases, Isfahan University of Medical Sciences, Isfahan, Iran."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2647851"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Front Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Front Pediatr"
+          ],
+          "NLMid": [
+            "101615492"
+          ],
+          "ISSN": [
+            "2296-2360"
+          ],
+          "ESSN": [
+            "2296-2360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "393"
+  ],
+  "abstractText": [
+    "Objective: The purpose of this paper is to explore multidimensional factors related to childhood obesity and overweight based on the data gathered on different aspects of the general health status were assessed among a large number of Iranian children and adolescents in the fourth phase of the \"Childhood and Adolescence Surveillance and Prevention of Adult Non-communicable disease\" survey. It also aims to determine the degree to which each ecological context contributes to childhood overweight/obesity. Method: A total of 14,880 students and their parents were recruited. They filled out a questionnaire on their relationship with peers, body image, and psychosocial environment of school, dietary habits, life-style habits, physical activity pattern and socioeconomic status (SES). Their height, weight, was measured and body mass index (BMI) was calculated. Obesity and overweight was defined based on the WHO growth chart. Multilevel modeling using three-level random intercept logistic regression models were used to assess predictors of overweight and obesity. In our hierarchical models, children (first level) were conceptualized as being nested within provinces (second level) and provinces within quad regions (third level). Result: From among the 13,486 recruited students, 9.7% were overweight and 11.9% were obese. In multivariate model (adjusted model), being boy (OR:1.58), living in urban area (OR:1.58), having positive family history of obesity (OR = 2.04), breakfast skipping (OR: 1.46), socioeconomic status (OR moderateSES/lowSES = 1.44 and OR highSES/lowSES = 1.89), and birth weight (BW) (OR normalBW/lowBW = 1.33 and OR highBW/lowBW = 1.8) were associated with childhood obesity. Increasing age was the only factor in the obesity model that had a significant preventive effect on the odds of becoming obese (OR = 0.96, P < 0.001). In multivariate model, living in urban area, increasing age, high and moderate SES, high BW and family history of obesity were the significant predictors of overweight. Conclusion: Our findings show that high BW, sociodemographic characteristics, breakfast skipping, and family history of obesity are associated with childhood obesity and overweight. Therefore, developing strategies that consider the effects of diverse sociodemographic and environmental factors on childhood overweight and obesity would be the most effective way to prevent and manage this multifactorial health concern."
+  ],
+  "affiliation": [
+    "Chronic Disease Research Center, Endocrinology and Metabolism Population Sciences Institute, Tehran University of Medical Sciences, Tehran, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Overweight",
+        "Socioeconomic status",
+        "body mass index",
+        "Multilevel Analysis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6308200?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6308200"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fped.2018.00393"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "omim"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2019-01-10"
+  ],
+  "dateOfRevision": [
+    "2019-01-11"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-21"
+  ],
+  "firstPublicationDate": [
+    "2018-12-21"
+  ]
+}

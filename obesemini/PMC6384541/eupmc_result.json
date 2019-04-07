@@ -1,0 +1,346 @@
+{
+  "id": [
+    "30735139"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30735139"
+  ],
+  "pmcid": [
+    "PMC6384541"
+  ],
+  "doi": [
+    "10.2196/11964"
+  ],
+  "title": [
+    "An Internet-Based Childhood Obesity Prevention Program (Time2bHealthy) for Parents of Preschool-Aged Children: Randomized Controlled Trial."
+  ],
+  "authorString": [
+    "Hammersley ML, Okely AD, Batterham MJ, Jones RA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hammersley ML"
+          ],
+          "firstName": [
+            "Megan L"
+          ],
+          "lastName": [
+            "Hammersley"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4326-480X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Early Start, Faculty of Social Sciences, University of Wollongong, Wollongong, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Okely AD"
+          ],
+          "firstName": [
+            "Anthony D"
+          ],
+          "lastName": [
+            "Okely"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1626-8170",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Early Start, Faculty of Social Sciences, University of Wollongong, Wollongong, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Batterham MJ"
+          ],
+          "firstName": [
+            "Marijka J"
+          ],
+          "lastName": [
+            "Batterham"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9520-6508",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Statistical Consulting Service, National Institute for Applied Statistics Research Australia, School of Mathematics and Applied Statistics, University of Wollongong, Wollongong, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones RA"
+          ],
+          "firstName": [
+            "Rachel A"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5384-1941",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Early Start, Faculty of Social Sciences, University of Wollongong, Wollongong, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4326-480X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1626-8170",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9520-6508",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5384-1941",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2776449"
+      ],
+      "dateOfPublication": [
+        "2019 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of medical Internet research"
+          ],
+          "ISOAbbreviation": [
+            "J. Med. Internet Res."
+          ],
+          "medlineAbbreviation": [
+            "J Med Internet Res"
+          ],
+          "NLMid": [
+            "100959882"
+          ],
+          "ISSN": [
+            "1439-4456"
+          ],
+          "ESSN": [
+            "1438-8871"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "e11964"
+  ],
+  "abstractText": [
+    "BACKGROUND:Electronic health (eHealth) obesity programs offer benefits to traditionally delivered programs and have shown promise in improving obesity-related behaviors in children. OBJECTIVE:This study aimed to assess the efficacy of a parent-focused, internet-based healthy lifestyle program for preschool-aged children, who are overweight or at or above the fiftieth percentile for body mass index (BMI) for their age and sex, on child BMI, obesity-related behaviors, parent modeling, and parent self-efficacy. METHODS:The Time2bHealthy randomized controlled trial was conducted in Australia, during 2016 to 2017. Participants were recruited both online and through more traditional means within the community. Parent or carer, and child (aged 2-5 years) dyads were randomized into an intervention or comparison group. Intervention participants received an 11-week internet-based healthy lifestyle program, underpinned by social cognitive theory, followed by fortnightly emails for 3 months thereafter. Intervention participants set goals and received individual feedback from a dietitian. They were also encouraged to access and contribute to a closed Facebook group to communicate with other participants and the dietitian. Comparison participants received email communication only. Objectively measured child BMI was the primary outcome. Secondary outcomes included objectively measured physical activity, parent-measured and objectively measured sleep habits, and parent-reported dietary intake, screen time, child feeding, parent modeling, and parent self-efficacy. All data were collected at face-to-face appointments at baseline, 3 months, and 6 months by blinded data collectors. Randomization was conducted using a computerized random number generator post baseline data collection. RESULTS:A total of 86 dyads were recruited, with 42 randomized to the intervention group and 44 to the comparison group. Moreover, 78 dyads attended the 3- and 6-month follow-ups, with 7 lost to follow-up and 1 withdrawing. Mean child age was 3.46 years and 91% (78/86) were in the healthy weight range. Overall, 69% (29/42) of participants completed at least 5 of the 6 modules. Intention-to-treat analyses found no significant outcomes for change in BMI between groups. Compared with children in the comparison group, those in the intervention group showed a reduced frequency of discretionary food intake (estimate -1.36, 95% CI -2.27 to -0.45; P=.004), and parents showed improvement in child feeding pressure to eat practices (-0.30, 95% CI 0.06 to -0.00; P=.048) and nutrition self-efficacy (0.43, 95% CI 0.10 to 0.76; P=.01). No significant time by group interaction was found for other outcomes. CONCLUSIONS:The trial demonstrated that a parent-focused eHealth childhood obesity prevention program can provide support to improve dietary-related practices and self-efficacy but was not successful in reducing BMI. The target sample size was not achieved, which would have affected statistical power. TRIAL REGISTRATION:Australian New Zealand Clinical Trials Registry ANZCTR12616000119493; https://www.anzctr.org.au/ Trial/Registration/TrialReview.aspx?id=370030 (Archived by WebCite at http://www.webcitation.org/74Se4S7ZZ)."
+  ],
+  "affiliation": [
+    "Early Start, Faculty of Social Sciences, University of Wollongong, Wollongong, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sleep",
+        "Internet",
+        "body mass index",
+        "food intake",
+        "Physical Activity",
+        "Self Efficacy",
+        "Ehealth",
+        "Screen Time"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6384541"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/11964"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-02-09"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-02-08"
+  ],
+  "firstPublicationDate": [
+    "2019-02-08"
+  ]
+}

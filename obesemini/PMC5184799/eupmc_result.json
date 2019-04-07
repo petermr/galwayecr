@@ -1,0 +1,512 @@
+{
+  "id": [
+    "27834820"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27834820"
+  ],
+  "pmcid": [
+    "PMC5184799"
+  ],
+  "doi": [
+    "10.3390/children3040024"
+  ],
+  "title": [
+    "Practicalities and Research Considerations for Conducting Childhood Obesity Prevention Interventions with Families."
+  ],
+  "authorString": [
+    "Morgan PJ, Jones RA, Collins CE, Hesketh KD, Young MD, Burrows TL, Magarey AM, Brown HL, Hinkley T, Perry RA, Brennan L, Spence AC, Campbell KJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Morgan PJ"
+          ],
+          "firstName": [
+            "Philip J"
+          ],
+          "lastName": [
+            "Morgan"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5632-8529",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Priority Research Centre in Physical Activity and Nutrition, University of Newcastle, Callaghan Campus, Newcastle 2308, Australia. philip.morgan@newcastle.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones RA"
+          ],
+          "firstName": [
+            "Rachel A"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Early Start Research Institute, Faculty of Social Sciences, University of Wollongong, Wollongong 2522, Australia. rachelj@uow.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Collins CE"
+          ],
+          "firstName": [
+            "Clare E"
+          ],
+          "lastName": [
+            "Collins"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Priority Research Centre in Physical Activity and Nutrition, University of Newcastle, Callaghan Campus, Newcastle 2308, Australia. clare.collins@newcastle.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Hesketh KD"
+          ],
+          "firstName": [
+            "Kylie D"
+          ],
+          "lastName": [
+            "Hesketh"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "affiliation": [
+            "Centre for Physical Activity and Nutrition Research, Deakin University, Geelong 3126, Australia. kylie.hesketh@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Young MD"
+          ],
+          "firstName": [
+            "Myles D"
+          ],
+          "lastName": [
+            "Young"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Priority Research Centre in Physical Activity and Nutrition, University of Newcastle, Callaghan Campus, Newcastle 2308, Australia. myles.young@newcastle.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Burrows TL"
+          ],
+          "firstName": [
+            "Tracy L"
+          ],
+          "lastName": [
+            "Burrows"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1431-7864",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Priority Research Centre in Physical Activity and Nutrition, University of Newcastle, Callaghan Campus, Newcastle 2308, Australia. tracy.burrows@newcastle.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Magarey AM"
+          ],
+          "firstName": [
+            "Anthea M"
+          ],
+          "lastName": [
+            "Magarey"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Discipline of Nutrition and Dietetics, Faculty of Medicine, Nursing and Health Sciences, Flinders University, Adelaide 5042, Australia. anthea.magarey@flinders.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Brown HL"
+          ],
+          "firstName": [
+            "Helen L"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Centre for Physical Activity and Nutrition Research, Deakin University, Geelong 3126, Australia. h.brown@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Hinkley T"
+          ],
+          "firstName": [
+            "Trina"
+          ],
+          "lastName": [
+            "Hinkley"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2742-8579",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Physical Activity and Nutrition Research, Deakin University, Geelong 3126, Australia. trina.hinkley@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Perry RA"
+          ],
+          "firstName": [
+            "Rebecca A"
+          ],
+          "lastName": [
+            "Perry"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Discipline of Nutrition and Dietetics, Faculty of Medicine, Nursing and Health Sciences, Flinders University, Adelaide 5042, Australia. r.perry@flinders.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Brennan L"
+          ],
+          "firstName": [
+            "Leah"
+          ],
+          "lastName": [
+            "Brennan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Psychology, Australian Catholic University, Sydney 3065, Australia. drleahbrennan@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Spence AC"
+          ],
+          "firstName": [
+            "Alison C"
+          ],
+          "lastName": [
+            "Spence"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9029-1718",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Physical Activity and Nutrition Research, Deakin University, Geelong 3126, Australia. a.spence@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell KJ"
+          ],
+          "firstName": [
+            "Karen J"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Centre for Physical Activity and Nutrition Research, Deakin University, Geelong 3126, Australia. karen.campbell@deakin.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1431-7864",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5632-8529",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9029-1718",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2742-8579",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2485736"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Children (Basel, Switzerland)"
+          ],
+          "ISOAbbreviation": [
+            "Children (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Children (Basel)"
+          ],
+          "NLMid": [
+            "101648936"
+          ],
+          "ISSN": [
+            "2227-9067"
+          ],
+          "ESSN": [
+            "2227-9067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "abstractText": [
+    "Internationally, childhood obesity is a major public health concern. Given the established difficulties in treating obesity, designing and evaluating effective obesity prevention interventions are research priorities. As parents play a crucial role in establishing positive health behaviours in children, they are a key target for child obesity prevention programs. However, recruiting and engaging parents in such interventions can be a considerable challenge for researchers and practitioners. Members of the 'Parenting, Child Behaviour and Well-being' stream of the Australasian Child and Adolescent Obesity Research Network (ACAORN) have considerable and varied expertise in conducting such interventions and can provide insights into addressing these challenges. This paper aims to highlight considerations regarding the design, implementation, and evaluation of obesity prevention interventions with families and provide practical insights and recommendations for researchers and practitioners conducting family-based research in this area. Case studies of three family-based interventions conducted by ACAORN members are highlighted to provide examples and contextualise the recommendations proposed."
+  ],
+  "affiliation": [
+    "Priority Research Centre in Physical Activity and Nutrition, University of Newcastle, Callaghan Campus, Newcastle 2308, Australia. philip.morgan@newcastle.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Prevention",
+        "Parents",
+        "Interventions",
+        "Family-based",
+        "Child Obesity Prevention"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5184799?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5184799"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/children3040024"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-11"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-08"
+  ],
+  "firstPublicationDate": [
+    "2016-11-08"
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "id": [
+    "22690194"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22690194"
+  ],
+  "pmcid": [
+    "PMC3366612"
+  ],
+  "doi": [
+    "10.3390/ijerph9041308"
+  ],
+  "title": [
+    "Lessons learned from the implementation of a provincial breastfeeding policy in Nova Scotia, Canada and the implications for childhood obesity prevention."
+  ],
+  "authorString": [
+    "Kirk SF, Sim SM, Hemmens E, Price SL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kirk SF"
+          ],
+          "firstName": [
+            "Sara F L"
+          ],
+          "lastName": [
+            "Kirk"
+          ],
+          "initials": [
+            "SF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2146-4448",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Applied Research Collaborations for Health, School of Health and Human Performance, Dalhousie University, Halifax, NS B3H 4R2, Canada. Sara.Kirk@dal.ca"
+          ]
+        },
+        {
+          "fullName": [
+            "Sim SM"
+          ],
+          "firstName": [
+            "Sarah Meaghan"
+          ],
+          "lastName": [
+            "Sim"
+          ],
+          "initials": [
+            "SM"
+          ]
+        },
+        {
+          "fullName": [
+            "Hemmens E"
+          ],
+          "firstName": [
+            "Erin"
+          ],
+          "lastName": [
+            "Hemmens"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Price SL"
+          ],
+          "firstName": [
+            "Sheri L"
+          ],
+          "lastName": [
+            "Price"
+          ],
+          "initials": [
+            "SL"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2146-4448",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1940005"
+      ],
+      "dateOfPublication": [
+        "2012 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "1308-1318"
+  ],
+  "abstractText": [
+    "Healthy public policy plays a central role in creating environments that are supportive of health. Breastfeeding, widely supported as the optimal mode for infant feeding, is a critical factor in promoting infant health. In 2005, the Canadian province of Nova Scotia introduced a provincial breastfeeding policy. This paper describes the process and outcomes of an evaluation into the implementation of the policy. This evaluation comprised focus groups held with members of provincial and district level breastfeeding committees who were tasked with promoting, protecting and supporting breastfeeding in their districts. Five key themes were identified, which were an unsupportive culture of breastfeeding; the need for strong leadership; the challenges in engaging physicians in dialogue around breastfeeding; lack of understanding around the International Code of Marketing of Breast-milk Substitutes; and breastfeeding as a way to address childhood obesity. Recommendations for other jurisdictions include the need for a policy, the value of leadership, the need to integrate policy with other initiatives across sectors and the importance of coordination and support at multiple levels. Finally, promotion of breastfeeding offers a population-based strategy for addressing the childhood obesity epidemic and should form a core component of any broader strategies or policies for childhood obesity prevention."
+  ],
+  "affiliation": [
+    "Applied Research Collaborations for Health, School of Health and Human Performance, Dalhousie University, Halifax, NS B3H 4R2, Canada. Sara.Kirk@dal.ca"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "CIHR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focus Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Breast Feeding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Policy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nova Scotia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Policy",
+        "Breastfeeding",
+        "Supportive Environments",
+        "Childhood Obesity Prevention"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3366612?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3366612"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22690194/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22690194/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph9041308"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-16"
+  ],
+  "dateOfCreation": [
+    "2012-06-12"
+  ],
+  "dateOfRevision": [
+    "2017-05-30"
+  ],
+  "electronicPublicationDate": [
+    "2012-04-16"
+  ],
+  "firstPublicationDate": [
+    "2012-04-16"
+  ]
+}

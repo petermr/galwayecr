@@ -1,0 +1,492 @@
+{
+  "id": [
+    "29855295"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29855295"
+  ],
+  "pmcid": [
+    "PMC5984309"
+  ],
+  "doi": [
+    "10.1186/s12889-018-5588-1"
+  ],
+  "title": [
+    "Development and testing of a novel survey to assess Stakeholder-driven Community Diffusion of childhood obesity prevention efforts."
+  ],
+  "authorString": [
+    "Korn AR, Hennessy E, Hammond RA, Allender S, Gillman MW, Kasman M, McGlashan J, Millar L, Owen B, Pachucki MC, Swinburn B, Tovar A, Economos CD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Korn AR"
+          ],
+          "firstName": [
+            "Ariella R"
+          ],
+          "lastName": [
+            "Korn"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Friedman School of Nutrition Science and Policy, Tufts University, 150 Harrison Ave., Boston, MA, 02111, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hennessy E"
+          ],
+          "firstName": [
+            "Erin"
+          ],
+          "lastName": [
+            "Hennessy"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Friedman School of Nutrition Science and Policy, Tufts University, 150 Harrison Ave., Boston, MA, 02111, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hammond RA"
+          ],
+          "firstName": [
+            "Ross A"
+          ],
+          "lastName": [
+            "Hammond"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "The Brookings Institution, 1775 Massachusetts Ave., NW, Washington, DC, 20036, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Allender S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Allender"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Global Obesity Centre (GLOBE), Deakin University, 1 Gheringhap St, Geelong, VIC, 3220, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gillman MW"
+          ],
+          "firstName": [
+            "Matthew W"
+          ],
+          "lastName": [
+            "Gillman"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Division of Chronic Disease Research Across the Lifecourse, Department of Population Medicine, Harvard Medical School and Harvard Pilgrim Health Care Institute, Landmark Center, 401 Park Drive, Suite 401 East, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasman M"
+          ],
+          "firstName": [
+            "Matt"
+          ],
+          "lastName": [
+            "Kasman"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "The Brookings Institution, 1775 Massachusetts Ave., NW, Washington, DC, 20036, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "McGlashan J"
+          ],
+          "firstName": [
+            "Jaimie"
+          ],
+          "lastName": [
+            "McGlashan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Global Obesity Centre (GLOBE), Deakin University, 1 Gheringhap St, Geelong, VIC, 3220, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Millar L"
+          ],
+          "firstName": [
+            "Lynne"
+          ],
+          "lastName": [
+            "Millar"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Global Obesity Centre (GLOBE), Deakin University, 1 Gheringhap St, Geelong, VIC, 3220, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Owen B"
+          ],
+          "firstName": [
+            "Brynle"
+          ],
+          "lastName": [
+            "Owen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Global Obesity Centre (GLOBE), Deakin University, 1 Gheringhap St, Geelong, VIC, 3220, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Pachucki MC"
+          ],
+          "firstName": [
+            "Mark C"
+          ],
+          "lastName": [
+            "Pachucki"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Sociology, University of Massachusetts Amherst, 200 Hicks Way, Thompson Hall 532, Amherst, MA, 01003, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Swinburn B"
+          ],
+          "firstName": [
+            "Boyd"
+          ],
+          "lastName": [
+            "Swinburn"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Global Obesity Centre (GLOBE), Deakin University, 1 Gheringhap St, Geelong, VIC, 3220, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tovar A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Tovar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Nutrition and Food Sciences, University of Rhode Island, 125 Fogarty Hall, Kingston, RI, 02881, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Economos CD"
+          ],
+          "firstName": [
+            "Christina D"
+          ],
+          "lastName": [
+            "Economos"
+          ],
+          "initials": [
+            "CD"
+          ],
+          "affiliation": [
+            "Friedman School of Nutrition Science and Policy, Tufts University, 150 Harrison Ave., Boston, MA, 02111, USA. christina.economos@tufts.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2677882"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "681"
+  ],
+  "abstractText": [
+    "Involving groups of community stakeholders (e.g., steering committees) to lead community-wide health interventions appears to support multiple outcomes ranging from policy and systems change to individual biology. While numerous tools are available to measure stakeholder characteristics, many lack detail on reliability and validity, are not context specific, and may not be sensitive enough to capture change over time. This study describes the development and reliability of a novel survey to measure Stakeholder-driven Community Diffusion via assessment of stakeholders' social networks, knowledge, and engagement about childhood obesity prevention.This study was completed in three phases. Phase 1 included conceptualization and online survey development through literature reviews and expert input. Phase 2 included a retrospective study with stakeholders from two completed whole-of-community interventions. Between May-October 2015, 21 stakeholders from the Shape Up Somerville and Romp & Chomp interventions recalled their social networks, knowledge, and engagement pre-post intervention. We also assessed one-week test-retest reliability of knowledge and engagement survey modules among Shape Up Somerville respondents. Phase 3 included survey modifications and a second prospective reliability assessment. Test-retest reliability was assessed in May 2016 among 13 stakeholders involved in ongoing interventions in Victoria, Australia.In Phase 1, we developed a survey with 7, 20 and 50 items for the social networks, knowledge, and engagement survey modules, respectively. In the Phase 2 retrospective study, Shape Up Somerville and Romp & Chomp networks included 99 and 54 individuals. Pre-post Shape Up Somerville and Romp & Chomp mean knowledge scores increased by 3.5 points (95% CI: 0.35-6.72) and (- 0.42-7.42). Engagement scores did not change significantly (Shape Up Somerville: 1.1 points (- 0.55-2.73); Romp & Chomp: 0.7 points (- 0.43-1.73)). Intraclass correlation coefficients (ICCs) for knowledge and engagement were 0.88 (0.67-0.97) and 0.97 (0.89-0.99). In Phase 3, the modified knowledge and engagement survey modules included 18 and 25 items, respectively. Knowledge and engagement ICCs were 0.84 (0.62-0.95) and 0.58 (0.23-0.86).The survey measures upstream stakeholder properties-social networks, knowledge, and engagement-with good test-retest reliability. Future research related to Stakeholder-driven Community Diffusion should focus on prospective change and survey validation for intervention effectiveness."
+  ],
+  "affiliation": [
+    "Friedman School of Nutrition Science and Policy, Tufts University, 150 Harrison Ave., Boston, MA, 02111, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL115485"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01HL115485 (co-PIs: Drs. Economos and Hammond)"
+          ],
+          "agency": [
+            "Office of Behavioral and Social Sciences Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01HL115485 (co-PIs: Drs. Economos and Hammond)"
+          ],
+          "agency": [
+            "National Heart, Lung, and Blood Institute"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Community Engagement",
+        "Childhood Obesity Prevention",
+        "Community-based Interventions",
+        "Survey Development"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5984309?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5984309"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-018-5588-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-06-02"
+  ],
+  "dateOfRevision": [
+    "2018-06-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-31"
+  ],
+  "firstPublicationDate": [
+    "2018-05-31"
+  ]
+}

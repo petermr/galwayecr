@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6073385/results/word/frequencies/results.xml">
+  <result title="frequency" word="soccer" count="40"/>
+  <result title="frequency" word="youth" count="40"/>
+  <result title="frequency" word="added" count="35"/>
+  <result title="frequency" word="sugar" count="30"/>
+  <result title="frequency" word="intake" count="29"/>
+  <result title="frequency" word="participants" count="25"/>
+  <result title="frequency" word="intervention" count="22"/>
+  <result title="frequency" word="diet" count="21"/>
+  <result title="frequency" word="nutrition" count="21"/>
+  <result title="frequency" word="players" count="21"/>
+  <result title="frequency" word="sport" count="21"/>
+ </snippets>
+</snippetsTree>

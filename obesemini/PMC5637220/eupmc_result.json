@@ -1,0 +1,400 @@
+{
+  "id": [
+    "29026489"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29026489"
+  ],
+  "pmcid": [
+    "PMC5637220"
+  ],
+  "doi": [
+    "10.4082/kjfm.2017.38.5.284"
+  ],
+  "title": [
+    "Delphi Survey for Designing a Intervention Research Study on Childhood Obesity Prevention."
+  ],
+  "authorString": [
+    "Kim MJ, Sung E, Choi EY, Ju YS, Park EW, Cheong YS, Yoo S, Park KH, Choi HJ, Kim S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kim MJ"
+          ],
+          "firstName": [
+            "Min Jeong"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Dankook University College of Medicine, Cheonan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Sung E"
+          ],
+          "firstName": [
+            "Eunju"
+          ],
+          "lastName": [
+            "Sung"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Kangbuk Samsung Hospital, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi EY"
+          ],
+          "firstName": [
+            "Eun Young"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "EY"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Dankook University College of Medicine, Cheonan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Ju YS"
+          ],
+          "firstName": [
+            "Young-Su"
+          ],
+          "lastName": [
+            "Ju"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "Department of Occupational and Environmental Medicine, Hallym University Sacred Heart Hospital, Anyang, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park EW"
+          ],
+          "firstName": [
+            "Eal-Whan"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "EW"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Dankook University College of Medicine, Cheonan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheong YS"
+          ],
+          "firstName": [
+            "Yoo-Seock"
+          ],
+          "lastName": [
+            "Cheong"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Dankook University College of Medicine, Cheonan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo S"
+          ],
+          "firstName": [
+            "Sunmi"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Inje University Haeundae Paik Hospital, Busan, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Park KH"
+          ],
+          "firstName": [
+            "Kyung Hee"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "KH"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Hallym University Sacred Heart Hospital, Anyang, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Choi HJ"
+          ],
+          "firstName": [
+            "Hyung Jin"
+          ],
+          "lastName": [
+            "Choi"
+          ],
+          "initials": [
+            "HJ"
+          ],
+          "affiliation": [
+            "Department of Anatomy, Seoul National University College of Medicine, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim S"
+          ],
+          "firstName": [
+            "Seolhye"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Kangbuk Samsung Hospital, Sungkyunkwan University School of Medicine, Seoul, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2607483"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Korean journal of family medicine"
+          ],
+          "ISOAbbreviation": [
+            "Korean J Fam Med"
+          ],
+          "medlineAbbreviation": [
+            "Korean J Fam Med"
+          ],
+          "NLMid": [
+            "101502902"
+          ],
+          "ISSN": [
+            "2005-6443"
+          ],
+          "ESSN": [
+            "2092-6715"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "284-290"
+  ],
+  "abstractText": [
+    "The prevalence of childhood obesity in South Korea has increased owing to economic improvement and the prevailing Westernized dietary pattern. As the incidence of chronic diseases caused by obesity is also expected to increase, effective interventions to prevent childhood obesity are needed. Therefore, we conducted a Delphi study to determine the priorities of a potential intervention research on childhood obesity prevention and its adequacy and feasibility.The two-round Delphi technique was used with a panel of 10 childhood obesity experts. The panelists were asked to rate \"priority populations,\" \"methods of intervention,\" \"measurement of outcomes,\" \"future intervention settings,\" and \"duration of intervention\" by using a structured questionnaire. Finally, a portfolio analysis was performed with the adequacy and feasibility indexes as the two axes.For priority populations, the panel favored \"elementary,\" \"preschool,\" and \"middle and high school\" students in this order. Regarding intervention settings, the panelists assigned high adequacy and feasibility to \"childcare centers\" and \"home\" for preschool children, \"school\" and \"home\" for elementary school children, and \"school\" for adolescents in middle and high school. As the age of the target population increased, the panelists scored increasing numbers of anthropometric, clinical, and intermediate outcomes as highly adequate and feasible for assessing the effectiveness of the intervention.According to the results of the Delphi survey, the highest-priority population for the research on childhood obesity prevention was that of elementary school students. Various settings, methods, outcome measures, and durations for the different age groups were also suggested."
+  ],
+  "affiliation": [
+    "Department of Family Medicine, Dankook University College of Medicine, Cheonan, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Prevention",
+        "Childhood",
+        "intervention",
+        "Delphi Technique"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5637220?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5637220"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4082/kjfm.2017.38.5.284"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-14"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-22"
+  ],
+  "firstPublicationDate": [
+    "2017-09-22"
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "id": [
+    "30400788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30400788"
+  ],
+  "pmcid": [
+    "PMC6219155"
+  ],
+  "doi": [
+    "10.1186/s12889-018-6131-0"
+  ],
+  "title": [
+    "A qualitative insight into informal childcare and childhood obesity in children aged 0-5 years in the UK."
+  ],
+  "authorString": [
+    "Lidgate ED, Li B, Lindenmeyer A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lidgate ED"
+          ],
+          "firstName": [
+            "Eleanor Diana"
+          ],
+          "lastName": [
+            "Lidgate"
+          ],
+          "initials": [
+            "ED"
+          ],
+          "affiliation": [
+            "College of Medical and Dental Sciences, University of Birmingham, Birmingham, West Midlands, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Li B"
+          ],
+          "firstName": [
+            "Bai"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2706-9799",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham, West Midlands, B15 2TT, UK. b.li.3@bham.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Lindenmeyer A"
+          ],
+          "firstName": [
+            "Antje"
+          ],
+          "lastName": [
+            "Lindenmeyer"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Applied Health Research, College of Medical and Dental Sciences, University of Birmingham, Birmingham, West Midlands, B15 2TT, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2706-9799",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2743815"
+      ],
+      "dateOfPublication": [
+        "2018 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "1229"
+  ],
+  "abstractText": [
+    "BACKGROUND:Previous studies in various countries have found that informal childcare (provided by relatives, friends etc.) was associated with an increased risk of obesity in children aged 0-5 years. However, no qualitative research has been done to explore possible reasons for such a relationship and potential interventions to tackle it. We conducted a qualitative study with both parents and informal carers to explore their 1) experiences in receiving or giving informal childcare for British children aged 0-5 years; 2) perceived explanations of the relationship between informal childcare and childhood obesity and 3) preferred intervention ideas and delivery strategies for preventing obesity among those children under informal care. METHODS:Four in-depth focus groups with a total of 14 participants (7 parents, 7 informal caregivers) were conducted in Birmingham and Edinburgh (1 parent group and 1 informal caregiver group in each city). Data were audio recorded, transcribed verbatim and analysed using a thematic approach. RESULTS:The significance of informal care to parents, carers, and society was recognised (theme one). Informal carers were identified to have practical and emotional support roles for the parents (theme two). Informal care was perceived to contribute to childhood obesity in four ways (theme three): cross-generation conflict preventing adoption of healthy practices; the trade-off for parents between receiving childcare and maintaining control; reduced energy capacity of carers; and increased snacking. Potential intervention ideas and delivery strategies (theme four) were identified. Examples of identified ideas included providing carers with up-to-date weaning advice, and suggestions of healthy snacks and ways to increase physical activity level in informal care. The suggestion of utilising existing primary care platforms (e.g. health visitor check-ups) to reach and deliver low-cost information based interventions, to all children aged 0-5 years who receive informal care, was highlighted. CONCLUSIONS:This exploratory qualitative study provided novel insights into potential explanations for the evidenced link between informal care and childhood obesity in children aged 0-5 years, despite a small size and limited participants in each focus group. Our findings support the idea of and inform the development towards an information based and low-cost intervention delivered through existing primary care platforms."
+  ],
+  "affiliation": [
+    "College of Medical and Dental Sciences, University of Birmingham, Birmingham, West Midlands, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focus Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Qualitative Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Child Care"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pre-school Children",
+        "Health Behaviour",
+        "Childhood Obesity",
+        "Qualitative Study",
+        "Childcare",
+        "Grandparents",
+        "Informal Care"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6219155?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6219155"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-018-6131-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-01-08"
+  ],
+  "dateOfCreation": [
+    "2018-11-08"
+  ],
+  "dateOfRevision": [
+    "2019-01-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-11-06"
+  ],
+  "firstPublicationDate": [
+    "2018-11-06"
+  ]
+}

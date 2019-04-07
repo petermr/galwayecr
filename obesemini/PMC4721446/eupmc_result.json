@@ -1,0 +1,298 @@
+{
+  "id": [
+    "26844091"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26844091"
+  ],
+  "pmcid": [
+    "PMC4721446"
+  ],
+  "doi": [
+    "10.1016/j.pmedr.2015.04.008"
+  ],
+  "title": [
+    "Assessing implementation of evidence-based childhood obesity prevention strategies in schools."
+  ],
+  "authorString": [
+    "Totura CM, Figueroa HL, Wharton C, Marsiglia FF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Totura CM"
+          ],
+          "firstName": [
+            "Christine M W"
+          ],
+          "lastName": [
+            "Totura"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Psychology, Auburn University, 226 Thach Hall, Auburn, AL 36849, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Figueroa HL"
+          ],
+          "firstName": [
+            "Holly Lewis"
+          ],
+          "lastName": [
+            "Figueroa"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Southwest Interdisciplinary Research Center, Arizona State University, 411 North Central Avenue, Suite 720, Phoenix, AZ 85004, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wharton C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Wharton"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Nutrition and Health Promotion, Arizona State University, 500 N. Third Street, Phoenix, AZ 85004, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Marsiglia FF"
+          ],
+          "firstName": [
+            "Flavio F"
+          ],
+          "lastName": [
+            "Marsiglia"
+          ],
+          "initials": [
+            "FF"
+          ],
+          "affiliation": [
+            "Southwest Interdisciplinary Research Center, Arizona State University, 411 North Central Avenue, Suite 720, Phoenix, AZ 85004, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2244434"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Preventive medicine reports"
+          ],
+          "ISOAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "medlineAbbreviation": [
+            "Prev Med Rep"
+          ],
+          "NLMid": [
+            "101643766"
+          ],
+          "ISSN": [
+            "2211-3355"
+          ],
+          "ESSN": [
+            "2211-3355"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "347-354"
+  ],
+  "abstractText": [
+    "Research suggests that schools can play a key role in obesity prevention by implementing evidence-based strategies promoting student health. This study explores school climate factors underlying implementation of evidence-based health and wellness policies and practices in Kindergarten-8th grade programs in the Southwestern United States.Utilizing a participatory research survey approach conducted in December 2011 with school health professionals (N = 62) and a multiple regression design, a moderated predictive model of implementation climate (i.e., attitudes and beliefs about prevention, school commitment to prevention, barriers, and stakeholder collaboration) was tested.Barriers to obesity prevention efforts, such as lack of resources, support, or strategy clarity, hinder implementation of healthy food policies despite strong school commitment to prevention. Along with the commitment to prevention, stakeholder collaboration predicts physical education strategies, specifically reducing restricted access to physical education as a punishment for student misconduct.Obesity prevention strategy implementation relies on the supportiveness and structure of school climates. Barriers to prevention can impede efforts despite school commitment toward prevention, while stakeholder collaboration can enhance the likelihood that practices are in place."
+  ],
+  "affiliation": [
+    "Department of Psychology, Auburn University, 226 Thach Hall, Auburn, AL 36849, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prevention and control",
+        "Program Evaluation",
+        "School Health Services",
+        "Health Services Research",
+        "Pediatric Obesity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4721446?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4721446"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.pmedr.2015.04.008"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-02-04"
+  ],
+  "dateOfCreation": [
+    "2016-02-04"
+  ],
+  "dateOfRevision": [
+    "2016-02-06"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-25"
+  ],
+  "firstPublicationDate": [
+    "2015-04-25"
+  ]
+}

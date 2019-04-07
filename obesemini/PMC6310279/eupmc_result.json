@@ -1,0 +1,327 @@
+{
+  "id": [
+    "30592757"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30592757"
+  ],
+  "pmcid": [
+    "PMC6310279"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0209787"
+  ],
+  "title": [
+    "Early childhood obesity prevention efforts through a life course health development perspective: A scoping review."
+  ],
+  "authorString": [
+    "Volger S, Rigassio Radler D, Rothpletz-Puglia P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Volger S"
+          ],
+          "firstName": [
+            "Sheri"
+          ],
+          "lastName": [
+            "Volger"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1689-1173",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical and Preventive Nutrition Sciences, School of Health Professions, Biomedical and Health Sciences, Rutgers University, Newark, New Jersey, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rigassio Radler D"
+          ],
+          "firstName": [
+            "Diane"
+          ],
+          "lastName": [
+            "Rigassio Radler"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Clinical and Preventive Nutrition Sciences, School of Health Professions, Biomedical and Health Sciences, Rutgers University, Newark, New Jersey, United States of America."
+          ]
+        },
+        {
+          "fullName": [
+            "Rothpletz-Puglia P"
+          ],
+          "firstName": [
+            "Pamela"
+          ],
+          "lastName": [
+            "Rothpletz-Puglia"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3112-0921",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical and Preventive Nutrition Sciences, School of Health Professions, Biomedical and Health Sciences, Rutgers University, Newark, New Jersey, United States of America."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3112-0921",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1689-1173",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2755928"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e0209787"
+  ],
+  "abstractText": [
+    "INTRODUCTION:The obesity rate in preschool children in the United States (US) is 13.9%, while even higher rates are associated with racial and ethnic minorities and children from low-income families. These prevalence patterns underscore the need to identify effective childhood obesity prevention programs. METHOD:A scoping review was conducted following Arksey and O'Malley's framework to provide an overview of the types, effectiveness and cost-effectiveness of obesity prevention interventions and policies in children up to 6 years old. Inclusion criteria were studies at least 6-months duration; included a weight-based outcome, conducted in the US, English publications from January 2001 to February 2018. Exclusions: studies in overweight/obese children and obesity treatments, no comparator group. Evidence was characterized across the early life course and multiple-levels of influence. RESULTS:From the 2,180 records identified, 34 met the inclusion criteria. Less than half of the interventions initiated during pregnancy, infancy or preschool reported a significant improvement in a weight-based outcome. All interventions included strategies to influence individual- or interpersonal-level health behaviors, yet few removed obstacles in the healthcare system, physical/built environment, or sociocultural environment. The majority (78%) of the interventions occurred during preschool years, with 63% conducted in early childcare education settings serving low-income families. The health impact of the state-wide and national policies on children under age 6 years remains unclear. There was considerable uncertainty around estimates of the health and economic impacts of obesity prevention interventions and policies. CONCLUSION:There is a need to intensify early childhood obesity preventive efforts during critical periods of health development in the US. Future studies should estimate the feasibility, program effectiveness, and cost of implementing multilevel obesity prevention interventions and policies. Addressing these research gaps will provide stakeholders with the scientific evidence necessary to facilitate funding and policy decisions to decrease the prevalence of early childhood obesity."
+  ],
+  "affiliation": [
+    "Department of Clinical and Preventive Nutrition Sciences, School of Health Professions, Biomedical and Health Sciences, Rutgers University, Newark, New Jersey, United States of America."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310279?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6310279"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0209787"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30653609"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "PLoS One. 2019 Jan 17;14(1):e0211288"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-29"
+  ],
+  "dateOfRevision": [
+    "2019-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-28"
+  ],
+  "firstPublicationDate": [
+    "2018-12-28"
+  ]
+}

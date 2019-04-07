@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippetsTree>
+ <snippets file="obesemini/PMC6367232/results/word/frequencies/results.xml">
+  <result title="frequency" word="children" count="54"/>
+  <result title="frequency" word="risk" count="49"/>
+  <result title="frequency" word="study" count="38"/>
+  <result title="frequency" word="retinal" count="35"/>
+  <result title="frequency" word="arterial" count="32"/>
+  <result title="frequency" word="test" count="29"/>
+  <result title="frequency" word="obesity" count="28"/>
+  <result title="frequency" word="stiffness" count="26"/>
+  <result title="frequency" word="heart" count="25"/>
+  <result title="frequency" word="disease" count="23"/>
+  <result title="frequency" word="vessel" count="22"/>
+  <result title="frequency" word="associated" count="21"/>
+  <result title="frequency" word="fitness" count="21"/>
+ </snippets>
+</snippetsTree>

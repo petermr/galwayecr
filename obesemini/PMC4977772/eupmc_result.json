@@ -1,0 +1,504 @@
+{
+  "id": [
+    "27502184"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27502184"
+  ],
+  "pmcid": [
+    "PMC4977772"
+  ],
+  "doi": [
+    "10.1186/s12889-016-3361-x"
+  ],
+  "title": [
+    "Translating an early childhood obesity prevention program for local community implementation: a case study of the Melbourne InFANT Program."
+  ],
+  "authorString": [
+    "Laws R, Hesketh KD, Ball K, Cooper C, Vrljic K, Campbell KJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Laws R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Laws"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4328-1116",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre of Research Excellence in Early Prevention of Obesity in Childhood, Sydney, Australia. r.laws@deakin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Hesketh KD"
+          ],
+          "firstName": [
+            "K D"
+          ],
+          "lastName": [
+            "Hesketh"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2702-7110",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre of Research Excellence in Early Prevention of Obesity in Childhood, Sydney, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ball K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Ball"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Centre for Obesity Management and Prevention Research Excellence in Primary Health Care (COMPaRE-PHC), Sydney, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cooper C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Cooper"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute for Physical Activity and Nutrition, School of Exercise and Nutrition Science, Deakin University, Geelong, VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Vrljic K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Vrljic"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Prevention and Population Health, Department of Health and Human Services, Melbourne, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell KJ"
+          ],
+          "firstName": [
+            "K J"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Centre of Research Excellence in Early Prevention of Obesity in Childhood, Sydney, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4328-1116",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2702-7110",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2463350"
+      ],
+      "dateOfPublication": [
+        "2016 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "748"
+  ],
+  "abstractText": [
+    "While there is a growing interest in the field of research translation, there are few published examples of public health interventions that have been effectively scaled up and implemented in the community. This paper provides a case study of the community-wide implementation of the Melbourne Infant, Feeding, Activity and Nutrition Trial (InFANT), an obesity prevention program for parents with infants aged 3-18 months. The study explored key factors influencing the translation of the Program into routine practice and the respective role of policy makers, researchers and implementers.Case studies were conducted of five of the eight prevention areas in Victoria, Australia who implemented the Program. Cases were selected on the basis of having implemented the Program for 6 months or more. Data were collected from January to June 2015 and included 18 individual interviews, one focus group and observation of two meetings. A total of 28 individuals, including research staff (n = 4), policy makers (n = 2) and implementers (n = 22), contributed to the data collected. Thematic analysis was conducted using cross case comparisons and key themes were verified through member checking.Key facilitators of implementation included availability of a pre-packaged evidence based program addressing a community need, along with support and training provided by research staff to local implementers. Partnerships between researchers and policy makers facilitated initial program adoption, while local partnerships supported community implementation. Community partnerships were facilitated by local coordinators through alignment of program goals with existing policies and services. Workforce capacity for program delivery and administration was a challenge, largely overcome by embedding the Program into existing roles. Adapting the Program to fit local circumstance was critical for feasible and sustainable delivery, however balancing this with program fidelity was a critical issue. The lack of ongoing funding to support translation activities was a barrier for researchers continued involvement in community implementation.Policy makers, researchers and practitioners have important and complementary roles to play in supporting the translation of effective research interventions into practice. New avenues need to be explored to strengthen partnerships between researchers and end users to support the integration of effective public health research interventions into practice."
+  ],
+  "affiliation": [
+    "Centre of Research Excellence in Early Prevention of Obesity in Childhood, Sydney, Australia. r.laws@deakin.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focus Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Community Health Services"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Australia"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Dissemination",
+        "Implementation",
+        "Infants",
+        "Obesity Prevention",
+        "Research Translation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4977772?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4977772"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-016-3361-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-16"
+  ],
+  "dateOfCreation": [
+    "2016-08-10"
+  ],
+  "dateOfRevision": [
+    "2017-12-28"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-08"
+  ],
+  "firstPublicationDate": [
+    "2016-08-08"
+  ]
+}

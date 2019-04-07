@@ -1,0 +1,477 @@
+{
+  "id": [
+    "29788977"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29788977"
+  ],
+  "pmcid": [
+    "PMC5964684"
+  ],
+  "doi": [
+    "10.1186/s13063-018-2663-y"
+  ],
+  "title": [
+    "Exposure to a multi-level multi-component childhood obesity prevention community-randomized controlled trial: patterns, determinants, and implications."
+  ],
+  "authorString": [
+    "Trude ACB, Kharmats AY, Jones-Smith JC, Gittelsohn J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Trude ACB"
+          ],
+          "firstName": [
+            "Angela Cristina Bizzotto"
+          ],
+          "lastName": [
+            "Trude"
+          ],
+          "initials": [
+            "ACB"
+          ],
+          "affiliation": [
+            "Global Obesity Prevention Center and Center for Human Nutrition, Department of International Health, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA. atrude1@jhu.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Kharmats AY"
+          ],
+          "firstName": [
+            "Anna Yevgenyevna"
+          ],
+          "lastName": [
+            "Kharmats"
+          ],
+          "initials": [
+            "AY"
+          ],
+          "affiliation": [
+            "Global Obesity Prevention Center and Center for Human Nutrition, Department of International Health, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jones-Smith JC"
+          ],
+          "firstName": [
+            "Jessica C"
+          ],
+          "lastName": [
+            "Jones-Smith"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Nutritional Sciences Program, University of Washington School of Public Health University of Washington, 353410, 306B Raitt Hall, Seattle, WA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gittelsohn J"
+          ],
+          "firstName": [
+            "Joel"
+          ],
+          "lastName": [
+            "Gittelsohn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Global Obesity Prevention Center and Center for Human Nutrition, Department of International Health, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2678375"
+      ],
+      "dateOfPublication": [
+        "2018 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "287"
+  ],
+  "abstractText": [
+    "BACKGROUND:For community interventions to be effective in real-world conditions, participants need to have sufficient exposure to the intervention. It is unclear how the dose and intensity of the intervention differ among study participants in low-income areas. We aimed to understand patterns of exposure to different components of a multi-level multi-component obesity prevention program to inform our future impact analyses. METHODS:B'more Healthy Communities for Kids (BHCK) was a community-randomized controlled trial implemented in 28 low-income zones in Baltimore in two rounds (waves). Exposure to three different intervention components (corner store/carryout restaurants, social media/text messaging, and youth-led nutrition education) was assessed via post-intervention interviews with 385 low-income urban youths and their caregivers. Exposure scores were generated based on self-reported viewing of BHCK materials (posters, handouts, educational displays, and social media posts) and participating in activities, including taste tests during the intervention. For each intervention component, points were assigned for exposure to study materials and activities, then scaled (0-1 range), yielding an overall BHCK exposure score [youths: mean 1.1 (range 0-7.6 points); caregivers: 1.1 (0-6.7), possible highest score: 13]. Ordered logit regression analyses were used to investigate correlates of youths' and caregivers' exposure level (quartile of exposure). RESULTS:Mean intervention exposure scores were significantly higher for intervention than comparison youths (mean 1.6 vs 0.5, p < 0.001) and caregivers (mean 1.6 vs 0.6, p < 0.001). However, exposure scores were low in both groups and 10% of the comparison group was moderately exposed to the intervention. For each 1-year increase in age, there was a 33% lower odds of being highly exposed to the intervention (odds ratio 0.77, 95% confidence interval 0.69; 0.88) in the unadjusted and adjusted model controlling for youths' sex and household income. CONCLUSION:Treatment effects may be attenuated in community-based trials, as participants may be differentially exposed to intervention components and the comparison group may also be exposed. Exposure should be measured to provide context to impact evaluations in multi-level trials. Future analyses linking exposure scores to the outcome should control for potential confounders in the treatment-on-the-treated approach, while recognizing that confounding and selection bias may exist affecting causal inference. TRIAL REGISTRATION:ClinicalTrials.gov, NCT02181010 . Retrospectively registered on 2 July 2014."
+  ],
+  "affiliation": [
+    "Global Obesity Prevention Center and Center for Human Nutrition, Department of International Health, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, Baltimore, MD, 21205, USA. atrude1@jhu.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "249316/2013-7"
+          ],
+          "agency": [
+            "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54HD070725"
+          ],
+          "agency": [
+            "National Institute of Child Health and Human Development"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 HD070725"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Public Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Caregivers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Data Analysis"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Exposure",
+        "Methods",
+        "Childhood Obesity",
+        "Implementation Process",
+        "Process Evaluation",
+        "Dose Received"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5964684?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5964684"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-018-2663-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2019-03-22"
+  ],
+  "dateOfCreation": [
+    "2018-05-24"
+  ],
+  "dateOfRevision": [
+    "2019-03-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-05-22"
+  ],
+  "firstPublicationDate": [
+    "2018-05-22"
+  ]
+}

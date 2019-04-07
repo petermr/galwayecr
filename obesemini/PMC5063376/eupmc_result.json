@@ -1,0 +1,520 @@
+{
+  "id": [
+    "27736864"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27736864"
+  ],
+  "pmcid": [
+    "PMC5063376"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0162184"
+  ],
+  "title": [
+    "Exploring Service Providers' Perspectives in Improving Childhood Obesity Prevention among CALD Communities in Victoria, Australia."
+  ],
+  "authorString": [
+    "Cyril S, Green J, Nicholson JM, Agho K, Renzaho AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cyril S"
+          ],
+          "firstName": [
+            "Sheila"
+          ],
+          "lastName": [
+            "Cyril"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Social Sciences and Psychology, Western Sydney University, Locked Bag 1797, Penrith, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Green J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Green"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Raising Children Network, Murdoch Children's Research Institute and Department of Paediatrics, University of Melbourne, Parenting Research Centre, Level 5/232 Victoria Parade, East Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Nicholson JM"
+          ],
+          "firstName": [
+            "Jan M"
+          ],
+          "lastName": [
+            "Nicholson"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Judith Lumley Centre, La Trobe University, Level 3, Melbourne, Victoria, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Agho K"
+          ],
+          "firstName": [
+            "Kingsley"
+          ],
+          "lastName": [
+            "Agho"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Science and Health, Western Sydney University, Locked Bag 1797, Penrith, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Renzaho AM"
+          ],
+          "firstName": [
+            "Andre M N"
+          ],
+          "lastName": [
+            "Renzaho"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6844-0833",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Social Sciences and Psychology, Western Sydney University, Locked Bag 1797, Penrith, New South Wales, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6844-0833",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2457476"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0162184"
+  ],
+  "abstractText": [
+    "BACKGROUND:Childhood obesity rates have been increasing disproportionately among disadvantaged communities including culturally and linguistically diverse (CALD) migrant groups in Australia due to their poor participation in the available obesity prevention initiatives. We sought to explore service providers' perceptions of the key factors influencing the participation of CALD communities in the existing obesity prevention services and the service requirements needed to improve CALD communities' participation in these services. METHODS:We conducted a qualitative study using focus group discussions involving fifty-nine service providers from a range of services, who are involved in the health and wellbeing of children from CALD groups living in four socioeconomically disadvantaged areas in Victoria, Australia. RESULTS:Thematic analysis of the data showed three major themes including community-level barriers to CALD engagement in childhood obesity prevention services; service-level barriers to the delivery of these services; and proposed changes to current childhood obesity prevention approaches. Integrating obesity prevention messages within existing programs, better coordination between prevention and treatment services and the establishment of a childhood obesity surveillance system, were some of the important changes suggested by service providers. CONCLUSION:This study has found that low CALD health literacy, lack of knowledge of cultural barriers among service providers and co-existing deficiencies in the structure and delivery of obesity prevention services negatively impacted the participation of CALD communities in obesity prevention services. Cultural competency training of service providers would improve their understanding of the cultural influences of childhood obesity and incorporate them into the design and development of obesity prevention initiatives. Service providers need to be educated on the pre-migratory health service experiences and health conditions of CALD communities to ensure equitable delivery of care. Collaborative approaches between health systems, immigrant services, early years' services and community health services are urgently needed to address obesity-related disparities in Australia."
+  ],
+  "affiliation": [
+    "School of Social Sciences and Psychology, Western Sydney University, Locked Bag 1797, Penrith, New South Wales, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Focus Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Services Administration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cultural Diversity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Community Health Services"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Services Accessibility"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Victoria"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Emigrants and Immigrants"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Culturally Competent Care"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5063376?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5063376"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0162184"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-05-19"
+  ],
+  "dateOfCreation": [
+    "2016-10-14"
+  ],
+  "dateOfRevision": [
+    "2019-02-12"
+  ],
+  "electronicPublicationDate": [
+    "2016-10-13"
+  ],
+  "firstPublicationDate": [
+    "2016-10-13"
+  ]
+}

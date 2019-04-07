@@ -1,0 +1,454 @@
+{
+  "id": [
+    "30352933"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30352933"
+  ],
+  "pmcid": [
+    "PMC6199494"
+  ],
+  "doi": [
+    "10.1128/mBio.01751-18"
+  ],
+  "title": [
+    "Gut Microbiota in the First 2 Years of Life and the Association with Body Mass Index at Age 12 in a Norwegian Birth Cohort."
+  ],
+  "authorString": [
+    "Stanislawski MA, Dabelea D, Wagner BD, Iszatt N, Dahl C, Sontag MK, Knight R, Lozupone CA, Eggesbø M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stanislawski MA"
+          ],
+          "firstName": [
+            "Maggie A"
+          ],
+          "lastName": [
+            "Stanislawski"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7768-8868",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Colorado School of Public Health, Aurora, Colorado, USA Maggie.Stanislawski@ucdenver.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Dabelea D"
+          ],
+          "firstName": [
+            "Dana"
+          ],
+          "lastName": [
+            "Dabelea"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Colorado School of Public Health, Aurora, Colorado, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wagner BD"
+          ],
+          "firstName": [
+            "Brandie D"
+          ],
+          "lastName": [
+            "Wagner"
+          ],
+          "initials": [
+            "BD"
+          ],
+          "affiliation": [
+            "Department of Biostatistics and Informatics, Colorado School of Public Health, Aurora, Colorado, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Iszatt N"
+          ],
+          "firstName": [
+            "Nina"
+          ],
+          "lastName": [
+            "Iszatt"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8977-156X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Environmental Exposure and Epidemiology, Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Dahl C"
+          ],
+          "firstName": [
+            "Cecilie"
+          ],
+          "lastName": [
+            "Dahl"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Community Medicine and Global Health, University of Oslo, Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Sontag MK"
+          ],
+          "firstName": [
+            "Marci K"
+          ],
+          "lastName": [
+            "Sontag"
+          ],
+          "initials": [
+            "MK"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Colorado School of Public Health, Aurora, Colorado, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Knight R"
+          ],
+          "firstName": [
+            "Rob"
+          ],
+          "lastName": [
+            "Knight"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, University of California San Diego, La Jolla, California, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lozupone CA"
+          ],
+          "firstName": [
+            "Catherine A"
+          ],
+          "lastName": [
+            "Lozupone"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of Biomedical Informatics and Personalized Medicine, University of Colorado School of Medicine, Aurora, Colorado, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Eggesbø M"
+          ],
+          "firstName": [
+            "Merete"
+          ],
+          "lastName": [
+            "Eggesbø"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Environmental Exposure and Epidemiology, Norwegian Institute of Public Health, Oslo, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7768-8868",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8977-156X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2733582"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "mBio"
+          ],
+          "ISOAbbreviation": [
+            "MBio"
+          ],
+          "medlineAbbreviation": [
+            "MBio"
+          ],
+          "NLMid": [
+            "101519231"
+          ],
+          "ISSN": [
+            "2150-7511"
+          ],
+          "ESSN": [
+            "2150-7511"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Childhood obesity is a growing problem worldwide. Recent research suggests that the gut microbiota may play an important and potentially causal role in the development of obesity and may be one mechanism that explains the transgenerational transmission of obesity risk. Here we examine the early-life gut microbiota at days 4, 10, 30, 120, 365, and 730 and the association with body mass index (BMI) z-scores at age 12 in a Norwegian prospective cohort (n = 165), and evaluate how these BMI-associated taxa relate to maternal overweight/obesity (Ow/Ob) and excessive gestational weight gain (GWG). We performed 16S rRNA gene sequencing on the gut microbiota samples. Taxonomic phylogeny at days 10 and 730 was significantly associated with childhood BMI, and the gut microbiota taxa at two years of age explained over 50% of the variation in childhood BMI in this cohort. The subset of the early-life taxa within the gut microbiota that best predicted later childhood BMI showed substantial overlap with the maternal taxa most strongly associated with maternal Ow/Ob and excessive GWG. Our results show an association between the infant gut microbiota and later BMI, and they offer preliminary evidence that the infant gut microbiota, particularly at 2 years of age, may have potential to help identify children at risk for obesity.IMPORTANCE Understanding the role of the early-life gut microbiota in obesity is important because there may be opportunities for preventive strategies. We examined the relationships between infant gut microbiota at six times during the first two years of life and BMI at age 12 in a birth cohort of 165 children and their mothers. We found that the gut microbiota from early life to two years shows an increasingly strong association with childhood BMI. This study provides preliminary evidence that the gut microbiome at 2 years of age may offer useful information to help to identify youth who are at risk for obesity, which could facilitate more-targeted early prevention efforts."
+  ],
+  "affiliation": [
+    "Department of Epidemiology, Colorado School of Public Health, Aurora, Colorado, USA Maggie.Stanislawski@ucdenver.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Children",
+        "Microbiota",
+        "Infants"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6199494?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6199494"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1128/mBio.01751-18"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30755514"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "MBio. 2019 Feb 12;10(1):"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        },
+        {
+          "id": [
+            "30755504"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "MBio. 2019 Feb 12;10(1):"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-25"
+  ],
+  "dateOfRevision": [
+    "2019-01-23"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-23"
+  ],
+  "firstPublicationDate": [
+    "2018-10-23"
+  ]
+}

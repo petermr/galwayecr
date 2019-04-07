@@ -1,0 +1,352 @@
+{
+  "id": [
+    "30845946"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30845946"
+  ],
+  "pmcid": [
+    "PMC6407214"
+  ],
+  "doi": [
+    "10.1186/s12889-019-6588-5"
+  ],
+  "title": [
+    "Physical activity, screen time, and outdoor learning environment practices and policy implementation: a cross sectional study of Texas child care centers."
+  ],
+  "authorString": [
+    "Byrd-Williams CE, Dooley EE, Thi CA, Browning C, Hoelscher DM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Byrd-Williams CE"
+          ],
+          "firstName": [
+            "Courtney E"
+          ],
+          "lastName": [
+            "Byrd-Williams"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3942-8595",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Michael & Susan Dell Center for Healthy Living at The University of Texas Health Science Center (UTHealth) School of Public Health in Austin, 1616 Guadalupe, Suite 6.300, Austin, TX, 78701, USA. courtney.e.byrdwilliams@uth.tmc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Dooley EE"
+          ],
+          "firstName": [
+            "Erin E"
+          ],
+          "lastName": [
+            "Dooley"
+          ],
+          "initials": [
+            "EE"
+          ],
+          "affiliation": [
+            "Michael & Susan Dell Center for Healthy Living at The University of Texas Health Science Center (UTHealth) School of Public Health in Austin, 1616 Guadalupe, Suite 6.300, Austin, TX, 78701, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Thi CA"
+          ],
+          "firstName": [
+            "Christina A"
+          ],
+          "lastName": [
+            "Thi"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of State Health Services, Obesity Prevention Program, Health Promotion and Chronic Disease Prevention Section, MC 1965, PO Box 149347, Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Browning C"
+          ],
+          "firstName": [
+            "Cari"
+          ],
+          "lastName": [
+            "Browning"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of State Health Services, Obesity Prevention Program, Health Promotion and Chronic Disease Prevention Section, MC 1965, PO Box 149347, Austin, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoelscher DM"
+          ],
+          "firstName": [
+            "Deanna M"
+          ],
+          "lastName": [
+            "Hoelscher"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Michael & Susan Dell Center for Healthy Living at The University of Texas Health Science Center (UTHealth) School of Public Health in Austin, 1616 Guadalupe, Suite 6.300, Austin, TX, 78701, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3942-8595",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2787853"
+      ],
+      "dateOfPublication": [
+        "2019 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2019"
+      ],
+      "printPublicationDate": [
+        "2019-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2019"
+  ],
+  "pageInfo": [
+    "274"
+  ],
+  "abstractText": [
+    "BACKGROUND:Early care and education (ECE) centers are important for combating childhood obesity. Understanding policies and practices of ECE centers is necessary for promotion of healthy behaviors. The purpose of this study is to describe self-reported practices, outdoor environment aspects, and center policies for physical activity and screen time in a statewide convenience sample of non-Head Start Texas ECE centers. METHODS:Licensed home and child care centers in Texas with email addresses publicly available on the Department of Family and Protective Services website (N = 6568) were invited to participate in an online survey. Descriptive statistics of self-reported practices, policies, and outdoor learning environment are described. RESULTS:827 surveys were collected (response rate = 12.6%). Exclusion criteria yielded a cross-sectional sample of 481 center-only respondents. > 80% of centers meet best practice recommendations for screen time practices for infants and toddlers, although written policies were low (M = 1.4 policies, SD = 1.65, range = 0-6). For physical activity, < 30% meet best practice recommendations with M = 3.9 policies (SD = 3.0, range = 0-10) policies reported. Outdoor learning environment indicators (M = 5.7 policies, SD = 2.5, range = 0-12) and adequate play settings, storage (< 40%), and greenery (< 20%) were reported. CONCLUSIONS:This statewide convenience sample of non-Head Start Texas ECE centers shows numerous opportunities for improvement in practices and policies surrounding outdoor environments, physical activity, and screen time. With less than half of centers meeting the recommendations for physical activity and outdoor learning environments, dedicating resources to help centers enact and modify written policies and to implement programs to improve their outdoor learning environments could promote physical activity and reduce sedentary time of children."
+  ],
+  "affiliation": [
+    "Michael & Susan Dell Center for Healthy Living at The University of Texas Health Science Center (UTHealth) School of Public Health in Austin, 1616 Guadalupe, Suite 6.300, Austin, TX, 78701, USA. courtney.e.byrdwilliams@uth.tmc.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "DP13-1305"
+          ],
+          "agency": [
+            "Centers for Disease Control and Prevention"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Environment",
+        "Pediatrics",
+        "Public Health",
+        "Physical Activity",
+        "Guidelines And Recommendations"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6407214?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6407214"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-019-6588-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2019-03-09"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2019-03-07"
+  ],
+  "firstPublicationDate": [
+    "2019-03-07"
+  ]
+}

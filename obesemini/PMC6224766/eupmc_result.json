@@ -1,0 +1,472 @@
+{
+  "id": [
+    "30368450"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30368450"
+  ],
+  "pmcid": [
+    "PMC6224766"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2018-023707"
+  ],
+  "title": [
+    "Adapting the ToyBox obesity prevention intervention for use in Scottish preschools: protocol for a feasibility cluster randomised controlled trial."
+  ],
+  "authorString": [
+    "Malden S, Hughes AR, Gibson AM, Bardid F, Androutsos O, De Craemer M, Manios Y, Summerbell C, Cardon G, Reilly JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Malden S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Malden"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Physical Activity for Health Group, School of Psychological Sciences and Health, University of Strathclyde, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes AR"
+          ],
+          "firstName": [
+            "Adrienne R"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Physical Activity for Health Group, School of Psychological Sciences and Health, University of Strathclyde, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gibson AM"
+          ],
+          "firstName": [
+            "Ann-Marie"
+          ],
+          "lastName": [
+            "Gibson"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Physical Activity for Health Group, School of Psychological Sciences and Health, University of Strathclyde, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bardid F"
+          ],
+          "firstName": [
+            "Farid"
+          ],
+          "lastName": [
+            "Bardid"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8591-0596",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Education, University of Strathclyde, Glasgow, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Androutsos O"
+          ],
+          "firstName": [
+            "Odysseas"
+          ],
+          "lastName": [
+            "Androutsos"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Nutrition and Dietetics, School of Health Science and Education, Harokopio University, Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "De Craemer M"
+          ],
+          "firstName": [
+            "Marieke"
+          ],
+          "lastName": [
+            "De Craemer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Movement and Sports Sciences, Ghent University, Ghent, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Manios Y"
+          ],
+          "firstName": [
+            "Yannis"
+          ],
+          "lastName": [
+            "Manios"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Nutrition and Dietetics, School of Health Science and Education, Harokopio University, Athens, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Summerbell C"
+          ],
+          "firstName": [
+            "Carolyn"
+          ],
+          "lastName": [
+            "Summerbell"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1910-9383",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Sport and Exercise Sciences, Durham University, Durham City, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Cardon G"
+          ],
+          "firstName": [
+            "Greet"
+          ],
+          "lastName": [
+            "Cardon"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Movement and Sports Sciences, Ghent University, Ghent, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Reilly JJ"
+          ],
+          "firstName": [
+            "John J"
+          ],
+          "lastName": [
+            "Reilly"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Physical Activity for Health Group, School of Psychological Sciences and Health, University of Strathclyde, Glasgow, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8591-0596",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1910-9383",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2734136"
+      ],
+      "dateOfPublication": [
+        "2018 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e023707"
+  ],
+  "abstractText": [
+    "INTRODUCTION:There is an increasing need for the adoption of effective preschool obesity prevention interventions to combat the high levels of early-childhood obesity in the UK. This study will examine the feasibility and acceptability of the adapted version of the ToyBox intervention-a preschool obesity prevention programme-for use in Scotland (ToyBox-Scotland). This will inform the design of a full-scale cluster randomised controlled trial (RCT). METHODS AND ANALYSIS:The ToyBox-Scotland intervention will be evaluated using a feasibility cluster RCT, which involves children aged 3-5 years at six preschools in Glasgow, three randomly assigned to the intervention group and three to the usual-care control group. The original ToyBox intervention was adapted for the Scottish context using a coproduction approach. Within the 18-week intervention, physical activity and sedentary behaviour will be targeted in the preschool through environmental changes to the classroom, physical activity sessions and movement breaks. Parents will receive home activity packs every 3 weeks containing sticker incentives and interactive parent-child games that target sedentary behaviour, physical activity, eating/snacking and water consumption. As this is a feasibility study, parameters such as recruitment rates, attrition rates and SDs of outcome measures will be obtained which will inform a power calculation for a future RCT. Additional variables to be assessed include accelerometer-measured physical activity, sedentary behaviour and sleep, body mass index, home screen time, eating/snacking and water consumption. Outcomes will be assessed at baseline and 14-17 weeks later. Intervention fidelity will be assessed using questionnaires and interviews with parents and practitioners, observation and session delivery records. ETHICS AND DISSEMINATION:This study was granted ethical approval by the University of Strathclyde's School of Psychological Sciences and Health Ethics Committee. Results will be disseminated through publication in peer-reviewed journals, presentation at conferences and in lay summaries provided to participants. TRIAL REGISTRATION NUMBER:ISRCTN12831555."
+  ],
+  "affiliation": [
+    "Physical Activity for Health Group, School of Psychological Sciences and Health, University of Strathclyde, Glasgow, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MR/K02325X/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Public Health",
+        "Social Medicine",
+        "Paediatrics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6224766?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6224766"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2018-023707"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "30782764"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "BMJ Open. 2019 Jan 24;9(1):e023707corr1"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-10-29"
+  ],
+  "dateOfRevision": [
+    "2019-03-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-10-27"
+  ],
+  "firstPublicationDate": [
+    "2018-10-27"
+  ]
+}

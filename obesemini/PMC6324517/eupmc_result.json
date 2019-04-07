@@ -1,0 +1,500 @@
+{
+  "id": [
+    "30578226"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30578226"
+  ],
+  "pmcid": [
+    "PMC6324517"
+  ],
+  "doi": [
+    "10.2196/11329"
+  ],
+  "title": [
+    "A Customized Intervention Program Aiming to Improve Healthy Eating and Physical Activity Among Preschool Children: Protocol for a Randomized Controlled Trial (Iran Healthy Start Study)."
+  ],
+  "authorString": [
+    "Mehdizadeh A, Nematy M, Khadem-Rezaiyan M, Ghayour-Mobarhan M, Sardar MA, Leis A, Humbert L, Bélanger M, Vatanparast H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mehdizadeh A"
+          ],
+          "firstName": [
+            "Atieh"
+          ],
+          "lastName": [
+            "Mehdizadeh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5948-1775",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, Mashhad University of Medical Sciences, Mashhad, Islamic Republic of Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Nematy M"
+          ],
+          "firstName": [
+            "Mohsen"
+          ],
+          "lastName": [
+            "Nematy"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3202-2709",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, Mashhad University of Medical Sciences, Mashhad, Islamic Republic of Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Khadem-Rezaiyan M"
+          ],
+          "firstName": [
+            "Majid"
+          ],
+          "lastName": [
+            "Khadem-Rezaiyan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2698-176X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, Mashhad University of Medical Sciences, Mashhad, Islamic Republic of Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghayour-Mobarhan M"
+          ],
+          "firstName": [
+            "Majid"
+          ],
+          "lastName": [
+            "Ghayour-Mobarhan"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1081-6754",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, Mashhad University of Medical Sciences, Mashhad, Islamic Republic of Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Sardar MA"
+          ],
+          "firstName": [
+            "Mohammad Ali"
+          ],
+          "lastName": [
+            "Sardar"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6338-9998",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, Mashhad University of Medical Sciences, Mashhad, Islamic Republic of Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Leis A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Leis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3417-9208",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Medicine, University of Saskatchewan, Saskatoon, SK, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Humbert L"
+          ],
+          "firstName": [
+            "Louise"
+          ],
+          "lastName": [
+            "Humbert"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3522-435X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Kinesiology, University of Saskatchewan, Saskatoon, SK, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Bélanger M"
+          ],
+          "firstName": [
+            "Mathieu"
+          ],
+          "lastName": [
+            "Bélanger"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9446-6538",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Family Medicine, Université de Sherbrooke, Moncton, NB, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Vatanparast H"
+          ],
+          "firstName": [
+            "Hassan"
+          ],
+          "lastName": [
+            "Vatanparast"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2621-8385",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Pharmacy and Nutrition, University of Saskatchewan, Saskatoon, SK, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2698-176X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5948-1775",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1081-6754",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6338-9998",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3202-2709",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3417-9208",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9446-6538",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3522-435X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2621-8385",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2757027"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JMIR research protocols"
+          ],
+          "ISOAbbreviation": [
+            "JMIR Res Protoc"
+          ],
+          "medlineAbbreviation": [
+            "JMIR Res Protoc"
+          ],
+          "NLMid": [
+            "101599504"
+          ],
+          "ISSN": [
+            "1929-0748"
+          ],
+          "ESSN": [
+            "1929-0748"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "e11329"
+  ],
+  "abstractText": [
+    "BACKGROUND:Prevention of childhood obesity is a key approach to the primary prevention of noncommunicable diseases. Several models, based on the population health approach and aligned with ecological models, are used to design childhood obesity prevention programs around the world. OBJECTIVE:This study aims to introduce the design and evaluation plan of \"Iran Healthy Start (IHS)/Aghazi Salem, Koodake Irani\"-the customized Iranian version of Canadian Healthy Start/Départ Santé health promotion program-which is now being developed in Mashhad University of Medical Sciences (Mashhad, Iran) and focuses on improving physical activity and healthy eating among preschool children. METHODS:We will evaluate the intervention using a pilot randomized controlled design. The components of intervention include customized Decoda Web-based resources for children, an implementation guide for educators and managers, training and monitoring, communication and knowledge exchange, building partnership, and parent engagement. Outcomes include changes in anthropometry, physical activity level, nutritional risk status and dietary intake, and quality of life. RESULTS:The project is funded by Mashhad University of Medical Sciences. The intervention was completed by the end of March 2018, and the analysis is currently under way. The first results of the IHS intervention program are expected to be submitted for publication in December 2018. CONCLUSIONS:The double burden of malnutrition in early years children is a major health concern in developing countries. This justifies the need for health promotion programs that are specifically designed to target both overnutrition and undernutrition prevention. If the efficacy approved, the IHS could potentially be a comprehensive health promotion program for young children whose lifestyle behaviors can be improved toward a healthy future life in a nutrition transition setting. TRIAL REGISTRATION:International Clinical Trials Registry Platform IRCT2016041927475N1; https://en.irct.ir/trial/22497. INTERNATIONAL REGISTERED REPORT IDENTIFIER (IRRID):RR1-10.2196/11329."
+  ],
+  "affiliation": [
+    "School of Medicine, Mashhad University of Medical Sciences, Mashhad, Islamic Republic of Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parent",
+        "Iran",
+        "intervention",
+        "Physical Activity",
+        "Childhood Obesity",
+        "Healthy Eating",
+        "Healthy Start/depart Sante"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC6324517"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2196/11329"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-12-23"
+  ],
+  "dateOfRevision": [
+    "2019-01-29"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-21"
+  ],
+  "firstPublicationDate": [
+    "2018-12-21"
+  ]
+}

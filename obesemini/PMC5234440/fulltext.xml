@@ -1,0 +1,683 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Prev Chronic Dis</journal-id><journal-id journal-id-type="iso-abbrev">Prev Chronic Dis</journal-id><journal-id journal-id-type="publisher-id">PCD</journal-id><journal-title-group><journal-title>Preventing Chronic Disease</journal-title></journal-title-group><issn pub-type="epub">1545-1151</issn><publisher><publisher-name>Centers for Disease Control and Prevention</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5234440</article-id><article-id pub-id-type="publisher-id">16_0381</article-id><article-id pub-id-type="doi">10.5888/pcd14.160381</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group><series-title>Peer Reviewed</series-title></article-categories><title-group><article-title>Using School Staff Members to Implement a Childhood Obesity Prevention Intervention in Low-Income School Districts: the Massachusetts Childhood Obesity Research Demonstration (MA-CORD Project), 2012&#x02013;2014</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><name><surname>Blaine</surname><given-names>Rachel E.</given-names></name><degrees>DSc</degrees><degrees>RD</degrees><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Franckle</surname><given-names>Rebecca L.</given-names></name><degrees>ScD</degrees><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ganter</surname><given-names>Claudia</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Falbe</surname><given-names>Jennifer</given-names></name><degrees>ScD</degrees><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Giles</surname><given-names>Catherine</given-names></name><degrees>MPH</degrees><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Criss</surname><given-names>Shaniece</given-names></name><degrees>ScD</degrees><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kwass</surname><given-names>Jo-Ann</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Land</surname><given-names>Thomas</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff8">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Gortmaker</surname><given-names>Steven L.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Chuang</surname><given-names>Emmeline</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff9">
+<sup>9</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Davison</surname><given-names>Kirsten K.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><collab>MA-CORD Project Group</collab></contrib><aff id="aff1"><label>1</label>Department of Family and Consumer Sciences, California State University, Long Beach, California</aff><aff id="aff2"><label>2</label>Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, Massachusetts</aff><aff id="aff3"><label>3</label>Medical Faculty Mannheim, Heidelberg University, Mannheim Institute of Public Health, Social and Preventive Medicine, Mannheim, Germany</aff><aff id="aff4"><label>4</label>University of California, Berkeley, Berkeley, California</aff><aff id="aff5"><label>5</label>Department of Social and Behavioral Sciences, Harvard T.H. Chan School of Public Health, Boston, Massachusetts</aff><aff id="aff6"><label>6</label>Health Sciences Department, Furman University, Greenville, South Carolina</aff><aff id="aff7"><label>7</label>Bureau of Community Health and Prevention, Massachusetts Department of Public Health, Boston, Massachusetts</aff><aff id="aff8"><label>8</label>Office of Data Management and Outcomes Assessment, Massachusetts Department of Public Health, Boston, Massachusetts</aff><aff id="aff9"><label>9</label>University of California, Los Angeles, Fielding School of Public Health, Los Angeles, California.</aff></contrib-group><author-notes><corresp id="cor1"><bold>Corresponding Author:</bold> Dr. Rachel Blaine, California State University, Long Beach, 1250 Bellflower Blvd. FCS FA-15, Long Beach, California 90840. Telephone: 562-985-2141. Email: <email xlink:href="rachel.blaine@csulb.edu">rachel.blaine@csulb.edu</email>.</corresp></author-notes><pub-date pub-type="collection"><year>2017</year></pub-date><pub-date pub-type="epub"><day>12</day><month>1</month><year>2017</year></pub-date><volume>14</volume><elocation-id>E03</elocation-id><abstract><sec><title>Introduction</title><p>Although evidence-based interventions to prevent childhood obesity in school settings exist, few studies have identified factors that enhance school districts&#x02019; capacity to undertake such efforts. We describe the implementation of a school-based intervention using classroom lessons based on existing &#x0201c;Eat Well and Keep Moving&#x0201d; and &#x0201c;Planet Health&#x0201d; behavior change interventions and schoolwide activities to target 5,144 children in 4th through 7th grade in 2 low-income school districts.</p></sec><sec><title>Methods</title><p>The intervention was part of the Massachusetts Childhood Obesity Research Demonstration (MA-CORD) project, a multisector community-based intervention implemented from 2012 through 2014. Using mixed methods, we operationalized key implementation outcomes, including acceptability, adoption, appropriateness, feasibility, implementation fidelity, perceived implementation cost, reach, and sustainability.</p></sec><sec><title>Results</title><p>MA-CORD was adopted in 2 school districts that were facing resource limitations and competing priorities. Although strong leadership support existed in both communities at baseline, one district&#x02019;s staff reported less schoolwide readiness and commitment. Consequently, fewer teachers reported engaging in training, teaching lessons, or planning to sustain the lessons after MA-CORD. Interviews showed that principal and superintendent turnover, statewide testing, and teacher burnout limited implementation; passionate wellness champions in schools appeared to offset implementation barriers.</p></sec><sec><title>Conclusion</title><p>Future interventions should assess adoption readiness at both leadership and staff levels, offer curriculum training sessions during school hours, use school nurses or health teachers as wellness champions to support teachers, and offer incentives such as staff stipends or play equipment to encourage school participation and sustained intervention activities.</p></sec></abstract></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Childhood obesity threatens the health of American children, especially those in low-income households (<xref rid="R1" ref-type="bibr">1</xref>,<xref rid="R2" ref-type="bibr">2</xref>). Although evidence supports the efficacy of school-based interventions in reducing obesogenic behaviors and body mass index (BMI) among children (<xref rid="R3" ref-type="bibr">3</xref>&#x02013;<xref rid="R6" ref-type="bibr">6</xref>), limited data describe school districts&#x02019; capacity to undertake such interventions (<xref rid="R7" ref-type="bibr">7</xref>). In 2011, the Centers for Disease Control and Prevention funded 4 grantees to conduct a 4-year Childhood Obesity Research Demonstration (CORD) project aimed at improving low-income children&#x02019;s nutrition and physical activity behaviors. This study describes the implementation of a school-based obesity prevention intervention within the Massachusetts CORD project (MA-CORD) in 2 low-income school districts (<xref rid="R8" ref-type="bibr">8</xref>). Using a mixed methods design, we assessed facilitators and barriers to achieving implementation outcomes adapted from the taxonomy of Proctor et al (<xref rid="R9" ref-type="bibr">9</xref>). We hypothesized that a classroom-based health behavior intervention for 4th through 7th grade students would be most effective when the school staff felt activities were appropriate, feasible, and supported by district administrators.</p><p>Examining implementation outcomes (eg, extent to which an intervention is adopted by teachers) provides context for intervention outcomes (eg, change in children&#x02019;s BMI) and is needed to ensure that interventions are effectively adopted, translated, and sustained in community settings. Implementation outcomes can also serve as proximal indicators of intervention outcomes, which are described elsewhere (<xref rid="R10" ref-type="bibr">10</xref>). We provide an overview of MA-CORD adoption, implementation, and potential to be sustained, along with a summary of strategies for remediating implementation barriers.</p></sec><sec sec-type="methods"><title>Methods</title><p>MA-CORD was a multilevel, multisector intervention to prevent or control obesity among children aged 2 to 12 years in 2 low-income communities (mean annual per capita income &#x0003c;$35,000) in Massachusetts with greater-than-average prevalence of childhood obesity (combined mean, 26%) relative to national estimates (17%) (<xref rid="R10" ref-type="bibr">10</xref>). Community 1&#x02019;s population of approximately 40,000, and Community 2&#x02019;s population of approximately 95,000 each has a single school district. MA-CORD was implemented from 2012 through 2014 across 6 sectors (health care; early childhood care and education; school; afterschool; Women, Infants, and Children [WIC]; and the broad community). MA-CORD targeted obesity-related behaviors: fruit and vegetable consumption, sugar-sweetened beverage consumption, physical inactivity, screen time, and insufficient sleep duration and quality. Detailed information on MA-CORD intervention components is published elsewhere (<xref rid="R8" ref-type="bibr">8</xref>,<xref rid="R10" ref-type="bibr">10</xref>).</p><p>The MA-CORD school intervention consisted of evidence-based components: teacher training, curriculum delivery, use of wellness champions (eg, school nurses, teachers), provision of physical activity supplies (eg, balls, jump ropes), and educational materials (eg, flyers, banners). Each district used one part-time, paid coordinator to oversee administration of MA-CORD. Wellness champions were identified at baseline in each school and compensated $1,000 per academic year to lead school-wide wellness activities (eg, improved policies, fun runs, student media competitions) that reinforced MA-CORD messages and classroom interventions. School nurses received $500 per academic year to support MA-CORD data collection and wellness activities.</p><p>We focused on the role of teachers in administering adapted versions of evidence-based interventions designed for students in 4th and 5th grade elementary school (<italic>Eat Well and Keep Moving</italic>) and 6th and 7th grade middle school (<italic>Planet Health</italic>) (<xref rid="R3" ref-type="bibr">3</xref>,<xref rid="R4" ref-type="bibr">4</xref>). In year 1, teachers received a 3-hour training that introduced curricula materials to be integrated across major subjects (ie, math, language arts, and social studies). In Community 1, teachers were trained during school hours, and MA-CORD funds supplied substitute teachers for the time. In Community 2, teachers were trained after school hours and compensated $100. Teachers were encouraged to incorporate at least 6 lesson plans aligned with MA-CORD behavioral targets per academic year. In lieu of training all classroom teachers, Community 1 administrators opted to train health education teachers exclusively to implement the lessons across grades 4 through 7. Because each health teacher taught multiple classes across grades, this meant fewer teachers required training. In Community 2, both classroom teachers (grades 4 and 5) and health teachers (grades 6 and 7) received training.</p><p>We employed a convergent, parallel mixed-methods design (<xref rid="R11" ref-type="bibr">11</xref>) to examine facilitators and barriers to implementing MA-CORD. Informed by the taxonomy of Proctor et al of outcomes for implementation research (<xref rid="R9" ref-type="bibr">9</xref>), outcomes included were acceptability, adoption, appropriateness, feasibility, implementation fidelity, perceived implementation cost, reach, and sustainability. Throughout the intervention we collected data from school staff members using both qualitative methods (ie, in-depth interviews) and quantitative methods (eg, cross-sectional surveys) to assess these outcomes (<xref ref-type="fig" rid="F1">Figure 1</xref>). Our design was ideally suited for process evaluation because interview findings provided context for outcomes not easily explained through survey data alone.</p><fig id="F1" fig-type="figure" orientation="portrait" position="float"><label>Figure 1</label><caption><p>MA-CORD school sector implementation data used in a convergent parallel mixed methods design. The MA-CORD intervention occurred over a 2-year period and was evaluated using both quantitative and qualitative measures.</p></caption><long-desc>This diagram illustrates how the MA-CORD intervention occurred over a 2-year period and was evaluated using both qualitative and quantitative measures collected at varying times. Intervention activities occurred from fall 2012 to spring 2014 and consisted of teacher training, distribution of physical activity equipment, provision of classroom lessons for 5,144 students in 4th through 7th grade, a media competition, and various schoolwide wellness events. At baseline in fall 2012, MA-CORD readiness surveys were collected from 53 teachers and nurses and 23 school leaders. End-of-year curriculum surveys were collected from 58 teachers in summer 2013 and from 46 teachers in summer 2014. In-depth interviews of 23 school staff members were conducted during winter 2014 and spring 2014. Data were synthesized to interpret study observations during the implementation of MA-CORD.</long-desc><graphic xlink:href="PCD-14-E03s01"/></fig><p>For both in-depth interviews and readiness surveys we used a convenience sample of school leaders (eg, principals, community coordinators, wellness champions) and staff members (eg, teachers, school nurses) in MA-CORD schools in Community 1 (n = 6) and Community 2 (n = 22). End-of-year curriculum surveys were collected from eligible teachers. The number of eligible teachers varied slightly by year in Community 1 (n = 7 in year 1; n = 6 in year 2) and Community 2 (n = 117 in year 1; n = 122 in year 2). Interviewees from each community were principals and superintendents (n = 5), wellness champions and school nurses (n = 11), and teachers eligible to offer the curricula (n = 7).</p><p>Two anonymous surveys were administered at baseline to assess stakeholder readiness for implementing MA-CORD (<xref ref-type="fig" rid="F1">Figure 1</xref>). In addition, 2 anonymous surveys were administered to teachers at the end of each academic year to assess the delivery of the MA-CORD intervention. These surveys were administered online via Qualtrics Insight (Qualtrics) or pen-to-paper (<xref ref-type="app" rid="appA">Appendix A</xref>, <xref ref-type="app" rid="appB">Appendix B</xref>). In-depth interviews were conducted by telephone with school leaders and staff members in year 2 to assess implementation of MA-CORD activities. Study procedures were approved by the human subjects committees of the Massachusetts Department of Public Health, Harvard T.H. Chan School of Public Health, Massachusetts General Hospital, and Harvard Pilgrim Health Care Institute in June 2012 (#331765).</p><sec><title>Measures</title><p>
+<bold>Readiness surveys</bold>. Two measures of organizational readiness for change were used to measure program acceptability. The first, provided to school leaders, contained items adapted from an existing tool (<xref rid="R12" ref-type="bibr">12</xref>) and assessed school and district readiness for adoption and leadership support for MA-CORD. The second survey given to school staff (eg, teachers, nurses) contained items adapted from an existing readiness-for-change scale for employees within an organization (<xref rid="R13" ref-type="bibr">13</xref>,<xref rid="R14" ref-type="bibr">14</xref>) to assess staff engagement and support for MA-CORD.</p><p>
+<bold>Curriculum surveys</bold>. Curriculum surveys collected at the end of years 1 and 2 assessed appropriateness (eg, lessons perceived as positive addition to curriculum), feasibility, perceived implementation cost (eg, perceived competence to teach curriculum, perceived effort to obtain materials to complete lessons), implementation fidelity (eg, proportion of MA-CORD lessons taught), and sustainability (eg, plans to continue offering the lessons in the following year).</p><p>
+<bold>In-depth interviews</bold>. Using semi-structured interview guides, participants were asked about appropriateness of MA-CORD, barriers and facilitators to adoption, implementation fidelity, perceived intervention cost, and changes in activities over time. To examine sustainability of MA-CORD activities, participants were also asked about intervention reach based on links to activities in their school and community.</p><p>
+<bold>Internal records</bold>. For each community, we obtained a census roll of superintendents, principals, school nurses, school coordinators, wellness champions, and eligible teachers. These records were updated regularly on the basis of reports from internal research group meetings (eg, staff layoffs, medical leave) or delays in intervention activities (eg, snow days). Sign-in sheets indicated the number of teachers who completed the MA-CORD curriculum training.</p></sec><sec><title>Data analysis</title><p>We used SAS 9.3 (SAS Institute) to generate descriptive statistics including means, standard deviations, and frequencies for survey and internal record data. Interviews were digitally recorded, transcribed verbatim, and analyzed using NVivo 10 (QSR International). A coding scheme was developed based on a conceptual framework (<xref rid="R9" ref-type="bibr">9</xref>) and piloted with 5 transcripts among 3 coders to ensure internal consistency (<xref ref-type="app" rid="appC">Appendix C</xref>). Transcripts were double coded using the constant comparative method (<xref rid="R15" ref-type="bibr">15</xref>) to identify emergent themes, and discrepancies were discussed through peer review to clarify coded passages and resulting themes. Finalized themes within implementation outcome categories were coded and summarized within and across both MA-CORD communities (<xref ref-type="app" rid="appD">Appendix D</xref>). Qualitative and quantitative data were triangulated across outcomes to identify factors that influenced implementation.</p></sec></sec><sec sec-type="results"><title>Results</title><p>
+<xref ref-type="table" rid="T1">Table 1</xref> summarizes characteristics of communities, schools, students and staff. Quantitative and qualitative measures were used to assess outcomes based on the taxonomy for implementation research outcomes of Proctor et al (<xref rid="R9" ref-type="bibr">9</xref>) (<xref ref-type="table" rid="T2">Table 2</xref>). MA-CORD implementation barriers and facilitators were assessed during year 2 using in-depth interviews and summarized based on implementation outcomes (<xref ref-type="table" rid="T3">Table 3</xref>).</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Characteristics of Communities, Schools, Students, and Staff Members Participating in the MA-CORD Intervention, Massachusetts, 2012&#x02013;2014</title></caption><table frame="hsides" rules="groups"><col width="263" span="1"/><col width="69" span="1"/><col width="69" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Characteristic</th><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Community 1 </th><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Community 2</th></tr></thead><tbody><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Community</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Population total (</bold>
+<xref rid="R30" ref-type="bibr">30</xref>
+<bold>), n </bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">40,318</td><td valign="top" align="right" rowspan="1" colspan="1">95,072</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Race/ethnicity (</bold>
+<xref rid="R30" ref-type="bibr">30</xref>
+<bold>), % </bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">White</td><td valign="top" align="right" rowspan="1" colspan="1">68.2</td><td valign="top" align="right" rowspan="1" colspan="1">67.9</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hispanic </td><td valign="top" align="right" rowspan="1" colspan="1">21.6</td><td valign="top" align="right" rowspan="1" colspan="1">16.7</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">African American</td><td valign="top" align="right" rowspan="1" colspan="1">5.1</td><td valign="top" align="right" rowspan="1" colspan="1">6.4</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Multi-race, Non-Hispanic</td><td valign="top" align="right" rowspan="1" colspan="1">3.7</td><td valign="top" align="right" rowspan="1" colspan="1">5.7</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Asian</td><td valign="top" align="right" rowspan="1" colspan="1">3.6</td><td valign="top" align="right" rowspan="1" colspan="1">0.9</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Average per capita income </bold>(<xref rid="R30" ref-type="bibr">30</xref>)<bold>, $</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">22,620</td><td valign="top" align="right" rowspan="1" colspan="1">21,056</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Persons below poverty level </bold>(<xref rid="R30" ref-type="bibr">30</xref>)<bold>, %</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">20.6</td><td valign="top" align="right" rowspan="1" colspan="1">23.5</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>School</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Schools eligible to participate in MA-CORD<xref rid="T1FN1" ref-type="table-fn">a</xref> , n</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">6</td><td valign="top" align="right" rowspan="1" colspan="1">22</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Elementary schools</td><td valign="top" align="right" rowspan="1" colspan="1">4</td><td valign="top" align="right" rowspan="1" colspan="1">19</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Middle schools</td><td valign="top" align="right" rowspan="1" colspan="1">3</td><td valign="top" align="right" rowspan="1" colspan="1">3</td></tr><tr><td valign="top" colspan="3" align="left" scope="col" rowspan="1">
+<bold>Health education staff</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Schools with nurses, n</td><td valign="top" align="right" rowspan="1" colspan="1">6</td><td valign="top" align="right" rowspan="1" colspan="1">25</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Schools with a health education teacher, n (% of schools)</td><td valign="top" align="right" rowspan="1" colspan="1">6 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">3 (13.6)</td></tr><tr><td valign="top" colspan="3" align="left" scope="col" rowspan="1">
+<bold>District-wide staff retention rates, n (% of schools)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Superintendent</td><td valign="top" align="right" rowspan="1" colspan="1">1 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Principals</td><td valign="top" align="right" rowspan="1" colspan="1">7 (87.5)</td><td valign="top" align="right" rowspan="1" colspan="1">19 (79.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Teachers</td><td valign="top" align="right" rowspan="1" colspan="1">315 (92.9)</td><td valign="top" align="right" rowspan="1" colspan="1">777 (90.0)</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Teacher</bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Total eligible to teach MA-CORD curricula, n</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Year 1</td><td valign="top" align="right" rowspan="1" colspan="1">7</td><td valign="top" align="right" rowspan="1" colspan="1">117</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Year 2</td><td valign="top" align="right" rowspan="1" colspan="1">6</td><td valign="top" align="right" rowspan="1" colspan="1">122</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Female, % of eligible teachers </bold>(<xref rid="R31" ref-type="bibr">31</xref>)</td><td valign="top" align="right" rowspan="1" colspan="1">81.3</td><td valign="top" align="right" rowspan="1" colspan="1">81.4</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Race/ethnicity, % of eligible teachers </bold>(<xref rid="R31" ref-type="bibr">31</xref>)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">White</td><td valign="top" align="right" rowspan="1" colspan="1">90.5</td><td valign="top" align="right" rowspan="1" colspan="1">90.7</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hispanic</td><td valign="top" align="right" rowspan="1" colspan="1">6.8</td><td valign="top" align="right" rowspan="1" colspan="1">2.5</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">African American</td><td valign="top" align="right" rowspan="1" colspan="1">2.0</td><td valign="top" align="right" rowspan="1" colspan="1">5.7</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Multi-race, Non-Hispanic</td><td valign="top" align="right" rowspan="1" colspan="1">0.2</td><td valign="top" align="right" rowspan="1" colspan="1">0.6</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Asian</td><td valign="top" align="right" rowspan="1" colspan="1">0.5</td><td valign="top" align="right" rowspan="1" colspan="1">1.3</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Student</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Total eligible to receive MA-CORD curricula<xref rid="T1FN2" ref-type="table-fn">b</xref> (</bold>
+<xref rid="R31" ref-type="bibr">31</xref>
+<bold>), n </bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">1486</td><td valign="top" align="right" rowspan="1" colspan="1">3658</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Race/ethnicity, % of students (</bold>
+<xref rid="R31" ref-type="bibr">31</xref>
+<bold>)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">White</td><td valign="top" align="right" rowspan="1" colspan="1">38.2</td><td valign="top" align="right" rowspan="1" colspan="1">49.2</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Hispanic</td><td valign="top" align="right" rowspan="1" colspan="1">46.6</td><td valign="top" align="right" rowspan="1" colspan="1">31.1</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">African American</td><td valign="top" align="right" rowspan="1" colspan="1">5.8</td><td valign="top" align="right" rowspan="1" colspan="1">11.7</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Multi-race, Non-Hispanic</td><td valign="top" align="right" rowspan="1" colspan="1">5.7</td><td valign="top" align="right" rowspan="1" colspan="1">6.1</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Asian</td><td valign="top" align="right" rowspan="1" colspan="1">5.5</td><td valign="top" align="right" rowspan="1" colspan="1">0.8</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Low-income<xref rid="T1FN3" ref-type="table-fn">c</xref> (</bold>
+<xref rid="R31" ref-type="bibr">31</xref>
+<bold>)</bold>
+</td><td valign="top" align="right" rowspan="1" colspan="1">76.9</td><td valign="top" align="right" rowspan="1" colspan="1">73.4</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Engagement in Process Evaluation</bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Surveys of intervention readiness<xref rid="T1FN4" ref-type="table-fn">d</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Leaders<xref rid="T1FN5" ref-type="table-fn">e</xref>, n</td><td valign="top" align="right" rowspan="1" colspan="1">5</td><td valign="top" align="right" rowspan="1" colspan="1">18</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Teachers or nurses, n</td><td valign="top" align="right" rowspan="1" colspan="1">4</td><td valign="top" align="right" rowspan="1" colspan="1">49</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Qualitative interviews, n</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Schools represented in qualitative interviews, n (% of schools)<xref rid="T1FN6" ref-type="table-fn">f</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5 (83.3)</td><td valign="top" align="right" rowspan="1" colspan="1">11 (50.0)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Leaders<xref rid="T1FN5" ref-type="table-fn">e</xref>, n</td><td valign="top" align="right" rowspan="1" colspan="1">4</td><td valign="top" align="right" rowspan="1" colspan="1">2</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Teachers or nurses, n</td><td valign="top" align="right" rowspan="1" colspan="1">7</td><td valign="top" align="right" rowspan="1" colspan="1">10</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Year-end teacher curriculum surveys, n (% of teachers)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Year 1</td><td valign="top" align="right" rowspan="1" colspan="1">7 (100)</td><td valign="top" align="right" rowspan="1" colspan="1">51 (43.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Year 2</td><td valign="top" align="right" rowspan="1" colspan="1">5 (83.0)</td><td valign="top" align="right" rowspan="1" colspan="1">41 (33.6)</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviation: MA-CORD: Massachusetts Childhood Obesity Research Demonstration Project.</p></fn><fn id="T1FN1"><label>a</label><p> Community 1 consisted of 6 schools, but 1 school served kindergarten through eighth-grade students and was counted as both an elementary and a middle school.</p></fn><fn id="T1FN2"><label>b</label><p> Students enrolled in fourth, fifth, sixth, and seventh grade were eligible to receive the curricula used in MA-CORD.</p></fn><fn id="T1FN3"><label>c</label><p> Defined as being eligible for either free or reduced price lunch, transitional aid to families, or the Supplemental Nutrition Assistance Program based on family household income.</p></fn><fn id="T1FN4"><label>d</label><p> Intervention readiness surveys were distributed to MA-CORD school leaders and staff members (<xref ref-type="table" rid="T2">Table 2</xref>); participants were not identified by school.</p></fn><fn id="T1FN5"><label>e</label><p> School principals, superintendents, intervention coordinators, and MA-CORD wellness champions.</p></fn><fn id="T1FN6"><label>f</label><p> In-depth qualitative interviews conducted during year 1 of the intervention with school leaders (superintendent, principals, wellness champions), teachers, and nurses.</p></fn></table-wrap-foot></table-wrap><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2</label><caption><title>Outcomes of an Implementation Assessment of MA-CORD School-Based Intervention<xref rid="T2FN1" ref-type="table-fn">a</xref>, Massachusetts, 2012&#x02013;2014</title></caption><table frame="hsides" rules="groups"><col width="343" span="1"/><col width="66" span="1"/><col width="67" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Measures</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Community 1</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Community 2</th></tr></thead><tbody><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Acceptability<xref rid="T2FN2" ref-type="table-fn">b</xref></bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Beliefs of school leaders<xref rid="T2FN3" ref-type="table-fn">c</xref><sup>,</sup><xref rid="T2FN4" ref-type="table-fn">d</xref>, mean (standard deviation)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Commitment to prevent or reduce childhood obesity in the community</td><td valign="top" align="right" rowspan="1" colspan="1">4.9 (0.2)</td><td valign="top" align="right" rowspan="1" colspan="1">4.7 (0.2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Compatibility of program with organization&#x02019;s approach</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.8)</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.5)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Timing of implementation was good</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.7)</td><td valign="top" align="right" rowspan="1" colspan="1">4.0 (0.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Intervention will distract from other organizational priorities</td><td valign="top" align="right" rowspan="1" colspan="1">2.4 (0.7)</td><td valign="top" align="right" rowspan="1" colspan="1">1.7 (0.5)</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Beliefs of school staff members<xref rid="T2FN4" ref-type="table-fn">d</xref><sup>,</sup><xref rid="T2FN5" ref-type="table-fn">e</xref>, mean (standard deviation)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Commitment of staff to implementation</td><td valign="top" align="right" rowspan="1" colspan="1">4.2 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">3.8 (0.9)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Motivation of staff for implementation</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">3.6 (0.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Confidence of staff to implement tasks smoothly</td><td valign="top" align="right" rowspan="1" colspan="1">4.0 (0.8)</td><td valign="top" align="right" rowspan="1" colspan="1">3.6 <bold>(</bold>0.9)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Confidence of staff to handle implementation challenges</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">3.6 (0.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Confidence of staff members that organization can support them during transition to intervention</td><td valign="top" align="right" rowspan="1" colspan="1">4.3 (0.5)</td><td valign="top" align="right" rowspan="1" colspan="1">3.6 (0.8)</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Adoption<xref rid="T2FN6" ref-type="table-fn">f</xref></bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Teacher adoption of MA-CORD lessons, n (% of teachers)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Eligible teachers completed MA-CORD curriculum training in year 1<xref rid="T2FN7" ref-type="table-fn">g</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">84 (71.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Taught any MA-CORD lessons in year 1<xref rid="T2FN8" ref-type="table-fn">h</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">28 (59.6)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Taught any MA-CORD lessons in year 2<xref rid="T2FN9" ref-type="table-fn">i</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">39 (75.0)</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Appropriateness<xref rid="T2FN10" ref-type="table-fn">j</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0201c;Lessons I taught were a positive addition to my curriculum&#x0201d; (Agree or strongly agree)<xref rid="T2FN9" ref-type="table-fn">i</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">28 (100.0)</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Feasibility<xref rid="T2FN11" ref-type="table-fn">k</xref>/Perceived Implementation Cost<xref rid="T2FN12" ref-type="table-fn">l</xref></bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Beliefs of MA-CORD eligible teachers, n (%)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0201c;I felt competent to teach the content&#x0201d; (agree or strongly agree)<xref rid="T2FN9" ref-type="table-fn">i</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">6 (85.7)</td><td valign="top" align="right" rowspan="1" colspan="1">25 (56.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">&#x0201c;Overall, the effort required to obtain needed materials not provided [by MiM Kids] was acceptable&#x0201d;<xref rid="T2FN9" ref-type="table-fn">i</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">4 (80.0)</td><td valign="top" align="right" rowspan="1" colspan="1">29 (90.6)</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Beliefs of school leaders<xref rid="T2FN3" ref-type="table-fn">c</xref><sup>,</sup><xref rid="T2FN4" ref-type="table-fn">d</xref>, mean (standard deviation)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Organization has resources necessary for implementation</td><td valign="top" align="right" rowspan="1" colspan="1">3.5 (0.8)</td><td valign="top" align="right" rowspan="1" colspan="1">3.8 (0.8)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Organization can manage risks associated with implementation</td><td valign="top" align="right" rowspan="1" colspan="1">3.7 (1.0)</td><td valign="top" align="right" rowspan="1" colspan="1">3.7 (0.5)</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Implementation Fidelity<xref rid="T2FN13" ref-type="table-fn">m</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Lessons taught from MA-CORD curriculum in year 1 (mean, SD)<xref rid="T2FN14" ref-type="table-fn">n</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.8 (2.7) </td><td valign="top" align="right" rowspan="1" colspan="1">3.6 (2.5)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Lessons taught from MA-CORD curriculum in year 2 (mean, SD)<xref rid="T2FN14" ref-type="table-fn">n</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5.2 (3.0) </td><td valign="top" align="right" rowspan="1" colspan="1">4.5 (2.8)</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Reach<xref rid="T2FN15" ref-type="table-fn">o</xref></bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Estimated number of students who received MA-CORD curriculum<xref rid="T2FN8" ref-type="table-fn">h</xref> (<xref rid="R31" ref-type="bibr">31</xref>)</td><td valign="top" align="right" rowspan="1" colspan="1">1,486</td><td valign="top" align="right" rowspan="1" colspan="1">2,262</td></tr><tr><td colspan="3" valign="top" align="center" scope="col" rowspan="1">
+<bold>Sustainability<xref rid="T2FN16" ref-type="table-fn">p</xref></bold>
+</td></tr><tr><td colspan="3" valign="top" align="left" scope="col" rowspan="1">
+<bold>Teachers sustaining MA-CORD curriculum, n (%)</bold>
+</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Plan to teach curriculum after year 1 (yes vs no/undecided)<xref rid="T2FN8" ref-type="table-fn">h</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">7 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">40 (83.3)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">Plan to teach curriculum after year 2 (yes vs no/undecided)<xref rid="T2FN9" ref-type="table-fn">i</xref>
+</td><td valign="top" align="right" rowspan="1" colspan="1">5 (100.0)</td><td valign="top" align="right" rowspan="1" colspan="1">29 (76.3)</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: MA-CORD, Massachusetts Childhood Obesity Research Demonstration Project; MiM KIDS, Mass in Motion KIDS intervention.</p></fn><fn id="T2FN1"><label>a</label><p> The community-level name for the intervention that was part of the larger MA-CORD project was MiM KIDS.</p></fn><fn id="T2FN2"><label>b</label><p> Acceptability is the initial perception of the intervention&#x02019;s fit.</p></fn><fn id="T2FN3"><label>c</label><p> Data obtained from survey of leaders in the school sector (administrators, principals, school wellness champions) using an adapted version of the Adoption Decision Questionnaire: Community 1 (n = 5), Community 2 (n = 18).</p></fn><fn id="T2FN4"><label>d</label><p> Response options ranged from 1 (strongly disagree) to 5 (strongly agree).</p></fn><fn id="T2FN5"><label>e</label><p> Data obtained from survey of staff members in the school sector (teachers, school nurses) using an adapted version of the Organizational Readiness for Change Questionnaire: Community 1 (n=4), Community 2 (n = 49).</p></fn><fn id="T2FN6"><label>f</label><p> Adoption in initial participation.</p></fn><fn id="T2FN7"><label>g</label><p> Based on sign-in sheets and internal records.</p></fn><fn id="T2FN8"><label>h</label><p> Data obtained from year 1 curriculum survey of staff members eligible to teach MA-CORD curriculum: Community 1 (n = 7), Community 2 (n = 51).</p></fn><fn id="T2FN9"><label>i</label><p> Data obtained from year 2 curriculum survey of staff members eligible to teach MA-CORD curriculum: Community 1 (n = 5), Community 2 (n = 41).</p></fn><fn id="T2FN10"><label>j</label><p>Appropriateness is the perception of MiM Kids as being good for teachers/children</p></fn><fn id="T2FN11"><label>k</label><p> Feasibility is the actual fit/compatibility of conducting MiM Kids activities in a school setting.</p></fn><fn id="T2FN12"><label>l</label><p>Perceived implementation cost refers to the resources required to conduct activities (eg, financial, time, parent support).</p></fn><fn id="T2FN13"><label>m</label><p> Implementation fidelity is the quantity and quality of MiM Kids activities conducted.</p></fn><fn id="T2FN14"><label>n</label><p> Compared with goal of 6 MA-CORD lessons taught per year.</p></fn><fn id="T2FN15"><label>o</label><p> Reach is the impact of MiM Kids on students, parents, staff, and community.</p></fn><fn id="T2FN16"><label>p</label><p> Sustainability is the continuation/institutionalization of MiM Kids activities.</p></fn></table-wrap-foot></table-wrap><table-wrap id="T3" orientation="portrait" position="float"><label>Table 3</label><caption><title>Barriers and Facilitators to Implementation of the MA-CORD School-Based Intervention Based on In-Depth Interviews of School Administrators, Teachers, and Nurses (n = 23)<xref rid="T3FN1" ref-type="table-fn">a</xref>, Massachusetts, 2013&#x02013;2014</title></caption><table frame="hsides" rules="groups"><col width="139" span="1"/><col width="155" span="1"/><col width="172" span="1"/><thead><tr><th valign="bottom" align="left" scope="col" rowspan="1" colspan="1">Implementation Outcome Constructs</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Facilitators<xref rid="T3FN2" ref-type="table-fn">b</xref>
+</th><th valign="bottom" align="center" scope="col" rowspan="1" colspan="1">Barriers<xref rid="T3FN2" ref-type="table-fn">b</xref>
+</th></tr></thead><tbody><tr><td rowspan="3" valign="top" align="left" scope="row" colspan="1">
+<bold>Acceptability<xref rid="T3FN3" ref-type="table-fn">c</xref></bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">Principal is a champion for health activities</td><td valign="top" align="left" rowspan="1" colspan="1">Pressure of standardized testing or academic demands in district</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Existing wellness initiatives and policies (C1)</td><td valign="top" align="left" rowspan="1" colspan="1">New superintendent and administrative turnover (C2)</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">School nurses and health education teachers found the project fit well within their work tasks</td><td valign="top" align="left" rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="3" valign="top" align="left" scope="row" colspan="1">
+<bold>Adoption<xref rid="T3FN4" ref-type="table-fn">d</xref></bold>
+</td><td rowspan="3" valign="top" align="left" colspan="1">Rapport between wellness champions and the staff</td><td valign="top" align="left" rowspan="1" colspan="1">Weather interrupting trainings (C2)</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Lack of time for teachers to attend trainings</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Teachers not informed about intervention (C2)</td></tr><tr><td rowspan="3" valign="top" align="left" scope="row" colspan="1">
+<bold>Appropriateness<xref rid="T3FN5" ref-type="table-fn">e</xref></bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">Training and curricula were well-received</td><td rowspan="3" valign="top" align="left" colspan="1">Concerns about messages that children do not have control over (eg, safe outdoor play, sleep environments)</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Message appropriate for students</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Teachers liked being part of a larger movement across schools</td></tr><tr><td rowspan="3" valign="top" align="left" scope="row" colspan="1">
+<bold>Feasibility<xref rid="T3FN6" ref-type="table-fn">f</xref>/implementation fidelity<xref rid="T3FN7" ref-type="table-fn">g</xref></bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">A champion at the school who maintains enthusiasm</td><td valign="top" align="left" rowspan="1" colspan="1">Lack of time for teachers to teach lessons</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Using students to engage other students</td><td valign="top" align="left" rowspan="1" colspan="1">Competing priorities with other schoolwide campaigns</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Technical assistance to change policies in the school</td><td valign="top" align="left" rowspan="1" colspan="1">Principal and teacher turnover (C2)</td></tr><tr><td valign="top" align="left" scope="row" rowspan="1" colspan="1">
+<bold>Perceived implementation cost<xref rid="T3FN8" ref-type="table-fn">h</xref></bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">Providing physical activity equipment to schools (C2)</td><td valign="top" align="left" rowspan="1" colspan="1">Inadequate printing resources to provide materials for conducting lessons</td></tr><tr><td rowspan="4" valign="top" align="left" scope="row" colspan="1">
+<bold>Reach<xref rid="T3FN9" ref-type="table-fn">i</xref></bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">School-wide integration of messaging</td><td rowspan="4" valign="top" align="left" colspan="1">Limited collaboration between some sectors</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Linkages with other school health priorities</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Media coverage</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Children bringing messages home from school</td></tr><tr><td rowspan="3" valign="top" align="left" scope="row" colspan="1">
+<bold>Sustainability<xref rid="T3FN10" ref-type="table-fn">j</xref></bold>
+</td><td valign="top" align="left" rowspan="1" colspan="1">Health education teachers implementing curriculum</td><td valign="top" align="left" rowspan="1" colspan="1">Staff turnover</td></tr><tr><td valign="top" colspan="1" align="left" scope="row" rowspan="1">Enjoyable activities that are adopted long-term</td><td valign="top" align="left" rowspan="1" colspan="1">Lack of ongoing leadership</td></tr><tr><td valign="top" colspan="1" align="left" scope="col" rowspan="1">Intervention involvement acknowledged in teacher evaluations</td><td valign="top" align="left" rowspan="1" colspan="1">
+</td></tr></tbody></table><table-wrap-foot><fn><p>Abbreviations: C1, Community 1; C2, Community 2; MA-CORD Project, Massachusetts Childhood Obesity Research Demonstration Study.</p></fn><fn id="T3FN1"><label>a</label><p> Based on sample of 11 school staff members in Community 1 and 12 school staff members in Community 2.</p></fn><fn id="T3FN2"><label>b</label><p> Themes reported in both communities unless otherwise specified.</p></fn><fn id="T3FN3"><label>c</label><p> Acceptability: Initial perception of intervention fit.</p></fn><fn id="T3FN4"><label>d</label><p> Adoption: Initial participation.</p></fn><fn id="T3FN5"><label>e</label><p> Appropriateness: Perception of Mass in Motion [MiM] Kids being good for teachers/children (MiM KIDS was the community-level name for the intervention that was part of the larger MA-CORD project).</p></fn><fn id="T3FN6"><label>f</label><p> Feasibility: Actual fit/compatibility of conducting MiM Kids activities in school setting.</p></fn><fn id="T3FN7"><label>g</label><p> Implementation Fidelity: Quantity and quality of MiM Kids activities conducted.</p></fn><fn id="T3FN8"><label>h</label><p> Perceived implementation cost: Resources required to conduct activities.</p></fn><fn id="T3FN9"><label>i</label><p> Reach: Impact of MiM Kids on students, parents, staff, and community.</p></fn><fn id="T3FN10"><label>j</label><p> Sustainability: Continuation/institutionalization of MiM Kids activities.</p></fn></table-wrap-foot></table-wrap><p>
+<bold>Acceptability</bold>. Before the intervention, leaders in both districts reported high levels of support for MA-CORD (<xref ref-type="table" rid="T2">Table 2</xref>
+<bold>)</bold>. Among school staff members, scores for organizational commitment, motivation, and confidence in their school&#x02019;s ability to support MA-CORD were lower in Community 2 than Community 1. In interviews, staff members in Community 2 discussed concerns about changing administrative priorities and focusing on standardized testing, which competed with outside activities. Acceptability facilitators were preexisting wellness activities related to nutrition and physical activity, parental involvement, and strong principal support.</p><p>
+<bold>Adoption</bold>. Teachers in both communities participated in MA-CORD curriculum training (C1:100%; C2:72%) and in a curriculum survey in year 1, which assessed initial adoption (C1:100%; C2:44%). Most teachers reported teaching at least one lesson during both year 1 (C1:100%, C2:60%) and year 2 (C1:100%; C2:75%) (<xref ref-type="table" rid="T2">Table 2</xref>). During interviews, participants from Community 2 described difficulty coordinating afterschool schedules of teachers for training sessions. Teachers in both communities described motivated wellness champions as a driving force behind adoption of MA-CORD lesson plans.</p><p>
+<bold>Appropriateness</bold>. In interviews, teachers and staff members in both communities reported that MA-CORD training and curricula were appropriate for their students and teaching priorities. In curriculum surveys, teachers in both communities unanimously agreed (n = 35, 100%) that the lessons were a positive addition to their curriculum.</p><p>
+<bold>Feasibility</bold>. Although teachers in both communities reported being able to obtain necessary lesson materials (&#x0003e;80%), fewer teachers in Community 2 reported feeling competent to teach the content (Community 2, 57% vs Community 1, 86%). In interviews, participants across both communities identified competing priorities for teachers&#x02019; time as barriers to administering classroom lessons. Standardized tests, statewide campaigns (anti-bullying curriculum), and general burnout were cited as barriers to the staff teaching lessons on wellness or being involved in wellness activities.</p><p>
+<bold>Implementation fidelity</bold>. In year 1, teachers in Community 1 nearly met the teaching goal of 6 MA-CORD lessons per year (mean, 5.8: standard deviation [SD], 2.7); Community 2 reported fewer lessons (mean, 3.6; SD, 2.5) (<xref ref-type="fig" rid="F2">Figure 2</xref>). In year 2, mean lessons taught dropped slightly for Community 1 and increased for Community 2. In Community 2, administrative changes, including a new superintendent, principal turnover, and district-wide teacher layoffs, were described in interviews as barriers to implementation fidelity.</p><fig id="F2" fig-type="figure" orientation="portrait" position="float"><label>Figure 2</label><caption><p>MA-CORD Implementation Fidelity: Curriculum lessons taught by 4th, 5th, 6th, and 7th grade school teachers, Massachusetts, 2012&#x02013;2014. Using end-of-year surveys, teachers reported the number of lessons taught from the MA-CORD curricula, which were adapted from &#x0201c;Eat Well and Keep Moving&#x0201d; and &#x0201c;Planet Health&#x0201d; (Appendix A).</p><p>
+<table-wrap orientation="portrait" id="d35e1606" position="anchor"><table frame="hsides" rules="groups"><col width="49" span="1"/><col width="103" span="1"/><col width="85" span="1"/><thead><tr><th rowspan="2" valign="bottom" align="left" scope="col" colspan="1">Year</th><th valign="middle" align="left" scope="col" rowspan="1" colspan="1">Community 1</th><th valign="middle" align="left" scope="col" rowspan="1" colspan="1">Community 2</th></tr><tr><th valign="bottom" colspan="2" align="center" scope="colgroup" rowspan="1"><hr/>Mean (Standard Deviation)</th></tr></thead><tbody><tr><td valign="bottom" align="left" scope="row" rowspan="1" colspan="1">1</td><td valign="bottom" align="right" rowspan="1" colspan="1">5.8 (2.7)</td><td valign="bottom" align="right" rowspan="1" colspan="1">3.6 (2.5)</td></tr><tr><td valign="bottom" align="left" scope="row" rowspan="1" colspan="1">2</td><td valign="bottom" align="right" rowspan="1" colspan="1">5.2 (3.0)</td><td valign="bottom" align="right" rowspan="1" colspan="1">4.5 (2.8)</td></tr></tbody></table></table-wrap>
+</p></caption><graphic xlink:href="PCD-14-E03s02"/></fig><p>
+<bold>Perceived implementation cost</bold>. In surveys, school leaders in both communities were neutral or agreed that their schools had resources to support MA-CORD and could manage risks associated with implementing the intervention. In interviews, leaders and staff members in both communities reported satisfaction with the availability of supplies and resources needed to implement activities. Community 2 staff members reported receiving physical activity play equipment as a major benefit of MA-CORD participation.</p><p>
+<bold>Reach</bold>. On the basis of the number of 4th through 7th grade students eligible to receive the intervention; (Community1: 1,486; Community 2: 3,658) (<xref ref-type="table" rid="T1">Table 1</xref>) and the percentage of eligible teachers who completed trainings (Community 1, 100%; Community 2, 72%) (<xref ref-type="table" rid="T2">Table 2</xref>), we estimate that 1,486 students in Community 1 (100%) and 2,626 students in Community 2 (72%) were reached by the intervention. In interviews, leaders and staffs in both communities reported classroom activities effectively tied into larger school and city-wide campaigns, thus increasing student and family awareness.</p><p>
+<bold>Sustainability</bold>. In end-of-year curriculum surveys in year 2, most teachers in Community 1 (100%, n = 5) and Community 2 (76%, n = 29) reportedly planned to continue teaching MA-CORD lessons. In interviews, staff members described health teachers as strong implementers of the curriculum. One principal made MA-CORD activities part of teachers&#x02019; professional evaluation, ensuring MA-CORD lessons would be sustained through supervisory accountability. Barriers to long-term sustainability were teacher turnover, lack of ongoing leadership from principals, or lack of active wellness champions.</p></sec><sec sec-type="discussion"><title>Discussion</title><p>Our study describes barriers and facilitators to implementing a school-based obesity intervention in 2 low-income communities. MA-CORD was adopted at a rate comparable to similar classroom-based lifestyle interventions (<xref rid="R16" ref-type="bibr">16</xref>&#x02013;<xref rid="R18" ref-type="bibr">18</xref>) in districts facing competing priorities. Understanding factors facilitating implementation is necessary to develop targeted technical assistance and resources for successful implementation. Our findings provide insight into benefits of pre-intervention assessment of staff readiness and selection of ideal teachers and curricula to ensure activities are integrated and sustained in schools. Our study yielded 4 key lessons learned:</p><p>
+<bold>Lesson 1: Assess organizational readiness of all staff members.</bold> Strong leadership support for MA-CORD existed in both communities at baseline, but implementers (ie, teachers, nurses) in Community 2 reported lower perceived readiness to implement MA-CORD than did implementers in Community 1. In fact, proportionally fewer teachers in Community 2 engaged in training, taught lessons, completed curriculum surveys, or planned to sustain lessons post-intervention. These teachers described administrative shifts and staff turnover (45% of schools in Community 2 received new principals), in contrast with administratively stable Community 1, which also had a history of parent involvement and wellness activities before MA-CORD.</p><p>Health education teachers administered lessons in Community 1, whereas a mix of health education teachers and classroom teachers in Community 2 administered them. In low-resourced communities with few health education teachers, additional strategies to identify motivated teachers or parents could be beneficial. Lack of parental involvement is reported as a barrier to implementation in school-based obesity prevention projects serving low-income children (<xref rid="R19" ref-type="bibr">19</xref>,<xref rid="R20" ref-type="bibr">20</xref>). Interviewees suggested parents could support teachers delivering MA-CORD lessons by bringing healthy snacks to taste-test or by planning school wellness events. In future projects, school leaders should consider collaboratively addressing barriers to implementation by increasing parental involvement before launching intervention activities.</p><p>
+<bold>Lesson 2: Identify and support passionate wellness champions.</bold> Using school wellness champions was one of the strongest reported facilitators of MA-CORD implementation, consistent with previous research indicating the use of outside staff to implement an intervention significantly reduced its likelihood of being sustained (<xref rid="R21" ref-type="bibr">21</xref>). We found that champions who were health education teachers or nurses reported the highest satisfaction with their role because it fit well with their job description. In Community 2, busy principals and classroom teachers served as wellness champions, but some colleagues reported waning support from them because of shifting administrative priorities over time.</p><p>Although some schools may not have health education teachers or nurses who can take on additional roles, investigators may increase engagement and buy-in from champions by using strategies adapted from workplace wellness programs: ongoing training, recognition, and incentive programs linked with key intervention outcomes (<xref rid="R22" ref-type="bibr">22</xref>,<xref rid="R23" ref-type="bibr">23</xref>). Wellness champions who efficiently train and motivate busy teachers to adopt new classroom activities play a critical role in implementation success. These champions are also likely to support overall district and school-level wellness policy implementation.</p><p>
+<bold>Lesson 3: Build on existing curricula combined with incentives</bold>. Tailored messaging and print materials are valuable contributors to successful obesity-related intervention outcomes in school-based settings (<xref rid="R24" ref-type="bibr">24</xref>). In our study, teachers consistently conveyed satisfaction with the lesson plans and print materials adapted from existing interventions. For example, one <italic>Eat Well and Keep Moving</italic> lesson titled &#x0201c;Sugar Water: Think about Your Drink,&#x0201d; contained activities crossing various core curricula (eg, multiplication to find grams of sugar in soda, interpreting a soda can label). Obesity prevention lessons that fulfill multiple core classroom subjects support adoption and sustainability of intervention activities in schools (<xref rid="R18" ref-type="bibr">18</xref>). Curriculum delivery was maximized by incentivizing aspects of program participation with grant funding. Teachers were compensated for attending MA-CORD training sessions after school or they attended sessions during the school day, which probably contributed to greater than 70% teacher participation in both communities. As an additional incentive, some schools received play equipment such as balls and hula hoops, which promoted active indoor play during winter months and supported the intervention&#x02019;s physical activity goal.</p><p>
+<bold>Lesson 4: Sustainability is maximized through ongoing training and institutional adoption</bold>. Teachers who continued to teach MA-CORD lessons beyond year 1 of the intervention described having a wellness champion who offered ongoing support through formal and informal training. Both in our study and elsewhere, staff turnover is a barrier to intervention sustainability in schools, because repeated training is expensive and difficult to coordinate across campuses (<xref rid="R25" ref-type="bibr">25</xref>&#x02013;<xref rid="R27" ref-type="bibr">27</xref>). However, we identified sustainable strategies, which included incorporating the curricula into lesson plans that continued year-to-year (eg, math lessons, writing), acknowledging MA-CORD activities in performance evaluations, and schoolwide policies supporting messages taught during lessons (eg, no sugary drinks on campus). Additionally, online training modules are being considered as a low-cost way to train a school&#x02019;s staff on health topics (<xref rid="R28" ref-type="bibr">28</xref>) and could be a way to overcome issues related to staff turnover. One study found no significant difference in adoption of an after-school nutrition and physical activity intervention when the staff were trained online versus face-to-face (<xref rid="R29" ref-type="bibr">29</xref>).</p><p>As in other process analyses, our study&#x02019;s findings rely on self-report from a convenience sample (<xref rid="R17" ref-type="bibr">17</xref>). In one community, nearly half of eligible teachers did not complete follow-up curriculum surveys, reflecting possible unmeasured levels of implementation in nonparticipating schools. Because student-level data were not collected because of privacy restrictions, we based our estimate of reach on the number of eligible students and percentage of eligible teachers who attended MA-CORD trainings. Although small sample sizes limited our ability to generalize beyond our population, using mixed methods offered detailed context, which may be useful for others working to implement similar programs in resource-poor schools. Because long-term follow-up data beyond the intervention period were not available, we could not assess the intervention&#x02019;s long-term sustainability.</p><p>To improve child health and maximize limited resources, there remains a need for continued collection and publication of both quantitative and qualitative process evaluation data describing school-based obesity prevention interventions. Sharing null findings, barriers, and implementation failure is critical to refining and promoting best practices in implementation to identify strategies to encourage sustainable changes in schools.</p></sec></body><back><ack><title>Acknowledgments</title><p>Rachel E. Blaine and Rebecca L. Franckle contributed equally to this article and are co-first authors. This study was supported by the Centers for Disease Control and Prevention (CDC), National Center for Chronic Disease Prevention and Health Promotion (award: U18DP003370). R.E.B. was supported by a National Institutes of Health (NIH) Doctoral Training Grant in Cancer Epidemiology (no. T32CA0900). R.L.F. was supported by predoctoral (T32DK007703) and postdoctoral (T32HL098048) training grants from NIH. J.F. was supported by an American Heart Association postdoctoral fellowship (14POST20140055). The work is solely the responsibility of the authors and does not represent official views of the CDC or the NIH.</p></ack><fn-group><fn><p>The opinions expressed by authors contributing to this journal do not necessarily reflect the opinions of the U.S. Department of Health and Human Services, the Public Health Service, the Centers for Disease Control and Prevention, or the authors' affiliated institutions.</p></fn><fn><p>
+<italic>Suggested citation for this article:</italic> Blaine RE, Franckle RL, Ganter C, Falbe J, Giles C, Criss S, et al. Using School Staff Members to Implement a Childhood Obesity Prevention Intervention in Low-Income School Districts: the Massachusetts Childhood Obesity Research Demonstration (MA-CORD Project), 2012&#x02013;2014. Prev Chronic Dis 2017;14:160381. DOI: <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5888/pcd14.160381">https://doi.org/10.5888/pcd14.160381</ext-link>.</p></fn></fn-group><app-group><app id="appA"><title>Appendix A &#x02013; Questionnaires Used in Process Evaluation of School Intervention</title><p>This file is available for download as a Microsoft Word file.<media mimetype="application" mime-subtype="word" xlink:href="16_0381AppendixA.docx" id="m1" orientation="portrait" xlink:type="simple" position="anchor"/>
+</p></app><app id="appB"><title>Appendix B &#x02013; Interview Guides</title><p>This file is available for download as a Microsoft Word file.<media mimetype="application" mime-subtype="word" xlink:href="16_0381AppendixB.docx" id="m2" orientation="portrait" xlink:type="simple" position="anchor"/>
+</p></app><app id="appC"><title>Appendix C &#x02013; Interview Coding Scheme</title><p>This file is available for download as a Microsoft Word file.<media mimetype="application" mime-subtype="word" xlink:href="16_0381AppendixC.docx" id="m3" orientation="portrait" xlink:type="simple" position="anchor"/>
+</p></app><app id="appD"><title>Appendix D &#x02013; Key Illustrative Quotes Obtained From Qualitative Interviews of School Staff Members Participating in MA-CORD in Massachusetts, 2012&#x02013;2013 (n = 23)</title><p>This file is available for download as a Microsoft Word file.<media mimetype="application" mime-subtype="word" xlink:href="16_0381AppendixD.docx" id="m4" orientation="portrait" xlink:type="simple" position="anchor"/>
+</p></app></app-group><ref-list><title>References</title><ref id="R1"><label>1. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Pan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>May</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Wethington</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dalenius</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Grummer-Strawn</surname>
+<given-names>LM</given-names>
+</string-name>. <article-title>Incidence of obesity among young US children living in low-income families, 2008&#x02013;2011.</article-title>
+<source>Pediatrics</source>
+<year>2013</year>;<volume>132</volume>(<issue>6</issue>):<fpage>1006</fpage>&#x02013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1542/peds.2013-2145</pub-id>
+<?supplied-pmid 24276843?><pub-id pub-id-type="pmid">24276843</pub-id></mixed-citation></ref><ref id="R2"><label>2. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ogden</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Carroll</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Fryar</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Flegal</surname>
+<given-names>KM</given-names>
+</string-name>. <article-title>Prevalence of obesity among adults and youth: United States, 2011&#x02013;2014.</article-title>
+<source>NCHS Data Brief</source>
+<year>2015</year>;(<issue>219</issue>):<fpage>1</fpage>&#x02013;<lpage>8</lpage>.
+<?supplied-pmid 26633046?><pub-id pub-id-type="pmid">26633046</pub-id></mixed-citation></ref><ref id="R3"><label>3. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gortmaker</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>LWY</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Chomitz</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cradle</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Dart</surname>
+<given-names>H</given-names>
+</string-name>, <etal/>
+<article-title>Impact of a school-based interdisciplinary intervention on diet and physical activity among urban primary school children: eat well and keep moving.</article-title>
+<source>Arch Pediatr Adolesc Med</source>
+<year>1999</year>;<volume>153</volume>(<issue>9</issue>):<fpage>975</fpage>&#x02013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1001/archpedi.153.9.975</pub-id>
+<?supplied-pmid 10482216?><pub-id pub-id-type="pmid">10482216</pub-id></mixed-citation></ref><ref id="R4"><label>4. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gortmaker</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wiecha</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sobol</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Dixit</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>MK</given-names>
+</string-name>, <etal/>
+<article-title>Reducing obesity via a school-based interdisciplinary intervention among youth: Planet Health.</article-title>
+<source>Arch Pediatr Adolesc Med</source>
+<year>1999</year>;<volume>153</volume>(<issue>4</issue>):<fpage>409</fpage>&#x02013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1001/archpedi.153.4.409</pub-id>
+<?supplied-pmid 10201726?><pub-id pub-id-type="pmid">10201726</pub-id></mixed-citation></ref><ref id="R5"><label>5. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>James</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cavan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kerr</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Preventing childhood obesity by reducing consumption of carbonated drinks: cluster randomised controlled trial.</article-title>
+<source>BMJ</source>
+<year>2004</year>;<volume>328</volume>(<issue>7450</issue>):<fpage>1237</fpage>. <pub-id pub-id-type="doi">10.1136/bmj.38077.458438.EE</pub-id>
+<?supplied-pmid 15107313?><pub-id pub-id-type="pmid">15107313</pub-id></mixed-citation></ref><ref id="R6"><label>6. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Summerbell</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Waters</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Edmunds</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>KJ</given-names>
+</string-name>. <article-title>Interventions for preventing obesity in children.</article-title>
+<source>Cochrane Database Syst Rev</source>
+<year>2005</year>;<volume>3</volume>(<issue>3</issue>):<fpage>CD001871</fpage>.
+<?supplied-pmid 16034868?><pub-id pub-id-type="pmid">16034868</pub-id></mixed-citation></ref><ref id="R7"><label>7. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Khambalia</surname>
+<given-names>AZ</given-names>
+</string-name>, <string-name>
+<surname>Dickinson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Baur</surname>
+<given-names>LA</given-names>
+</string-name>. <article-title>A synthesis of existing systematic reviews and meta-analyses of school-based behavioural interventions for controlling and preventing obesity.</article-title>
+<source>Obes Rev</source>
+<year>2012</year>;<volume>13</volume>(<issue>3</issue>):<fpage>214</fpage>&#x02013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1111/j.1467-789X.2011.00947.x</pub-id>
+<?supplied-pmid 22070186?><pub-id pub-id-type="pmid">22070186</pub-id></mixed-citation></ref><ref id="R8"><label>8. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Taveras</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Blaine</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Davison</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Gortmaker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Anand</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Falbe</surname>
+<given-names>J</given-names>
+</string-name>, <etal/>
+<article-title>Design of the Massachusetts Childhood Obesity Research Demonstration (MA-CORD) study.</article-title>
+<source>Child Obes</source>
+<year>2015</year>;<volume>11</volume>(<issue>1</issue>):<fpage>11</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">25469676</pub-id></mixed-citation></ref><ref id="R9"><label>9. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Proctor</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Silmere</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Raghavan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hovmand</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Aarons</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bunger</surname>
+<given-names>A</given-names>
+</string-name>, <etal/>
+<article-title>Outcomes for implementation research: conceptual distinctions, measurement challenges, and research agenda.</article-title>
+<source>Adm Policy Ment Health</source>
+<year>2011</year>;<volume>38</volume>(<issue>2</issue>):<fpage>65</fpage>&#x02013;<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1007/s10488-010-0319-7</pub-id>
+<?supplied-pmid 20957426?><pub-id pub-id-type="pmid">20957426</pub-id></mixed-citation></ref><ref id="R10"><label>10. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Davison</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Falbe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Taveras</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Gortmaker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kulldorff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>
+<given-names>M</given-names>
+</string-name>, <etal/>
+<article-title>Evaluation Overview for the Massachusetts Childhood Obesity Research Demonstration (MA-CORD) project.</article-title>
+<source>Child Obes</source>
+<year>2015</year>;<volume>11</volume>(<issue>1</issue>):<fpage>23</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">25575095</pub-id></mixed-citation></ref><ref id="R11"><label>11. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Creswell</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>VLP</given-names>
+</string-name>. Designing and conducting mixed methods research. 2nd ed. Thousand Oaks (CA): Sage Publications; <year>2007</year>.</mixed-citation></ref><ref id="R12"><label>12. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Shea</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Esserman</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Bruce</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>BJ</given-names>
+</string-name>. <article-title>Organizational readiness for implementing change: a psychometric assessment of a new measure.</article-title>
+<source>Implement Sci</source>
+<year>2014</year>;<volume>9</volume>:<fpage>7</fpage>. <pub-id pub-id-type="doi">10.1186/1748-5908-9-7</pub-id>
+<?supplied-pmid 24410955?><pub-id pub-id-type="pmid">24410955</pub-id></mixed-citation></ref><ref id="R13"><label>13. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Holt</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Armenakis</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Feild</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Readiness for organizational change the systematic development of a scale.</article-title>
+<source>J Appl Behav Sci</source>
+<year>2007</year>;<volume>43</volume>(<issue>2</issue>):<fpage>232</fpage>&#x02013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1177/0021886306295295</pub-id>
+</mixed-citation></ref><ref id="R14"><label>14. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Jacobs</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Bunger</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Context matters: measuring implementation climate among individuals and groups.</article-title>
+<source>Implement Sci</source>
+<year>2014</year>;<volume>9</volume>(<issue>1</issue>):<fpage>46</fpage>. <pub-id pub-id-type="doi">10.1186/1748-5908-9-46</pub-id>
+<?supplied-pmid 24742308?><pub-id pub-id-type="pmid">24742308</pub-id></mixed-citation></ref><ref id="R15"><label>15. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Grove</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>An analysis of the constant comparative method.</article-title>
+<source>Int J Qual Stud Educ</source>
+<year>1988</year>;<volume>1</volume>(<issue>3</issue>):<fpage>273</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1080/0951839900030105a</pub-id>
+</mixed-citation></ref><ref id="R16"><label>16. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lee</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Contento</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Using a systematic conceptual model for a process evaluation of a middle school obesity risk-reduction nutrition curriculum intervention: choice, control &#x00026; change.</article-title>
+<source>J Nutr Educ Behav</source>
+<year>2013</year>;<volume>45</volume>(<issue>2</issue>):<fpage>126</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/j.jneb.2012.07.002</pub-id>
+<?supplied-pmid 23321021?><pub-id pub-id-type="pmid">23321021</pub-id></mixed-citation></ref><ref id="R17"><label>17. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gibson</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Dubose</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Bailey</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>SL</given-names>
+</string-name>, <etal/>
+<article-title>Physical activity across the curriculum: year one process evaluation results.</article-title>
+<source>Int J Behav Nutr Phys Act</source>
+<year>2008</year>;<volume>5</volume>(<issue>1</issue>):<fpage>36</fpage>. <pub-id pub-id-type="doi">10.1186/1479-5868-5-36</pub-id>
+<?supplied-pmid 18606013?><pub-id pub-id-type="pmid">18606013</pub-id></mixed-citation></ref><ref id="R18"><label>18. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wiecha</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>El Ayadi</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Fuemmeler</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Handler</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>S</given-names>
+</string-name>, <etal/>
+<article-title>Diffusion of an integrated health education program in an urban school system: planet health.</article-title>
+<source>J Pediatr Psychol</source>
+<year>2004</year>;<volume>29</volume>(<issue>6</issue>):<fpage>467</fpage>&#x02013;<lpage>74</lpage>. <pub-id pub-id-type="doi">10.1093/jpepsy/jsh050</pub-id>
+<?supplied-pmid 15277589?><pub-id pub-id-type="pmid">15277589</pub-id></mixed-citation></ref><ref id="R19"><label>19. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Schetzina</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Dalton</surname>
+<given-names>WT</given-names>
+<suffix>3d</suffix>
+</string-name>, <string-name>
+<surname>Lowe</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Azzazy</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Vonwerssowetz</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Givens</surname>
+<given-names>C</given-names>
+</string-name>, <etal/>
+<article-title>Developing a coordinated school health approach to child obesity prevention in rural Appalachia: results of focus groups with teachers, parents, and students.</article-title>
+<source>Rural Remote Health</source>
+<year>2009</year>;<volume>9</volume>(<issue>4</issue>):<fpage>1157</fpage>.
+<?supplied-pmid 19877760?><pub-id pub-id-type="pmid">19877760</pub-id></mixed-citation></ref><ref id="R20"><label>20. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Van Lippevelde</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Verloigne</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De Bourdeaudhuij</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Brug</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bjelland</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lien</surname>
+<given-names>N</given-names>
+</string-name>, <etal/>
+<article-title>Does parental involvement make a difference in school-based nutrition and physical activity interventions? A systematic review of randomized controlled trials.</article-title>
+<source>Int J Public Health</source>
+<year>2012</year>;<volume>57</volume>(<issue>4</issue>):<fpage>673</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1007/s00038-012-0335-3</pub-id>
+<?supplied-pmid 22301709?><pub-id pub-id-type="pmid">22301709</pub-id></mixed-citation></ref><ref id="R21"><label>21. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Brown</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Summerbell</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Systematic review of school-based interventions that focus on changing dietary intake and physical activity levels to prevent childhood obesity: an update to the obesity guidance produced by the National Institute for Health and Clinical Excellence.</article-title>
+<source>Obes Rev</source>
+<year>2009</year>;<volume>10</volume>(<issue>1</issue>):<fpage>110</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="doi">10.1111/j.1467-789X.2008.00515.x</pub-id>
+<?supplied-pmid 18673306?><pub-id pub-id-type="pmid">18673306</pub-id></mixed-citation></ref><ref id="R22"><label>22. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Michaels</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Worksite wellness: increasing adoption of workplace health promotion programs.</article-title>
+<source>Health Promot Pract</source>
+<year>2013</year>;<volume>14</volume>(<issue>4</issue>):<fpage>473</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1177/1524839913480800</pub-id>
+<?supplied-pmid 23545334?><pub-id pub-id-type="pmid">23545334</pub-id></mixed-citation></ref><ref id="R23"><label>23. </label><mixed-citation publication-type="book">
+<string-name>
+<surname>Schmidt</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>C</given-names>
+</string-name>. Healthy and productive work: an international perspective. New York (NY): Taylor and Francis; <year>2000</year>.133&#x02013;47.</mixed-citation></ref><ref id="R24"><label>24. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Katz</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Connell</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Njike</surname>
+<given-names>VY</given-names>
+</string-name>, <string-name>
+<surname>Yeh</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Nawaz</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Strategies for the prevention and control of obesity in the school setting: systematic review and meta-analysis.</article-title>
+<source>Int J Obes</source>
+<year>2008</year>;<volume>32</volume>(<issue>12</issue>):<fpage>1780</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.1038/ijo.2008.158</pub-id>
+<?supplied-pmid 19079319?><pub-id pub-id-type="pmid">19079319</pub-id></mixed-citation></ref><ref id="R25"><label>25. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Dowda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sallis</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>McKenzie</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Rosengard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kohl</surname>
+<given-names>HW</given-names>
+<suffix>3d</suffix>
+</string-name>. <article-title>Evaluating the sustainability of SPARK physical education: a case study of translating research into practice.</article-title>
+<source>Res Q Exerc Sport</source>
+<year>2005</year>;<volume>76</volume>(<issue>1</issue>):<fpage>11</fpage>&#x02013;<lpage>9</lpage>.
+<?supplied-pmid 15810766?><pub-id pub-id-type="pmid">15810766</pub-id></mixed-citation></ref><ref id="R26"><label>26. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>van Nassau</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Broekhuizen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>van Mechelen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Brug</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chinapaw</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Barriers and facilitators to the nationwide dissemination of the Dutch school-based obesity prevention programme DOiT.</article-title>
+<source>Eur J Public Health</source>
+<year>2016</year>;<volume>26</volume>(<issue>4</issue>):<fpage>611</fpage>&#x02013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.1093/eurpub/ckv251</pub-id>
+<?supplied-pmid 26873859?><pub-id pub-id-type="pmid">26873859</pub-id></mixed-citation></ref><ref id="R27"><label>27. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Wang</surname>
+<given-names>LY</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Lowry</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wechsler</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Economic analysis of a school-based obesity prevention program.</article-title>
+<source>Obes Res</source>
+<year>2003</year>;<volume>11</volume>(<issue>11</issue>):<fpage>1313</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1038/oby.2003.178</pub-id>
+<?supplied-pmid 14627751?><pub-id pub-id-type="pmid">14627751</pub-id></mixed-citation></ref><ref id="R28"><label>28. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Elgie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sapien</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Fullerton</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>School nurse online emergency preparedness training: an analysis of knowledge, skills, and confidence.</article-title>
+<source>J Sch Nurs</source>
+<year>2010</year>;<volume>26</volume>(<issue>5</issue>):<fpage>368</fpage>&#x02013;<lpage>76</lpage>. <pub-id pub-id-type="doi">10.1177/1059840510372090</pub-id>
+<?supplied-pmid 20501914?><pub-id pub-id-type="pmid">20501914</pub-id></mixed-citation></ref><ref id="R29"><label>29. </label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Irish Hauser</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Wilde</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ioannone</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Economos</surname>
+<given-names>CD</given-names>
+</string-name>. <article-title>Comparison of online and face-to-face dissemination of a theory-based after school nutrition and physical activity training and curriculum.</article-title>
+<source>J Health Commun</source>
+<year>2010</year>;<volume>15</volume>(<issue>8</issue>):<fpage>859</fpage>&#x02013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1080/10810730.2010.522225</pub-id>
+<?supplied-pmid 21170788?><pub-id pub-id-type="pmid">21170788</pub-id></mixed-citation></ref><ref id="R30"><label>30. </label><mixed-citation publication-type="web">
+<collab>US Census Bureau</collab>. QuickFacts: United States. <ext-link ext-link-type="uri" xlink:href="http://quickfacts.census.gov/qfd/states/25/2545000.html">http://quickfacts.census.gov/qfd/states/25/2545000.html</ext-link>. <comment>Accessed December 1, 2015</comment>.</mixed-citation></ref><ref id="R31"><label>31. </label><mixed-citation publication-type="web">
+<collab>Massachusetts Department of Elementary and Secondary Education</collab>. School and district profiles. <ext-link ext-link-type="uri" xlink:href="http://profiles.doe.mass.edu/">http://profiles.doe.mass.edu/</ext-link>. <comment>Accessed December 1, 2015</comment>.</mixed-citation></ref></ref-list></back></article>
